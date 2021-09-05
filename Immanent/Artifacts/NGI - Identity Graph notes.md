@@ -1,0 +1,741 @@
+- [[Artifacts]]
+- **General guidelines/how it works**
+    - [Community Space/Call outline](https://fundingbox.com/spaces/ledger-ledger-news-and-updates/5dbfcb7d52317832f85906c8)
+    - **LEDGER** is looking for SMEs, teams, organisations and researchers that want to shift data management, leveraging on decentralised algorithms based on blockchains, distributed ledger technology (DLT) and/or peer-to-peer (P2P) technologies to address Privacy-by-Design, reliability, trustworthiness and openness to build human centric solutions.
+    - **Summary/outline of process**
+        - Proposals should address specific social or industrial challenges related to one or more of the application domains or challenges, defined within the Strategic Research and Innovation Work Programme.
+        - Proposals should explicitly address a research component related to the topic of Decentralized Data Governance, Resulting MVPs and services should be able to provide a significant improvement in terms of data sovereignty for end users, and
+        - The results of the bottom-up projects should be compliant with Free and [[[[Open Source]]]] Licences (i.e. [[Open Source]] Hardware, Free and [[Open Source]] Software).
+        - LEDGER will only support bottom-up projects that will commit to generate Open Knowledge as result of their projects in the shape of free and [[Open Source]] software, and [[Open Source]] hardware” and “Open Access” accordingly with the nature of the result, being software, hardware of other intangible piece of knowledge (i.e. research paper).
+        - Though teams could submit multiple applications, neither team member nor any legal entity can be funded twice by LEDGER. In the case more than one proposal with any similar team members or from the same organisation will be among the 16 selected projects only the one with more points will be funded.
+        - Only proposals submitted through the Open Call submission tool at https://ledger-2nd-opencall.fundingbox.com/ and within the Call duration will be accepted. Proposals submitted by any other means, will not be evaluated.
+        - Only the documentation included in the application form and in the attachments to the form will be considered by Evaluators. The attachments can be in the following formats: PDF, PNG, JPG, AVI, mp4.
+        - Please note - the information from the attachments will not be scored by evaluators (this is additional information to support the proposal). The information provided should be actual, true and complete and should allow the assessment of the proposal.
+			- ![](assets/NGIevaluation.png)
+
+    - **Pre-scoring and eligibility**
+        - Team composition and team members’ skills,
+        - Team members’ dedication to the project,
+        - Percentage of female team members,
+        - Scalability (growth potential and knowledge of potential market),
+        - TRL (Technology Readiness Level) of the project,
+        - Research component of the project,
+        - The way the project is planning to use Free and [[Open Source]] Licences (free And [[Open Source]] software and hardware).
+- **Expert evaluation**
+    - **Scoring framework**
+        - For each section, the minimum threshold is 3 out of 5 points. The default overall threshold, applying to the sum of the three individual scores, is 12.
+        - 0 = Proposal fails to address the criterion or cannot be assessed due to missing or incomplete information.
+        - 1 = Poor: criterion is inadequately addressed or there are serious inherent weaknesses.
+        - 2 = Fair: proposal broadly addresses the criterion, but there are significant weaknesses.
+        - 3 = Good: proposal addresses the criterion well, but a number of shortcomings are present.
+        - 4 = Very good: proposal addresses the criterion very well, but a small number of shortcomings are
+present.
+        - 5 = Excellent: proposal successfully addresses all relevant aspects of the criterion. Anyshortcomings are minor
+			- ![](assets/NGICriterea.png)
+    - **Excellence**
+        - **Ambition**: The applicants are invited to demonstrate to what extent the proposed experiment is beyond the State of the Art related with the application of privacy by design and decentralized data governance in the operational environment targeted by the experiment and describe the
+innovative approach behind it __(e.g. ground-breaking objectives, novel concepts and approaches, new products, services or business and organisational models__). The applicants need to also demonstrate to what extent the proposed experiment leverages on a research component related
+with the topic of Decentralised Data Governance.
+        - **Innovation:** applicants have to provide information about the level of innovation within the vertical selected and about the degree of differentiation that this experiment will bring. This should include he definition of concrete performance targets in one or several of the domains described in this
+Open Call. Moreover, the proposal should state how these performance targets will be achieved.
+        - **Soundness of the approach:** Applicants have to contribute premises of the proposed ideas.
+        - **Cross-value chain approach:** The applicants have to provide concrete and verifiable arguments, and/or evidences, regarding to what extent the proposed project will rely upon, or will contribute to, the collaboration and integration of different innovation actors (for instance, by including large
+enterprises, SMEs, public authorities, and research organizations)
+    - **Impact**
+        - **Market opportunity:** The applicants are invited to demonstrate a clear idea of what they want to do and whether the new/improved product has market potential, e.g. because it solves a problem for a specific target customer base.
+        - **Reusability potential and contribution to grow Free and [[Open Source]] hardware and software ecosystems:** The applicants have to provide information about how the experiment might contribute to provide new building blocks (applications, algorithms, among others) that might help to grow Free and [[Open Source]] hardware and software ecosystems. 
+        - **IPR Management3:**The applicants need to demonstrate how they will comply with the openness principle by addressing free and [[Open Source]] Hardware and Software.
+    - **Implementation**
+        - **Team:** The applicants have to provide details about their management and leadership qualities; their ability to take a concept from ideas to market; their capacity to carry through their ideas and understand the dynamics of the market they are trying to tap into. The team should be balanced, cross-functional, and fully dedicated to the project and with a strong background and skill base. __The applicants must demonstrate how they will comply with the multidisciplinary principle of addressing at least 1 Researcher, 1 Developer and 1 entrepreneur.__ Teams with more than 1 developer will be positively validated as to build an MVP in 9 months will require a strong dedication.
+        - **Resources:** Demonstrate the quality and effectiveness of the resources assigned to get the objectives/deliverables proposed. One important aspect is that applicants’ state clearly in the proposal that what they propose can be developed using LEDGER partners’ capabilities.
+        - **Gender balance:** Gender balance and teams with higher percentage of female team members will obtain more points in the -pre-scoring phase.
+    - **Bonus points**
+        - LEDGER Open Calls will also reward especially those teams that present high impact solutions __satisfying values such as privacy-by-design; the capacity to influence the norms and standards regulating technological, algorithmic and data sovereignty; business models that provide revenue for all participants, for instance in the form of decentralised dividend allocations and forms of business structures like platform cooperatives that leverage steward-ownership models for the Internet Commons.__
+            - Privacy by design, technological normas and standards = Holochain world [[Thomas]]
+            - Business models = [[Team of Teams]] and [[Open coop/murmurings.]] / [[Mapping Project]] [[Roberto]] [[Oli]]
+- **Review process**
+    - An exhaustive “Review Process” will be implemented in order to do a proper follow up of the selected bottom-up projects: there will be several “Review milestone” and the financial support will be provided after some of these milestones, always linked to the achievement of the KPIs/Deliverables established. The “Review Milestones” will be applied in 2 steps as illustrated in the following figure: __(click arrow to unfold diagram)__
+		- ![](assets/NGIReview.png)
+    - In a first step of the review process, the Technical/Business performance will be evaluated based on the KPIs and Deliverables established at the beginning of each Stage by the “Mentoring Committee”. Bottomup projects not reaching the minimum KPIs or whose Deliverables are not validated by the “Mentoring Committee” yet, because they are not mature enough, will not be candidates to upgrade to the next stage. These projects will not get the payment associated to the milestone until their mentors and LEDGER project managers consider the milestone achieved. They will be able to continue with the programme and next milestones until the end of the first stage of the venture builder programme (month 9).
+    - In the second step, the “Selection Committee’’, will ratify a final decision, based on the info provided by the “Mentoring Committee”. The teams will receive a detailed feedback and advice to further develop their activities from LEDGER Mentors.
+- **Schedule**
+	- ![](assets/NGItempo.png)
+- [Outline of challanges](https://s3.amazonaws.com/fundingbox-sites/gear%2F1572531546587-D1.5._Update_of_+LEDGER_SRI%28Strategic_Research_and_Innovation%29_Work_Programme+%281%29.pdf)
+- **Application form**
+    - [x] [Application page](https://ledger-2nd-open-call.fundingbox.com/edit/6b5005a30e6d59177fc6d903)
+    - [x] **Contact information**
+        - **Legal name of the SME**
+            - Natural Persons
+        - **Name of the contact person**
+            - Josh Fairhead
+        - **Email**
+            - joshafairhead@gmail.com
+        - **Phone number**
+            - 0044 7412090234
+    - [x] **Project description**
+        - [x] **Project Name**
+            - Options
+                - Mycelia / [[LunarPunk Labs]] / Hub-surfing / Terra Sperma / The Human Mycellia Netwrok (?)
+            - Selected
+                - The [[Liminal]] Identity Graph
+        - [x] **Tagline**
+            - Options
+                - Critical social infrastructure for the anthropocene
+                - Reality mapping for the bottom up
+                - Terraforming the Noosphere
+                - Cartographers of the Noosphere
+                - Stay with the group but on your own journey!
+                - Cambridge analytica, done right.
+                - Fostering social infrastructure
+            - Selected
+                - Bottom up social infrastructure!
+        - [x] **Brief Description**
+            - Instructions
+                - Tell us more about your project and how you see not only its market implementation but also the potential of shared gains for the entire ecosystem impacted by your project (Max 1000 characters)
+            - Description(s)
+                - In an ideal digital society, everything starts with owning your digital identity and data. This doesn't exist in isolation, it exists as part of a deeply interconnected network; a **living** web of trust. We are building the infrastructure to construct and navigate these social relations in digital ecosystems. 
+                - This social graph is built on top of Holochain, leveraging its data integrity layer and fundamentals of privacy by design and agent-centricity. Even when connecting with others, users maintain ownership and control over their identity and data.
+                - Anyone can then create apps which allow the user to leverage this web of trust in novel ways, for example; self curating phone books, interactive events, reputational currencies and new forms of organisation. 
+                - This will also be our business model; build [[Open Source]] white label code, then sell curated experiences through customised applications or consulting to other entities or institutions. 
+        - [x] **Website (optional)**
+            - [x] Use [Hugo](https://gohugo.io/) to make things pretty on the surface level of Hackalong, [[Liminal]] and whatever name we choose for this project. We need a headless CMS like Ghost on the back end. 
+            - liminalgraph.hackalong.io
+        - [x] **Slide [[Presentation]]. Optional. You can upload here a [[Presentation]] of your business idea (Max. 10MB)**
+            - [x] Create [[Presentation]] deck
+        - [x] **Video. Optional. Please enter the url of a video explaining your business idea (max 2 min), if available.**
+            - [x] Link: https://youtu.be/EQ1FgRigltA
+        - [x] **City**
+            - Castorano, Ascoli Piceno
+        - [x] **Vertical. Select the main sectors relevant to your project according to the LEDGER Scientific and Research Work**
+            - Options
+                -  Health
+                -  Economy
+                -  Mobility
+                -  Public services
+                -  Energy & sustainability
+                -  Open Innovation
+            - Selections
+                - Open Innovation
+        - [x] **Technologies. Select all technologies relevant to your project.**
+            - Options
+                -  Blockchain technologies
+                -  Distributed ledger technologies
+                -  Peer to peer technologies
+                -  Artificial intelligence
+                -  Internet of things
+                -  Immersive Media
+                -  New connective infrastructure (as 5G)
+                -  Others
+            - Selections
+                -  Distributed ledger technologies
+                -  Peer to peer technologies
+                -  Others
+        - [x] **References**
+            - Description
+                - Incubator references (or commitments to take part in them)
+            - Selection
+                - Since last April, we've volunteered or participated at all the major events/hackathons and consequentially built a large network in the p2p space. These were: 
+                - Odyssey hackathon 2019
+                - Web3 Summit
+                - DappCon
+                - [[Token Engineering]] Summit
+                - EthBerlin Zwei
+                - Rebooting the Web Of Trust Prague
+                - Holochain hackathon Prague
+                - Holochain hackathon Barcelona
+                - Holochain hackathon Lisbon
+                - We've also run two month long Hack-alongs in [[Liminal]] Village.
+        - [x] **If you get selected, how are you planning to spend the resources of the project? Staff cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+            - Cost form
+                - $60000
+        - [x] **Subcontracting cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+            - Cost form
+                - $40000
+        - [x] **Technology Assets cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+            - Cost form
+                - $20000
+        - [x] **Travel & other indirect costs in euros. Use dots and not commas as a decimal separator. No thousands separator**
+            - Cost form
+                - $10000
+        - [x] **Sales & Marketing cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+            - Cost form
+                - $20000
+    - [x] **Team composition**
+        - [x] **Your team is composed of**
+            -  A group of natural persons
+        - [x] **If you choose "A group of natural persons" in the question above, please fill in the information below:**
+            - **Country where most of the team members are based. Take notice that only countries indicated in GfA Section 3.2 are eligible for application.**
+                - Italy
+    - [x] **Excellence**
+        - [x] **Challenge and Product / Service **
+            - Description - **address open innovation**
+                - Explain the problem you're addressing and how your product will overcome it. Also, describe your product/service, and the differential advantages and enhanced value it offers. Highlight the innovative approach behind it (e.g. ground -breaking objectives, novel concepts and approaches, new products, services or business and organisational models) (max. 1000 characters)
+            - Response
+                - A)
+                    - Our tools shape our behaviours. We then accidentally created control oriented paradigms (permissions) resulting in pathological asymmetric tooling like Cambridge Analytica. We are reversing the trend with mutually sovereign, **living social graphs** on a Web Of Trust infrastructure (Holochain).
+                    - The organisational model is novel because it's peer to peer and self organising network; its a non-prescriptive community/ecosystem thats been running since April called [[Hack-Along]]. The team applying to this grant are a self-assembled crew from this larger congregation who wish to build local first tooling. These tools can later be white-labeled for other self organising networks/events like [[Enspiral]] or Odyssey should they wish to contribute towards development costs. 
+                    - The technology paradigms we are using enable user owned data in a standardised interoperable format - meaning no more vendor lock in!
+                - B)
+                    - We are addressing vendor lock-in with mutually sovereign social graphs! Because users own and control their identity and data they can also port it, and because the data in question is their social graph it means that other applications will be able to rapidly prototype new capabilities and experiences without having to reach network effects at their own user base.
+                    - The product is a social graph built on a web of trust, so the services we will sell will be customisations and consulting. For instance, a client might want a [[Supply Chain]] app where employees attest to the receipt of goods -  this could easily leverage our infrastructure with the customisation of an added attestation capability.
+                    - Our organisational model is novel because we observe Conways law and work as a collective intelligence; a community/platform cooperative called Hackalong.io. Hence we are building a bottom up infrastructure to enable this network as well as other ecosystems and pilot projects.
+        - [x] **Is your product/service based or developing any research component? **
+            - Options
+                -  Not based or developing any research
+                -  Based on/developing 3rd parties theoretical research
+                -  Based on/developing 3rd parties actual development
+                -  Based on an own theoretical research
+                -  Based on an own actual development
+            - Selection
+                - Based on/developing 3rd parties actual development
+        - [x] **Description of research component **
+            - Description
+                - Describe the research component related with the topic of Distributed Data Governance or Privacy by Design in which your product/service is leveraging on (max. 500 characters)
+            - Response
+                - A)
+                    - Our service leverages research on digital identity and the Web-of-Trust; its roots extend back to Xerox Parc in the 70s and has continued in multiple communities such as Rebooting the WOT, Internet Identity Workshop and the w3C. 
+                    - The framework we are building on is Holochain which factors in this research and takes an "agent centric" approach to data integrity that is privacy by design; the data is stored on the device and not revealed to third parties in the public space (DHT) without consent.
+                - B)
+                    - We are building on a framework called Holochain which is a data integrity layer written in Rust that adopts privacy by design, and agent-centric approaches to distributed p2p networking. 
+                    - Holochain leverages research that has a lineage dating back in Xerox Parc and has continued in multiple communities such as Rebooting the WOT, Internet Identity Workshop and the W3C. Specifically, the work most relevant to our project is the DID standard. 
+                - C)
+                    - We are building on a framework called Holochain which is a data integrity layer adopting privacy by design, and agent-centric approaches to distributed p2p networking. We will implement sybil proof identity on it, similar to the BrightID reference implementation.
+                    - This framework leverages research dating back to Xerox Parc, which later continued in multiple communities such as Rebooting the WOT, Internet Identity Workshop and the W3C. Work most relevant to our project is the DID standard.
+        - [x] **Technology description **
+            - Description
+                - What is the technology (or process) behind your business? Explain the technology you use in order to illustrate how your product works (description of devices, HW, SW, type of communications, architecture of the system, etc) (max. 500 characters)
+            - Response
+                - The technology our project leverages is a Web of Trust called Holochain. It's a Rust framework that can be thought of in terms of a graph database - entries and links. Hardware devices run agents which store their own ledgers or "source chains" containing key pairs that link to other data structures such as access rights. Connections can be established via P2P messaging or can be shared publicly in a distributed hash table through a network of nodes/devices. 
+        - [x] **Technology Readiness Level. Which of the following best describes your current status at a technological level? **
+            - Options
+                -  TRL 3. Experimental proof of concept
+                -  TRL 4. Component and/or breadboard validation in laboratory environment
+                -  TRL 5. Component and/or breadboard validation in relevant environment
+                -  TRL 6. System/subsystem model or prototype demonstration in a relevant environment
+                -  TRL 7. System prototype demonstration in an operational environment.
+            - Selection
+                -  TRL 6. System/subsystem model or prototype demonstration in a relevant environment
+        - [x] **Which license are you planing to use for your future product? **
+            - Options
+                - Product/service developed will license some parts under proprietary license
+                -  Product/service developed will use permissive free and [[Open Source]] (FOSS) licenses (ie. Apache)
+                - Product/service developed will use copyleft free and [[Open Source]] (FOSS) licenses (ie. GPL 3)
+            - Selection
+                - Product/service developed will use permissive free and [[Open Source]] (FOSS) licenses (ie. Apache)
+        - [x] **Vertical**
+            - Description
+                - Tell us how does your project fit with LEDGER Strategic Research and Innovation Worldprogramme? Read it and explain briefly how your project is aligned with the document (max 200 characters)
+            - Response
+                - A)
+                    - We fit into open innovation program as we enable rapid prototyping for many of the verticals. Most solutions will not scale effectively without identity and a social graph, which we enable bottom up.
+                - B)
+                    - We enable rapid prototyping and wide deployment by giving citizens back control of their connections and data, pluralising the solution space for local problems.
+        - [x] **Will your product/service improve citizens' control over their data? **
+            - Options
+                - Yes
+                - No
+            - Selection
+                - Yes
+        - [x] **How will your product/service improve citizens' control over their data? ** 
+            - We are leveraging an agent-centric ecosystem in which users store and maintain control over all their data. For citizens, this technology is inherently privacy by design and fully GDPR compliant!
+    - [x] **Impact**
+        - [x] **Addressable Market **
+            - Description
+                - Show the market potential of your product. Indicate the targeted market, potential clients and end-users as precicely as possible. Illustrate the direction for the future growth (max 500)
+            - Response
+                - Forbes envision meshed ecosystems as the next evolution in the "future of work" - which we are enabling this through "pluggable" social graphs. If a client wants a custom experience for their network, a service can easily be built leveraging this user owned data. To this end, we can work with any client that wants to integrate social networking. More specifically we are targeting complex networks and ecosystems such as Odyssey Hackathon and institutes like the Gates Foundation or Stanford
+        - [x] **Current progress or traction **
+            - Options
+                - We plan to launch a beta/pilot within next 12 months
+                -  We plan to launch a beta/pilot within next 6 months
+                -  We already have users/pilots
+                -  We already have users/pilots and sales
+                -  We already have users/pilots, sales, and profit
+                -  None of the above
+            - Selection
+                -  We already have users/pilots
+        - [x] **Proved experience in your vertical. Tell us the years of experience in the vertical market selected by the most experienced member (only one) of the team **
+            - Options
+                -  Less than 1 year
+                -  1 to 3 years
+                -  3 to 5 years
+                -  5 to 10 years
+                -  More than 10 years
+            - Selection
+                -  3 to 5 years
+        - [x] **Strategy and Scalability **
+            - Description
+                - Indicate the current state of the market you are trying to conquer, ways you can learn from it and your alternative solutions.  After that, indicate the level of scalability of your project, and tell us about your approach to attract targeted clients, especially what channels your are planning on useing(e.g. online sales, retail, partners, vendors, etc.) To conclude: what are the main features  of your product/service that will attract growth? (max 1000 characters)
+            - Response
+                - A)
+                    - Our approach is bottom up. We are already a network (Hackalong.io) with users - many of which are participants or stake holders in other networks such as Odyssey/[[Akasha]]. Within the Holochain ecosystem many applications are being built which can leverage identity and our social graph. Our core business will be white-labelling opinionated UI/UX customisations for partner networks once network effects demonstrate value.
+                    - Currently the market we plan to conquer is dominated by Kumu; a for profit centralised and static Web2.0 solution. Our project builds similar tooling on a Web4.0 framework, allowing maps to be connected and brought to life with fresh data. Our focus however, is social graphs.
+                    - The solution is highly scalable in the respect to both business and technology. From a business perspective we are able to tackle many horizontals once we lay the infrastructure. From a technology perspective Holochain gets faster as we add more nodes by attracting more users. 
+                - B)
+                    - Our approach is as a bottom up collective intelligence. We are part of a network called Hackalong.io, established through engaging in work with many stakeholders from various communities. As such we have a deep reach in the web3 world amongst many others, not to mention the potential for compounded network effects if we become the a primary identity provider in the Holochain ecosystem. 
+                    - In regards to institutions it will be a matter of leveraging this growing ecosystem, as well as events like Odyssey to gain clients. The current market incumbent is Kumu a ten person team servicing high profile customers like Stanford so it's hoped that the added value of living data and extensibility will get them to switch. With Holoport servers bridging between old and new internet our technical scale is theoretically unlimited. On the business side we have many potential channels and in roads through our aggregated networks.
+                - C)
+                    - Digital identity is a necessity; the provider space is primed to explode and Forbes is predicting the rise of meshed ecosystems. New legislation is enabling paradigms like autonomous objects, digital twins, the physical internet and IOT. Demand for web-of-trust technology is expanding as institutions see the benefit, as we note with Sovrin and British Columbia.  
+                    - From all this emergence however, we've observed that no one is doing identity from the bottom up on a human centric infrastructure. We are integrating learnings from asymmetrical top down approaches with bottom up connectivity and communities and levels the playing field. 
+                    - In accordance with the practice of human centred design, we will utilise our own community for participatory action research, user testing and pilots. This is also how we intend to create a user base; by seeding connections in our network and partnering with other ecosystems through white labelling experiences and business logic for them.
+                        - In parallel we will also seek institutional customers through participation in other networks like the Odyssey.org hackathon and can monetise by white labelling products for them.
+        - [x] **Business model **
+            - Description
+                - Explain to us your business model. How do you plan to commercialise your product and accumulate shared gains for the entire ecosystems impacted by it? (max 500)
+            - Response
+                - A)
+                    - The expertise we gain by creating a market infrastructure for graph mobility can be used for consultancy and services like building customized solutions for enterprise users interested in integrating it into their business logic. The shared gains 
+                - B)
+                    - We will sell services and consultation. Services are applications running on the generalised infrastructure with custom UI/UX flows. Consultation is mapping networks/onboarding for clients. Anyone in the ecosystem can do this work as the code is [[Open Source]]. 
+                    - Additionally our graph (with extended capabilities) enables reputation networks to be built, and therefore many novel currencies and distribution methods may also follow.
+                - C)
+                    - We are building social infrastructure that enables rapid prototyping and on this infrastructure many custom applications and experiences can be built. Because the code is open it creates a symmetrical market for anyone willing to this work. 
+                    - We will leverage experience gained from building the core infrastructure to attract consultation from enterprise clients for whom we can then deliver white labelled business logic or custom experiences. 
+        - [x] **Are you planning to use any free and [[Open Source]] hardware or/and software license? **
+            - Options
+                - Yes
+                - No
+            - Selection
+                - Yes
+        - [x] **Which new building blocks will your product/service contribute to grow open hardware and software ecosystems? **
+            - Description
+                - Please write down which applications, algorythms, etc. from your product/service you can contribute to grow open hardware and software
+            - Response
+                - We are contributing to a number of primitives in the emerging Web Of Trust. These are identity, capabilities, graphs and reputation - from which other projects or supply chains might make use (e.g. REA accounting). 
+        - [x] **Contribution to Sustainable Development Goals (SDG). Please, select all SDG to which your project might contribute. More info on SDG at https://sustainabledevelopment.un.org/?menu=1300**
+            - Options
+                -  SDG#1. No Poverty;
+                -  SDG#2. Good Health and wellbeing;
+                -  SDG#5. Gender Equality;
+                -  SDG#7. Affordable and Clean Energy;
+                -  SDG#8. Decent work and economic growth;
+                -  SDG#9. industry, innovation and infrastructure;
+                -  SDG#10. Reduced inequalities;
+                -  SDG#11. Sustainable cities and communities;
+                -  SDG#12. Responsible consumption and production;
+                -  SDG#16. Peace, Justice and strong institutions;
+                -  None of the above
+            - Selection
+                -  SDG#16. Peace, Justice and strong institutions;
+                -  SDG#9. industry, innovation and infrastructure;
+                -  SDG#11. Sustainable cities and communities;
+        - [x] **INVESTMENT**
+            - [x] **Investment received. Have your project or team received any investment? **
+                - Options
+                    -  Less than 100 K
+                    -  From 100 K to 500 K
+                    -  From 500 K to 1 M
+                    -  More than 1 M
+                    -  No investment received
+                - Selection
+                    -  Less than 100 K 
+            - [x] **Sources of investment. Please select the source or sources of the investment received till now**
+                - Options
+                    -  Own money
+                    -  FFF
+                    -  Public money
+                    -  Bank Loan
+                    -  Business Angels
+                    -  Venture Capital
+                - Selection
+                    - Own Money
+            - [x] **Which amount will you be looking for to develop next stages of your product. Please, select the option which best fit on what you plan.**
+                - Options
+                    -  Not on round
+                    -  Less than 100K
+                    -  From 100K to 500K
+                    -  From 500K to 1.5m
+                    -  From 1.5m to 5m
+                    -  More than 5m
+                - Selection
+                    -  From 100K to 500K
+        - [x] **Projection (optional)**
+            - [x] **Metrics**
+                - **Year**
+                - **Users**
+                - **Clients**
+                - **Sales**
+                - **Profit**
+                - **Employees**
+            - [x] **Which are the five main metrics you measure in your business?** (1000 max)
+                - A)
+                    - Currently its user participation in the network. So visits, new visits, user growth, user posts, user [[Badges]].
+                - B)
+                    - Our sense-making mechanisms are the metrics of necessity vs sufficiency in n dimensions on the happiness index
+                - C)
+                    - Users acquired, Clients acquired, average client spend, repeat custom, crashes, happ chain activity, net income, gross income, maintainers, integrations
+                - D)
+                    - Users - An active user base creates an incentive to build around our infrastructure
+                    - Integrations - The more people work with us the faster we'll grow
+                    - Clients - These people are reliable for income so should be diversified
+                    - Net income - Positive flow validates our project
+                    - Maintainers  - These people extend and maintain the software
+                - E)
+                    - As we build infrastructure to facilitate other services and connections, the system reliability and stability metrics are essential to ensure growth and adoption. Also the metrics of projects future potential like current project adopters, the downstream value from infrastructure adoption. For a bottom-up, open-source project perspective the contributor and maintainer metrics are important:  how many contributors? What is the quality of contributions? What is the project health?
+                - F)
+                    - Services built
+                    - Partnerships
+                    - Community numbers/users
+                    - Social chatter
+                    - Qualitative engagements
+                    - Maintainer metrics
+                - G)
+                    - Common metrics 
+                        - When: Time
+                        - Who: People
+                    - Diversity
+                        - Event diversity
+                        - Governance 
+                        - Leadership
+                    - Evoloution
+                        - Code development activity
+                        - Code development efficiency  
+                        - Code development process quality
+                        - Issue resolution
+                        - Community growth
+                    - Risk
+                        - Business risk
+                        - Code quality
+                        - Licencing
+                        - Security
+                    - Value
+                        - Ecosystem Value
+                        - Labour investment
+                        - Living wage
+    - [x] **Implementation**
+        - [x] **Team introduction**
+            - [x] **Members' Video. Please enter the url of a 1 minute unlisted (not private) video introducing the team members. Please introduce yourselves, explain what you’re doing and why, and tell us anything you want to about the members or the project. The video should contain only the members talking, there is no need for the background music. Keep it simple.**
+                - Video: https://youtu.be/Nccw_5ABJ0s
+            - [x] **Team introduction. **
+                - Description
+                    - Introduce your team. Write down everything that makes you the team that can make your idea into reality. How much have you been involved in entrepreneurial projects, together or individually? Do you have domain expertise in this area? etc (max 1000)
+                - Response
+                    - A)
+                        - We have a strong team made up of four multidisciplinary individuals. [[[[Roberto]]]] has a PhD in Human Centric computing and provisions a hacker space in Ascoli where many of our network congregate. [[Thomas]] has a master's degree in Computer Science, is a fullstack developer and has traveled many communities. [[Maija]] has a diverse skillset in UX design, Marketing Strategy and front-end development Josh has spent the last three years fostering grass roots communities and working on Web of Trust technology, having previously been employed in the space by Pillar Project. We have the requisite knowledge and skills to build our project.
+                        - We first worked together at Odyssey Hackathon 2019 as part of a five-team collaboration. Since then we've been working on multiple projects together and have connected a growing network of complex thinkers and hubs for co-living. Both Josh and [[Roberto]] have led successful businesses in the technology sectors
+                    - B)
+                        - We are a skilled multidisciplinary team who have shared experiences and attention together while working entrepreneurially in open space. 
+                        - [[Maija]] is a talented UI/UX developer and experienced marketer, she wishes to influence our narrative through human-centered design and potentially growing our interfaces from Lindenmayer-systems.
+                        - [[Roberto]] has a Phd in human centric design and provisions a networked space in Ascoli called [[Liminal]] Village. He plays the roles of researcher, back end developer, philosopher, and entrepreneur.
+                        - Josh has a strong R&D background in the relevant technologies having previously worked in the distributed ledger and identity spaces. Since then he's been actively involved in grassroots outreach and self organising communities. 
+                        - [[Thomas]] wants to enable a more natural world through technology. He's an experienced fullstack developer, holds a masters degree in computer science, and contemplates the many ethical implications of computing. 
+            - [x] **How many members includes your team? Please include total number of members in your team. **
+                - 4
+            - [x] **How many academic researcher includes your team? Please, count each member of your team in only one role. **
+                - 1
+            - [x] **How many entrepreneurs and/or business developer includes your team? Please, count each member of your team in only one role. **
+                - 1
+            - [x] **How many software developers include your team? Please, count each member of your team in only one role. **
+                - 2
+        - [x] **Team composition**
+            - Add contact details for at least 3 team members (including the contact person)
+                - [x] **Name**
+                    - Josh Fairhead
+                    - [x] **Gender**
+                        - Options
+                            -  Male
+                            -  Female
+                            -  Don't want to share this info
+                        - Selection
+                            - Male
+                    - [x] **Please, select the role this member is playing in this project **
+                        - Options
+                            -  Researcher
+                            -  Software Developer
+                            -  Business Developer
+                            -  Designer
+                            -  Marketing Expert
+                            -  Others
+                        - Selection
+                            - Business Developer
+                    - [x] **Insert a link to your CV in english (You may use a LinkedIn profile, if you wish) ** 
+                        - https://www.linkedin.com/in/joshfairhead/
+                - [x] **Name**
+                    - [[Roberto Valenti]]
+                    - [x] **Gender**
+                        - Options
+                            -  Male
+                            -  Female
+                            -  Don't want to share this info
+                        - Selection
+                            - Male
+                    - [x] **Please, select the role this member is playing in this project **
+                        - Options
+                            -  Researcher
+                            -  Software Developer
+                            -  Business Developer
+                            -  Designer
+                            -  Marketing Expert
+                            -  Others
+                        - Selection
+                            - Researcher
+                    - [x] **Insert a link to your CV in english (You may use a LinkedIn profile, if you wish) **
+                        - https://www.linkedin.com/in/valentiroberto/
+                - [x] **Name**
+                    - [[Maija]] Grudule
+                    - [x] **Gender**
+                        - Options
+                            -  Male
+                            -  Female
+                            -  Don't want to share this info
+                        - Selection
+                            - Female
+                    - [x] **Please, select the role this member is playing in this project **
+                        - Options
+                            -  Researcher
+                            -  Software Developer
+                            -  Business Developer
+                            -  Designer
+                            -  Marketing Expert
+                            -  Others
+                        - Selection
+                            - Software Developer
+                    - [x] **Insert a link to your CV in english (You may use a LinkedIn profile, if you wish) **
+                        - https://www.linkedin.com/in/mgrudule/
+                - [x] **Name**
+                    - [[Thomas]] McAlpine
+                    - [x] **Please, select the role this member is playing in this project **
+                        - Options
+                            -  Researcher
+                            -  Software Developer
+                            -  Business Developer
+                            -  Designer
+                            -  Marketing Expert
+                            -  Others
+                        - Selection
+                            - Software Developer
+                    - [x] ** Insert a link to your CV in english (You may use a LinkedIn profile, if you wish) **
+                        - https://www.linkedin.com/in/thomasmcalpine/
+        - [x] **Other team information**
+            - [x] **Dedication to project. Choose the most appropriate description of your team's member dedication to the project. **
+                - Options
+                    -  3 member dedicated part-time
+                    -  1 member full-time and 2 part-time
+                    -  2 member dedicated full-time and 1 part-time
+                    -  3 members dedicated full-time
+                    -  3 members dedicated full-time + one part-time
+                    -  >3 members dedicated full-time
+                - Selection
+                    - 2 member dedicated full-time and 1 part-time
+            - [x] **Team skills. Select the skills mix that most represents your team composition as of today. **
+                - Options
+                    - Entrep./Business development
+                    -  Software development
+                    -  Entrep./Business development + Academic Research or Software development
+                    -  Entrep./Business development + Software development + Academic Research
+                    -  Academic Research + Entrep./Business development + Software development
+                    -  Research + Entrep./Business development + >1 Software development
+                    -  None of the above
+                - Selection
+                    - Entrep./Business development + Software development + Academic Research
+            - [x] **Gender balance. Select the gender mix that most represents your team composition as of today. **
+                - Options
+                    -  0 == 0% female team members
+                    -  33% female team members
+                    -  8 == 66% female team members
+                    -  100% female team
+                - Selection
+                    - 33% female team members
+        - [x] **Resources to be commited**
+            - [x] **Realisation of technology. Are you able to develop and market the technology internally? Select all relevant from list.**
+                - Options
+                    -  We need additional external technological resources to develop the product
+                    -  We need additional external market know-how to develop a target-oriented product
+                    -  We need additional external production know-how to get the product into the market
+                    -  We need additional external production capacities to produce the innovation
+                    -  We have the necessary expertise within the existing team
+                - Selection
+                    - We have the necessary expertise within the existing team
+            - [x] **Resources**
+                - Description
+                    - Indicate how you will use the ledger grant and services 
+                    - **Resources:** Demonstrate the quality and effectiveness of the resources assigned to get the objectives/deliverables proposed. One important aspect is that applicants’ state clearly in the proposal that what they propose can be developed using LEDGER partners’ capabilities.
+                - Response
+                    - We have most of the resources and experience that we need in house, however we function as part of a larger network which is charged with capacity, so we intend to make use of this opportunity.
+                    - We are dedicating two full time staff to the project while others are allocated to the contracting budget. It's necessary to keep co-creating with strategic communities (like Blumorpho or [[Dyne]]) so travel and marketing reflects this. The technology budget covers any potentially necessary tooling costs.
+    - [x] **Transversal Criteria**
+        - [x] **Potential User Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
+            - Options
+                -  Reduce Cost to Users
+                -  Increased quality
+                -  Reduces user's current time commitment
+                -  Increase ease of use of technology
+                -  Increase accessibility of technology
+                -  Others
+                -  None
+            - Selection
+                -  Increased quality
+                -  Increase ease of use of technology
+                -  Increase accessibility of technology
+                -  Others
+        - [x] **Potential Economic Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
+            - Options
+                -  Creates jobs
+                -  Stimulates economic growth
+                -  Increases Knowledge based economy
+                -  Reduces vendor lock-in
+                -  Increases European innovation-based assets
+                -  Others
+                -  None
+            - Selection
+                -  Creates jobs
+                -  Stimulates economic growth
+                -  Increases Knowledge based economy
+                -  Reduces vendor lock-in
+        - [x] **Potential Societal Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
+            - Options
+                -  Creates jobs
+                -  Reduces digital divide
+                -  Increases citizens' control over their data
+                -  Increases citizen participation
+                -  Contributes to low carbon economy
+                -  Increases environmental awareness
+                -  Others
+                -  None
+            - Selection
+                -  Creates jobs
+                -  Reduces digital divide
+                -  Increases citizens' control over their data
+                -  Increases citizen participation
+                - Others
+    - [x] **Statistical criteria** 
+        - [x] **Is there a baseline or is this a new initiative? **
+            - Options
+                - Completely new approach - Disruptive
+                -  Improvement of existing approach – Incremental
+            - Selection
+                - Completely new approach - Disruptive
+        - [x] **At what stage of readiness is the initiative? Select the highest degree of readiness from the list. **
+            - Options
+                - Basic principles of product/service understood
+                -  Technology concept for product/service defined
+                -  Experimentation has demonstrated approach
+                -  Product/service validated in laboratory environment
+                -  Product or service demonstrated with complete infrastructure required for deployment
+                -  Product or service demonstrated in testing environment
+                -  None of those
+            - Selection
+                -  Product/service validated in laboratory environment
+        - [x] **In relation to NGI value-chain, How do you see your position in the ecosystem? Select all relevant from list. **
+            - Options
+                - Developer of Enabler
+                -  Application developer
+                -  Service provider
+                -  Market facilitator
+                -  Technology partner for others
+                -  Training Provider
+                -  None of those
+            - Selection
+                - Developer of Enabler
+                -  Application developer
+                -  Service provider
+                -  Market facilitator
+                -  Technology partner for others
+                -  Training Provider
+        - [x] **Where do the needs and/or requirements come from. Select all relevant from list. **
+            - Options
+                -  Competitor
+                -  Client
+                -  Stakeholder Community
+                -  Internal User
+                -  Beta Client
+                -  Literature / Technology Roadmap
+                -  Market Research
+                -  Applicant's Perception of Gap
+                -  Other
+            - Selection
+                -  Stakeholder Community
+                - Internal User
+                -  Literature / Technology Roadmap
+                -  Market Research
+                -  Applicant's Perception of Gap
+        - [x] **Indicate the combined number of years (or fractions) of management experience considering all your team members. **
+            - 20
+        - [x] **Indicate the combined number of years (or fractions) of technical experience in the target domain of your proposal considering all your team members. **
+            - 40
+        - [x] **Type of customer that will use the product or service. Select all relevant answers. **
+            - Options
+                - Consumer
+                -  Business
+                -  Government
+                -  Indifferent
+                -  Other
+            - Selection
+                - Indifferent
+                - Consumer
+                -  Business
+                -  Government
+                -  Indifferent
+                -  Other
+        - [x] **Select target geographic area for the proposed product or service. **
+            - Options
+                -  Local
+                -  Regional
+                -  National
+                -  AMER (Americas)
+                -  EMEA (Europe, Middle East, Africa)
+                -  APAC (Asia Pacific)
+                -  Global
+            - Selection
+                -  Local
+                -  Regional
+                -  National
+                -  EMEA (Europe, Middle East, Africa)
+        - [x] **How did you hear about LEDGER? Select all relevant from list. **
+            - Options
+                -  Social media
+                -  Email campaigns
+                -  Newsletter
+                -  LEDGER website
+                -  Internet research
+                -  Regular media
+                -  Partners' network
+                -  By word of mouth
+                -  Other
+            - Selection
+                -  LEDGER website
+                -  Internet research
+                -  By word of mouth
+    - [x] **Informed consent form**
+        - By ticking the boxes below, I confirm that I have read and understood the information package and in particular have noted that:
+            - I have read and understood the information about the project, as provided in the Information Sheet.
+            - I have been given the opportunity to ask questions about the project and my participation via [social@ledgerproject.eu](mailto:social@ledgerproject.eu)
+            - I voluntarily agree to participate in the LEDGER project.
+            - I understand that I can withdraw from the LEDGER project at any time without giving reasons and that I will not be penalised for withdrawing nor will I be questioned on why I have withdrawn.
+            - The procedures regarding confidentiality have been clearly explained (e.g. use of names, anonymization of data, etc.) to me.
+            - The use of the data in research, publications, sharing and archiving has been explained to me.
+            - I understand that other researchers will have access to this data only if they agree to preserve the confidentiality of the data and if they agree to the terms I have specified in this form.
+        - By ticking the boxes below, I confirm that I have read and understood that:
+            - I voluntarily agree to get registered at LEDGER Online Community at https://spaces.fundingbox.com/c/ledger"
+    - [x] **Declaration of Honour**
+        - As representative of the Legal person or team of natural persons submitting this proposal, I declare:
+            - that the Legal person/Team of natural persons, that I represent:
+                - "is not bankrupt or being wound up, nor having its affairs administered by the courts or has entered into an arrangement with creditors or has suspended business activities or is the subject of proceedings concerning those matters, or is in any analogous situation arising from a similar procedure provided for in national legislation or regulations;"
+                - "it or persons having powers of representation, decision making or control over it have been convicted of an offence concerning their professional conduct by a judgment which has the force of res judicata;"
+                - it has been guilty of grave professional misconduct proven by any means which the contracting authority can justify including by decisions of the European Investment Bank and international organisations
+                - it is not in compliance with its obligations relating to the payment of social security contributions or the payment of taxes in accordance with the legal provisions of the country in which it is established or with those of the country of the contracting authority or those of the country where the contract is to be performed;
+                - it or persons having powers of representation, decision making or control over it have been the subject of a judgment which has the force of res judicata for fraud, corruption, involvement in a criminal organisation or any other illegal activity, where such illegal activity is detrimental to the Union’s financial interests;
+                - it is subject to an administrative penalty for being guilty of misrepresenting the information required by the contracting authority as a condition of participation in a grant award procedure or another procurement procedure or failing to supply this information, or having been declared to be in serious breach of its obligations under contracts or grants covered by the Union's budget.
+            - that the natural persons with power of representation, decision-making or control over the above-mentioned legal entity are not in the situations referred to in b) and e) above;
+            - that the Legal person/Team of natural persons, that I represent
+                - is not subject to a conflict of interest;
+                - is not submitting any other proposal to this same Open Call (First Ledger Open Call);
+                - has not been approved and therefore received funds from any other FIWARE Accelerator Programme with the same or a similar project;
+                - has not made false declarations in supplying the information required, as a condition of participation in the Open Call or does not fail to supply this information;
+                - is not in one of the situations of exclusion, referred to in the abovementioned points a) to d).
+            - that the Legal person/Team of natural persons, that I represent:
+                - is committed to participate in the abovementioned project;
+                - understands that participation in Ledger is incompatible with contemporary participation in any other acceleration program;
+                - has stable and sufficient sources of funding to maintain its activity throughout its participation in the above mentioned project and to provide any necessary counterpart funding;
+                - has or will have the necessary resources as and when needed to carry out its involvement in the above mentioned project.
+    - [x] **Processing of personal data**
+        - [x] **I confirm that I read and understood the information clause concerning processing of the personal data provided above: **
+            - Options
+                - I confirm that I read and understood the information clause concerning processing of the personal data provided above
+            - Selection
+                - Yes
+        - [x] **Please, enter your full name: **
+            - Josh Fairhead
+        - [x] **I confirm that I read and understood the information clause concerning processing of the personal data provided above**
+- Interesting LEDGER Ecosystem actors
+    - https://zenroom.org/

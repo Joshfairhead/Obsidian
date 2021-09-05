@@ -1,0 +1,139 @@
+---
+Tags: [Calls]
+---
+Related: [[Odyssey Momentum]]
+
+# Momentum coordination call
+
+
+- [[Call Notes]]
+- [Odyssey tracks](https://docs.google.com/spreadsheets/d/1KkV8Qi5QAUdCyzcM1rHRPdUuvg5LPWwPDB3lEjSjvmk/edit#gid=0)
+- Identity track
+    - [x] Confirmed Josh
+    - [x] Confirmed [[Thomas]]
+    - [x] Confirmed [[Maija]]
+    - [x] Ping [[Jakub]]
+        - So I'm piecing together the jigsaw of teams at the moment and things are moving now. It looks like [[Roberto]], Pavle and Will will do the concious cities challenge (possibly with Martijn and Jaclyn who have an NGO saving rainforests). So the three of them are EthDevs, but Will is a phd in Napier working on digital identity in the blockpass lab so he'll be a good touch point for the team that myself [[Thomas]] and [[Maija]] have formed. We'll do a social graph on Holochain as per the ledger application above, currently two spots are open so I figured Id see if you want in with us? If not we can also help find other teams for you depending on interest etc. but I thought I'd figure out the vibe asap so we can all get our applications in before the deadline.
+        - If you are forming a seperate team with the friend you mentioned and want help filling out the other spots I'm happy to make introductions. (He can probably fit with us as well, but if so it would be nice to say hello first 😉)... so yeah, thats my odyssey thoughts, excited about moving forward at the rate these things are unfolding at!
+    - [x] Ping [[Guilliem]]
+    - Maybe [[Sam Butler]]?
+    - Maybe Adam Stallard?
+- Conscious Cities
+    - Added [[Sam Butler]]
+    - [x] Ping [[Roberto]]
+    - [x] Ping Will
+        - Maybe not available
+        - Not an Eth Dev
+        - Let him know about [[Liminal]] dates
+        - Up for it just not sure of dates and stuff - convo:
+            - Will Abramson, [8 Feb 2020 at 15:03:15]:
+                - Sure, I'm interested. Although I'm not really an eth dev. Least not on the solidity front
+                - Pavle probably has that covered though
+                - Also not exactly confirmed that i can attend :(
+            - Will Abramson, [8 Feb 2020 at 16:24:05]:
+                - Well I'm working with a project that has applied to ssi incubator. So could be going there. But looks like that will be later to be honest
+                - I'm keen if I can make it
+                - And [[Liminal]] would be class just not sure i can juggle it with all my other responsibilities atm
+            - Josh (real or robot?), [8 Feb 2020 at 16:25:09]:
+                - If you can, were flexible so just take action and let us know 😉
+            - Will Abramson, [8 Feb 2020 at 16:25:19]:
+                - Yeah cool!
+            - Josh (real or robot?), [8 Feb 2020 at 16:25:22]:
+                - 🙂
+            - Will Abramson, [8 Feb 2020 at 16:25:29]:
+                - Always a good place to catch up with everyone too
+            - Josh (real or robot?), [8 Feb 2020 at 16:26:01]:
+                - Odyssey tracks close in two weeks though so if you can make that let us know asap. We'll try keep a spot open on a team for you regardless but better to get in early if possible 🙂
+            - Josh (real or robot?), [8 Feb 2020 at 16:26:26]:
+                - Yeah, there'll be a lot of movement around the next two months with the community
+                - (pavle is probably coming out, joining for odyssey etc)
+            - Will Abramson, [8 Feb 2020 at 16:27:02]:
+                - Shit two weeks!
+                - Will try nail it down
+            - Josh (real or robot?), [8 Feb 2020 at 16:28:53]:
+                - Yeah tell me! : https://roamresearch.com/[[/app/Liminal_Village/page/mfdQgyglS]]
+            - Josh (real or robot?), [8 Feb 2020 at 16:29:14]:
+                - If you can that would be awesome, if not thats cool but it would be great to have you with us 🙂
+    - [x] Ping Pavle
+        - [x] Discussion with Pavle
+            - Banking for the third world: https://disberse.com/
+            - Up for Liminal/Odyssey
+            - Looking into Robertos proposal for concious cities
+    - [x] Ping Martijn
+        - Josh (real or robot?), [8 Feb 2020 at 13:00:36]:
+            - Are you thinking of Concious cities then?
+            - I'm trying to get [[Roberto]], Pavle and Will together for that one. So 3 Ethereum devs. [[Roberto]] is the provisioner of Liminal village and Will is a phd student in digital identity at Napier university which is the blockpass lab... Will if would make a good realy with myself, [[Maija]] and [[Thomas]] who are doing identity on Holochain, while [[Roberto]] gets the high level story stuff and is a good communicatior... phd in AI and human centric design so I'm thinking you and Jaclyn might be the other two that could fit on their team?
+            - Tentative thoughts, still waiting on responses from them to see if that arrangement actually works...
+    - [x] Ping David Ellams
+        - [[Roberto]] and Pavle do Totem work stuff
+        - David does Eth/Holo API?
+- KLM track
+    - [x] Confirm Marko
+        - [x] Discussion with Marko
+            - Marko Prljic, [8 Feb 2020 at 15:47:51]:
+                - I've been invited to the KLM challenge team with Caspar, Stefan (from ewigz proejct) and someone called [[Thomas]] (I don't know him). Caspar and Stefan have a very solid project and are moving things swiftly ahead, Caspar is looking to submit team application soonest, maybe he already did.
+                - KLM team that I mentioned is looking for smart contract / blockchain dev and front-end dev, if you know someone who would be interested to join?
+            - Josh (real or robot?), [8 Feb 2020 at 15:48:57]:
+                - I'll keep an eye out, I think back end but I dunno front end bar [[Maija]] whos on identity track with me and [[Thomas]]
+            - Marko Prljic, [8 Feb 2020 at 15:49:22]:
+                - btw. Chatted with Andreas as we were planning to team up on the smart meter challenge together with Pavle (he's sick these days).
+            - Josh (real or robot?), [8 Feb 2020 at 15:49:24]:
+                - Awesome your in with Caspar and Stefan, thats a good team - so its devs needed now right
+                - Yeah, I got in contact with him. He said. whats the score there as I was hoping he'd join [[Roberto]] for Conscious cities
+                - Andreas could maybe work with Mpowa on energy singularity?
+            - Marko Prljic, [8 Feb 2020 at 15:50:44]:
+                - I guess all options are open
+                - For me it's important to commit to a team soonest to plan the rest otherwise I won't be able to attend, need to prepare fairly in advance
+            - Josh (real or robot?), [8 Feb 2020 at 15:52:05]:
+                - Yeah, so your not working with Andreas then since your with Caspar/stephan right?
+                - So I need to ping him and find a place
+    - [x] Confirm Stephan
+    - [x] Confirm Caspar
+    - https://miro.com/app/board/o9J_kvSbOR0=/
+- Energy Singularity Track
+    - [x] Ping Ralph
+    - [x] Call with Andreas to coordinate
+- Conflict Prevention
+    - Martin 
+    - Jaclyn
+- 
+- Meeting
+    - https://miro.com/app/board/o9J_kvVB9qQ=/
+    - https://www.odyssey.org/hackathon-2020-dutch-blockchain-coalition-ministry-of-the-interior-challenge-self-sovereign-identity-in-action/
+    - Demo part
+        - Tools
+        - Really out there functionality/Vision demo
+    - What tools do others need?
+    - Interfacing things is gonna be quite contextually dependent
+    - Chunking things
+        - Identity manager
+            - Interface for identity zomes
+            - Backend is working and data can be added
+            - Way to manage capabilities
+        - GraphQL middle ware
+            - Attach backend with front end
+            - Comes with Redux like system
+            - State management
+            - Queried on device/frontend 
+            - Resolver in the middle
+            - Connects to anchor on holochain
+            - Electron apps. 
+            - Http/JSON RPC communication for mobile apps
+            - Websocket for desktop
+            - BFF (backend for front end) proxies for IoT
+    - Whats the incentive to bridge with us?
+    - HoloREA in future 
+    - Different forms of social structure move to different networks
+    - GraphQL is the resolver to combine data from differnt sources into the queryo combine data from differnt sources into the query
+    - How doe we bridge networks?
+        - TheGraph?
+        - Does that do Sovrin/Substrate to Holochain?
+        - Drivers on other networks? Manageing keys
+        - Are we building a search engine
+            - Holo search?
+                - See other network subgraphs and where theres replication bridge?
+    - Where do we start and where does another team end? Clarify 
+    - Do we need authentication? 
+    - 
+
+- [[Odyssey 2020 Community call 2]]

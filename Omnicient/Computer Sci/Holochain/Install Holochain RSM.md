@@ -1,0 +1,13 @@
+- Resources
+    - [DNA Build Tutorial](https://github.com/holochain/holochain-dna-build-tutorial)
+    - [Reusable Module template](https://github.com/holochain-open-dev/reusable-module-template/blob/main/zome/README.md)
+- Instructions
+    - Install holochain into a folder called holochain
+    - Go into the folder
+    - git pull
+    - ***Allow non frees sources in the config file
+    - Run nix-shell
+        - ctrl-D to exit
+    - hc-install
+        - Wait ages
+    - 

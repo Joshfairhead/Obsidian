@@ -1,0 +1,164 @@
+[[Holochain]]
+
+- # Making a business 1
+    - ## Getting started
+    - ### Pain / game - any reflections
+        - More minds - less pain
+        - It would be so much easier to have someone asking the questions and doing some space-holding-digging to get to what’s in there for me, someone to hold my own resistance and the process one-on-one
+        - There are some very deep problems we are holding
+        - Seeing the shared pain lessens the individual pain for me…..
+        - We all work at different speeds, we have different needs.
+    - ### Team - any reflections
+        - People participating in this business course have more things in common in their games than i thought +1
+        - Everyone shares a similar perceptive context based on similar books / knowledge / pain
+        - It felt good to see mutually beneficial games
+        - It felt safe to see the agency people bring +1
+        - Seemed like a good composition to potentially get the job done
+        - Let’s continue team up in this course community
+    - ## Design
+        - ### Holochain canvas - what do I notice
+            - Feedback loop - bad actors, how are they punished
+            - I need at least some talk before that.
+            - How are good actors rewarded
+            - What is covered at the architecture course that is missing here
+            - The “dangers” field - black hat perspective; whitehat sociopath brainstorm
+            - What is unclear and needs further explanation
+            - What is covering the essence of holochain app
+            - The “pain delta” measurement (“thermometer” of pain at specific contexts, alá Stephen Alexander) - could help in value capture
+            - How can this app be forked
+            - How can be tie holochain in-app flows to external business flows
+            - What is missing from the canvas
+            - Currency is a bottleneck in most value creation due to its extractive nature
+            - How to capture and share non-monetary currencies
+            - ...
+    - ### Raising capital
+        - ### What do I know about raising capital
+            - Presell to customers +1
+            - Show yourself in a landscape of other, similar, initiatives, proving there’s a trend
+            - Try to get a paid customer asap, to validate your idea.
+            - Bootstrapping and no investors is my ideal situation.
+            - It’s about you, but it’s also NOT about you, so don’t take success or rejection personally
+            - Watch for controlling interests with un-aligned visions
+            - Having something that already has it’s own mass and energy, so I/we arent pushing for it is vital
+            - The first investor/believer willing to put in and communicate about it with others is a major step
+            - Don’t equate self worth with capital amount raised
+            - Playing your game is most sustainable in the long run
+            - Mutual credit can be healthier
+            - Use it wisely-- it runs out fast
+            - Don’t spend it all at once the first 50% is often wasted
+            - Clear [[Presentation]] of product essential
+            - Always convey the risk involved. People aren’t investing in you because it’s safe
+            - Investors are more excited when there is already proof that clients exist +1
+            - Play with the people that want to play with the same things as you do
+            - Don’t go to big too fast
+            - Valuation - what you value it at that others will invest it; its all heart no science
+            - Investing is emotional; connect to the heart
+            - Find the partners with the greatest skin in the game
+            - Once you’ve done it once, it’s easier and easier
+            - Money follows money
+            - People staking their credibility on you is what makes it all happen
+            - Customer of 1 is the first step
+            - VC’s are generally very aggressive and controlling
+            - Angels may be a good route
+            - Don’t push investors, it reeks of desperation and the good ones will run.
+            - Successful entrepreneurs bet against the consensus
+            - Pretotype first, find traction, prototype rapidly in contact with the stakeholders
+            - Once you look the part, investors believe the “fiction” or narrative
+            - If it looks too good to be true…..
+            - Anything without real value rapidly fails (ICO’s)
+            - Under promise over deliver - avoid HYPE!
+            - Spend LEAN
+        - ### What do I not know about raising capital
+            - Are there investors who care more about the community value created than their own returns? +1 (where do I find them?)
+            - I know that I don’t really know anything about it
+            - How much does the ‘image’ ‘brand’ or whatever you want to call it actually play in. We are all influenced by shiny things whether we like it or not.
+            - It is hellish without preparation
+            - How to prevent the monetary extractive pulls from taking over the whole thing?
+            - How to structure so we don’t
+            - Where capital will be focused in the new world of post-China [[Supply Chain]]
+            - How to balance equity when it’s all about building a community and not about having a large return on investment
+    - ### Getting to MVP
+        - ### How do we get to testable
+            - Simple UX
+            - Keep it simple and then cut the features in half
+            - Test how well it serves the customers, not how well it works
+            - Create simple structure, only most neccessary parts
+            - Create test environment
+            - Work out the end game, and provide the closest first step to get there
+            - [Make a skateboard](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) and get feedback from audience
+            - Never try to build perfect first (holochain)
+            - Listen to your gut
+            - Effective dev team management
+            - Consistent output
+            - By having an audience to ask for feedback
+            - Team general health check
+            - Be picky about who tests you
+            - Find testers/early adopters
+            - Get ‘ambassadors’ people who see the value in what you’re doing and can share it online
+        - ### How do we get to usable
+            - Build only the most essential flow of your system
+            - Don’t be afraid to ask experts, it does not lower your worth (they will probably ask who else you’ve spoken with, and you should just tell them the ones that are most similar to them)
+            - Dogfood, work with user groups closely, in person and over longer periods
+            - Get clear on the MVP, over and over
+            - Be open to simpler solutions
+            - Be agile to shift to a new form that’s a deeper expression of what’s underneath
+            - Functionality takes precedence over vision/mission
+            - Increase fidelity from low-fi prototypes through to saleable product with customer validation at each turn
+        - ### How do we get to lovable
+            - Feedback, feedback and feedback
+            - Cut through the noise of individual feedback
+            - Spend as much time/money on marketing as on product development
+            - Going first, walking our talk
+            - Speak to people’s hearts
+            - Simplicity
+            - Clarity
+            - Honesty
+            - Playfulness
+            - Follow through promises
+            - Be of service to as much life as possible
+            - Know thy customer before pitching
+            - Tweaking tweaking tweaking. Grinding grinding grinding.
+            - Promise, overdeliver, learn, fail, repeat!
+    - ### Getting to customers, users
+        - ### How do we get to 100 true fans[["Existing communities of practice"]]
+            - Have the first ones lined up before building a product, make them part of the design
+            - Sell to your network
+            - Sell to your family
+            - Play with the people around you with the same interests, using your project as a tool in that game
+            - Build on top of or via existent communities
+            - Form an unbreakable bond. Face to face, personal time spent with them.
+            - Share visions and motivations for the work
+            - Create things that are highly relevant to people and society right now
+            - Alignment with personal values
+            - Publishing enough relevant content frequently enough to build momentum and recognition
+            - Good online presence
+            - Clear values and principles
+            - Find the pre-existing communities who have been seeking exactly what you’re making
+            - Content marketing
+            - Scarcity - you’re offering exclusivity here - make people feel special
+            - Compelling story
+            - Grow your network based on trust
+        - ### How do we alienate customers / fans
+            - Take too long
+            - Too many moving parts
+            - Over promise
+            - **Fake positivity**
+            - Promise without product and then fail to deliver
+            - Making things sound difficult
+            - Making it about features not problems
+            - Fighting feedback
+            - Making things sound overly exclusive (maybe it excludes them too!)
+            - Be out of focus with content marketing
+            - Too much talking - BS - give them what you’ve promised/what they’ve bought into.
+            - Not having them felt heard
+            - Bad UX
+            - Users not understanding the story of your project
+            - Unclear message
+            - Not having a clear brand personality
+        - ### What’s more important than capital, customers, product
+            - I’m assuming proposition etc fits in between because to get customers with a product and raise capital you need a clear proposition, been covered well above
+            - Strategic patience — capacity to identity and fully explore assumptions to mitigate risk without racing too far ahead with product development or customer creation
+- Links
+    - [Original doc](https://docs.google.com/document/d/1ay2vQ3Up3LDXWWdt_WJAf3erZCU4o9ges20KrZPlnQQ/edit#)
+    - [Holochain Canvas](https://docs.google.com/[[Presentation]]/d/1e64YIZ0TwJJUuC05DxYOdiDZbHbfM4Xo0g_qUJgSP0k/edit#slide=id.p)
+    - [Forming MVP, fundraise](https://docs.google.com/[[Presentation]]/d/1xiijB3uaTMchTJzZ58vsnUpaxnMdwG-9fOT1lxCdGQc/edit#slide=id.g7fb61c5b24_8_0)

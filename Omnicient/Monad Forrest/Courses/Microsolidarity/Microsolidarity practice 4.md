@@ -1,0 +1,92 @@
+- Structure
+    - 🧭 Agenda:
+        - Hear from 2 congregations 
+        - Q&A 
+        - Small group conversation
+    - [[Presentation]] on congregations (short)
+        - Hold your questions
+        - Lana
+            - Invited to the community weavers guild by the founders
+            - Intentions were clear
+            - Interactions is why I'm sticking with it
+        - Inspiral
+            - Pods WG form pods
+            - Calls every 6 months after network gatherings
+            - WG starts a thread in Loomio inviting callers to comment with intention and timezone/city
+            - Interested people reply to caller comment and they self organise
+            - WG encourages retrospectives (3months in) and collects lessons for the network
+            - WG provides resources and support if needed aiming for minimum holding and maximising [[Self-Organisation]]
+            - Monthly meta call starting up
+        - ❓Share what questions you're holding, then choose one Q to bring back
+        - 📝 Share your questions here:
+            - From Drew Hornbein to Everyone: (06:38 pm)
+                - How do you help empower non-charismatic people to start pods
+            - From Joshua 🧤Maastricht, NL to Everyone: (06:39 pm)
+                - How much of the care, connection and support enters the ‘work groups’?
+            - From johann to Everyone: (06:39 pm)
+                - By Tom & Johann: Does the purpose have to be so broad? Would a congregation also work for narrow industries, some where gatherings are maybe not possible?
+            - From Rich to Everyone: (06:39 pm)
+                - To Lana (from Nina): I’m SO curious about the invitation that you received. What was it that made it so special?
+            - From Tibor to Everyone: (06:39 pm)
+                - what sort of observatory doit you have on a globalement and pod level?
+            - From Kim Gajraj to Everyone: (06:39 pm)
+                - How to ensure that a crew or congregation is inclusive (to encourage diversity) while also making sure great things actually get done?
+            - From Me to Everyone: (06:39 pm)
+                - How can we enable cultures to adopt these various processes?
+            - From Sandra Kim to Everyone: (06:39 pm)
+                - What type of introduction and onboarding process do you have for people who are interested but don’t know anything really about [[Microsolidarity]]?
+            - From Aaron Hirtenstein to Everyone: (06:39 pm)
+                - How do you create a shared “culture” at the congregation level when the identity of the crews is so strong and varied
+            - From Nehha, Mumbai to Everyone: (06:39 pm)
+                - How do you define your mission that would attract a congregation that would sustain and self-organise in a sustainable manner?
+            - From Alberto, Switzerland to Everyone: (06:39 pm)
+                - How somebody can start ?  without previous experiences and exposures to you
+            - From Sabina Barcucci to Everyone: (06:39 pm)
+                - How do you engage people to join the congregation?
+            - From Patrick Hoogenbosch to Everyone: (06:39 pm)
+                - It is all about the process. I really like to know what you are doing together. A clear goal / dream makes a big difference
+            - From Jordan to Everyone: (06:39 pm)
+                - In balancing the minimum to hold maximum self-organizing, what is the toolbox or handbook you give to a newly formed Pod?
+            - From Sean Andrew to Everyone: (06:39 pm)
+                - How do you make sure a crew or congregation is inclusion while also ensuring we get shit done.  (Question for me here is “what is the work?” Maybe the work actually is working (or trying) with people across differences in a world of othering.
+            - From Joshua 🧤Maastricht, NL to Everyone: (06:40 pm)
+                - Can you tell us a story of a crew that worked really well and one that flopped quite early?
+            - From Pascal to Everyone: (06:41 pm)
+                - to me it seems that pods/crews/workgroup only differ by type of intention or am i missing something?
+            - From Sandra Kim to Everyone: (06:42 pm)
+                - Is it better to start with creating a crew or start a congregation? in what situation does it make more sense to do one or the other?
+            - From Sandra Kim to Everyone: (06:42 pm)
+                - Is it better to start with creating a crew or start a congregation? in what situation does it make more sense to do one or the other?
+            - From Maria - Blivande House to Everyone: (06:46 pm)
+                - some things do totally change their nature when scaled
+            - From Tibor to Everyone: (06:48 pm)
+                - what sort of observatory do you have on a global level and on pod level? for projects,  for finances, for decisions and relations 
+            - From Ivo Mensch to Everyone: (06:48 pm)
+                - What are the main reasons people leave, or refrain from joining?
+            - From Ronen to Everyone: (06:50 pm)
+                - followup to @Richard what triggers an invitation? Is the invitation to the congregation and.or to a crew?
+            - From Tibor to Everyone: (06:51 pm)
+                - do you have people concerned as internal partners and others that stick with an external posture even they are collaborators?
+            - From Maria - Blivande House to Everyone: (06:54 pm)
+                - Are there "generations" in selforganised structures like congregations between those who started it and those who joined later and how do communicate and balance between them? - connected to the leadership question I feel and the question of communication, but through the lens of generations
+            - From Bob Speakman to Everyone: (06:55 pm)
+                - what is the involvement in the different layers, as an individual.
+            - From Beatriz to Everyone: (06:56 pm)
+                - in a congregation specially, how do you cope/deal with the 10% that holds and organizes and all the other members?
+        - ❓How might you apply [[Microsolidarity]] practices in your context? - 
+            - 20 min breakout 
+            - Take a breath 
+            - Share tips and ideas with each other - 
+            - Make sure everyone has time to share
+            - Sandra Kim & Alberto 
+        - 📝 Write some reflections in your own journal about your experience today
+            - Anchors are important, people holding space and keeping an eye on the big picture. Dyadic/triadic chat spaces are also really nice. Crews are necessary for people to feel at home in a congregation but congregations are necissisary to hold crews when they dissipate
+            - Others
+                - From Marek Koys to Everyone: (07:24 pm)
+                    - Clarifying intention of a crew or pod is essential, it should be a regularly activity.  How badly do we want to address this challenge, or work on this theme, together ? All the practical questions will flow from clarity of intention - not the opposite way around. 
+                - From Gloria, Dorset UK to Everyone: (07:25 pm)
+                    - Mostly just feeling more energised and confident about sending that invite ouot for our community gathering. Setting the practices that nurture and hold the people together feels key. Observing rhythms and holding practices.
+                - From [[Kay Gertler]] Exeter to Everyone: (07:26 pm)
+                    - developing relational safety, care, trust and honesty in crews seems vital
+                - From Ronen to Everyone: (07:26 pm)
+                    - I feel a coflict about congregation: when I imagine being in one my heart feels open, when I think about getting there I feel heaviness and confusion.

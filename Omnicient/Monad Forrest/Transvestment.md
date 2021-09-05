@@ -1,0 +1,411 @@
+---
+Tags: [Index, Refactor]
+---
+Related: [[Funding]] [[VC]]
+# Transvestment
+
+- **Overview**
+    - **Where we are now**
+        - The current state of affairs appears driven by externalities that typically incentivise short term extractive behaviours for immediate personal gain. Goods and services (products) are roughly accounted for at base price + margin (profit). Unchecked, the becomes pathological as wider forms of value are left unconsidered by the enclosable communication channel otherwise known as fiat currency.  
+        - Discounted Expected Utility > [[Ergodic Economics]]
+https://www.nature.com/articles/s41567-019-0732-0#Equ2
+        - Concrete example. Mr Robot Adam Smith Invisible hand moments
+    - **Where we might want to be**
+        - An idealised world might recognise more diverse forms of value and consider many of them as integral towards restoration of our humanity through affirmation of the symbiotic relationship we have with each other, the planet and cosmos. Such a system might be driven by an “abundance of access” rather than ownership.  
+        - Rafi: we are the shepards of flows (currency design course)
+        - Guillem: the upward spiral (https://www.youtube.com/watch?v=5thxvIdEds4)
+    - **Assumptions about the stage in between**
+        - To bridge the gap we are exploring a bare bones transvestment vehicle (smart contract system). In such a model the contexts around **provisioning (input) **and **appropriation (output)** should be taken into account. 
+            - In this document **outputs** are **assumed** to have better efficiency than current implementations (via automation etc) which provide a cost-savings delta that could be exploited to realise a transition. (https://wiki.p2pfoundation.net/Transvestment)
+            - The differential of these savings should perhaps be divided into three outputs; personal return (contribution rewards/action incentive), local returns (for the service/co-op/DAO), and global returns (protocol/new services) to create positive feedback loops and an exponent. 
+- # **Questions**
+    - How can we bridge the gap from extraction towards regeneration?
+        - What are the roles within the system?
+            - **Roles Assertion**
+        - What's in this for me?
+            - Whats in this for me as an investor? 
+                - What kind of returns will I see?
+                    - What are capped returns? 
+                - What is a named contributor? 
+                    - Why would I want membership / access?
+                - What kinds of resources would I gain access to? (scarce/abundant resources/dual licensce/socialised rewards)
+                - How can I be sure this system is not fragile (or is anti-fragile)?
+                - How are you going to do this without capital?
+                - Whos paying for this? (cash free RBE)
+            - Whats in this for me as a financial contributor?
+            - Whats in this for me as a pledger?
+            - Whats in this for me as a member?
+            - Whats in this for me as a provider? (unnamed contributer)
+                - Who are white list providers? (Resource provider to members)
+                    - How do I know that the goods I've provisioned for access will not be destroyed?
+                        - Skin in the game/co-ownership/stake is necessary to degradation of the loaned item?
+                - Do I get cash now or later? (later)
+                - Do I get product now or later? (both potentially)
+            - Whats in this for me as a recipient?
+                - What happens if I can’t get what I need from the provider network?
+                - What are Kudos? (non-personal attribution)
+                - Why would I want Kudos? (tie breaker?/prioritisation)
+        - What are the contribution typologies?
+            - What are the contribution sources?
+        - How do we create an unenclosable carrier/system?
+        - **Unstructured work**
+            - Who can go into the negative in this mutual-credit system? 
+                - Why can they do that?
+            - What is a contribution?
+                - How are contributions valued?
+                - How does the system deal with resources?
+                - What is considered as a resource? (idle/unused assets, products/services, waste streams, time)
+            - Are members/time contributors investors?
+                - What do investors get in return?
+                - Is there a fair distribution of rewards based on risk?
+            - What are funds for?
+            - How can I contribute resources?
+                - How can I contribute finances conditionally?
+                - How can I contribute finances unconditionally?
+                - How can I contribute my time, skills and services towards realising an access based economy?
+                - How is my contribution recognised and the value realised?
+            - What happens to the funds contributed?
+                - How do members access the funds?
+                - How are allocations of fiat currency assigned? (requested)
+                - How does the system deal with capital?
+                - How does the system deal with named contributions?
+                - How does the system deal with unnamed contributions?
+                - Who would make an unnamed monetary contribution?
+                - Who has access to the funds?
+                - How is the proposal system for funds governed? (sign off)
+            - How do we track progress?
+                - How do we track personal progress?
+                - How do we track project progress?
+                - How do we track ecosystem progress?
+            - How do you deal with participants’ capital outside the network?
+            - Can my mother buy veg from the network rather than the supermarket?
+        - [ ] Transvestment user stories/mural
+- # **Assertions**
+    - **Ostrom's 8 Rules for commoning**
+        - Define clear group boundaries
+        - Match rules governing use of common goods to local needs and conditions
+        - Ensure that those affected by the rules can participate in modifying the rules
+        - make sure the rule making rights of community members are respected by outside authorities
+        - Develop a system carried out by community members for monitoring members behaviour
+        - Use graduated sanctions for rule violations
+        - Provide accessable low cost means for dispute resoloution
+        - Build responsibility for governing the common resource in nested tiers from the lowest level up to the entire interconnected system
+    - Skin in the game/co-ownership/stake is necessary to degradation of the loaned item?
+- # **Provisioning**
+    - **Types of contributions**
+        - Unconditional contribution
+            - Unspecified recipient
+                - Network participant
+                - UBI
+        - Conditional contribution
+            - Specified Recipient
+                - Projects
+                - Individuals
+        - Monetary contribution
+        - Resource contribution
+            - Time
+            - Product (goods/services)
+                - Idle assets
+                - Unused assets
+                - Waste streams
+    - **[Sources of contribution](https://github.com/Joshfairhead/Resources/wiki/The-Commons) ** 
+        - Matronage - unconditional support  - “do what you want”
+            - Personal
+            - Family
+            - Friends
+            - Helicopter money/Demurrage/UBI
+            - Idealistic supporters
+                - [CoMakery](https://www.comakery.com/) doesn’t provide any of its own money but does allows people to back mission-oriented projects that are trying to crowdsource solutions to wicked problems.
+            - ICO's
+            - Corporate responsibility
+                - Patagonia
+                - Lush 
+        - Patronage - conditional support - “do something according to my interests”	
+            - [Open tech fund - List](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support) of web 2.0 [[Open Source]] software grant programs
+            - Investors
+                - Venture Capital
+                    - Crypto [[VC]] (swap out the links from Masseri tracker)
+                        - [1confirmation](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=dd8af96b8e&e=fbc34c282d)
+                        - [Arrington XRP Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=658ba309d0&e=fbc34c282d)
+                        - [Binance Labs](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=76b709d25d&e=fbc34c282d)
+                        - [Blockchain Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=7d189dcd07&e=fbc34c282d)
+                        - [BoostVC](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=144821d356&e=fbc34c282d)
+                        - [Coinbase Ventures](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=13aa0ac812&e=fbc34c282d)
+                        - [Digital Currency Group](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=de831f8bd1&e=fbc34c282d)
+                        - [DragonFly Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=c3df337737&e=fbc34c282d)
+                        - [Electric Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=96db237ac4&e=fbc34c282d)
+                        - [Fabric Ventures](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=03ccc4b39e&e=fbc34c282d)
+                        - [Huobi Capital/Exchange](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=18709dfbf1&e=fbc34c282d)
+                        - [Multicoin Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=dfa881fd17&e=fbc34c282d)
+                        - [Pantera Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=c0c473174c&e=fbc34c282d)
+                        - [Polychain Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=b0556dcbe2&e=fbc34c282d)
+                        - [Union Square Ventures](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=60337c356b&e=fbc34c282d)
+                        - [Winklevoss Capital](https://messari.us17.list-manage.com/track/click?u=5b89525c77acdd986027c25d1&id=180c69455e&e=fbc34c282d)
+                        - [Outlier Ventures](https://outlierventures.io/base-camp/)
+                - Impact
+                    - [Funding Box](https://fundingbox.com) various opportunities inc impact investment
+                    - [Bamboo Capital Partners](http://www.bamboocp.com/news/blended-finance-technology-impact-fund/attachment/250319-bamboo-bloc-fund/) Blended finance impact fund
+                    - [Collaborative fund](https://www.collaborativefund.com/investments/)
+            - Philantropy
+                - [Andrew Mellon Foundation](http://www.mellon.org/)
+                - [Tusk Philanthropies](https://tuskphilanthropies.com/) - Voting and feeding the hungry
+            - Humanitarian Funds
+                - Corporate responsibility funds
+                    - [Biomimicary Launchpad](https://innovation.biomimicry.org/launchpad/) - Accelerator program that helps early-stage entrepreneurs bring nature-inspired solutions to market
+                - Governmental
+                    - [UK innovation fund](https://www.gov.uk/apply-funding-innovation)
+                    - [International Association for the Study of the Commons (IASC)](http://www.iasc-commons.org/)
+                    - Academic
+                        - Harvard Office of the Vice Provost for Research [(OVPR)](https://vpr.harvard.edu/pages/research-funding)
+                    - [UNICEF Innovation fund](https://www.unicef.org/serbia/en/unicef-innovation-fund-call-frontier-technologies)
+                    - [EU Blockchain for social good - $1m](https://ec.europa.eu/research/eic/index.cfm?pg=prizes_blockchains)
+                    - [EU Blockchers - 50k equity free](https://blockchers.eu/)
+                - [The Knight Foundation](https://knightfoundation.org/grants/) Grants for social action
+            - Grants
+                - For Internet  
+                    - [Social Alpha Foundation](https://www.socialalphafoundation.org/): Funding social good and education focused projects.
+                    - [Ledger; human centric software](https://ledgerproject.eu/) & [Link](https://ledger-open-call.fundingbox.com/)
+                    - [Next Gen Internet for EU commission](https://www.ngi.eu/about/) 
+                        - [NGI ZERO DISCOVERY / NLnet](https://nlnet.nl/thema/NGIZeroDiscovery.html)
+                    - [Grants for the Web](https://forum.grantfortheweb.org/)
+                    - [[Handshake project]] Supporting OSS with a $10.2m [faucet]((https://www.handshake.org/)
+                    - [Blockades](https://blockades.org/) Dan Hassan and other Inspiralers (he apparently made a lot of money from Bitcoin, and gives grants to aligned social initiates: reference Guy). 
+                - Web3 Grants
+                    - Protocol level
+                        - [Ethereum Foundation](https://blog.ethereum.org/2018/05/02/announcing-may-2018-cohort-ef-grants/): Funding Public infrastructure and community goods.
+                        - [Ethereum Community Fund](https://ecf.network/): Funding projects that helps grow the Ethereum Ecosystem.
+                        - [EthPrize](http://ethprize.io/) Funding ecosystem needs
+                        - [Panvala](https://medium.com/@Panvala/panvala-token-grant-applications-from-gnosis-status-and-level-k-be63ae503ca9) - Consensys token grants bonding curve scheme
+                        - [Web3 Foundation/Parity](collab.web3.foundation)
+                        - [Enterprize Ethereum Alliance](https://entethalliance.org/)
+                        - [Samsung Next stack zero](https://samsungnexteurope.typeform.com/to/DtpcWw)
+                        - [EOS VC](https://vc.eos.io/): Funding the development of EOS applications
+                    - Ecosystem level
+                        - [Gnosis Ecosystem Fund](https://github.com/gnosis/Gnosis-Ecosystem-Fund): Funding projects that helps grow the Ethereum Ecosystem.
+                        - [Maker Fund](https://stable.fund/): Funding projects that use the MakerDAO Dai stablecoin.
+                        - [Stellar Grants Program](https://www.stellar.org/lumens/stellar-partnership-grant-program/): Funding stellar projects
+                        - [Zcash Foundation](https://github.com/ZcashFoundation): Funding privacy blockchain projects and initiatives.
+                        - [BlockStack Grants](https://blockstack.org/funding/): Funding the creation and development of blockstack applications
+                        - [Request Fund](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43): Funding Request Network financial applications
+                        - [Gitcoin Grants](https://gitcoin.co/grants/)
+            - Prizes
+                - [Mission Billion](http://id4d.worldbank.org/missionbillion): MIT Challenge winning $100,000 funding for Digital ID
+                - [Xprize](https://www.xprize.org/)
+                - [Chivas Venture](https://www.chivas.com/en-EN/the-venture) equity free social impact fund
+                - [OpenIDEO](https://www.openideo.com/challenges) 
+            - Incubators (innovate) / Accelerators (scale it)
+                - [Status Incubate](https://incubate.status.im/)
+                - [CV Labs](https://cvvc.com/index.php/cv-labs/our-project-one/programm?utm_source=redirect-incubation)
+                - [Consensys Tachyon](https://tachyoncv.vc/) 
+                - [DAOIncubator](http://daoincubator.org/)
+                - [Generation Impact Fellowship](https://www.generationimpactfellowship.net/)
+            - State welfare
+            - [[Collaborative Orgs]]
+    - **Potential income streams (outputs)**
+        - Products
+            - Software
+            - Hardware
+            - Goods
+                - Food
+                - Water
+                - Wood
+                - Etc.
+            - Services
+                - Skills
+                - Labour
+                - Time
+                - Fund management
+                - Accounting
+                - Marketing
+- # **Appropriation**
+    - **Immediate product**
+        - Consumable resource (e.g. food)
+            - Vested/capped-withdrawal
+        - Depletable resources (e.g. cars/drills)
+            - Insurance with terms
+        - Non-consumable resources (e.g. software/knowledge)
+            - Non-vested/non-restricted
+    - **Future product**
+        - Scarce (resource)
+            - Vesting window
+            - Community supported agriculture (CSA)
+        - Abundant (software) 
+    - **Future cash**
+        - Capped returns / vested
+    - ### [[Transitional Basic Income]]
+        - ### Recipients of contribution
+            - Unspecified
+                - Network
+                    - Projects
+                    - Individuals
+            - Specified 
+                - Projects
+                    - Expenses
+                - Individuals
+                    - Expenses
+    - ### Extractable funds governance/logic
+        - Transitional... (?)
+            - **Examples**
+                - Circles: https://github.com/CirclesUBI/docs/blob/master/Circles.md
+            - **Articles**
+                - Pro
+                    - https://doc-research.org/2019/05/ecology-of-care-basic-income-beyond-the-nation-state/
+                    - https://evonomics.com/nettle-daniel-defense-universal-basic-income
+                    - https://medium.com/@ConsenSys/basic-income-on-the-blockchain-fair-money-45662889077c#.157gqnqb1
+                    - http://commonstransition.org/from-basic-income-to-social-dividend-sharing-the-value-of-common-resources/ 
+                    - http://www.scottsantens.com/shouldn-t-all-this-talk-about-money-actually-be-talk-about-resources
+                    - 
+                - Contra
+                    - https://blog.p2pfoundation.net/key-criticisms-basic-income-overcome/2017/01/10
+                    - https://www.furtherfield.org/universal-basic-income-is-a-neoliberal-plot-to-make-you-poorer/ 
+                    - https://www.jacobinmag.com/2017/01/ubi-finland-centre-party-unemployment-jobs/ 
+                    - 
+        - Capital investment should ALWAYS have a (dynamic?) vesting period for redemption
+        - Restricted/conditional
+            - Outside?
+        - Unrestricted/unconditional
+            - Inside membrane?
+        - (Input example: lend a car to the network or gave expiring food) 
+- # **Roles Assertion**
+    - **Provisioner**
+        - Givers
+        - Producers
+        - Makers
+        - Asker
+        - Investors
+        - [[Funding]]
+    - **Appropriator**
+        - Recievers
+        - Consumers
+        - Takers
+        - Answerer
+    - **Arbitrators**?
+        - Stake holders/decision makers
+            - **Resources**? (Owned resources are agents?)
+
+        - Judge
+        - Jury
+    - Strucuting tiers
+        - Notes
+            - LETS = stopping owners fucking up the stewards?
+        - Provisioners (mandates/owners)
+            - Hosts/owners
+            - Representatives
+                - Stewards (internal)
+                - Ambassadors (external)
+        - [[Liminal]] space
+            - Volenteers
+            - Facilitators
+        - Appropriators
+            - Members
+            - Guests
+- # **Legal Structure**
+    - [[Liminal Association]]
+    - Associative notes while brainstorming
+        - b&b company -> grants and possibility to host people in weird places
+        - Monetizes unused space assets
+        - Showcases projects and art installations coming from the non-profit
+        - Sells for profit projects
+        - look into Lets and for product model
+- # Notes/Apendix
+    - ### Drivers for participation?
+        - Return on investment 
+        - Personal well being
+        - Well being of others
+        - Changing the current system
+    - Lists from billions to trillions
+        - **Types of capital**
+            - Measurable
+                - Financial
+                - Material
+                - Intellectual
+                - Human
+                - Natural
+            - Unmeasurable (currently)
+                - Social (as distinct to ‘social finance’)
+                - Experiential
+                - Spiritual
+                - Cultural
+        - **Sectors**
+            - Goverment
+            - Business
+            - Civil Society
+        - **Functions**
+            - Financing: investments, philanthropy, grants, and debt.
+            - Convening: conferences, professional networks etc
+            - Educating: academic and vocational education
+            - Catalysing: incubating and accelerating
+            - Implementing: the business of doing
+            - Measuring: metrics and measurements
+            - Legislating: enshrining in law the policies necessary for success
+            - Publishing: print, tv, radio and the web
+            - Researching: academic and corporate research
+            - Commercialising: bringing products to market
+            - Advocating: seeking to influence governments and corporations
+            - Governing: Managing, legislating, regulating, and enforcing
+        - **Mechanisms**
+            - Financing: financial institutions, banks
+            - Convening: conferences, events, online community
+            - Educating: courses, certifications etc
+            - Catalysing: incubation & acceleration programs
+            - Implementing: projects, products, services
+            - Measuring: metrics frameworks
+            - Insuring: insurance policies
+            - Publishing: reports, programs, stories, data
+            - Researching: quantitative research & data collection
+            - Commercialising: patent registration
+            - Advocating: lobbying
+            - Governing: passing legislation
+    - ### Guy's ("LesGavatxes.es") Roles 
+        - Core team / Permanent residents
+        - Seasonal members (3-6th months)
+        - Volunteers (Temporary members)
+        - Associate members 
+            - Voting rights/gov input
+            - Paying monthly 
+            - Investment into the land etc
+        - Associate supporters 
+            - Paying monthly for accommodation/holiday/cultural exchange
+        - Crowdfunding supporters
+            - Tenuous relationship
+            - Support the cause
+            - Maybe like the perk offered
+        - Visitors
+            - No commitment, paying per night
+        - Friends
+            - Coming to stay in the house, not paying
+        - Board members (legal structure requirement)
+            - Of the foundation
+            - Of the board
+        - Allies
+            - Advisors
+            - Helpers
+        - Neighbours
+            - Geolocated near by
+        - Investors
+        - Legal (permissions required)
+            - Goverment
+            - Council
+            - Tax office
+    - What is divestment? What is [ESCO](https://e3p.jrc.ec.europa.eu/articles/esco-financing-options)?
+    - What is [transvestment](https://wiki.p2pfoundation.net/Transvestment)? (steward ownership)
+    - ![](https://lh4.googleusercontent.com/Go8hIh4NHtemKzjGY0eGWkmiEex9NA7th7fHncGPtPgYAYXhjehO2UMi3eATv7qE3fNLK6aMMrqqS1RY598382uoDmN3xXOe3DJJogdV0YylFSu363esAPs-uC9G8qk-bRj5qw0b) 
+    - Capped returns
+        - The implementation is pretty simple. Whenever a company issues shares, it writes a matching call option where it is required to repurchase the shares at an agreed upon price. 
+        - In this model a company has two types of shares – **financial shares **which yield returns until they are repurchased, and **governance shares** which only have voting rights and do not expire. This is pretty simple to set up in a company constitution. 
+        - When the financial shares are gone all that is left are the governance shares and now 100% of the profits from the venture are available for the organisation’s social mission. Capped return investments can also __dramatically change the risk profile__ of investing in an early stage business by agreeing on payment terms that are a share of revenue and __look more like a capped royalty than traditional equity__.
+        - If capped returns became the norm of business then the growth path of a successful enterprise would be to pay back its founders and investors early on in its lifecycle (first decade or two). Then there would be a big celebration as the business became a freehold impact venture with a binding mandate to serve wider society
+    - [ECSA](https://wiki.p2pfoundation.net/Commons-Oriented_Decentralised_Programmed_Organisations) - Commons-oriented Decentralised Programmed Organisations
+        - "If recognising the value of the product is linked to the distribution of the product, then both acts, production and use, are valuable. This way of linking emerging value to the organisation-building around the value might be interesting for businesses that are a) commonly owned and b) non-commercial." 
+        - "The tokens are not payments for services or company stock, but rather sovereign notions of value produced in the interaction with and within the organisation." 
+        - "The value can be anything from use/access rights and voting/curating rights to liquidity. Further on, the liquidity may be generated through the value offered by other organisations/networks or by the FIAT value generated by the project. This allows social values like free information or education an organisational form that individuals and institutions can rally around (give value)." 
+        - "For instance, if Wikipedia would organise this way it could use the “wiki” interaction process where open knowledge is produced, curated and received, and recognise the value in all of them and produce incentives for collaboration via shared stakes. These stakes could be shares in the value that other organisations or individuals give to Wikipedia and/or curatorial rights for content. Such a currency system could also expand, so that the wiki currency could be also used to “fund” new articles by investing it in production proposals of new articles."
+        -  "This gives the self-issued token two functions"
+        - "Governance value in the project itself (internally generated value)"
+            - Liquidity through 3rd party value recognition (externally generated value)
+            - On 3rd party value recognition: 
+            - • Boostrapping (Advanced speculative value)
+            - • Production (Emergent realiesd value)
+    - [[Quadratic]] funding
+    - [Credit Commons](http://creditcommons.net/credit-commons.pdf)
+- [Non scarce NFTs and transvestment art](https://aura-transvestment.art/)

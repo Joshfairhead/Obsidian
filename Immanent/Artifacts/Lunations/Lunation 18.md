@@ -1,0 +1,7 @@
+- [[Discovery]]
+    - Work together with Romulo to source satellite data
+    - Started GraphQL server investigation for [[Disconference]]
+    - Accepted invitation as panel member for the launch of the book [[Open Innovation]]
+- [[Opening Loops]]
+    - [[World Unity Week]]
+    - 

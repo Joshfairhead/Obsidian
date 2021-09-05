@@ -1,0 +1,475 @@
+[[Holochain]] [[Call Notes]]
+
+- [Slides](https://docs.google.com/[[Presentation]]/d/1VpiyZkiFOViLFMDKLNXSvlzNc6HAxX0n8ydY436AdDc/edit#slide=id.g7fb61c5b24_0_38)
+- [Grow create Operate](https://docs.google.com/document/d/1IoMVpPSg_Yg8v-lQn4xfEEkxMovgN6ARZuzO5jxLP5A/edit#heading=h.41506w71baic)
+- ### Making a business 2
+    - ![](https://lh5.googleusercontent.com/fnRhwEFChoMwNzGL2k56UAUdix1eHu3_2dtl_dpah1dWJl4VPCiFBaGi4PiD6XIYfTC8f861Av4h4AehurTyKJd8HyfF4jQYjFyfGCY8DdDt-60DIrpCroTq1uRcLUN2_IkN3luK)
+    - **Name / Game**
+        - David: The King of Kings* (Offering the possibility to know thyself, thy game and thy world; King is gender neutral and archetypical in this context. Why King? So be it.)
+        - Sid: Neighbourhoods: An organising principle for the new economy
+        - Buddy: ‘Revolutionising the Present’ (sometimes all it takes in life is to take off your glasses)
+        - [[Jakub]]: Empower coalescence and vital commons, local first; nurture a substrate for a healthy town.
+        - Alexander: Support collaboration between people & business to care for our planet and communities (Credit Clearing)
+        - Adriaan: Designing and building innovative and minimalistic tools to empower and improve people’s lives.
+        - Tats: Realizing humanity’s potential through creating well-thought digital technology
+        - Viktor: Holding space for healthy growth
+        - Razvan: Rightly assign value added
+        - Eduardo: Provide affordable and scalable development services
+        - Guillem: Creating new tools to help communities thrive
+        - Julia: Figuring out a way of teaching programming via sponsorship and of course including Holochain in there
+        - Gavriel: Enabling Selfhood within shared collective community
+        -  Bear: Serving Life (midwifing beautiful embodied formsinto being)
+        -  Hedayat: Creating new tools to help the self organized communities.
+        - Akira: Building a legacy that people will remember.
+        - Josh: building a [[Venture Studio]] - identity, data, viable systems, permalab
+    - **Thank you**
+        - Thank you Bear - for listening to everyone, acknowledging this needs to happen and make it happen
+        - Thank you Guillem, Julia, Hedayat for coming together in our call this week (same! -Julia) (Guillem: +1 :)
+        - Thank you Adriaan and Eduardo for giving our business feedbacks and listening to what we would like to achieve!
+        - Thank you David for all the support you have provided us and thank you for having this amazing business course! +1
+        - Thank you for everyone showing up as yourselves - deeply appreciated
+        - Thank you to eric and carolyn for always having the back of everyone in the community! +2
+        - Thank you David for closely reading our games and dissecting it even deeper for us. We are better for it!
+        - Thank you Guillem for all your support, advices, and enthusiasm! +3
+        - Thank you David for unlocking the beast within us!
+        - Thank you Bear for your beard and your beautiful energy
+        - Thank you David for opening up in such a vulnerable way, threading new pathways to business +1
+        - Thank you Guillem and Eduardo for working together
+        - Thank you Viktor for your presence and peace +1 +1
+        - Thank you Guillem for sharing freely and contributing so much to the community
+        - Thank you David for creating this space and changing the frame
+        - Thank you David for your unrelenting questions at the edge +1
+        - Thank you Hedayat for making me laugh with your enthusiasim +1
+        - Thank you Gavirel for you professional polish +1
+        - Thank you Buddy for the breathing exercises and laughs +1
+        - Thank you Josh for reaching out and relating your game, experiences.
+        - Thank you Julia for being a level head +1
+        - Thank you Tats for the positive energy you bring +1
+        - Thank you Sid for the fresh perspective +1
+        - Thank you Bear for the mirror and care you bring to this projec
+        - Thank you [[Jakub]] for the clarity you bring to complex topics through relevant questions +1
+        - Thank you Adriaan for the great tunes, care work and creative flare!
+        - Thank you Alexander for the clarifying questions and honest place you ask from 
+        - Thank you Eduardo and Sophie for being cool! 
+        - Thank you Carolyn for the sense of place you bring to the digital world +2 
+        - The image of king of kings has really stuck with me. Thank you David for empowering us all to find our own inner king.
+        - Thank you David for your time and support. +1
+        - Thank you Hedayat for your message to me after week 1, it really touched me
+        - Thank you Julia for noticing the pictures on the slides!!
+        - Thank you Buddy, for your game +1
+        - Thank you everyone for holding space and sharing your journey’s thus far. 
+        - Thank you Sid, for your deeply thoughtful contributions
+        - Thank you Guillem for challenging me to extend how I communicate concepts
+        - Thank you Hedayat, you spoke about how you’d like your work to go back and benefit your community in Iran. It made me think about how life is cyclical. We are shaped by our roots, and what we do will go back and nourish them. 
+        - Thank you David for challenging us
+        - Thank you Hedayat for your always beautiful sharings
+        - Thank you to David for facilitating the Business course. We learned more about ourselves every week for 1 ½ hour than throughout the year. That is Good. We’re better for it. 
+        - Thank you to the event organizers of the Business course
+        - Thank you Alexander for being such a positive force
+        - Thank you David for holding this space, and putting so much care into it. The structure for engagement was so simple and beautiful. Who thought that google slides and docs could be so powerful for group engagement?! And, the quality and depth of the questions was beautiful
+        - Thank you Adriaan for sharing your journey so openly +1
+        - Thank you [[Jakub]] for opening the project, and thank you Buddy for being such an amazing teammate on it.
+        - Thank you to everyone for engaging wholeheartedly in the process
+        - THank you Carolyn for doing all the coordination and management for this whole thing to work
+        - Thank you Guillem for being such a great support to the community’s projects 
+        - Thank you Bear for unrelentless generosity and mentoring
+        - Thank you Eduardo for letting your kids play in the background +1
+        - Thank you Alexander for staying up so late :)  +1 +1
+        - Thank you Buddy for sharing that there is a big lesson in asking help from others.
+        - Thank you Guillem for the nice tools you are creating for the community.
+        - Thanks Josh for having a nice chat and sharing some great music with me. And asking me to work together on some possible future project.
+        - Thank you Hedayat for keeping the energy up!! +1
+        - Thanks Tats and Akira to share your passion with me. 
+        - Thanks for Eric for being such an amazing and funny guy and keeping the energy levels on the right levels.
+        - Thank you  Eduardo and Adriaan for your participation in Kizuna
+        - Thank you Bear for keeping the energy up!!!!
+        - Thanks Carolyn for always being there!
+        - Thanks David for organizing this ‘course’ and providing valuable input and feedback for me and everyone else.
+        - Thank you Buddy for the meditation story last time!
+        - Thank you David if you continue holding this meeting once a month continuously.  :D
+        -  Thank you David that you created this Thank You section and all business Course. +3
+        - Thanks Holochain, you are the main reason for all these to have happened. These people, these meetings and also the things will be happening in the future.
+    - ![](https://lh5.googleusercontent.com/0M_FlouGVRJmC-0mLA5okhjvWNDXvCOUgs0YMdxnoiL2sA59lsK3vpcfPd71RFa3rwceMzI3ynaOolMJRPL-GsMF_dArNhdz5MPf2rwvg49bOsweI7xAkCrb5ji_PN7Rkm_BDU02)
+    - ![](https://lh4.googleusercontent.com/hjc5gjzIgHndNxhB8MBk8-jMkko7kQKj2NXSL-d1cwEiD1UKaXJc7UaMplglkZMvfgQ_fX40um6ydRioRc2qpVVZvtL-nUehjrCUiTrFB0vGdXm-8k_zBB245q9IAR29lRdfqnBg)
+- ## Template 1 - shared; what are the rules governing YOUR business
+    - **Question**
+        - What are the rules of your business?
+    - **Explicit - stated, they are written down, everybody knows them**
+        - Be transparent
+        - Payment terms, length of the contract, service provided
+        - Love
+        - Simplicity
+        - Local first, webs of trust
+        - Reinvention, creation
+        - Be honest
+        - **Implicit - unstated, they are not written down, people have to guess them (often these are the real rules)**
+            - Self-motivation/self-starter
+            - Ask questions if in doubt
+            - Expect to learn (become better)
+            - DOn’t piss me off
+            - Don’t complain, just grow
+            - Don’t make your benefit another person’s pain
+            - Look for needs, ask if you can be of service
+            - Don’t advice unless consent
+            - Embrace the uncomfortable
+            - Be as unconditional as possible to share
+            - Don’t take more space than you hold
+            - Accurately assess yourself
+            - Show some shadow, or you’re full of shit
+            - Don’t play zero-sum-games
+            - If you’re not playing you’ve already lost .
+            - No dysfunctional/harmful in&output, processes/communication.
+            - No force by others and self.
+            - Autonomy must be coupled with the highest level of accountability with a touch of compassion and empathy
+            - Keep autonomy.
+            - Be open
+        - Be invited, don’t force things on others
+        - Contribution
+        - Learn
+        - Practice
+        - Generosity
+        - Consent
+        - No imposition
+        - Open feedback
+        - Balance between creativity and technical.
+        - Plenty of free time.
+        - Persuasive power only, coercive and incentivatory are ethically bankrupt
+        - Try and try until you succeed
+        - Self-organise
+        - Commitment to work
+        - Always have a buffer
+    - **How will this change over time**
+        - Adapt rules as loopholes found
+        - Self development
+        - Boundaries will be navigated organically
+        - Things will pass through membranes, a reaction will show up, and a healthy reformation/evolution of the membranes comes when the emotional charge of the reaction is gone
+        - Its unknowable and emergent, things will either break down or break through - thats evoloution.
+        - Growth will challenge people and values.
+        - The new system that we invent will mature - focus shifts to adding nuance
+    - **Reflections - what I learned and am applying for my game**
+        - …
+- **What are the customer rules that shape your business**
+    - Not everybody is ready
+    - Not everybody can pay
+    - Charge me for value once you’ve proven yourself (or even better once others have recommended you)
+    - Cooperation
+    - Customers cant work with you unless they know you
+    - Get somebody else to vouch for you
+    - Have someone else do the selling
+    - Communication is key
+    - Facilitate our growth
+    - Customers want to solve for a pain
+    - Integrity
+    - Understand the role of each party involved
+    - “Customer” is just an early stage of becoming a “co-creator”
+    - Keep an open mind
+    - Community happiness.
+    - Just engage with processess that seek to better the greater whole
+    - Participation is the only way to get what you want, no one is telepathic
+    - No illegal stuff.
+    - Customers/members are part of the coop.
+    - Don’t extract from me. Tell me what’s in it for you upfront
+    - What i say I want, is not what i actually want
+    - Build trust and then work from there
+    - Find the deepest pain, hold it -- and then do commercials
+    - Find people that are ready to recive what you may offer
+    - I’m not sure what I want and I don’t know how to ask for it
+    - Looks can be deceiving- usually the best opportunity is a red herring
+    - Keep following the threads
+    - Customers know what they need
+    - Create a playground others want to play in
+    - We’re our first customers.
+    - “Staff” come before customers, if they are happy they’ll take care of the customer +1
+    - Healthy, happy, supporting, environment.
+    - Keep looking for the moments of energy shift, they are there is you are paying attention - that’s when to adapt
+    - The customer will change their mind, expect this and adapt.
+    - What are the regulatory or other external rules that shape your business
+    - Operating globally
+    - Focus of society on either solidarity or competition
+    - Import and Export tax
+    - Cultural differences
+    - Scale free operation means abiding with legal frameworks that are probably stupid and fraile
+    - Laws that I am unaware of.
+    - Digital currency regulations
+    - Lack of “commons” related discourse, legislature
+    - Obsession with techny solutions without the human underpinning
+    - The business adaptive landscape selects for competition and exploitation, what to do?
+    - Dont deviate from the norms past 5% - past this is likely to result in severe clampdowns and push back from whatever the forces of power might be. Make sure to push past 0% or fail out of stasis - Eustress or atrophy
+    - Assumption is that GDP has to grow (recession is bad).
+    - We realize that the technology we have isn’t going to save us
+    - We find the value in people that harness technology not the other way around
+    - Experimenting with new patterns of social organization might bring new patterns of business
+    - Economic crisis/collapse might change the rules of the game dramatically in a very short time +1
+- ## Template 2 - shared; how do you continually focus
+    - The intersection of the first three questions, is your game at its peak ..
+        - **Question**
+            - What are you best in your community / ecosystem or world  at, or can be?
+        - **Answer...**
+            - Connecting with individuals
+            - Bringing an awesome future from the abstract into the here and now
+            - Asking questions and organizing ideas
+            - Keeping things fresh/alive
+            - Mapping the future
+            - Listening and finding relevant suggestions for new explorations
+            - Implementing strategies
+            - Helping people run their business
+            - Seeing clearly what is underneath all the talk
+            - Connecting heart and mind and gut - and using all three to drive to a solution
+            - Bringing people together
+            - Explaining really difficult things simply
+            - Understanding difference
+            - Bias minimisation and connecting dots of association into aggregation.
+            - Building and organizing stuff.
+            - Bringing the right people together.
+            - Creating space.
+            - Metalearning
+            - Building tools,
+            - Deeper enquiry
+            - Cross contextual weaving
+            - What are you deeply passionate about?
+            - Unlocking more expression in society. Taking out rent-seeking behaviour.
+            - People are totally empowered to be themselves
+            - People are not looking to companies for answers, they find the answers themselves
+            - People operating in an agent-centric way, and companies organising around that
+            - Helping visions come true
+            - Nature, dance, touch
+            - Enabling selfhood / supporting people to follow their authentic bliss
+            - Enabling community / making people realize they can be happy alone and together
+            - Inner peace
+            - New experiences
+            - Helping people to become more autonomous and creating tools to support this.
+            - Personal autonomy (not at the expense of others)
+            - Water
+            - Food
+            - Learning new things
+            - Metalearning/education
+            - Investigation and articulation
+            - Building tools that are useful for everybody
+            - Deep understanding
+            - Trust
+            - Understanding how things work at a fundamental level
+            - What is your economic engine - your way of turning flows into value?
+            - Get to know, build trust, find a flow, discover value and then agree on the capture
+            - Broad network, deep relationships, few go to money
+            - Number of referrals by network; long-term value creation by ‘customer’
+            - Cash / fees for time
+            - Unlocking the connectivity and actionable energy behind defences
+            - Equity for time
+            - Reputation for time
+            - Basic infrastructure - transparency is key
+            - Systemizing processes and building teams around that
+            - Together we can do more complex stuff.
+            - Easier to support each other if we work together.
+            - Platform can support flows and add value to those flows, in exchange for other value.
+            - Reflecting learning
+            - Connecting flows to each other
+            - Biomass
+            - Writing/diagramming
+            - Building networks and connecting with “the better”
+            - Synthesis
+            - Building tools that are useful
+            - What do you not do? And how do you communicate that?
+            - No hidden intentions/costs. No imposition of culture on to you.
+            - Get to commercial relationship with game players
+            - Waste my time wrapped in somebody elses world
+            - I will not lie or deceive
+            - Dominate people, make those behaviours taboo
+            - I don’t sell out
+            - To be honest with ourselves - daily check in.
+            - I do not cheat on my people- by being consistent and honest
+            - Value everyone’s differences, by giving them a voice or a purpose -- communicate it through action, not just speaking but leading by example or setting up a structure which enables other people to perform at their best.
+            - Give people advice - instead let people see what they need for themselves.
+            - Act dishonestly or with mal intention.
+            - Force anyone to do stuff.
+            - Allowing toxic behavior/people.
+            - Debase my integrity
+            - Work with people who extract time instead of money and pretend they are not capitalists
+            - Get bogged down in stories
+            - I don’t do business/sells meetings/interactions, I have to state that from the get go, otherwise conflict with arrive
+        - **Reflections - what I learned and am applying for my game**
+            - There is a slight unease I have about an agent centric world. I am not sure everyone really wants to take full responsibility and many people actually like being led in a clear way. For them it is enough to complain about the government and earn enough money to pay the mortgage.Thinking about upward spirals, I keep thinking about where the upper slopes are where little changes can lead to a changed landscape without having to worry about the people and their behaviour “further down”. And maybe that is all that needed and time will look after the rest. But I would like to see big impacts, fast.
+            - WE all have a blind spot - open up vasts amounts of information right away
+            - …
+- ## Template 3 - shared; how do you choose to operate
+    - **Question**
+        - What’s your leadership style?
+    - **Answer...**
+        - What is the gap between your image and the reality (how others really experience you / results & how do you close that gap?
+        - Jump levels, span time and truly participate
+        - Hardest working + ability to communicate vision
+        - Holding the vision, bringing people in, outlining a strategy.
+        - See value in everyone, use tools and templates where they make sense- set up people to be their CEOs and see what happens
+        - Focus on what matters, and inspire people to be themselves in order to get there
+        - Continually learn and grow and turn that into what I think are the most exciting things to work on
+        - Work with amazing people and learn everything from them
+        - In my image, everybody is on the same page, bought it - in reality there is way more dissonance and i am believing what i choose to believe
+        - How do i close the gap: keep looking at myself
+        - Hands-on, part of the team, inspiring through care for the team. Gap: would like to empower my team more, but often find myself stuck in the details
+        - An inability to communicate my thinking, or the steps I ran through in my head.
+        - Inviting into a larger narrative, inviting co-creation, helping build the tools.  Gap: Sustaining continuous drive / rhythm.
+        - Coaching to support self-starter motivation
+        - Letting people be themselves.
+        - Letting go as much as possible and not being a leader at all. Just let it all happen and respond accordingly.
+        - Constantly looking for synergy, looking for ways to create interdependence
+        - Know the way, tell the way, and show the way. Gap: Consistency
+        - Does your vision support your game and enable your network? Does the vision be tweaked so it truly fits?
+        - Yes - feels like only minor tweaks needed. And some clear articulation of the rules.
+        - ..Vision and game are aligned, but not all day to day decisions. Sometimes too much driven by what clients want, rather than what I want. Giving way more than asking to be paid for.
+        - The vision interferes with the game as it creates frustration in the juxtaposition of now.
+        - Needs adjusting to suit available near-term opportunity.
+        - My game supports my game. It does enable my network too. Nope, gotta live with compromise
+        - Yes, but there is still some time until full execution. Still learning.
+        - My vision is always changing - what i want for the world feels like it narrows into how can I be myself, today, in this moment and at all times
+        - Will others like my vision - who knows - do others like their visions; i hope so!!
+        - How do you expect to achieve your vision from where you are today? What are the simple things to get there?
+        - Yes. But the timeline is uncertain - I have to learn to get comfortable with the uncertainty of when things will come together.
+        - Get clearer and clear about what I do that matters to others!!! Also get a good feedback loop between this and my vision. My vision is still WIP.
+        - Achieve vision through consistent, determined work.
+        - Make sure to also get mine, not just growing ours
+        - Find the people that want to live in the same world I want to live in, connect them and give them tools
+        - Consistent focus. Healthy culture. Right mindset. Develop good habits
+        - Create a core team. Jumpstart regular meetings. Kick-off workshops.
+        - Crypto moon. Finish my book. Build investor engine. Keep working on client projects. Develop personal branding. Express without filters.
+        - Surround myself with people I can learn from
+        - Complete book. Build personal brand. Network more. Much more.
+        - Keep working with amazing people who give me feedback and i can learn from
+        - Work on the map, work on the commitments hApp. Bring in CCs and interconnect, open doors for Holochain integrations.
+        - Ask for help every day
+        - Remember people, appreciate them
+        - Do only what I am absolutely best at, and find others to do the rest
+        - Get my feedback loops right
+        - Trust my instinct and create space to listen
+        - Not having a utopian like vision, but navigating the possibilities with what feels right
+        - How do you stimulate creativity and keep your business innovative as it evolves?
+        - Keep the long-term vision alive while providing what clients and my team want today
+        - Hold the light of creativity bright myself - foster a culture of asking hard questions, without fear of rubbing against each other.
+        - Regular Ideation sessions. Hang outside of work.
+        - Diagramming. Learning. Discussion.
+        - Reflect and assess on what works and what doesn’t work
+        - Be open and disciplined
+        - Know when I am listening to my pain or listening to a true opportunity
+        - Follow the signs - if I am pushing be aware; if it comes to me then go for it!!
+        - How to translate vision and strategy into tactics and, most important, how to create an environment that produces consistent results?
+        - Keeping it simple and always letting go of things to come back to focus
+        - Bullet Journal. Visual road-map. More outreach and publish more of the vision to audiences.
+        - Set a good culture of accountability. Get commitments. Evaluate results.
+        - Learn to respond to deeper, more grounded states of being (not the superficial emotions). Articulate the urgency of our work, and the need for it in society better so it keeps me and others around me steeped in intensity.
+        - Learn to breathe
+        - Learn to connect to myself and understand myself
+        - Learn to let go and allow other people to shine
+        - Learn how to listen for 1 second more, just to see what happens if I don’t fill the space first….
+    - **Reflections - what I learned and am applying for my game**
+        - The more I learn about what happens in the Holo(chain) ecosystem, the more I am inspired to integrate new concepts. Thus, I should just start getting to know people here ^><><^< more.
+        - I feel very much like prototyping new ways of being in a group, bringing it to other spaces too
+        - Communicating and articulating very honestly
+        - I always check whether I am able personally to implement my visions for the world
+        - Keeping lines of communication open with stakeholders; investors; community - only thing that keeps us sane
+        - I tend not to communicate because i feel scared
+        - Culture is key in successfully implementing business strategies.
+        - Challenge to recognise i am stuck - I’m stuck and need help without knowing what kind of help i need -- i feel like i need to know how to get unstuck -- scary, feel stupid
+        - When I have to step back - this is necessary, i have to push myself throuhg it, really quickly instead of slowly
+- ## Template 4 - shared; how do you breakthrough
+    - **Question**
+        - How do you commit to growing as a leader; so that you can adapt to whatever challenges come your way - requirement #1
+    - **Answer...**
+        - Playing my game, more and more, every day
+        - Never lose the openness to be wrong. Listen and communicate. GO through hard times, it will be good in the long run.
+        - Trust the journey.
+        - Put myself out there - i.e. make myself accountable to others. And make sure the others are people who understand what my motivations are - not people who are in this for non-aligned reasons.
+        - Ask for more help from others.
+        - Meet people where they are
+        - Ignite an empowerment group.
+        - Men in therapy
+        - Working with friends and colleagues who challenge me to grow and own my stuff
+        - Invite new into my life and look at it and learn from it
+        - Be ok when I am angry or resistant or don’t want to change, it’s ok to plateau or go back for a while
+        - Set goals, manifest, challenge my
+        - Integrate myself, see if the work is aligned with myself and what everyone needs. Commitment and energy will come flooding after that.
+        - Who needs to be on your team (community, network, employees, friends etc)? How committed are they to being the best they can be? How good are you at finding great people - requirement #2
+        - A lot of my employees mainly want to be employed. They care about the business outcomes, but are a bit weirded out by my visions around agent centric work
+        - Marketing people. Top industry developers.
+        - People who resonate with the vision. People who complement my skills. In the past, I’ve made mistakes bringing on board people who don’t understand the vision completely (or have a different priority list)
+        - Awesome, smart, versatile, personable, multi-lingual, value-aligned executive assistant.
+        - Operations people
+        - Passionate people who want to embrace change. We find each other when we’re both ready - it’s an equal exchange.
+        - I need an “Implementer” and a “Completer / finisher” (in Belbin’s terms).
+        - I want to re-integrate friends and colleagues from my earlier projects.
+        - A local programmer aligned with and passionate.
+        - It looks like you are going to fail, how do you confront the brutal facts of reality and adapt - requirement #3
+        - Patience and persistence (going towards the vision without being attached to the path there)
+        - Make sure I’ve given it my all. Make sure I communicate my mistakes to others.
+        - Give space to grieving / mourning, re-ground, re-align and continue.
+        - Breathe and check in with your current environment. Stay honest to meet your own needs.
+        - Hurt quickly, Learn quickly, Iterate quickly.
+        - Pivot and continue.
+        - Remind myself that everything changes, all things start and end, when something ends, something else starts
+        - Pause, breathe, and let myself be reminded by the fact that my response to failure shapes me and not the failure itself.
+        - Think: is this work worth it? Maybe it doesn’t, and the energy needs to be redirected elsewhere.
+        - Requirement 4, is answered in step 2, your focus!
+        - A new financial system that rewards individuals rather than giving all the power to the money.
+        - Collective consciousness.
+        - Culture of discipline, are you prepared to do this again and again and again- requirement #5
+        - Yes
+        - Yep!
+        - Showing up - constantly
+        - Keep going to the harder question and the harder question and the harder question
+        - I will lean in into the hardest place, over again
+        - The challenges we get are the challenges we get for who we are;
+        - Culture of creating space; i hold space over and over again
+        - Yes - concrete instantiations of the game/business does not matter: what matters is the learning, the impact and being able to navigate
+        - Technology accelerator, how does technology enhance your business engine -  requirement #6
+        - Technology needs to be simple and ready to be implemented, it is good to not get stuck by letting technology drive the path to the vision. It is just an enabler.
+        - Shared learning, a jungle of experience to rest and reflect in
+        - Transparency and collaboration
+        - Accelerated learning, increased accessibility..
+    - **Reflections - what I learned and am applying for my game**
+        - I want to start celebrating shrinking (rather than just growth) - breathing in and out! +1
+        - No triggering in a larger group
+        - Attuning to energy of completion
+        - What if we all turned this flywheel, made these breakthroughs together
+- ## Template 5 - shared; how does it all end
+    - **Question**
+        - What does failure look like?
+    - **Answer...**
+        - Failure is to stop believing that the vision can be achieved
+        - Like a book
+        - Resignation and distraction
+        - What we have designed needs to mutate into something new.
+        - Finding another way not to do something
+        - Failure is a breakdown of complexity
+        - Best thing ever happened
+        - It never happened
+        - Like a rebirth and new possibilities.
+        - I got to somewhere, got lazy, and didn’t pull through to a point where it spread/grew by itself.
+        - Every moment is a failure, but failure isn’t bad
+        - How does the business fold? What caused it?
+        - It was not required any more and had delivered the value and learning to all involved. Like a plant, it dies off to be the compost to its offsprings
+        - People weren’t really interested in what I am building, which breaks me, or leaves me too exhausted to continue.
+        - Distraction derailed it, or a better opportunity replaced it
+        - Like a protein, it turns into something else and activates new receptors
+        - It could not be supported by the surrounding system
+        - At the end, what did you celebrate?
+        - Celebrate being together with the people, the love between us,
+        - The opportunity to give it everything, and to release my expression
+        - The relationship, the work, achievements,
+        - The learning, the belonging, the open and safe space
+        - The learning
+        - The end! The new beginning!
+    - **Reflections - what I learned and am applying for my game**
+        - I got the feeling - it’s ok to die
+        - Always layers to the questions and answers - take something, leave something behind
+        - The present can’t die; failure is part of the transformation
+        - A feeling of denial - no i can’t fail, it can’t happen to me
+        - This only really ends when i give up, it’s not bound by resources like other traditional startups
+        - Don’t be scared of running out of money
+        - Subject vs object - changing the position
+        - The end is something worth celebrating - the vision is achieved, it’s out in the world; like a tree that gives space, falls over and gives space for something new to grow
+        - Keep evolving the frame
+        - Good to realise now the smaller milestones are ends in themselves that also build the bigger picture. Don’t resent the near-term opportunities.
+        - Structure isn’t hard, scary or unnecessary when it is around something you care about (anti-structure person speaking)
+        - Interesting to read that the end of the business is the same as failure for many. I want to build businesses where the end is backed in and a reason to celebrate because the vision  has been achieved.
+- ## Everything else I want or need to share about running my business
+    - To know but not to do, is not to know - Gavriel
+    - Philosophy starts and ends in the head (and in the hands putting it into action)
+    - I came to realise over the years how vitally important the personal network becomes over time. Seeds sown early bare fruit later on. Keep connecting with people. Keep in touch. Be kind. Be helpful. Be assertive to add your voice to the conversation.
+    - There is no shame in expressing what you believe in, and backing that vision all the way.

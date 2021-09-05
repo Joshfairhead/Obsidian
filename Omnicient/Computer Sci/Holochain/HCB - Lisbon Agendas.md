@@ -1,0 +1,51 @@
+[[Holochain]] [[Call Notes]]
+
+- Inspiration: [How to prepare for a meeting](https://patterns.sociocracy30.org/prepare-for-meetings.html)
+- # Meeting of Friday (10th)
+    - ## What outcome do we want to reach?
+        - Clarity on the Organisation Profile [[Raphi]]
+            - that we are able to start communicating with Holochain and other Projects
+            - that we are able to get specific support from the Holochain Team
+        - Having a first process sketched out for ourselves and further onboarding. [[Raphi]]
+        - Name
+        - Roles
+        - Becoming ready to set up the Company
+    - ## Agenda
+        - Organisation Profile [[Raphi]]
+            - Skills and Services we offer
+            - Core Values
+            - Our Goals (Vision/Mission)
+        - Onboarding/Membrane for the organisation [[Raphi]]
+            - Collaboration 
+            - Questions
+            - Preparing and finalising the Onboarding experiment
+        - Discussion on [network mapping](https://docs.kumu.io/guides/sna-network-mapping.html)
+            - Can we create a social graph happ?
+            - Community HUD, consult with Eric
+            - Onboarding buisness opportunities
+                - Customising the tool
+                - Running network mapping as a service (complexity crew)
+                    - Hackalong
+                    - Holochain
+                    - Odyssey
+                    - Various agencies
+                        - Diglife.coop
+                        - Dgov
+                        - WeAreLiminal
+                        - WeAreHolis
+                        - Other complexity crew's
+        - Name
+        - Roles
+        - Playing some games together? / finding games to play together
+            - Fight club
+                - Flicks
+                - Slaps
+                - Wrestling with friends
+- # During the hAppathon (Friday 10th to Sunday 12th)
+    - ## What outcome do we want to achieve?
+        - Running Mailboox?
+        - defined Membrane - (maybe described rather than defined? - augmentation; not association or composition)
+        - Onboarding new members
+    - ## Agenda
+        - Onboarding experiment [[Josh]]
+        - Odyssey Organisation [[Josh]]

@@ -1,0 +1,38 @@
+- [[Intentions]] (pre-discovery)
+    - Refresh [[Liminal]] Website. 
+        - [ ] URLs arrangements
+        - [ ] Condensing
+        - [ ] Value proposition page [[Fund Manager Persona]] 
+        - [ ] Link up to [[Hack-Along]].
+    - Hub manager
+    - [ ] [[Team of Teams]] on Dapphero or better mix with knock.[[Roberto Valenti]]
+    - Revisit Create [[NGI - XS Exchange Application]] page [[Roberto Valenti]]
+    - Holochain Data Exchange [[JoshFairhead]]
+    - [[Microsolidarity]] on the 8th [[JoshFairhead]]
+    - Familiarise with the [[Crowdpol]] code. [[Roberto Valenti]]
+    - [[EthTurin]] 
+- [[Discovery]]
+    - Practice of cadence & discipline: reactive is not a great way of working
+    - Hacked together [[Holons Description]] at [[EthTurin]]
+    - Got in touch with [[Deora]] .. they will join [[Microsolidarity]]
+    - Draft [[NGI - XS Exchange Application]] outline for [[Outlier Ventures]]
+    - Patent XS Exchange?
+    - Focus dictates what is going to manifest
+- [[Opening Loops]]
+    - [[Holons Description]] post meeting, created MVP project board
+    -  [[NGI - XS Exchange Application]] markets
+    - [[Global Village Construction Set ]]https://www.opensourceecology.org/gvcs/
+- [[Closing Loops]]
+    - Process vs Goal (Pr)
+    - [[AdaCast]] [[Presentation]]  for Ledger
+    - Break down or break through.
+    - [[Microsolidarity]] Week
+- [[Harmonization]]
+    - Communicating operations to the congregation?
+        - Releasing holon code
+        - Inviting for the solstice online gathering (Contact [[Kay Gertler]])
+        - Linkin
+    - Started clearing out personal space with [[Monthly Personal Checklist]] 
+    - Started Facilitating Transformational Journey Course
+    - Pitched [[AdaCast]] to the finals of the ledger grant, it was a perfect pitch but did not get through :(
+    - Resource Holons experiment

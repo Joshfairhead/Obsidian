@@ -1,0 +1,32 @@
+---
+Tags: [Artifacts]
+---
+Related:[[Artifacts]] [[Equinox Call for Commitment]] [[Unconf]] [[Equinox]] [[Fall Equinox]]
+
+- [[Call for commitment]]
+    - **Date: 22nd September - Summer Equinox**
+    - **Why do this?**
+        - We have a desire to connect and convene with people who are intrinsically motivated to work on **internalising** our cost to society and the planet. If you're committed to self organisation then you're invited to join us, either as an organiser or as a participant. 
+    - **How are we going to do it?**
+        - This event in an unconference; meaning the event is a [[Self-Organisation]] event. This document outlines some of the ways we can achieve that end, and some preliminary interests to self-organise around.
+    - **What are we going to do?**
+        - The top level category we're interested in pursuing is the internalisation of our costs which can take many forms; some of those are - complementary/community currencies, legal accountability and digital interfaces, personal accountability and digital interfaces. **The bottom line is that this is about the real world and progress in the here and now, not just some abstraction that may work in the future.**
+        - On a meta level we're going to try various patterns of organisation and see how they work out. This will be an interactive and participatory event, top down slideshows are not encouraged.  
+    - **Call**
+        - The size of this event doesn't matter; anyone can get involved as it's essentially just "parallel play" and will scale to the appropriate level. If a lot of people step up, make commitments and hold themselves to account and communicate effectively then we can go large. If not then a small intimate group of friends will form to gather around topics of interest, make decisions and go forward. 
+    - **Self organisation patterns**
+        - [Game shifting](http://emergingleaderlabs.org/Gameshifting_Overview/) (codify a board?)
+            - Fishbowl discussions
+            - Pop the stack
+                - Bottom up enquires and articulates, top down answers with opinionated perspectives
+            - Popcorn
+            - Dyads
+            - Crews
+            - Congregations
+            - Talking stick
+            - Pannel discussion
+            - Circle/turns
+    - **Co-branding**
+        - [[LunarPunk Labs]]
+        - [[Bonfire.link]]
+        - Make a commitment if you'd like to add your label, natural persons are strongly encouraged to get involved. Labels are just a bag of words, don't be discouraged from participating if you don't have a flag.

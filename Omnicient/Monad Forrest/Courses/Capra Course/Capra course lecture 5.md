@@ -1,0 +1,161 @@
+---
+Tags: [Course]
+---
+
+# Capra Course L5
+
+- [Link](https://spring.capracourse.net/lessons/lecture-5-mind-consciousness/)
+    - Summary
+        - All references are to the corresponding sections in the textbook __The Systems View of Life__ by Capra and Luisi).
+        - In this lecture I discuss one of the most important and most radical philosophical implications of the new systemic understanding of life: a new conception of the nature of mind and consciousness, which finally overcomes the Cartesian division between mind and matter. Ever since Descartes called the mind a "thinking thing," scientists and philosophers thought about mind as some kind of intangible entity, and they could not imagine how this mysterious "thinking thing" was interacting with the body.
+        - The decisive advance of the systems view of life has been to realize that mind and consciousness are not things but processes.** **This novel concept of mind was conceived by Gregory Bateson, and was developed into the so-called Santiago theory of cognition by Humberto Maturana and Francisco Varela. (__Section 12.1__)
+        - The central insight of the Santiago theory is the identification of cognition, the process of knowing, with the process of life. Cognition is the activity involved in the self-generation and self-perpetuation of living networks. In this way, life and cognition become inseparably connected. Mind is  immanent in life at all levels. For example, the relationship between mind and brain, which has confused scientists and philosophers for centuries, is now very clear: it is a relationship between process and structure.
+        - This is a radical extension of the concept of cognition and, implicitly, the concept of mind. In the systems view, cognition involves the entire process of life — including perception, emotion, and behavior — and does not even necessarily require a brain and a nervous system. (__Section 12.2__)
+        - In the Santiago theory, cognition is closely associated with the concept of structural coupling, which I discussed in Lecture 2. Living systems respond to disturbances from the environment with structural changes in their own autonomous ways, and they also decide which disturbances from the environment will trigger those changes.__ __This is the key to the Santiago theory of cognition. Each structural change is an act of cognition; and by specifying which disturbances from the environment bring about changes, the system specifies the extent of its cognitive domain; it "brings forth a world," as Maturana and Varela put it. (__Section 12.2__)
+        - Hence,__ __cognition is not a representation of an independently existing world. It is a continuous process of bringing forth a world through the process of living. The interactions of a living system with its environment are cognitive interactions, and the process of living itself is a process of cognition. As Maturana and Varela write, "to live is to know."
+        - In the Santiago theory, cognition is associated with all levels of life, whether or not organisms have brains. Consciousness — that is, conscious, lived experience — is a particular type of cognitive process that emerges at a certain level of complexity that requires a brain and a higher nervous system. The central characteristic of consciousness is the experience of self-awareness. (__Section 12.3__)
+        - In the lecture I review recent results in consciousness studies, which is a new and very lively scientific discipline. These include the distinction between two types of  consciousness — two types of cognitive activity that emerge at different levels of neural complexity. The first type, known as "primary consciousness," provides the organism with a transient sense of self. We share this experience with all mammals, and maybe with some higher vertebrates. The second type of consciousness, known as "reflective consciousness," involves more elaborate self-awareness — a __concept__ of self, held by a thinking and reflecting subject. As mentioned in Lecture 4, it emerged with the evolution of the great apes, or "hominids," around 4 million years ago, together with language, conceptual thought, tool-making capabilities, and organized social relations. (__Section 12.3.3__)
+        - In the lecture, I discuss several theories and models of consciousness in some detail. These include the school of neurophenomenology, founded by Francisco Varela, and the theories of consciousness by Humberto Maturana, Gerald Edelman, and Antonio Damasio. I conclude with the observation that, in my view, the main achievement of modern cognitive science has been the gradual healing of the Cartesian split between mind and matter. (__Section 12.3.8__)
+        - Mind and matter no longer appear to belong to two separate categories, but can be seen as representing two complementary aspects of the phenomenon of life. At all levels of life, mind and matter, process and structure, are inseparably connected. For the first time, we have a scientific theory that unifies mind, matter, and life.
+    - Key concepts
+        - Mental image
+            - A picture of an object, event, or scene held in the mind without actually being present to the senses
+        - Language - systems view
+            - Symbolic communication — a coordination of actions and behaviour between living organisms involving symbols (words, gestures, and other signs)
+        - Cognition
+            - The process of knowing; a new systemic concept of mind
+        - Consciousness
+            - A cognitive process characterized by self-awareness, which emerges at certain levels of cognitive complexity that require a brain and higher nervous system
+        - Consciousness, primary (or core)
+            - A transient state of self-awareness occurring in mammals and certain higher vertebrates
+        - Consciousness, reflective
+            - An elaborate and permanent state of self-awareness involving a concept of self, held by a thinking and reflecting individual
+        - Self-awareness
+            - online: conscious knowledge of one’s own character and feelings.
+        - Experience
+            - (as related to ‘conscious experience’ mentioned in the lecture and book)
+            - online:
+                - noun
+                    - 1. practical contact with and observation of facts or events.
+                    - 2. an event or occurrence which leaves an impression on someone.
+                - verb
+                    - encounter or undergo (an event or occurrence).
+                - also builds on
+                    - structural change (act of cognition)
+                    - systemic property
+                    - emergence
+                    - self-organization
+                    - autopoiesis
+    - Complementary material
+        - [Interview: Francisco Varela & Eric Goles](https://youtu.be/wh7_rxARhJc)
+            - This video shows a 30-minute interview of Francisco Varela by the Chilean mathematician and computer scientist Eric Goles. The interview was filmed in Santiago in 2000. It is in Spanish with very good English subtitles. The visual quality is not great, and the video requires a little bit of effort to watch (for non Spanish speakers), but it is well worth it. For me, it conveys the essential Varela — his utterly systemic way of thinking, his eloquence, and his great charm.
+            - In these conversations, Varela touches on practically everything I discuss in Lecture 5 of the course. He often uses slightly different language (e.g. “local and global” instead of “the parts and the whole”), which, in my view, adds great richness. At the end of the video, there is a very nice discussion of the systems view of evolution, emphasizing the creativity inherent in all life, as I do in Lecture 4 of the course.
+- Lecture 5: Mind and Consciousness
+    - Overcoming the cartesian division of mind and matter
+    - Descartes divided the realms
+        - Mind: the thinking thing
+        - Matter: the extended thing
+    - Following this philosophers thought about mind as a "thing" and couldnt figure out how it interacted with the body. 
+    - The decisive advance has been to abandon the notion of them as things and consider them processes. This is attributed to Bateson who emphasised mental process
+    - [[Humberto Maturana]] had siminlar ideas and focused on cognition or "knowing". In the 70's Maturana and his college Francisco Varela developed these ideas into the Santiago Theory of Cognition.
+    - This Had a big impact on the study of mind and consciousness where we saw the emergence of a new field called cognitive science which transcends the traditional frameworks of biology, psychology and epistemology. Its a trans-disciplinary approach.
+    - **Santiago Theory of Cognition**
+        - Identifies cognition (knowing) and life as the same process.
+        - Cognition in this frame is the activity involved in the self generation and self perpetuation of living networks. Cognition is the process of life. In other words the self organising activity of a living system at all levels of life is mental activity! Also the interactions of a living organism with the environment is a cognitive interaction. Life and cognition are inseparably connected at all levels of life. Mental activity is imminent in life at all levels. This is radical extension of the concept of cognition and implicitly of the concept of mind. 
+        - In this new view cognition involves the entire process of life including perception, emotion and behaviour and doesn't necessarily require a brain and nervous system - plants or bacteria are constantly involved in cognitive activity as they perceive and self organise based on environmental factors 
+    - This theory its closely linked to autopoiesis
+        - The key characteristic is that it undergoes continuous structural changes while preserving its web like pattern of organisation. According this theory of autopoiesis a living system it couples to its environment structurally, by means of recurrent interactions, each of which triggers structural changes within the system. 
+        - A cell membrane will continuously incorporate various outside molecules into the cellular metabolism and in this way each disturbance causes a structural change within the cell. 
+        - A nervous system will change its connectivity, enhance or deepen its connectivity with every new sense perception.
+        - The living system is autonomous. The enviroment only triggers the structural changes, nor does it direct them. 
+        - As a living system interacts with its environment or as environmental influences trigger structural changes, these changes change the structure and at a future interaction the system may respond differently and this modified behaviour is called learning. 
+        - Conclusion: Every autopoietic or structurally coupled system system is a learning system. Continuing adaptation, learning and development are key characteristics of all living beings. Because of this; we can call animal and plant behaviour intelligent, but not rocks or other non-living structures.
+        - Living systems autonomously respond to their environment with structural changes. It decides which way to change and which disturbances will trigger them. Some disturbances it will not respond to; e.g. radio waves. 
+        - In higher organisms like human beings its not just a question of sensory range (who we are) but also state of mind. e.g. auto pilot driving
+            - This is the key to the Santiago theory of cognition. The structural changes in the system constitute acts of cognition. Each structural change is an act of cognition. 
+            - By specifying which disturbances from the environment bring about changes the system specifies the extent of its cognitive domain. What it doesn't notice doesn't exist for the system. 
+            - Maturana became famous in the early 60's from an essay called "what the frogs eye tells the frogs brain".
+            - What he and Varella then wrote was "in the act of cognition the living system brings forth a world that is describing the whole cognitive domain in the act of living/organising itself. Anything outside this world or cognitive domain does not exist. 
+            - Cognition is not a representation of an independently existing world, its a continuous process of bring forth a world through living. To live is to know.
+            - In Ancient times the rational human mind was seen as one aspect of a larger realm of the soul or spirit. 
+            - **Cognition and the Soul** - etymological routes in breath. 
+                - Cognition in the Santiago theory goes further than rational mind to include the entire process of life. 
+                - "The breath of life" is thus a good metaphor much like ancient intuition was indicting soul/spirit as the source.
+                    -  Soul - breath
+                        - Sanskrit (atman)
+                        - Latin (anima)
+                        - Greek (psyche)
+                    - Spirit - breath
+                        - Latin (spiritus)
+                        - Greek (pneuma)
+                        - Hebrew (ruah)
+            -  In the case of the Santiago theory, proving the the phenomena is useful (and thus scientific validity) we can return to the old problem of mind and brain.
+            - Mind is not a thing but a process of cognition, identified with the process of life. The brain is a particular structure in higher organisms through which this process is taking place. The entire body is involved in this process. 
+            - **Consciousness** 
+            - Unlike cognition which is expressed and associated with all levels of life, conscious lived experience emerges at a certain level of complexity that requires a brain and higher nervous system. 
+            - Consciousness is thus a particular type of cognitive process that emerges when cognition reaches a certain level of complexity.
+            - The central characteristic of consciousness is self awareness. All living things are aware of their environment, but are not necessarily self aware. 
+            - The study of consciousness was long taboo amongst scientists (philosophical, religious etc. domains). This changed radically in the 90's; cognitive science had established itself as a field and new non-invasive techniques for analysing brain functions - scientists would record the brain patterns and neurophysiology associated with recalled experience. With measurement the field found respect.
+            - **Since then many theories and approaches have been proposed and it seems there is a growing consensus on two points**
+                - 1) the realisation that consciousness is not a thing but a cognitive process emerging from a certain neuro complexity
+                - 2) the distinction between two types of consciousness. 
+                    - 1) primary/core consciousness. A sense of self that comes and goes but does not project into the future or past. We share this experience with all mammals and even some higher invertebrates
+                    - 2) Higher order, extended or reflective consciousness. Involving a more elaborate concept of self. Not an experience but a concept of self from thinking, symbolic language and self reflection. 
+                        - This extended experience of self awareness, identity and personhood is based on memories of the past and anticipations of the future. 
+                        - Emerged with the evolution of the great apes or hominids around 4m years ago arriving with language, conceptual thought, tool making capabilities and organised social relations. 
+                        - Because of the critical role of reflection in this process Capra prefers to call it reflective consciousness. 
+            - Going back to the essence of the conscious experience, 
+            - The central challenge to a science of consciousness is to explain the experiences associated with cognitive event. Different states of conscious experience are sometimes called Qualia. This problem of explaining these Qualia is known as the hard problem of consciousness study. 
+            - One key issue is that analysis of lived experience of that is of subjective phenomena has to be an integral part of this kind of science. This is difficult for scientists to accept given the Cartesian objectivity bias... Measuring uncertainty is hard to stomach. The subjective experience is the very subject of the scientific investigation!
+            - Even when subjective experience is studied, there is the intersubjective communication between researchers comparing notes. The baby can be kept but the bathwater needs to go :p
+            - This view is promoted today by a school of consciousness study founded by Francisco Varela called **Neurophenomenology**
+                - Combines the disciplined examination of conscious experience or lived subjective experience with the analysis of corresponding neural patterns and processes, and with the study of the nonlinear dynamics of these networks. 
+                - It gets its name from the philosophical school of phenomenology at the beginning of the 20th century by an Austrian philosopher called Edmund Husserl.
+                - He developed specific disciplined examinations of subjective first hand experience called introspection. Techniques of examining experience. 
+                - They also used the techniques of different spiritual traditions. Buddhism in particular has a vast range of techniques. 
+                - They are beginning to craft a science of consciousness through the integration of three aspects, levels of description or braids of consciousness study
+                    - Subjective experience
+                    - Neurophysiology
+                    - Nonlinear dynamics
+            - **Neural activity** - what goes on in the brain during conscious self awareness
+                - Scientist have made quite significant advances in identifying the patterns. 
+                - Two models developed again by Varela and Gerald Edelman (nobel lauret). Core idea is the same but terminology is differnt
+                    - Conscious experience is not located in a particular part of the brain, its not a property of particular types of neural structures, it is an emergent property of a particular cognitive process.
+                    - The process is a transient process of integration or synchronisation of neural processes. Syncronisation of widly distributed groups of neurons. 
+                        - Neurons vibrate, think in terms of music. Thats random vibrations. When melodies emerge, that is consciousness - synchronised patterns !
+                        - Smell a flower and your taken back to an associated memory (hot, place, people etc.). This emergence of a conscious experience and then subsistance is **"transient consciousness"**
+                    - **Reflective consciousness** is more than these transient states, its a lot of these transient states the are occurring so frequently that they turn into a constant experience. This includes thinking, reflecting. Its an experience can communicate with symbolic language, its a state of consciousness that included the continued self awareness that associated with value judgements, beliefs, history etc. 
+                        - This inner world emerged with evoloution of language, conceptual thought, interrelations and culture. 
+                        - This tells us consciousness is a social phenomena. The etymological routes of the word is "Con sierra" which means to know together. 
+                    - Maturana was one of the first scientists to link the biology of human consciousness with language in a systematic way
+                        - He did so by approaching language through a careful analysis of communication
+                        - Communication according to Maturana is not primarily a transfer of information but a coordination of behaviour. This is true at all levels of life, as it becomes more complex language arises as a way of coordinating with symbols. This 
+                        - Language, words, gestures and other signs are effective tools for the mutual coordination of our actions. 
+                        - In this process, language becomes associated with abstract mental symbols of objects
+                            - e.g. If I go for a walk see a friend, wave at them and they wave then thats communication. If I then make a sign pointing at my chest followed by their side of the road they will understand the symbology that I'll move to their side of the road
+                        - Language does not occur in the brain but in the continual flow of coordinated behaviours. 
+                        - We constantly weave a linguistic web and we exist within it. We coordinate our behaviour in language and together in language we bring forth our world. "the world everyone sees is not a world, but the world we bring forth with others"
+                    - More recently Antonio Damasio proposed a neurophysiological theory of consciousness that adds some significant further understanding to these two theories 
+                        - There are two types of self associated with two types of consciousness 
+                            - The core self - associated with primary consciousness
+                                - The core self is continually recreated as we interact with our environment. 
+                            - The autobiographical self - associated with reflective consciousness
+                                - A collection of mental images that appears to remain constant but evolves over a lifetime. 
+                                - Requires the presence of the core self to constantly renew the conscious experience
+                                - The contents of the autobiographical self can only be known when theres a fresh continual construction of core self.
+                        - This theory of consciousness enables us to form a concept of self that over comes our what Varella called our **cartesian anxiety**. 
+                            - What he meant, especially as scientists, that we are self aware of our individual identity. But when we look for an individual self we cannot find such entity.
+                            - Damasio perhaps resolves this
+                                - The core self is a feeling
+                                - The auto biographical self is an idea
+                                - Both are real but neither a separate entity or structure. 
+                                - A resolution of an age old [[Paradox]]!
+                        - Summary
+                            - The main achievement of modern cognitive science is the gradual healing of the cartesian split between mind and matter.
+                            - In the 1970s a few cognitive scientists recognised that mind and consciousness are not things, but cognitive processes and they took the step of identifying the process of cognition with the very process of life.
+                            - Cognition thus became associated with all levels of life meaning mind and body are not separate entities as previously thought but two complementary aspects of life; the procedural aspect and a structural aspect.
+                            - More recent research in cognitive science has confirmed and refined these insights by showing how the process of cognition evolved into forms of increasing complexity together with the corresponding evolution of biological structures
+                            - **Process and structure are always bound together and they evolve together** as biological structures become more complex, so does the cognitive processes.
+                            - When we get to the biological level of brains and nervous systems we have the cognitive complexity we associate with consciousness.
+                            - Many questions remain to be answered but we now have the outlines of a scientific theory that overcomes the cartesian division of mind and matter...
+                            - **At all levels of life mind and matter, process and structure are inseparably connected and complementary aspects of life. **

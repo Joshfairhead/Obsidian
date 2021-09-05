@@ -1,0 +1,84 @@
+---
+Tags: [Designs, Deliverables, Artifacts, Refactor]
+---
+Related: [[Design]] [[Persona screens]] [[Omnicient/Monad Seeds/Economics]]
+
+# Fund Manager Persona
+
+- [Context](https://www.investopedia.com/articles/credit-loans-mortgages/090116/what-do-pension-funds-typically-invest.asp)
+- Name: Larry
+- Attributes
+    - Fiduciary responsibilities
+    - Invest in a variety of asset classes including private equity, real estate, infrastructure, and [[Securities]] like gold that can hedge inflation.
+    - Increasingly interested in divesting to greener technology
+		- > As more and more investors choose to tilt their investments towards 		sustainability-focused companies, the techtonic shift will accelerate further. ~ Larry Fink [[Quotes]]
+		- > BlackRock identifies several new measures in its investment approach, such as lowering its exposure to fossil fuel companies, which has been a major demand by environmental protesters. These include sustainability integral to portfolio construction and risk management; exiting investments that present a high sustainability-related risk, such as thermal coal producers; launching new investment products that screen fossil fuels; and strengthening our commitment to sustainability and transparency in our investment stewardship activities. ~ Larry Fink [[Quotes]]
+    - Invest in [REITs](https://www.investopedia.com/terms/r/reit.asp)
+- Scenario
+    - Pension funds make promises to their participants, guaranteeing them a certain level of retirement income in the future. This means they have to be relatively conservative riskwise, but also achieve sufficient returns to cover those guarantees.
+    - “In the near future – and sooner than most anticipate – there will be a significant reallocation of capital.” Larry Fink (BlackRock)
+- Goal
+    - Invest into low-risk, assured returns (aka "beta investing").
+        - Real Estate
+        - Infrastructure
+            - Power
+            - Water 
+            - Roads 
+            - Energy
+            - Data?
+        - Inflation hedges 
+            - Gold
+            - inflation-adjusted bonds (e.g. TIPS)
+            - Commodities, 
+            - Currencies
+            - Interest-rate derivatives
+            - Liability matching/"immunisation"
+- Interesting Links
+    - [BlackRock](https://www.blackrock.com/corporate/investor-relations/larry-fink-chairmans-letter)
+- VALUE PROPOSITION
+    - Context
+        - Pain points
+            - Liquidity
+            - Returns
+                - Risk profiles 
+                    - Fixed income
+                    - Repricing of risks/assets
+            - Data
+                - Sources
+                - Processing
+                - Market information
+                - Client objectives
+                - Bundling portfolios
+                - Management
+                - Understanding information
+                - Transparency 
+            - Social responsibility pressure
+                - Climate change
+                - Community
+        - Solution Pitch
+            - (What) Using state of the art technologies to manage assets and value flows within our network, we are able to offer low risk investments and stable returns while delivering sustainable abundance to all of humanity.
+            - (How) We enable any investor to retrieve accurate information about goods, arming society with the same statistical process control techniques which revolutionized manufacturing and investment to completely transform consumption on a global scale.
+            - What (mechanism)
+                - True Value [[Securities]]: 
+                    - Stable returns via 
+                    - Low risk investment vehicle
+                        - Sustainable portfolios delivering more value than traditional portfolios during times of crisis
+                        - Expanded sustainable investment opportunities
+                        - Reduced ESG risks
+                            - **ESG risks** include those related to climate change impacts mitigation and adaptation, environmental management practices and duty of care, working and safety condition, respect for human rights, anti-bribery and corruption practices, and compliance to relevant laws and regulations
+            - How (example)
+                - REA accounting
+                - Circularisation of resources.
+                    - As the assets improve in value, it generates value for the network as a whole.
+                    - The networks purpose is to improve the value of its assets
+                    - The network autonomously produces assets relevant to its structural requirements, minimising costs.
+                    - By utilising and combining the networks excess resources, its assets appreciate in value.
+                    - This occurs through aggregation and regeneration at marginal cost or true price. 
+                    - Improving the value of networked assets to improve the value of the network.
+                - we turn ne participations into [[Securities]].
+                - Anti-fragility. As regenerated places "leave" the network by being sold, the network obtain rewards and can move resources and focus on regenerating new places.
+                - Assets are added to the network
+            - Social Proof -  We have multiple membranes across the globe.
+        - Opportunity size / market data
+            - Real estate: USD 3,505.2 billion by 2016
+

@@ -1,0 +1,146 @@
+---
+Tags: [Frameworks, Domains, Primitives]
+---
+Related: [[Computer Science]] [[Rust]] [[Rust Constructs]]
+
+# Rust Constructs
+- **Stack**
+    - Last in First out
+    - Is fast because othe thw way it accesses the data
+        - Never has to search for a plasce to put or place to get data
+        - Value type Variables, store on stack 
+- **Heap**
+    - Size unknown at compile time and might change
+    - finds memory of a size and saves the pointer
+    - Reference type Variables, store on heap
+- **Why rust?**
+    - C/C++ = low level that ends up buggy due to the amount of control (handled by developers)
+    - [[Python]] = high level that lacks control because memory management is automated
+    - Rust = somewhere between 
+- **Immutable variable**
+    - Variables which never change (read only) 
+- **Mutable variable**
+    - Variables which are changable
+- **Ownership rules**
+    - Compiler enforce:
+        - Every resources has a unique owner
+        - there can only be one owner at a time
+        - When owner foes out of scope the value will be dropped
+    - "items" may be borrowed 
+- **Referencing rules**
+    - We only have 
+        - One mutable reference
+        - or
+        - Many Immutable references
+    - None "dangling references"
+- **Ownership in value types**
+    - Value types are copied automaticallly while sending as params or assigning oanothe one
+    - Since its a new copy of variable there is no problem wiht ownership
+    - Just remember which data types are value type (on stack) or reference type (on heap)
+- **Clone**
+    - This command returns back a copy of data with new ownership
+    - A soloution to fix ownership in reference type
+- **Closure**
+    - Rusts closures are anonymous functions you can save in a variable or pass as arguments to other functions
+    - fn //function (dynamic?)
+    - let //argument that closes the function = closure
+    - Often called anonymous functions, or lambda functions. 
+- **Macro**
+    - Macros are a way of writing code that writes other code, which is known as meta-programming
+    - See a (!) = Macro
+- **Exception **
+    - There is no try catch in rust. All exception should be managed by __result__ and __option__
+    - Panic! = dont know what to do... stop!
+    - Result <T,E>
+        - Result is the type used for returning and propogating errors
+        - If return i sucess and containing value Ok(T)
+        - if the return represents an error Err(E)
+    - Option
+        - The option type is used in many places because it encodes the very common scenarion in which a value could be something or it could be nothing
+        - Something (T) = some(T)
+            - __Unwrap__ will remove the some of some(4), giving access to the 4
+        - Nothing
+- **Strings in Rust**
+    - &str (string literal) e.g. "blah blah"
+        - Fixed size
+        - Value type
+        - Allocatpe memory on stack
+    - String
+        - Dynamic size 
+        - Reference type
+        - Allocate memory on heap
+    - Into()
+        - A value to value conversation that consumes the input value (takes ownership of input value)
+    - Module
+        - A Module is a namespace that contains definations or types and you can choose if these definitions are visible (public) or not (private)
+        - To create a module you create a file and name it with .rs on the end. Now you have a module. 
+    - Crate
+        - A craet is a binary or library
+        - Main.rs as a root file is an executable 
+        - Lib.rs is a library
+    - Package
+        - One or more crates that provide a set of functionality
+    - Extern crate
+    - Use declarations
+        - Import Equivelent in Rust
+    - Enum, Struct, Trait
+
+
+
+#### Chat from the call
+- From Me to Everyone: (12:31 pm)
+	- So is Heap good for mutable variable and stack good for immutable variables?
+- From milkyklim to Everyone: (12:35 pm)
+	- foo and bar are used as templates\placeholders without specific meaning @Josh
+- From Me to Everyone: (12:37 pm)
+	- Thanks!
+- From Trevor Hilder to Me: (Privately) (12:37 pm)
+	- Hi Josh. Foo and Bar comes from a joke - fubar means “fucked up beyond belief” :-)
+- From milkyklim to Everyone: (12:37 pm)
+	- yeap
+- From Fábio Corrêa to Everyone: (12:37 pm)
+	- The Book is the canonical source for being introduced and learning Rust… https://doc.rust-lang.org/book/
+- From milkyklim to Everyone: (12:38 pm)
+	- Another good place to start: https://github.com/rust-lang/rustlings
+- From rhyzom to Everyone: (12:38 pm)
+	- i just realized why they chose the name rust, lol
+- From Trevor Hilder to Me: (Privately) (12:39 pm)
+	- They are just arbitrary names originating with that joke.
+- From Me to Trevor Hilder: (Privately) (12:39 pm)
+	- Star
+- From Trevor Hilder to Me: (Privately) (12:41 pm)
+	- Most people have forgotten about the original joke :-)
+- From Me to Trevor Hilder: (Privately) (12:51 pm)
+	- fn //function
+- From Me to Guillem Cordoba: (Privately) (12:52 pm)
+	- fn //function
+- From milkyklim to Everyone: (12:57 pm)
+	- All good!
+- From rhyzom to Everyone: (12:57 pm)
+	- yea, all good
+- From milkyklim to Everyone: (12:57 pm)
+	- nope :)
+- From [[Thomas]] cal to Everyone: (12:58 pm)
+	- awesome
+- From Karl to Everyone: (01:02 pm)
+	- hey folks I unfortunately have to leave the call! I have a follow up call that I can not dismiss. Looking forward for the Dev Camp and that we are seeing us next week on 22.01. Have a nice week&weekend :) Thank you Hedayat for the good overview. I will rewatch the whole video asap :)
+- From anton to Everyone: (01:02 pm)
+	- see ya !
+- From [[Raphi]] See to Everyone: (01:02 pm)
+	- bye Karl! See you soon
+- From Me to Everyone: (01:05 pm)
+	- Maybe I missed something but what are <T, E> representing?
+- From milkyklim to Everyone: (01:07 pm)
+	- @Josh, different type of variables (results) returned
+- From Me to Everyone: (01:07 pm)
+	- Thanks again :))
+- From milkyklim to Everyone: (01:07 pm)
+	- in case everything is fine T is returned and if the code fails you get E
+- From milkyklim to Everyone: (01:08 pm)
+	- ^ this should hold true 99.9% of the time :)
+- From [[Raphi]] See to Everyone: (01:16 pm)
+	- This is a good place to learn Rust more in depth: https://www.udemy.com/course/rust-lang/
+- From Razvan to Everyone: (01:18 pm)
+	- What time does today's session end?
+
+#### Forum [links](https://forum.holochain.org/t/rust-introduction-video-recording-and-more-ressources/1781) with **Hudemy sessions**

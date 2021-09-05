@@ -1,0 +1,6 @@
+- [Crowdpol User Presentation v1](https://docs.google.com/document/d/1RPsV5NkOI5g_t9KiBxlTAw7IGOMcEAcZXez0r1cJLaY/edit?usp=sharing_eil&ts=5e737515&urp=gmail_link)
+- Crowdpol [SDG's](https://docs.google.com/document/d/1dmWwxxEwOxQ8quO8N4vlYfCcn8Xm21YJLiiWhvkfUKA/edit?ts=5e737509)
+- [Microservices Doc](https://docs.google.com/document/d/1MKYEP7jEgxllY_YyLM6DpCHt07dV2S-8jc_PEQ9uLe4/edit?usp=sharing)
+    - [Proposals Mechanism Design](https://hackmd.io/qFdzqu0KTcymUOuw8-uAhw?both)
+    - [Miro of voting](https://miro.com/app/board/o9J_kvVP-Gc=/)
+- [Collaboration Proposal](https://docs.google.com/document/d/1WLsVRyKDYEcD0dHx3-kGaTMOf3yKiREY2Cao6xShjU4/edit?usp=sharing_eip&ts=5e74896c&urp=gmail_link)

@@ -1,0 +1,28 @@
+- [[Discovery]]
+    - XS exchange potential verticals:
+        - Books (easy ID, data entry, recognized and adopted topology/category)
+        - Seeds (highest return of investment)
+        - Fields + Hemp ()
+        - Food (Our Produce)
+        - Rooms (handle accomodation @ hubs)
+    - Platonic solid for task switching
+- [[Opening Loops]]
+    - barcode scanners list: Quagga
+    - Started Holochain Conductor article 
+    - Found https://italianonprofit.it/ 
+    - Created big list of projects and verticals [[Verticals Brainstorm]]
+    - Lunar vs Solar mode
+    - [[Yoga]] Body tensions could come from early traumas. Releasing the tensions means releasing the traumas.
+    - Visited [[hemp.farm]] and asked pain points in their value chain
+    - Started Holons.io website
+- [[Closing Loops]]
+    - Authonomy vs Structure, discussed about adopting holacracy on full moon hubs meetings.
+    - Applied for free gitbook accounts for the hackalong collective
+    - Moved [[THEOS]] whitepaper to gitbook
+    - Read fairgrounds whitepaper
+    - discussed LLC options for [[Liminal]].
+- [[Harmonization]]
+    - applied for TedXLiminalVillage
+    - finished first iteration of holons.io website
+    - Reconnecting with Bryan
+    - XS Exchange: fixed resource true price multiplier, fixed tests

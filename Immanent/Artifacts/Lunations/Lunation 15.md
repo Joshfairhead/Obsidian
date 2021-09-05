@@ -1,0 +1,20 @@
+- [[Discovery]]
+    - Working on [[Disconference]] a bot to track room and people on the discord server during equinox unconference
+    - Equinox Unconference
+    - Furnace for sale
+- [[Opening Loops]]
+    - Graphing room flow in Vue.js
+    - Work started on water collection/ biopool
+- [[Closing Loops]]
+    - Moving plants, expanding biopool site
+    - Laying of underliner
+    - Laying of liner
+    - Dug up draining trench
+    - Connected roof to pool
+    - Closed pool bottom
+- [[Harmonization]]
+    - Bought and transported gravel
+    - Created draining pipes
+    - Covered one edge in gravel
+    - [[IOLEE]] private session, started healing process
+    - [[Bridge Medicine]] Inception

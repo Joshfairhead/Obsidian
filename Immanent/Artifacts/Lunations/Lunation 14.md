@@ -1,0 +1,27 @@
+- [[Discovery]]
+    - Got to know Christoph + Sanel (Ledger Grant)
+    - Call for Transvestment Working group
+    - Discovered and playing around with h3-js 
+    - Implementing a quasar cross platform app
+    - Brought keyboard and NUC to the [[Hack-Along]] house
+- [[Opening Loops]]
+    - Ledger Grant Writing
+    - Integrated h3 with mapbox into the quasar app
+    - emptied lake
+- [[Closing Loops]]
+    - WeQuest Ledger Grant Submitted
+    - Upgraded quasar app with vue 3 with TS
+    - Making treeholes
+    - Till grounds
+    - Looking for farmbot rails
+- [[Harmonization]]
+    - HoloQuest Angular, h3 and mapbox
+    - Planting trees and shrubs
+    - Transvestment call + doubts
+    - Harmonising efforts with identity / mutual credit/ hexagons
+    - Dusting off Discord Bot for Equinox [[Unconf]]
+    - Mutualize RSM
+    - Websocket bot for
+    - Equinox First call
+    - Strange Spark site update
+    - 

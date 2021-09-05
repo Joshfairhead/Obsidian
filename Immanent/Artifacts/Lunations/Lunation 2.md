@@ -1,0 +1,33 @@
+- [[Discovery]]
+    - [[Liminal Association]] : profit, non profit. The non profit does research and developmaent. Handles donation of time and spaces, profit looks at contribution and setsup spinoff companies based on that measure.
+    - Create a project page for every hackalong  project. Use standard hugo template?
+Better to be a hugo + web3/ holochain module
+    - Interesting fields for project submission:
+        - "What is the purpose (300)
+        - Tweet your project (120)
+        - Where are we? This is the status quo, interpreted as problem statement
+        - Where we would like to be? Vision, far star
+        - How is this good for society?
+        - link to white paper (google doc)
+        - link to github
+        - list of contributors (3box addresses)
+        - Donation button with leaderboard
+        - Download [[Open Source]] ( ipfs hash)
+        - get commercial license
+        - contact
+    - [[Team of Teams]] -> Team of templars
+        - Dot voting induction
+        - Resilence: choose how much you choose to socialize, redistribute resources to the network
+        - Put up a socialization bounty
+        - EG: 20% of potential price to external collaborators
+        - What happens to the prixze when no-one collaborates?
+    - Noomap nodes not bubbles -> every screen you get lost figuring out where you are. Use metatron as a fixed structure. 
+    - Frame 12 aspects you would like to share.
+        - Can the position mean something?
+        - Can the location link up to other people who have placed them in the same space, or as opposite (negative space collaboration)
+    - Possible to login from linkedin, fetch skills attestation, make person select 12 of them.
+    - [[Hack-Along]]: contribute to your and to projects you love by attributing them kudos (thus socializing rewards with them)
+    - Give kudos to teams you like and to people that helped you out. Reciprocity.
+    - 80/20 templar [[Badges]]: you can only give [[Badges]] to 20%of your connections. You replenish your badge arsenal as you connect with more people. Inventivises high signal badge passing and connecting with more people outside of your cohort
+    - Find an events and grants person. Figure out incentives.
+    - Create hackathons /events./grant deadlines calendar.

@@ -1,0 +1,28 @@
+- [[Discovery]]
+    - Listing local projects on Github
+    - Crowdfunding Initiatives?
+    - Shopping EPDM Liners for lake and waterfall
+    - Holochain Identity: Personas and Profiles
+    - Silva's meditation method
+    - [[Roberto's Routine]]
+    - Gaia Dymaxion Map
+    - [[Liminal Grounds]]
+    - Hubs as nodes into offer/requests. Pods automatically request necessary automations/ futile services to become hubs.
+    - Moved greenhouse pieces to the olive garden
+- [[Opening Loops]]
+    - Phil releases Persona and Profile demo
+    - [[AdaCast]] revisit from calendar zome prospective
+    - Social Enterprise/Cooperative/Association?
+    - Mounting of Greenhouse started
+- [[Closing Loops]]
+    - Mounting greenhouse walls
+    - Ordered liners
+    - Vue3 +  [[Tailwind]]
+    - Big pump scam
+    - [[Liminal Grounds]] as a agricultural cooperative /  agriturismo
+    - Hairdresser would love to join the cooperative, will then inform his clients they could get free haircuts
+- [[Harmonization]]
+    - Mounting greenhouse roof
+    - Quasar frontend framework
+    - Transactor form Guillem
+    - Shared feelings with "lunation graphs"

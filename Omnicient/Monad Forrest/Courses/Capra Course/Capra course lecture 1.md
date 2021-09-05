@@ -1,0 +1,81 @@
+---
+Tags: [Course]
+---
+
+# Capra Course L1
+
+- [Link](https://spring.capracourse.net/lessons/lecture-1-systems-thinking/)
+    - Summary
+        - In the first lecture, I introduce the main theme of the course, beginning with an assessment of the state of the world today. I emphasize that the major problems of our time — energy, the environment, climate change, economic inequality, violence and war — are all interconnected and interdependent. They are systemic problems that require corresponding systemic solutions. __(Section 17.1)__
+        - One of the main messages of this course is that there __are__ solutions to the major problems of our time; some even simple. But they all require a radical shift in our perceptions, our thinking, our values. __(Introduction)__
+        - Unfortunately, this realization has not yet dawned on our political and corporate leaders who are unable to “connect the dots” and who refuse to recognize how their piecemeal solutions affect future generations. What we need is systemic solutions and sustainable solutions. __(Section 18)__
+        - Today, it is becoming increasingly apparent that a full understanding of these issues requires nothing less than a radically new conception of life. Indeed, such a new conception of life is now emerging. It encompasses many concepts and ideas that are now being developed by outstanding researchers and their teams around the world. In this course I present a synthesis of their works, a conceptual framework that integrates four dimensions of life — the biological dimension, obviously, but also the cognitive dimension, the social dimension, and the ecological dimension. And I also discuss various implications of this unifying vision — philosophical, spiritual, political, economic implications, and so on.
+        - So, this is the main theme of the course: the new systemic understanding of life and its many applications. I have called my synthesis “the systems view of life” because the new conception of life requires a new kind of thinking — thinking in terms of relationships, patterns, connectedness, context. In science, this kind of thinking is known as “systems thinking,” or “systemic thinking.” It emerged in the 1920s and 1930s from a series of interdisciplinary dialogues involving biologists, psychologists, and ecologists. In all these fields, scientists realized that a living system — an organism, a social system, or an ecosystem — is an integrated whole whose properties cannot be reduced to those of smaller parts. __(Section 4.1)__
+        - By the end of the 1930s the key characteristics of systems thinking had been established. The 1940s saw the formulation of actual systems theories. I call these the “classical systems theories.” __(Section 5)__ They include general systems theory and cybernetics. In the 1970s and 1980s, systems thinking was raised to a new level with the development of complexity theory, technically known as “nonlinear dynamics.” This is a new, computer-based mathematics that allowed scientists for the first time to handle the enormous complexity of living systems. Chaos theory and fractal geometry are important branches of complexity theory. __(Section 6)__
+        - The crucial characteristic of complexity theory is that it involves a nonlinear mathematics. When you solve a nonlinear equation with these techniques, the result is not a formula but a geometric pattern. The strange attractors of chaos theory and the fractals of fractal geometry are examples of such patterns. They are geometric shapes, visual descriptions of the system’s underlying complex dynamics. So, complexity theory is really a mathematics of relationships, a mathematics of patterns; and this is why it is so important for the understanding of living systems.
+        - From the 1970s and 1980s on, there has been a strong interest in nonlinear systems, and this has created a whole series of new and powerful theories that have dramatically increased our understanding of many key characteristics of life.
+        - My synthesis of these theories, which integrates life’s biological, cognitive, social, and ecological dimensions is the subject of this course. I believe that such an integrated view is urgently needed today to deal with our global ecological crisis and to protect the flourishing of life on Earth. As I mentioned before, the main problems of our time are systemic problems, and they require systemic solutions; and the systems view of life is really crucial for finding these solutions.
+        - It will be critical for present and future generations of students, and for business, political, and community leaders to really understand the basics of this new systemic conception of life; and this also holds for a broad range of professions — from economics and management to politics, health, design, law — because they all have to do with life.
+    - Key concepts
+        - Dimensions of Life (Life, Dimensions of)
+            - Four different perspectives — biological, cognitive, social, and ecological — from which the phenomenon of life can be studied
+        - Organism
+            - An individual living system consisting either of a single cell, or as an aggregate of autonomous but closely coupled cells
+        - Systems thinking (or systemic thinking)
+            - Thinking in terms of relationships, patterns, and context
+        - System
+            - An entity consisting of several parts that interact to form a whole;
+        - Systemic property
+            - A property of a system as a whole, which none of its parts exhibit and which derives from the relationships and interactions between the parts
+        - Pattern of Organization (organization, pattern of)
+            - A configuration of relationships among the components of a system, which determines the system’s essential characteristics
+        - Cybernetics
+            - A systemic science of communication and control in machines and living organisms, developed in the 1940s by an interdisciplinary groupof mathematicians, neuroscientists, social scientists, and engineers
+        - Complexity theory
+            - A mathematical theory, technically known as “nonlinear dynamics,” involving a new set of concepts and techniques capable of solving nonlinear differential equations
+    - Complementary material
+        - [Mindwalk](https://youtu.be/IXcybeRWFcc)
+            - This is a film directed by my brother, Bernt Capra, based on my books __The Tao of Physics__ and __The Turning Point__. In the film, a physicist (Liv Ullmann), a politician (Sam Waterston), and a poet (John Heard) discuss the [[Paradigm Shift]] from a mechanistic to a systemic world view on the beautiful island of Mont Saint Michel, France. The full-length film (148 min) was produced in 1990 and represents my ideas up to that time. It is a nice background to the course, but is by no means required to understand the course.
+        - [What are systems - Linda Booth Sweeney](https://www.pbslearningmedia.org/resource/syslit14-sci-sys-bigidea/what-are-systems/)
+            - In this short (3 min) video, systems educator Linda Booth Sweeney, who has been a friend, colleague, and co-leader of management seminars for many years (see [www.lindaboothsweeney.com](http://www.lindaboothsweeney.com/)), explains how to understand systems in terms of relationships. The video is witty and fast-paced with nice visuals — a great companion piece to my introduction to systems thinking in Lecture 1.
+    - Conceptual map
+		- ![](assets/systemsviewoflife.jpg)
+        - Mindmap from the forum by: [Samnath Subbaraman](https://spring.capracourse.net/forums/users/ramnath/).
+			- ![](assets/systemsviewl1mindmap.png)
+
+    - References
+        - [[Gregory Bateson]]
+        - [[Ludwig von Bertalanffy]]
+        - [[Norbert Weiner]]
+        - [[John van Neumann]]
+- A living system is an integrated whole whose properties cannot be reduced to smaller parts.
+- For example sugar is sweet from an COMPOSITION of carbon, hydrogen and oxygen. Sweetness is thus a property of the whole.
+- All living systems share a set of common properties or organisation. Phenomena!
+    - A systemic understaning of health can be undrstood as the the health of an organism, heath of a society or health of a company etc. Same for the concept of stress (city, organism, economy)
+    - Shifting between the levels we can get an understanding of the phenemona 
+- Systems thinking is process thinking. A living system needs to be understood by its underlying processes; metabolism, development, evoloution. 
+- **History**
+    - Tradition of systems thinking emerged in the 20's between discussion from ecologists, biologists, psychologists.
+    - During the 20s/30s the basic concepts were developed and refined beginning with the definiton above
+    - Living systems are individual organisms (people, plants etc), parts of these (tissue, leaves) and communities (ecosystems; animals, plants, fungus)
+    - By the 30's most of the concepts had been established 
+    - This was confirmed in quantum physics. 
+    - In the 40's these theories were integrated into conceptual frameworks. AKA the classical systems theories fo the 40s allowing scientists to 
+        - General systems theories
+            - [[Ludwig von Bertalanffy]]
+        - Cybernetics (maths, social, political)
+            - [[Norbert Weiner]] and [[John van Neumann]]
+    - Theres a conceptual watershed between classical theories of the 40s and the newer theories of the last 30 years. 
+        - The distinctive feature of the new theories is a mathematical framework known as complexity theory
+            - Allowed scientists to handle the complexity of living systems.
+            - Simple example: ecoli
+                - Inside is a network of thousands of chemical reactions. Until recently there was no way to model this. Computers aided this (complexity theory, chaos theory, fractal geometry)
+            - Non linear mathmatics/non-linear dynamics
+                - In science we were previously told to avoid non-linear equations! (coupled systems on nonlinear differential equations) AKA higher mathematics
+                - We were taught that when you meet a non-linear equation you should try replace it with a linear equation. Up until the 70s this was the paradigm!
+                - River example, ripples in the river is linear. A rock chucked in the middle is non linear complex movement
+                - In the 70's scientists developed new techniques to tackle and solve non-linear equations and discovered a pattern below the seeming chaos.
+                - Chaos theory is technically about Order. 
+                - Originally when you solve non-linear equations with these primitives techniques, you simplify them.
+                - With non-linear mathmatics we solve them differently - with computers - resulting in a geometric pattern called a strange attractor! Visual descriptions of the underlying systems complex dynamics. A mathmatics of patterns. All living systems are non-linear so its best to understand them by patterns. 
+    - This is the watershed!

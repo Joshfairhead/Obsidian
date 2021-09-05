@@ -1,0 +1,8 @@
+- [[Themes]]
+    - Started building [[Farmbot]]
+    - Enneagram Course
+    - Opinionated Discussions
+        - build then design vs design then build
+        - Me centric vs We centric views
+    - Personal issues draining everyone of their energy
+    - 

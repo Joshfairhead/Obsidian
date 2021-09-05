@@ -1,0 +1,6 @@
+
+# Theos
+- https://async.hackalong.io/t/abundance-protocol-theos-io/33
+- Under the prevailing economy, human civilisation has achieved the height of its industrial and technological success. Yet, increasing inequality and environmental degradation are forcing us to consider whether the paradigm is serving people and the planet. Looking for alternatives, we recognise that an improved economy must begin to respect ecological boundaries and social wellbeing, and shift from prioritising self-interest towards encouraging prosocial relationships. How can we disrupt the established paradigm and bring about systemic change in the real world?
+- With the latest advances in AI, complexity science, and blockchain technologies, we now have the opportunity to create novel protocol-based social coordination systems. Widespread transition to a new paradigm now involves people opting in to a digital social-economic network when they are ready, instead of necessitating the difficult process of conventional political transformation.
+- The need for elected human representatives and centralised institutions is replaced with consent-based protocols which define how we conduct our relationships with one another and our environment. These new ‘economic’ protocols can be designed with different rules and explicitly defined objectives embedded into their very architecture.

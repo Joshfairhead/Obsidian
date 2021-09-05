@@ -1,0 +1,159 @@
+---
+Tags: [Artifacts]
+---
+Related:
+
+- Projects
+    - [[Liminal]] Village(s)
+    - XS Exchange
+    - [[AdaCast]]
+    - WeQuest
+    - [[LunarPunk Labs]]
+    - Mutual credit
+    - Holons
+- Verticals
+    - Goods
+        - Artistic projects
+        - local currency
+        - Waste streams materials /food
+        - Automatic/low effort farming systems
+        - Water purification System
+        - Public art
+        - Clothing
+        - Mangas (prosumer books)
+        - Books (easy ID, data entry, recognized and adopted topology/category)
+        - Seeds (highest return of investment in a year >1000x)
+        - Food (Our Produce)
+        - Energy
+            - Off grid boxes
+        - Tools sharing (drill, escavators)
+        - Farmbot/global village replication service (maker spaces)
+        - CHON ([[Carbon]], hydrogen, oxygen, nitrogen)
+        - Music
+        - Art
+        - [[Open Source]] hardware
+        - Wine
+        - Medcine
+    - Services
+        - [[Securities]]
+            - Tokenising everything
+                - REITs
+                - Companies/services
+                - Energy industry
+                - Land
+                - Financial instruments
+                - Stocks
+                - Bonds
+        - Cooking 
+        - data collection & monitoring
+        - Introductions /network connections
+        - Pain treatment prevention
+        - Social rehabilitation
+        - Maintenance
+            - Housing
+            - Gardening
+            - Fixing that thing
+        - Onboarding to web3/4
+        - composting
+        - Volunteering
+        - Care work for elderly
+        - On-demand businesses
+        - Online/offline gatherings / festivals conferences
+        - Topsoil production
+        - Food rescuing
+        - Aeroponics
+        - Permaculture
+        - Perma Fisheries
+        - Education
+        - Crowd funding
+        - Gaming
+        - Serious gaming
+        - Coaching
+        - [[Yoga]]
+        - Meditation
+        - Automation
+        - Facillitation
+        - Publishing
+        - Touristic information
+        - Guided tours
+        - Dancing
+        - Painting
+        - Software development
+        - Hardware prouction
+        - Product design
+        - Breathing
+        - Employment
+        - Dating
+        - Energy exchange /KW current-see
+        - Farming
+            - Mushrooms
+                - Organic Plastics
+                - Mycellia soil
+            - Animals
+            - Bees
+        - Carbon sequestering 
+        - Peer review
+        - Syntropic [[Badges]]
+        - Node delegation
+        - Filtering
+        - Wikis
+        - Search engine
+        - Indexing
+        - Information
+        - Payment flows (stackable DAOs)
+        - Data Visualisation
+        - "Brand points" (transparent brand accounting)
+        - Transport
+            - Car share
+            - Electric bike riders
+            - Aviation
+        - Logistics
+        - Distributed Farming/Land Easing
+            - Hemp
+                - Oil
+                - Fibers
+                - Biomass
+                - Medicinals
+                - Paper
+                - Construction materials
+                - Clothes/materials
+            - Decorative Plants
+            - Fruit trees propagation (airlayering)
+            - 
+        - Distributed Manafacturing
+        - Rooms (handle accommodations @ hubs)
+        - Land regeneration earthworks (sandro)
+        - Sustainable Housing (geoship)
+        - Identity 
+        - Data feduciary
+        - Responsibility planning
+        - Knowledge mapping
+        - Search engines/Data science
+        - Governance/Deliberative democracy
+        - Consulting
+        - White labeling
+        - Social innovation lab
+        - Data exchange
+        - Hubs
+        - Community gardens
+        - Medical services
+        - Augmenting intellect (interfaces)
+        - Internet of agreements
+        - Mutual Insurance
+        - Matterium
+        - Digital twins
+        - Social graph 
+        - Kumu style visualisation
+        - Live social mapping (sumApp)
+        - [[Badges]] /certificates
+        - Education
+        - [[Open Source]] contribution tracking
+        - Reputation 
+        - Market place
+    - Uncatogorised
+        - Appreciation
+        - Recognition
+        - Social
+        - fair trade
+        - peer production
+        - [[Open Source]] solutions / dual license

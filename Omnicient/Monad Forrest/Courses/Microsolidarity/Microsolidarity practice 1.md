@@ -1,0 +1,136 @@
+- Structure
+    - Welcomes
+    - Prompts
+        - ⏰We meet today for 90' 
+        -  🎧Headphones really help 
+        - 📹Keep your camera on if you can 
+        - 💬Keep the Chat window open 
+        - 🔴We're recording 
+        - 📵Stay present and turn off alerts 
+        - 📝Create a journal for your own notes
+    - About zoom - clicking buttons
+    - Space to take notes
+    - 🧭 Agenda: 
+        - - Get to know each other (in pairs) 
+        - - Intro to key concepts
+        -  - Share in small groups (4 to 5 people)
+        -  - Collect our learning questions for the week 
+        - - Whole group reflection
+    - Background from Rich and Nati (definition of what we do and experience)
+    - 3 rounds of break out rooms
+        - 4 mins with another person
+        - Prompt halfway
+    - ❓Introduce yourself without mentioning your job. eg, your family configuration, favorite activity for weekends, hobies...
+    - ❓Where do you feel most at home and why?
+    - ❓What does community mean for you?
+    - ❓Why did you join this [[Microsolidarity]] Week? 
+    - ❓What questions are you holding? What do you want to learn this week?"
+    - Collect questions that emerged
+    - 🔍 How did it feel today to be in pairs, crews, whole group? What did you notice about the different relational spaces?
+- References
+    - https://en.wikipedia.org/wiki/Riane_Eisler (domination/partnership)
+    - https://en.wikipedia.org/wiki/Internal_Family_Systems_Model
+    - From Daniel Kazandjian to Me: (Privately) (06:17 pm)
+        - Nice meeting you :) Forrest Landry wrote a modern book on metaphysics. Thought you might be interested in it
+- Chat log
+    - 18:00:24	 From Josh to Tibor Reunion island (Privately) : Ciao!
+    - 18:00:28	 From Ashlee Shoaff : trying to get my video set up. on another person's device : )
+    - 18:01:15	 From Nati & Rich - Tuscany : ⏰We meet today for 90' 
+    - 🎧Headphones really help
+    - 📹Keep your camera on if you can
+    - 💬Keep the Chat window open
+    - 🔴We're recording
+    - 📵Stay present and turn off alerts
+    - 📝Create a journal for your own notes
+    - 18:05:12	 From Nati & Rich - Tuscany : 🧭 Agenda:
+    - Get to know each other (in pairs)
+    - Intro to key concepts
+    - Share in small groups (4 to 5 people)
+    - Collect our learning questions for the week
+    - Whole group reflection
+    - 18:06:51	 From Josh - Italy to [[Roberto Valenti]] - [[Liminal]] Village - Italy (Privately) : Ah ha, you made it!
+    - 18:07:05	 From Josh - Italy to [[[[Roberto Valenti]]]] - [[Liminal]] Village - Italy (Privately) : Came looking but you were awol
+    - 18:07:28	 From [[Roberto Valenti]] - [[Liminal]] Village - Italy to Josh - Italy (Privately) : Nice hairs :P
+    - 18:07:34	 From Josh - Italy to [[Roberto Valenti]] - [[Liminal]] Village - Italy (Privately) : Hahaha
+    - 18:11:08	 From Nati & Rich - Tuscany : ❓Introduce yourself without mentioning your job. eg, your family configuration, favorite activity for weekends, hobies...
+    - 18:17:25	 From Nati & Rich - Tuscany : ❓Where do you feel most at home and why?
+    - 18:17:26	 From Daniel Kazandjian to Josh - Italy (Privately) : Nice meeting you :) Forrest Landry wrote a modern book on metaphysics. Thought you might be interested in it
+    - 18:17:41	 From Josh - Italy to Daniel Kazandjian (Privately) : Amen, thanks :)
+    - 18:23:03	 From Nati & Rich - Tuscany : ❓What does community mean for you?
+    - 18:28:43	 From Drew Hornbein - Colorado USA : You’re doing so gooood!
+    - 18:28:44	 From Josh - Italy to Ronen (Bhudeva, Romania) (Privately) : Ciao :)
+    - 18:28:59	 From Bea 🌱 Maastricht, Netherlands : You’re doing great!!!!!!
+    - 18:29:03	 From Josh - Italy : +1 :)
+    - 18:29:13	 From Ronen (Bhudeva, Romania) to Josh - Italy (Privately) : :) Hey Josh 
+    - 18:29:27	 From Josh - Italy to Ronen (Bhudeva, Romania) (Privately) : Good to see you :)
+    - 18:30:14	 From Ronen (Bhudeva, Romania) to Josh - Italy (Privately) : yeah ... seeing you here feels like we are starting to create a shared field :)
+    - 18:32:11	 From Josh - Italy to Ronen (Bhudeva, Romania) (Privately) : Modal convergance in the social graph! Waves :)
+    - 18:41:48	 From Drew Hornbein - Colorado USA : “Where is my tendency to dominate or submit”
+    - 18:43:11	 From Daniel Kazandjian : “Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.”
+    - Margaret Mead
+    - 18:43:38	 From Daniel Kazandjian : Also relevant: “There are no passengers on spaceship earth. We are all crew.”
+    - Marshall McLuhan
+    - 18:44:02	 From Josh - Italy to Daniel Kazandjian (Privately) : Dig the addendum :p
+    - 18:44:25	 From Daniel Kazandjian to Josh - Italy (Privately) : thanks ;)
+    - 18:48:13	 From Romy - Barcelona : you’re cutting out for me at least
+    - 18:48:57	 From Bea 🌱 Maastricht, Netherlands : dating
+    - 18:49:34	 From Hugi Stockholm : No sound ?
+    - 18:49:39	 From Hugi Stockholm : or just me?
+    - 18:49:46	 From Hampus - Stockholm : just you
+    - 18:49:47	 From Kim – Stockholm : I have sound
+    - 18:49:48	 From Josh - Italy : Just you, and potentially others
+    - 18:49:51	 From Sabina - Milan : I have sound
+    - 18:50:25	 From Bea 🌱 Maastricht, Netherlands : So cute u wanna make friendssss
+    - 18:50:45	 From Drew Hornbein - Colorado USA : 🥰
+    - 18:52:56	 From Nati & Rich - Tuscany : "❓Why did you join this Microsolidarity Week?
+    - ❓What questions are you holding? What do you want to learn this week?"
+    - 19:15:02	 From Nati & Rich - Tuscany : *******************************
+    - 📝 Share your question/learning objectives here:
+    - 19:15:25	 From Drew Hornbein - Colorado USA : - What patterns are available to help organic relationships emerge?
+    - 19:15:42	 From Maria - Stockholm (Blivande) : 
+    - 19:15:46	 From Sean Andrew : What is the lightest structure needed to connect and do work together?
+    - 19:15:47	 From Michal, in Pico Island : (Kinda an obvious one) Connect with other people who are experimenting with microsolidarity
+    - 19:15:47	 From Drew Hornbein - Colorado USA : - what are some KPI (key performance indicators) for the health of relationsh
+    - 19:15:49	 From Josh - Italy : - How can we find a healthy balance between structure and network?
+    - 19:16:02	 From Irem - NY : - How can concepts of microsolidarity be applied to large organizations/existing structures?
+    - 19:16:05	 From Gloria - Dorset,UK : Be really interested to just learn more about how to apply personally and also with younger hungry passionate people.
+    - 19:16:10	 From Romy - Barcelona : How to do crews with highly diverse people from day1? And how to get the non-usual suspects to accept those practices/make time for this?
+    - 19:16:19	 From Daniel Kazandjian : What separates a crew from a group of friends you just hang out with? What’s the difference between crewship vs friendship?
+    - 19:16:27	 From Lana, Almere, The Netherlands : How do encourage ledership in non-hierarchical structures? 
+    - 19:16:30	 From Michal, in Pico Island : How to get out of the speed/goal driven mindset and focus on patiently growing nurturing relationships over time
+    - 19:16:35	 From Daniel Kazandjian : How can we get the benefits of shared-identity without being too identity-oriented?
+    - 19:16:39	 From Tom S (New York City) : What patterns are available to help organic relationships emerge?
+    - 19:16:43	 From Daniel Kazandjian : How do we develop/practice crews digitally?
+    - 19:16:44	 From Silvia, Azores : What are some concrete examples of people who are starting crews/congregations successfully?
+    - 19:16:53	 From Joshua 🍍 Maastricht, NL : How can I transition a group from my guidance to self-leading/organising with intrinsic fire?
+    - 19:17:07	 From Tom S (New York City) : Can R&N talk about the shared finance part?
+    - 19:17:10	 From Alberto, Switzerland  : Can we have crews made of crews ?   on many crews / congregations you can effectivelly participate ?
+    - 19:17:13	 From Marek (Hong Kong) : - How to effectively align values in an early crew?
+    - 19:17:18	 From Lana, Almere, The Netherlands : How do we know how to put people together? What are the invitations for people? and how can we engage people to self-organize?
+    - 19:17:23	 From Sean Andrew : How might we balance sense of urgency (to get our shit organized before tecnosphere/ecological collapse) and the need to create deep lasting transformation (can’t go fast to go slow…which might be what we need?)
+    - 19:17:48	 From Sandra Kim : How can these structures be trauma-informed to address people’s struggle with belonging/giving care/receiving care as well as collective traumas with people of different identities
+    - 19:17:53	 From Nina Stockholm : How to run a small business without falling into market economy thinking. Are there other ways of realising our business projects, with more meaning, solidarity and flow of energy?
+    - 19:18:41	 From [[Roberto Valenti]] - Liminal Village - Italy : Can we scale up congregation towards a global community? Something along of the lines of what  religions can do?
+    - 19:19:05	 From Nati & Rich - Tuscany : 📝 Write some reflections in your own journal:
+    - 🔍 How did it feel today to be in pairs, crews, whole group? What did you notice about the different relational spaces?
+    - 19:19:07	 From Tibor Reunion Island FR : I'm interested in how humans have the capacity to create new systems , especially during hard times
+    - And how can we can continue building something new  and not beleive that society today is at an endpoint but just at a phase and it's essential to evolve?
+    - And offcourse  how to visualize  it's evolution, using tools and methods and a lot of sharing and collaboration  ?
+    - 19:19:10	 From Nehha Wadhwa, Mumbai, India : How do you facilitate groups online to ensure value is derived within a few hours of connecting?
+    - 19:20:30	 From Hampus - Stockholm : How to connect and form synergetic relationships & exchanges between congregations internationally? Parallel economies/lifeboats/clusters.
+    - 19:20:50	 From Bea 🌱 Maastricht, Netherlands : How can a Congregation explicitly and with awareness contribute to self growth?
+    - 19:22:03	 From Michal, in Pico Island : amazing that you guys added this part into the call!
+    - 19:22:04	 From Nati & Rich - Tuscany : *******************************
+    - 📝 Share 1 reflection here or un-mute yourself to speak
+    - 19:23:42	 From Bea 🌱 Maastricht, Netherlands : Feel super curious to get to know what brought everyone here
+    - 19:24:19	 From Drew Hornbein - Colorado USA : I took on leading the group, due to not liking that dead space, but the group was aware enough to see that and support it.
+    - 19:24:51	 From Tom S (New York City) : Need time to build relationships - who are we all? (In group and in pairs both)
+    - 19:25:06	 From Michal, in Pico Island : When you bump into a person you’ve in a break out room before, it feels like you kinda sorta “know” them. Nice tool to ease participants into the call
+    - 19:25:47	 From Drew Hornbein - Colorado USA : i was able to get pretty vulnerable in the dyads
+    - 19:25:53	 From Maria - Stockholm (Blivande) : I found the 4 minute time span a bit short. I felt rushed. 5-6 minutes would maybe have been nicer :)
+    - 19:26:02	 From Maria - Stockholm (Blivande) : because it was interesting
+    - 19:26:19	 From Drew Hornbein - Colorado USA : The 15 second end time feels too rushed, I’d prefer 30 second countdown
+    - 19:26:31	 From Michal, in Pico Island : +1
+    - 19:27:18	 From Hampus - Stockholm : +1 on the countdown
+    - 19:27:21	 From Marek (Hong Kong) : The three short breakouts, definitely enhanced my feeling of belonging in the whole group. But I caught myself thinking it was too little time, I wish to spend more time with those beautiful individuals :) at least one or two min more
+    - 19:27:40	 From Silvia, Azores : I would like to have some time to reflect on questions (maybe 1 minute) before going into break out rooms

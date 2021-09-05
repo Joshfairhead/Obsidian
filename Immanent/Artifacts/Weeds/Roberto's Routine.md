@@ -1,0 +1,19 @@
+- 8AM Wake up at 8AM
+- 8:05 Pick up Elea, have breakfast with her
+- 8:30 Dance with Elea
+- 9AM Prepare Elea
+- 9:15 Drive Elea to kindergarden
+- 9:45 back at home
+- 10:00 active meditation and free [[Yoga]]
+- 10:30 2+ hours of global focus(with a buddy)
+    - calls
+    - designs
+    - implementation
+- ~13:00 Lunch
+- 14:15 pick up Elea from kindergarden
+- 3 PM play or do local chores with Elea
+- 6PM collective calls 
+- 7 PM dinner time
+- 8 PM put Elea to sleep
+- 9 Leisure
+- 12 AM bed time

@@ -1,0 +1,107 @@
+---
+Tags: [Frameworks, Primitives]
+---
+Related: [[Computer Science]] [[Clojure from the Ground Up]]
+
+# Clojure
+- # Intro
+    - About a month ago and a half ago I tweeted the chart above. Before that, I wasn’t sure I wanted to learn Clojure. The response from the Clojure community was pretty compelling, though, and the more I looked into it, the more I was convinced that it would be a good decision, regardless if I stuck with Clojure long-term. Well, I’m here today to tell you that I’m extremely pleased with the results of this experiment. I plan to stick with Clojure for the foreseeable future. And quite honestly, I would not be sad if I never had to write another line of JavaScript or [[Python]] again.
+    - But I don’t want to make this about imperative or object-oriented vs functional programming. Tribalism is a big problem in the programming world (and the real world). I think rising above the flame wars and taking the best from each side and dropping the worst is ultimately how one can avoid a local optima. You should play with [[[[Vim]]]], Emacs, and VS Code; you should learn [[OOP]], FP, and [[logic programming]]; you should use DuckDuckGo and Google, Firefox and Chrome; you should use Linux, Apple, NixOS, and Win– okay I won’t go that far.
+- # What convinced me to learn Clojure
+- ## The chart
+    - The chart I tweeted is from the [2019 Stack Overflow Survey](https://insights.stackoverflow.com/survey/2019#work-_-salary-and-experience-by-developer-type).
+    - The responses to my tweet were fairly balanced between the former and the latter. Ultimately, I don’t know the answer to the question, but I don’t think it really matters. The chart is compressing the experiences of 88,883 software developers. At best it can only tell us correlation. But that’s all you need to know.
+    - Experience and money are correlated, duh. But Clojure correlates with experience! I couldn’t stop thinking about this fact.
+    - You see, the biggest change for me in the past year or so has been a shift in my decision-making towards longer-term thinking. I’m 23, so I’m young enough that compound interest actually applies to me and old enough to actually care.
+    - The truth is, the longer you stick with something, the more you intrinsically love it. And the data was there. Clojurians love it.
+    - I think this is generally an under-appreciated fact about software engineering and computer science: all contributions to these two fields are less than 70 years old. We don’t have great traditions as in philosophy, mathematics, and literature that reach back centuries or millennia, and even within engineering, software is the youngest discipline. But the works we produce will far outlast any physical works (assuming the electronics and energy guys keep the lights on). If your dinky little JS bundle is scraped by Google or the Internet Archive, it’s going to be remembered forever.
+    - I for one would want a language that champions posterity and longevity, which in developer-terms might be backwards-compatibility, reliability, maintainability, and accretion. Clojure and Datomic do just that.
+    - Finally, on the money piece, I don’t think Clojurians care that much about it. I believe Clojurians are more so craftsmen and practitioners who intrinsically love what they do. Besides, we know if you just want “a job”, you should do JS, Java, or .NET. In this case, you’ll have far more jobs to apply to and compete with far more people, solidifying your status as a labor commodity.
+- ## [[Paul Graham]]
+    - Something that has never left me was Paul Graham’s [[[Beating the Averages]]](http://www.paulgraham.com/avg.html). I read this post around 4 years ago, when I was first getting into startups and before I even knew how to code. What stuck with me was not that he believed Lisp was the most powerful language, but that programmers could never know what the most powerful language was unless they used it.
+    - Lisp is so great not because of some magic quality visible only to devotees, but because it is simply the most powerful language available. And the reason everyone doesn't use it is that programming languages are not merely technologies, but habits of mind as well, and nothing changes slower. Of course, both these answers need explaining."
+        - In the same way that I believe all programmers should learn several paradigms and text editors, I believe everyone should learn to code if they have the opportunity. Not for some generic economic reason, but because it changes the way you think and it changes the way you learn. #[[meta-cognition]]
+        - I think most programmers would agree with the latter. But then many fail to extend this logic to learning a different paradigm or a sufficiently different language.
+        - If you want to change your consciousness, learn Clojure. You heard it here first, folks. Clojure is a mind-altering activity. Almost as good as meditation.
+- ## “**Every line of code is technical debt.**”
+    - The final thing that convinced me to begin learning Clojure were these two anecdotes of how little code you needed to write.
+    - In Gene Kim’s Love Letter To Clojure, he talks about rewriting an app 3 times:
+        - “In 2012, Flynn and Raechel Little wrote the first version as an iPad app in Objctive-C—it was about **3,000 lines of code**. (They did such an awesome job!! It worked splendidly until iOS 7 or so, when something broke terribly and it wouldn’t even start up anymore.)”
+        - “In 2015, I rewrote it as a **JavaScript/React** application, and it was about **1,500 lines of code**.”
+        - “In 2017, I rewrote it again as a **ClojureScript** application, and it was only **500 lines of code**! Holy cow!!!”
+    - From the podcast Functional Programming with Jessica Kerr on Software Engineering Daily:
+        - When asked about the benefits of Clojure, Jess says:
+    - Clojure code is incredibly dense. **If I have a file with 30 lines of code, it might as well be 1000 lines of java.** I’m not exaggerating. The code does a whole lot in a few words and once you’re comfortable with Clojure, man you can whip out a web service really fast.
+    - Later on, when talking about deployment and software more generally, Jess says:
+    - **Every line of code is technical debt.**”
+    - Now obviously you can tell Gene’s bias from his article title. Jessica, on the other hand, is a functional programming polyglot, and in the podcast talks about her experiences with not only Clojure but also Elixir, Elm, [[Haskell]], and [[Scala]].
+    - Regardless, I was astonished that [Gene](https://twitter.com/RealGeneKim) and [Jess](https://twitter.com/jessitron), who both have decades of experience in industry and pretty large followings as technical influencers, cited Clojure as having two orders of magnitude less code than other languages.
+    - I mean… that’s unbelievable, and if that doesn’t convince you, I’m not quite sure what will.
+- # Why I’m staying
+    - One measure of how ferociously you are on the learning curve is the velocity of revelations you have. The two periods of my programming career where I had the most back-to-back revelations were when I was learning [[Vim]] and this past month learning Clojure. And if you’re wondering what I mean by a revelation, I mean an insight, an a-ha moment so profound it stirs something in your soul. Ya I wouldn’t mind optimizing for revelations.
+- ## The [[REPL]]
+    - Take 15 minutes and watch this video by Val. You will never want to program without a [[REPL]] again. https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html
+- ## Datomic, Datascript, and Datalog
+    - I don’t even know where to begin. Datomic is so far in the future, so ahead of the curve, it feels like cheating (this is a common feeling I experience writing Clojure). Datomic might actually be Clojure’s best-kept secret.
+    - This section deserves its own article, and I will link it here when I learn more, but the TL;DR is:
+        - Datalog is a [[logic programming]] query language that uses set logic.
+        - Datascript is a frontend port of Datomic, which functions as a frontend store that handles application state (think redux). One way to query the store is with Datalog.
+    - Datomic is a durable storage service that can be self-hosted or hosted on AWS.
+        - It is distributed yet fully ACID-compliant, because it unbundles the database. It decouples reading, writing, and caching into separate processes.
+        - It is immutable and accumulate-only, like git or a blockchain. This notion of time provides the following:
+            - You can query the database at different points in time.
+            - You can query the db since a time.
+            - You can query the db as-of time.
+            - You can query the db with a transaction, letting you diff the databse: what is the before and after if I do this transaction.
+            - You can query for the schema at different point in history.
+        - Datomic’s version of a “record” is a Datom, a 5-tuple with the fields:
+            - entity
+            - attribute
+            - value
+            - transaction
+            - operation type
+        - Datoms as the building block provide flexibility:
+            - You don’t need to pre-define the schema to add attributes.
+            - You can update the schema through transactions (no more migrations!!!).
+            - “You can query for the schema at different point in history.”
+            - You can join any datom(s) with any datom(s). You don’t need to define single-to-many or many-to-many relationships.
+            - You can trivially make recursive queries.
+            - You can trivially make reverse lookups (graph db use-case).
+        - Datomic is indexed 4 different ways such that you can model the other major access styles
+            - row indexing (e.g. SQL)
+            - key/value indexing (e.g. redis)
+            - column indexing (e.g. Cassandra)
+            - graph (e.g. Neo4j)
+            - document indexing (e.g. MongoDB)
+            - From Day of Datomic Cloud 2018:
+                - ![](assets/clojurething.png)
+
+- ## Spec
+    - A common complaint of Clojure is being dynamically typed and the downsides associated with that. I haven’t used it yet, but Clojure spec addresses this and more. I am so so so excited to use Spec in my daily life. I never want to have to write a test again.
+    - [🔗](https://www.youtube.com/watch?v=VNTQ-M_uSo8)https://www.youtube.com/watch?v=VNTQ-M_uSo8
+- ## Macros
+    - From [[Clojure from the Ground Up]], an amazing intro to Clojure:
+    - Clojure isn’t just function-oriented in its syntax; it can be object-oriented, and stack-oriented, and array-oriented, and so on–and **mix all of these styles freely, in a controlled way**. If you don’t like the way the language fits a certain problem, **you can write a macro which defines a new language, specifically for that subproblem**
+    - [[Paul Graham]] on using macros at Viaweb:
+    - But I think I can give a kind of argument that might be convincing. The source code of the Viaweb editor was probably about 20-25% macros. Macros are harder to write than ordinary Lisp functions, and it's considered to be bad style to use them when they're not necessary. So every macro in that code is there because it has to be. What that means is that at least 20-25% of the code in this program is doing things that you can't easily do in any other language. However skeptical the Blub programmer might be about my claims for the mysterious powers of Lisp, this ought to make him curious. We weren't writing this code for our own amusement. We were a tiny startup, programming as hard as we could in order to put technical barriers between us and our competitors
+- ## [[Good Artists Copy; Great Artists Steal]]
+    - [Better destructuring than Javascript](https://clojure.org/guides/destructuring#_associative_destructuring)
+    - [Better list comprehension than Python](https://clojuredocs.org/clojure.core/for)
+    - [Better go routines than Go](https://blog.drewolson.org/clojure-go-comparison)
+	I don’t actually know if Clojure’s concurrency library, core.async, is better than go’s go routines. I haven’t used either in a running application, but they seem comparable based off a Google search. What I can say is that Clojure implemented Go’s defining feature and namesake as a library. That’s the power of [[macros]], baby.
+- # Things I don’t like
+    - There are too many libraries! So many routers and [HTTP servers](https://purelyfunctional.tv/mini-guide/clojure-web-servers/). Just start with Ring and Compojure. #[[Clojure Routers - [PurelyFunctional.tv](http://PurelyFunctional.tv)]]
+    - There are so many resources and books, aimed at various levels. See “Beginner Resources” for how I’ve been learning the fundamentals.
+    - There are a lot of IDEs too. “Clojure for the Brave and True” gives a nice starter kit for Emacs, but going beyond that requires tinkering with Emacs. My guess is that VS Code's Calva is quite usable. I've been liking Intelli-J's Cursive. And if you use [[Vim]] you'll probably be fine :)
+    - Error messages can also be too much and sometimes not super informative, Clojure being dynamically typed and outputting Clojure and Java stack traces. I think “Spec” will help with this, “Clojure from the Ground Up” has a fantastic section on debugging, and “The [[REPL]]” is your friend.
+- # Beginner Resources
+- ### Clojure from the Ground Up
+    - Not exhaustive but the most succinct and conceptually concise intro I’ve found so far.
+    - Can do in a few days.
+- ### Clojure for the Brave and True
+    - A much broader intro than Ground Up. Very playful and approachable.
+    - Can do over the course of a few weeks.
+    - I learned enough to where I could I build stuff and then skipped around and returned to skipped chapters as needed.
+- ### http://www.4clojure.com/
+    - Test-driven / koan-driven learning.
+    - I’ve done about half of the 156 questions. Seems like second half turns into leetcode advanced problems, i.e. somewhat contrived.

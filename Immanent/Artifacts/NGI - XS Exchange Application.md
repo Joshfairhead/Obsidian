@@ -1,0 +1,191 @@
+- Artifacts
+- Brainstorm:
+    - Natural Resource Offsetting
+    - When you take anything from the resource ecology, its basic resources are assigned to your wallet in negative. This represents your debt towards the resource ecology. One might be heavily indebted on one resource that can't offset. 
+    - Access liquidity
+- Brainstorm2:
+    - What is it [[Roberto]]?:
+        - Localised micro economic system
+        - Scarcity alleviation
+        - Access preference from localised transformers, incentivised to be at any location due to registered demand and geolocalised pricing to create circular economy
+        - The total value of the network will be thus represented by the total resources captured excluding perishables
+        - Dital platform to get what you want in exchange for whats in excess
+        - WeQuest = Demand driven economy
+        - XS = pricing system / offers
+        - Needs/Wants and a tansformation enzyme which takes these inputs and creates outputs
+        - Ebay + a feature of simulated output
+        - Composable machine 
+        - Network is the product
+        - When a resource enters the network its traced for its lifetime - in a circular economy thats for ever
+        - Where and whose indebted 
+        - Access liquidity
+            - couch in storage, gives to someone else, credited a couch or equivelent value
+            - Mutual credit - [[Harberger taxes]] as rental on resources
+        - Degeneration = pay via escrow etc / break it buy it
+            - Mutual insurance loss delta divide 3
+        - Regeneration = ESCO delta divide 3
+            - Land
+            - Collectables
+            - Old Car maintenance job
+        - Business Model
+            - Network takes a third of the delta or looses a third
+                - Deal with the asymmetric risk
+                    - Balance with regenerative culture?
+            - Mutual credit = free, transformation incurs cost
+            - Ebay with free area, accounting by the platform. Anything that requires monetyary payment = margin
+        - Target market = regenerative/risk adverse utilities -> stable base to more risky
+            - Steward and care work
+                - Health?
+                    - Coos Marche - health coop partnership
+        - [[Ricardian Contracts]] dictate the degrees of composability
+- Recipe specification
+    - As you specify resource inlet, specify if the resource gets destroyed in the process, or how much remains in the outlet process (thus creating a new resource passport, available for tracking and recycling)
+    - Specify tolerance on resource outlet for each basic component.
+    - Specify time required  if out of stock and in stock (allow change to specify if is out of stock)
+- **Pitch outline**
+    - **Cover**
+        - Title: XS Exchange
+        - Tag: Get access for your excess
+        - Tag: Exchange excess for access abundance
+    - **Problem** - Why
+        - Old industrial models of “take, make, dispose” leads to inefficient and ineffective resource utilisation and unsustainable growth - McKinsey
+        - Lots of value locked in under-utilised assets
+            - Illiquid access to goods
+            - Waste streams
+            - Siloed Data sets
+            - Empty housing
+            - Idle cars
+    - **Proposed Solution** - What
+        - Get access from your excess by unlocking value captured by illiquid assets
+            - Exchange is facilitated via a collection of novel web3 mechanisms
+                - Resource Ecology: 
+                    - An open and inclusive infrastructure that enables atomic resources to be represented as composable structures, configured through recipes to create higher order products (assets)
+                - TrueCost: 
+                    - By relating all resources to their basic components, assets can be priced intrinsically according to the cost of resources and processes required to manufacture and deliver them.
+                - Recipe Weaver: 
+                    - Combines available recipes to create and signal possible geolocalised resource pathways. Production is activated when viable pathways are selected.
+                - __Risk outsourcer?__ see materium [article](https://www.coindesk.com/vinay-guptas-big-idea-an-identity-layer-for-your-things)
+    - **Solution** II - How do we achieve that? Tech stack
+        - Proof of concept on Ethereum - Prototype on Holochain
+        - Composable Resource Recipes using [[Ricardian Contracts]]
+            - Owner creates asset and fills in information akin to an ebay listing which is represented as a claim
+            - External parties add information and attest to the validity of the owners claims. If their attestation is inaccurate, they accept liability. 
+            - When someone buys an object they can derisk their purchase by subscribing to whatever warrantees they like
+        - [[Crypto Economic Primitives]]
+            - [[Ricardian Contracts]]
+                - [[Digital Identity]] - identifiers/context
+                    - Identifiers applied to atomic resource units
+                    - Composed into assets
+                - [[Mutual Credit Index]] - resource offsetting
+                    - Assets used by consumers create debt to the biosphere that needs to be paid back either in kind or in alternative measure via resource offsetting.
+                - [[Harberger taxes]] - asset valuation
+                    - Given the TrueCost of two items; the ones minimising margin and minimising exergy will be prioritised
+                - [[Futurachy]] - determining demand
+                    - Speculation is used to determine demand in advance and focus efforts on prioritised signals (needs)
+    - **Impact** 
+        - Full transparency: Anyone will be able to see how anything is made, where, and the resources used (the “True Cost”). No more price inflation due to information asymmetry.
+        - Embedded Sustainability: By using resource based pricing, economising on price directly implies using less resources, therefore sustainability and circular economy become an emergent consequence of the protocol.
+        - Full inclusion: Since the value chain is open and transparent, anyone will be able contribute to any of its parts. You can either participate in the production process of existing recipes, or propose different ones to be included in the ecology. If it uses less resources, it will be picked up as part of the value chain.
+    - **Market Size & Opportunity Metrics**
+        - As an orthogonal exchange mechanism, every market vertical can be considered potential opportunity. 
+            - Unused stuff = about 20% of the economy
+            - The rest is stuff in use by industry
+        - A circular integration of:
+            - [Distributed production](https://www.alliedmarketresearch.com/3D-printing-emerging-economies-china-india-UAE-brazil-south-africa-market) (growing fab labs etc) - $4.5 billion (CAPR of 37.4%)
+            - [Logistics](https://www.alliedmarketresearch.com/logistics-market) - $12,256 Billion by 2022 (CAPR of 3.48%)
+                - KLM
+                    - $4m of lost packaging
+                    - Regulation prohibiting the shipment of counterfeit goods
+        - Key drivers for adoption:
+            - Regulation
+                - Transparent supply chains
+                - GDPR for data/identity
+        - entropy
+            - Waste streams
+            - Distributed manufacturing 
+            - Energy - Give excess energy to third parties, collect the energy somewhere else
+            - Accommodation - Share unused location to get access to other ones within the network.
+            - Data - Participate in the dataset to get access to the entire one.
+    - **Strategy** - bootstrappig
+        - [[Venture Studio]]
+            - Digital first
+                - Resource ecology 
+                    - Reputation flows for composable applications
+                    - Build libraries > Zomes> DNA's > hApps
+            - Physical second
+                - Resource ecology
+                    - Physical internet (e.g. KLM packaging)
+                    - Third party / Mutual insurance (e.g. TVM insurance)
+        - The initial partner ecosystem will consist of established [[Supply Chain]] operators who wish to innovate by introducing blockchain enabled services in their organization.
+        - Specialised consultants will onboard different verticals to the platform by curating domain-specific relationships
+        - We also want to provide the mechanisims for small suppliers to 
+        - entropy
+            - However, we recognise that during times of crisis sustainable portfolios deliver more value than traditional portfolios - (BlackRock 2020)
+                - Transport
+                - Energy
+                - Food
+            - The generalised mechanism ensures reciprocal exchange and circularity between provision and appropriation, as well as conversion. 
+                - Grow apple trees (labour) for apples (product)
+                - Anonymised personal health data for access to the global set
+            - Starting with resource tracking, we'll move into transformations
+            - As all networked goods need to be delivered, we will first onboard logistic services.
+            - We will create a data layer which aggregates existing public [[Supply Chain]] tracking.
+            - We will disrupt provenance by allowing cross-pollination of onboarded supply chains.
+            - We will then onboard manufacturer which want to decentralise their production
+            - Our starting verticals are: 
+                - p2p transportation
+                - [[Supply Chain]]
+                - Distributed manufacturing & production
+            - Successively:
+                - Regenerative agriculture & circular economy
+                - Land/Property easement
+    - **Business Model**
+        - entropy
+            - Network bootstrapping
+                - Bootstrapping will consist of a referral like reward system to incentivise network expansion
+                - Transaction fees are sent through the network recursively from a global network pot, to the local provisioners, to the personal appropriators
+            - Monetary transactions will be taxed (eg 5%)
+            - Subscription + transaction fees
+            - subscription voided for low volumes.
+            - Our ultimate objective is a full transition towards a sustainable ecology. 
+                - Mutual credit transactions based on TrueCost will always remain free of charge.
+                - Any transactions involving monetary exchange will be charged by a nominal transaction fee. - Summer
+    - **Financials**
+        - Considering a 5% transaction fee, 
+    - **Ask**
+        - 150k to support team needs and expenses for the  first year
+        - 
+    - **Team & Partners**
+        - Bryan (sustainability engineer), [[Roberto]] (AI, blockchain), Josh (communication-outreach), [[Thomas]] full stack software, [[Maija]] interface, [[Sam Butler]] ( Business Dev)
+        - Partners:
+            - [[Liminal]] Village - Provisioning working place and accomodation
+            - Vipper eWings razvan
+            - excess materials exchange
+        - Seek-out partnerships with
+            - Provenance
+            - [[Open Source]] Ecology
+            - 
+    - **Summary**
+- Application questions
+    - Pitch deck
+    - Other relevant documentation
+    - How much investment have your recieved so far 0
+    - What are you developing and why does the world need it
+    - Whats the backstory? What led you to the idea
+    - Whats unique about the company?
+    - Please provide all team members academic degrees and work experiences including linked in accounts 
+    - Please provide us links to team members github profiles
+    - Are you full time in the company, if not why not?
+    - Why is your team best suited to develop this business?
+    - How do you know your founders? How would you describe your team relationship? How do you resolve conflict?
+    - Who is going to be your first hire? What core competencies will that person need?
+    - What are people doing now instead of using your product?
+    - Who are your direct competitors? Why are you better?
+    - What will stop others copying the project and model?
+    - Whats the biggest assumption in your business? What happens if it goes wrong?
+    - How are you tracking progress currently? Whats the one metric you use?
+    - Who are your top 3 customers? (current or target if none at current) How are they similar and differnt? Why do they love the product?
+    - If you are an open source project, how will you attract external contributors? If you are closed source how are you building an ecosystem of partners?
+    - Do you have a demo? 
+    - Who owns the IP if there is any? Are there any overlaps or non competes (particularly applicable to university or research teams)
+    - Ask for new recommendations?

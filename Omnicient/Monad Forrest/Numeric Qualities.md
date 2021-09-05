@@ -1,0 +1,61 @@
+---
+Tags: [Artifacts, Esoteric]
+---
+Realated: [[Qual Systems]] [[Enneagram]]
+## Number as architype
+- **Meta**
+	- **Open**
+		- Odd numbers
+	- **Closed**
+		- Even numbers
+- **One**
+	- Union, fusion, totality
+	- Reformer in the enneagram
+- **Two**
+	- Differentiation, opposites, dualism, polarities, [[Paradox]], diplomacy, partnership
+	- Negative space
+		- Where theres one, theres always two
+		- Yin/yang
+	- Helper in the enneagram
+- **Three**
+	- Naive Infinity, non-duality, relation
+	- Helium 3 particle problem
+	- Active force
+	- Achiever in the enneagram
+- **Four**
+	- Sharpness, definition, semantic grid, 
+	- Biblical fisher men / disciples
+	- 2x2 Matrix / four quadrants
+	- Individualist in the enneagram
+	- Field of action in [[Qual Systems]]
+- **Five**
+	- Meta, many mountains, causal paths
+	- Pentagram
+		- Man, of the earth 
+		- Five fingers, five limbs, five senses
+	- Investigator in the enneagram
+	- Significance in [[Qual Systems]]
+- **Six**
+	- Earth, security, grounding, integral
+	- Solomons seal
+		- meta-paradoxical
+		- Top down/bottom up
+		- Male/female integration
+	- Passive force
+	- Loyalist in the enneagram
+- **Seven**
+	- Notes of a scale, days of the week, create the world
+	- Meta three (two sets of three)?
+	- Enthusiast in enneagram terminology
+- **Eight**
+	- Challenger in the enneagram
+- **Nine**
+	- Neutrality, ambiguity, master
+	- Reconciling force
+	- Peacemaker in the Enneagram 
+- **Ten**
+- **Eleven**
+- **Twelve**
+	- Completeness
+	- Smallest abundant number
+	- EU flag, months, clock face, apostles, greek gods, tribes of Israel 

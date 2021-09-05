@@ -1,0 +1,14 @@
+- [[Discovery]]
+    - Zircle UI
+    - Sightcorp strikes back: "Give us your shares or go bankrupt"
+    - Covid @ [[Liminal]]
+- [[Opening Loops]
+    - Quarantine: Spending ±100% of time with Elea
+    - [[Personal]]Started digitising old video cassettes
+    - Fighting the dragons: Several Sightcorp meetings.
+    - GraphQL experiments :Using "The Graph" to query molloch DAOs into Holons
+- [[Closing Loops]]
+    - Investing in Sightcorp as a way further?
+    - GraphQL experiments
+- [[Harmonization]]
+    - exit in licenses?

@@ -1,0 +1,238 @@
+{
+  "Searching The Graph": {
+    "main": {
+      "id": "5e60d797f81f05c3",
+      "type": "split",
+      "children": [
+        {
+          "id": "e9d14eec3549ba5f",
+          "type": "leaf",
+          "state": {
+            "type": "markdown",
+            "state": {
+              "file": "DailyNotes/2021-07-21.md",
+              "mode": "source"
+            }
+          }
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "0fe8aa5b1b580df6",
+      "type": "split",
+      "children": [
+        {
+          "id": "ee641afc54f9a087",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "6a25edb9f44c356d",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {}
+              }
+            },
+            {
+              "id": "cbd29958181d46b8",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "[[Obsidian",
+                  "matchingCase": true,
+                  "explainSearch": false,
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "3f0a57e620f5fc2a",
+              "type": "leaf",
+              "state": {
+                "type": "starred",
+                "state": {}
+              }
+            },
+            {
+              "id": "15df50911a56c8a6",
+              "type": "leaf",
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "frequency",
+                  "useHierarchy": true
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300
+    },
+    "right": {
+      "id": "2b332221d0ff3d1e",
+      "type": "split",
+      "children": [
+        {
+          "id": "0fc3985e1c7f4af4",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "46e59225062415c8",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "file": "DailyNotes/2021-07-21.md",
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              }
+            },
+            {
+              "id": "af0932a9c97e6542",
+              "type": "leaf",
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "file": "DailyNotes/2021-07-21.md",
+                  "linksCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300
+    },
+    "active": "e9d14eec3549ba5f"
+  },
+  "Weaving The Graph": {
+    "main": {
+      "id": "5e60d797f81f05c3",
+      "type": "split",
+      "children": [
+        {
+          "id": "d681fdf9a3eac9aa",
+          "type": "leaf",
+          "state": {
+            "type": "empty",
+            "state": {}
+          }
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "0fe8aa5b1b580df6",
+      "type": "split",
+      "children": [
+        {
+          "id": "ee641afc54f9a087",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "6a25edb9f44c356d",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {}
+              }
+            },
+            {
+              "id": "cbd29958181d46b8",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "[[Climate",
+                  "matchingCase": true,
+                  "explainSearch": false,
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "3f0a57e620f5fc2a",
+              "type": "leaf",
+              "state": {
+                "type": "starred",
+                "state": {}
+              }
+            },
+            {
+              "id": "15df50911a56c8a6",
+              "type": "leaf",
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "frequency",
+                  "useHierarchy": true
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300
+    },
+    "right": {
+      "id": "2b332221d0ff3d1e",
+      "type": "split",
+      "children": [
+        {
+          "id": "0fc3985e1c7f4af4",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "46e59225062415c8",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              }
+            },
+            {
+              "id": "af0932a9c97e6542",
+              "type": "leaf",
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "linksCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              }
+            }
+          ],
+          "currentTab": 1
+        }
+      ],
+      "direction": "horizontal",
+      "width": 300
+    },
+    "active": "d681fdf9a3eac9aa"
+  }
+}

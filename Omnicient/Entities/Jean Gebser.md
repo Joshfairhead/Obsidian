@@ -1,0 +1,2 @@
+- [[Time]]
+- [Jean Gebser's View of Time and Development](https://www.youtube.com/watch?v=4Dz3XXjIeI8&t=14s)

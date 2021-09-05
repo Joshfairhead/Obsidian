@@ -1,0 +1,110 @@
+---
+Tags: []
+---
+Related: 
+# Holochain
+
+- Learning Holochain
+    - [Installing Holochain](https://developer.holochain.org/start.html)
+    - [Core concepts](https://developer.holochain.org/docs/concepts/)
+        - [The Basics](https://developer.holochain.org/docs/concepts/1_the_basics/)
+        - [DHT](https://developer.holochain.org/docs/concepts/4_public_data_on_the_dht/)
+        - [Conductors](https://developer.holochain.org/docs/guide/conductors/)
+            - [Conductor API](https://github.com/holochain/holochain-rust/blob/1787f199b12118103cef4300dd4ebc423085d44b/crates/conductor_lib/src/interface.rs#L340)
+    - Tutorials
+        - [Holochain Gym](https://holochain-gym.github.io/developers/)
+        - [Hello Holo Tutorial](https://developer.holochain.org/docs/tutorials/coreconcepts/hello_holo/)
+            - Run Nix shell first (updates...)
+                - nix-shell https://holochain.love
+        - [Hello Test Tutorial](https://developer.holochain.org/docs/tutorials/coreconcepts/hello_test/)
+        - [Hello GUI Tutorial](https://developer.holochain.org/docs/tutorials/coreconcepts/hello_gui/)
+        - [Hello Me Tutorial](https://developer.holochain.org/docs/tutorials/coreconcepts/hello_me/)
+        - [Hello World Tutorial](https://developer.holochain.org/docs/tutorials/coreconcepts/hello_world/)
+    - [[Rust]]
+    - [[Holochain Architecture Course]]
+    - [How to design a Holochain Application (design-workshop)](https://holochain-community-resources.github.io/design-workshop/#0)
+    - [[Holochian Open Development]]
+    - Potential reading
+        - [How to build a GraphQl - Holochain middleware](https://holochain-open-dev.github.io/blog/graphql-holochain/)
+        - [Rust HDK (Holochain Development Kit): Basics of Developing Distributed Peer-to-Peer Holochain Apps](https://www.publish0x.com/rhyzom/rust-hdk-holochain-development-kit-basics-of-developing-dist-xkoknn)
+        - [First-steps Tutorial](https://medium.com/holochain/first-steps-writing-holochain-happs-with-rust-80ae111960e)
+        - [Holochain Dev Pulse](https://medium.com/holochain/tagged/dev-pulse)
+- Random Repos that seem interesting
+    - Reddit:
+        - https://github.com/MightyAlex200/Comet
+    - Holo-health
+        - https://github.com/evomimic/holo-health/blob/master/holo-health-app-architecture.md
+    - Basic-chat:
+        - https://github.com/holochain/peer-chat
+    - Messaging/community - pretty decent:
+        - https://github.com/Hylozoic
+    - Facebook messenger rewrite:
+        - https://github.com/pythagorean/coolcats2
+    - Knowledge graph:
+        - https://github.com/stevenseeley/bridgit
+    - Knowledge graph and publishing tools, looks cool:
+        - https://github.com/OmniProject/omni
+    - Collaboration tools/publishing:
+        - https://github.com/cosmicsurfers
+    - Liquidity aggregator:
+        - https://github.com/orionprotocol
+    - Asset backed Mutual-credit currency.
+        - https://github.com/holochain/transactor
+- Identity Vault
+    - All about [[DeepKey]]
+    - [[Sacred Capital]]
+    - [Building Blocks for Sovereign P2P Identity](https://hackmd.io/Y4QSGqn6T_amCvHv6T9f6A)
+    - [Personas and Profiles](https://hackmd.io/pcDkiCJoQH-z6s_VS4LNRg)
+        - [Demo video](https://www.youtube.com/watch?v=4SD3z1QN0Dw)
+        - [Perspectivisim](https://github.com/lucksus/perspectivism)
+    - [HoloVault Storybook](https://holochain.github.io/holochain-ui/?selectedKind=HoloVault&selectedStory=Keep%20your%20data%20private&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Fnotes%2Fpanel)
+    - [Thomases Odyssey Miro](https://miro.com/app/board/o9J_kvVB9qQ=/) 
+    - [Holochain ZKP discussion](https://forum.holochain.org/t/can-you-integrate-zero-knowledge-proofs-on-a-holochain-app-without-requiring-universal-consensus-as-a-validation-rule/5932/3) [[ZK Proofs]]
+- Hackmd's
+    - [Discourse](https://hackmd.io/pXAP_fDGTSq9iY8RVr3Isg?both) [[Josh]]
+    - [Proposals](https://hackmd.io/-Jgro1VJT2mGhdcqUS4zFA?view) [[Josh]]
+    - [Designing a Holochain App ](https://hackmd.io/9BI8OQKhSAKyZ5Kc95cJcg) [[ArtBrock]]
+    - [How to build an entry relationship diagram](https://hackmd.io/XNPC4NUKRd2zja9Itja-fg) [[Guilliem]]
+    - [Implicit vs Explicit links](https://hackmd.io/RZn-QeU8TKuhBU-58IvRzg) [[Guilliem]]
+    - [LeaP](https://hackmd.io/_Uvrwr1HSNmfsWHqymcgvA?both) [[Hedayat]]
+    - [Dot voting](https://hackmd.io/jEcLAlfcRaWqjjTyIlYiPQ)
+    - [Holochain Design Challenges](https://hackmd.io/LoMJmGR0RfSkj8vXi2u33w?both)
+    - [Core Apps Prototyping: Deepkey, Personas, Players & Groups, Notifications, Address Book, Indexing, Geolocation, Chat, etc.](https://holo.hackmd.io/UApQP-cyS6COLDhSE9piGA?view) [[Philip Beadle]]
+    - [Mutual Credit](https://hackmd.io/X9KFfDJZRS2vL9uLOq1oAg?view)
+    - [Building blocks - neighbourhoods](https://hackmd.io/@sacredcapital/BJ24SXJyv)
+    - [Bridging across Happ Bundles](https://hackmd.io/SggiWgmLQyuyFany_y3pyw?view)
+    - [Resource tracker](https://hackmd.io/VAjWH1glQ1SRxl62D4uHeA?view)
+    - [Transactor](https://hackmd.io/3E0A1hBFQ4qlU9NW3BLwTw?both)
+- Concepts
+    - Levels of abstraction
+        - hApps
+            - A collection of DNA's
+        - DNAs
+            - A collection of Zomes (ordered) analogous to Microservices, usually ordered but not necessarily so
+            - [ABI is potentially a parallel](https://en.wikipedia.org/wiki/Application_binary_interface)
+        - Zomes
+            - Libraries
+    - Links
+        - Implicit link = 1:1 or 1:many
+            - Contained within an entry
+            - Immutable
+        - Explicit links = many:many
+            - Special type of entry
+            - Mutable
+            - Stored as metadata next to the base entry 
+    - DHT
+        - Shard - entries in the DHT closest to source chain
+            - links from private entries make no sense as not stored on DHT
+            - Links to private entries might do??
+        - Source chain - personal chain
+            - Entry that if public is then shared with nodes that have a close hash
+    - Discussions
+        - [Standardising Zome traits](https://forum.holochain.org/t/standardised-common-zome-traits/1642)
+- Tools
+    - [[HoloREA]]
+    - [Holoscape](https://github.com/holochain/holoscape) - UI
+    - [_Prtcl](https://github.com/uprtcl/spec)
+    - [Playground](https://holochain-open-dev.github.io/holochain-playground/) - Debug
+    - [CRISPR](https://github.com/holochain/CRISPR/wiki) - Low code editor
+        - [CRISPR cards](https://github.com/holochain/CRISPR/projects/1?fullscreen=true)
+    - [Perpsectivism](https://github.com/lucksus/perspectivism)

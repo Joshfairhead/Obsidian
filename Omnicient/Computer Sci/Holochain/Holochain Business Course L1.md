@@ -1,0 +1,53 @@
+[[Holochain]] [[Call Notes]]
+
+- **Frames of reference for building businesses & models**
+    - Viable systems model - Stafford Beer (David)
+    - [[Pattern Language]] - Christopher Alexander (David)
+    - Distributed Mutual Credit Currencies - Art Brock (David)
+    - Pain modelling - Stephen Alexander (David)
+    - [[Ceptr]], Metacurrency - Art & Eric (David)
+    - Constellations - Bert Hellinger (David)
+    - Evolutionary theory - Clare Graves (David)
+    - Complex Systems - Gregory Bateson (David)
+    - The End of Money, the Future of Civilization - [[Thomas]] Greco (Alexander)
+    - This changes everything -- (Anything by) Naomi Klein(Julia) +2 (David)
+    - George Monbiot — Out of the wreckage (Julia)
+    - Bruno Latour — Down to Earth (Julia)
+    - Anand Giridharada — Winner takes all (Julia)
+    - Charles Eisenstein — Sacred Economics (Julia)
+    - Nassim Nicholas Taleb — Antifragile: things that gain from disorder (Julia) + 1 (David)
+    - Paul Krafel — Seeing nature +1 (Julia)
+    - Douglas Rushkoff — Team human (Julia)
+    - Slavoj Zizek — Courage of Hopelessness (Julia)
+    - Rebecca Solnit — Hope in the Dark (Julia)
+    - Shoshana Zuboff -- Surveillance [[Capitalism]] (Julia)
+    - Nick Srnicek and Alex Williams -- Inventing the Future
+    - Walkaway - book by Corey Doctorow (Bear)
+    - Finite and Infinite Games - book James P Carse (Bear)
+    - Getting Things Done (Adriaan)
+    - Rework & Getting Real, by 37signals (Adriaan)
+    - Pragmatic Programmer (Adriaan Bouman)
+    - Bunch of trauma-related self-help books (Adriaan)
+    - Permaculture - Mollison & Holmgren(Viktor)
+    - Holistic Management - Allan Savoury (Viktor)
+    - Radical Mycology - Peter McCoy (Viktor)
+    - Better Work Together - [[Enspiral]] Collaboration (Viktor)
+    - Soil Food Web - Elaine Ingham (Viktor)
+    - ….
+    - Spiral Dynamics ([[Raphi]])+2 (David) - @[[Raphi]], pls check out Clare Graves
+    - Currency Design Workshop ([[Raphi]])
+    - The Hidden Life of Trees ([[Raphi]])+2 (David)
+    - ….
+    - Metaphors in Mind, Symbolic Modelling - James Lawley ([[Jakub]])
+    - Weak Links - Peter Csermely ([[Jakub]])
+    - Karl Friston’s work ([[Jakub]])
+    - Infinite and finite games - book James P Carse
+    - Platform Design Toolkit - Simone Cicero ([[Jakub]])
+    - Wardley Mapping (for strategy) - Simon Wardley ([[Jakub]])
+    - Treatise on Systems - Mark Burgess ([[Jakub]])
+    - Synergistic Selection - Peter Corning ([[Jakub]])
+    - The Future of Money : Creating New Wealth, Work and a Wiser World(hedayat)
+    - Seeing Nature - Paul Kraefel (Hedayat) +2
+    - The Logical Thinking Process by Dettmer (Gavriel)
+    - Platform Scale (Gavriel)
+    - Toyota Kata (Gavriel) +2 (David)

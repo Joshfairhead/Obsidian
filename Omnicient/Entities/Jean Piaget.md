@@ -1,0 +1,1 @@
+- [Stages of development](https://www.youtube.com/watch?v=IhcgYgx7aAA)

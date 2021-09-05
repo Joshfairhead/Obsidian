@@ -1,0 +1,139 @@
+---
+Tags: [Course]
+---
+
+# Capra Course L2
+
+- [Link](https://spring.capracourse.net/lessons/lecture-2-web-life/)
+    - Summary
+        - ****In this lecture, I begin my review of the systems view of life with the question: what are the essential characteristics of life at the biological level? The first thing to notice is that there is no life on Earth without cells. All living organisms are either single cells or multicellular. I can therefore concentrate on cells to discuss the defining characteristics of life. Within the cell, there are certain macromolecules — proteins, lipids, DNA, RNA, etc. — but their presence is not enough to define life, since they also exist in dead organisms.
+        - A first essential characteristic of biological life is the cell membrane, which actively participates in the chemical processes taking place inside the cell. It lets certain molecules in and keeps others out, and thereby determines the cell’s molecular identity.
+        - The second characteristic of life is the metabolism that takes place inside the membrane. Cellular metabolism is defined as "the ceaseless flow of energy and matter through a network of chemical reactions, which enables a living organism to continually generate, repair, and perpetuate itself." Metabolism is __the__ central characteristic of biological life. __(Section 7.2)__
+        - The understanding of metabolism includes two aspects.** **One is the continuous flow of energy and matter. The second aspect is the network of chemical reactions that forms the basis of all biological structures, functions, and behavior. The emphasis here is on “network.” One of the most important insights of the systemic understanding of life is the recognition that networks are the basic pattern of organization of all living systems. Ecosystems are understood in terms of food webs, i.e. of networks of organisms; organisms are networks of cells, and cells are networks of molecules. Social systems, finally, are networks of communications. Wherever we see life, we see networks.
+        - The defining characteristic of these living networks is that they are self-generating. The function of each component in the network is to transform and replace other components, including those of the cell membrane. This is the main idea of the theory of __autopoiesis__ (“self-making“) by [[Humberto Maturana]] and Francisco Varela. Living systems continually create, or recreate themselves by transforming or replacing their components. In this way they undergo continual structural changes while preserving their web-like patterns of organization. This coexistence of stability and change is indeed one of the key characteristics of life that has been recognized by biologists for centuries. __(Section 7.3)__
+        - Every interaction with the environment causes structural changes within the system. Maturana and Varela call this "structural coupling." A living system couples to its environment __structurally__, i.e. through recurrent interactions, each of which triggers structural changes in the system. There are two types of structural changes: changes of self-renewal (cyclical changes), and changes in which new structures are created (developmental changes). Both types of changes take place continually. However, the living organism is autonomous. The environment triggers structural changes, but it does not specify or direct them. A living system responds to a disturbance in its own, self-organizing way.
+        - Structural coupling is a very important concept in the theory of autopoiesis. As I explain in the lecture, the individuality of living organisms, their historical dimension, their learning capability and adaptability, and finally the coexistence of determinism and freedom, are all consequences of structural coupling. __(Section 7.4)__
+        - The theory of autopoiesis defines biological life as a particular pattern of organization — a self-generating network within a boundary of its own making. This definition and, more generally, the concept of metabolism, provides a clear and powerful criterion for distinguishing between living and nonliving systems. For example, it tells us that a virus, or a robot, cannot be considered living, because they are not able to synthesize their own components from the food in their environment. __(Section 7.6)__
+        - However, the theory of autopoiesis does not provide a detailed description of the physics and chemistry that takes place inside living organisms.
+        - For that, we have to turn to the first aspect of metabolism — the flow of energy and matter through the living organism. It turns out that the description of these metabolic flows is crucial to the understanding of the emergence of biological forms and functions. This is the subject of Lecture 3.
+    - Key concepts
+        - Living system (system, living)
+            - A living organism, a part of a living organism (e.g. a cell or tissue), or a community of living organisms (social system or ecosystem);
+        - Network
+            - A pattern of links (relationships) interconnecting nodes (things or processes ), which is the basic pattern of organization of all living systems;
+        - Metabolism
+            - In biology, the ceaseless flow of energy and matter through a chain of chemical reactions, which enables a living organism to continually generate, repair, and perpetuate itself
+        - Feedback cycle (or loop)
+            - In cybernetics, a circular arrangement of causally connected elements, in which an initial cause propagates around the links of the cycle, so that each element has an effect on the next, until the last “feeds back” the effect into the first element
+        - Autopoiesis
+            - The pattern of organization characteristic of biological life: a self-generating network of production processes within a boundary of its own making
+        - Structural coupling
+            - In the theory of autopoiesis, the interaction of a living system with its environment,  in  which  the  system responds to 
+environmental influences with structural changes in its own, self-organizing way
+        - Disturbance (of a system)
+            - In the theory of autopoiesis, an influence on a living system from its environment to which the systems responds with structural changes according to its own nature and nonlinear patterns of organization.
+        - Structural changes, cyclical
+            - Changes of self-renewal in a living organism (continual replacement of cells, renewal of tissues, etc.)
+        - I also wanted to include:
+            - structural changes, developmental
+                - Changes in a living in which new structures are created
+    - Complementary materials
+        - [A Visual History of Human Knowledge](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge)
+            - In this TED talk, Chilean designer Manuel Lima discusses the shift in data mapping from trees to networks. He has great visuals and the topics he discusses overlap quite a bit with Lecture 2 of the course.
+        - Lynn Margulis Interview moments
+            - This is a unique selection of short interview clips (12 min) from the private collection of the great microbiologist Lynn Margulis. These clips show Margulis at several stages of her life discussing many of her favorite subjects: microbial mats, the fundamental interconnectedness of the biosphere, the nature of life, symbiosis and symbiogenesis, and others. I am grateful to John Feldman and Hummingbird Films for their permission to show this collection. John is the producer of Symbiotic Earth, a documentary film about Lynn Margulis
+- What is Life? We will not address this in full human depth, but strictly a scientific view. We will first narrow our frame to a Biological view.
+    - What are the characteristics of living systems?
+        - Whast the difference between a mineral and a plant?
+        - Whats the difference between a rock and an animal?
+        - Living organisims are cells or a collection of cells
+        - We reduce to the simple system; cells are the simplest living system (this is reductionist, we should not fall into the absolute cartesian view though)
+        - Within cells there are organells (mitochondria) which are bacteria that invaded larger organisims and coevolved with them.
+            - They reproduce at different times from the cell but need the whole organism to survive
+            - The simplest bacterium is mycoplasma
+                - Has a genome consisting of a single string of double stranded DNA that floats around in the cell fluid
+            - How does a bacterium function?
+                - Metabolic processes involve macromolecules - long strings of atoms making up a carbon backbone
+                - Two types of these macro molecules are found in all cells - Proteins and nucleic acids; DNA, RNA
+            - Proteins = enzymes and structural proteins. Enzymes act as catalysts. 
+            - Most metabolic processes are catalysed by enzymes and these are specified by DNA in the genes (synthesised/produced) 
+            - Metabolic processes are genetically controlled via the enzymes which gives the metabolic processes great stability
+            - Between the genome and the metabolic processes go the RNA that are the messenger molecules delivering coded information for the synthesis of proteins from the DNA. They are the link between the cells genetic and metabolic features.
+                - The DNA is responsible for the self replication.
+                - The overriding importance of DNA might suggest that life could be identified as a chemical system that contains DNA.
+                - **Theres a problem with this definition.** When an organism dies the DNA doesn't not disappear, its just a molecule and remains in the dead organism. e.g. a wooden table
+                - The presence of DNA alone is thus not enough to define life. 
+                - The molecular structure is not sufficient to define life (though important) we have to also define the metabolic processes. In otherwords the patterns of relationships between the macro molecules. 
+                - This approach focuses on the cell as a whole.
+                - Pier Luigi Luisi calls these the DNA- centred view and the cell-centred view
+                - Cell centred view focuses on metabolic processes and patterns of relationships. Capra calls this the systems view
+            - Looking at the cell as a whole
+                - **Membranes**
+                    - Cells are characterised by a membrane which distinguishes between the system and environment
+                    - Within the boundary theres a series of chemical reactions by which the system sustains itself otherwise known as the metabolism
+                    - Most cells have other boundaries than membranes, plants have cell walls, other organisms have capsules but the membrane is the only universal boundary. 
+                    - Life has always been associated with water. If you don't have this boundary the metabolic processes would diffuse. **The membrane was important as a barrier against diffusion**
+                    - Membranes are not only a universal characteristic of life but they all have the same structure universally. This structure contains important clues as to the origin of life. 
+                        - Membranes are very different from cell walls; they are always active, moving and **participates actively** in the process of metabolism. 
+                    - The cells metabolic reaction contains a number of ions and the membrane controls the proportions (letting some in/out and maintains the proportions)
+                        - Through these activities it regulates the molecular composition and thereby defines "molecular identity". Different cells have different molecular compositions so membranes define the identity of the cell. 
+                            - Calcium is also an important part of the metabolic process. It needs some but very little so the membrane constantly pumps out calcium. 
+                    - This has an important general conclusion; **boundaries in the biological realm are not boundaries of separation but boundaries of identity.**
+                        - This is the first defining feature of life
+                - **Metabolism**
+                    - Metabolism takes place within the membrane boundary
+                        - Its defined as "the ceaseless flow of energy and matter thorough a sequence of reactions that allows an organism to continually generate repair and perpetuate itself"
+                            - This is the central characteristic of life. 
+                                - If it metabolises it's alive if doesn't it's not alive. This is the key difference between a living and dead organism; **what sages and poets call the breath of life!**
+                        - Metabolism is a network of chemical reactions that processes food and forms the biochemical basis of all biological structures, function and behaviour
+                        - The cell takes in nutrients from the outside cell through the membrane and sustains itself by a network of chemical reactions that take place inside the boundary and produces all of the cells components, when this is built it contributes to the network
+                            - Networks are the basic pattern of organisation of all living systems
+                                - Wherever we see life we see networks. these networks are not always living networks, its a relationship of processes. This can be functional or structural
+                                - The network is a non material pattern of relationships. 
+                            - The function of the network is to transform and replace other components
+                                - We should thus be recycling our poop :p
+                    - **Autopoiesis aka "Self-making"**
+                        - This dynamic of self-generation is the key characteristic of life
+                            - Identified by
+                                - Humberto Maturana
+                                - Francisco Varela 
+                        - Combines the physical boundary with the processes
+                        - Definition of living systems as autopoietic networks also means the phenomena of life has to be defined as a whole.
+                        - "Life cannot be ascribed to any single molecular component (not even DNA or RNA!) but only to the **entire bounded network**
+                        - There are two forms of feedback
+                            - Self-amplifying feedback ("positive")
+                            - Self-balancing feedback ("negative")
+                        - Because of the multiple self balancing feedback loops in living organisms, they portray a high degree of stability (body tempreture)
+                        - This stability is utterly dynamic and fluctuates
+                            - The more an organism fluctuates within tolerance limits the more dynamic the system is and the greater its flexibility. The better it can adapt to enviroments
+                        - Coexistance between stability and change is a key characteristic. 
+                            - The network changes while the structure doesn't
+                                - There are two types of change
+                                    - **Self renewal**
+                                        - Multicellular recycling their cells in cycles
+                                        - Inspite of these changes it retains its identity
+                                    - **Developmental change (new structures)**
+                                        - Either through environment or internal dynamics
+                                        - Structural coupling
+                                            - A living system couples to its environment structurally through recurrent interactions which triggers structural changes in the system.
+                                                - Cell membrane incorporating new cells 
+                                                - Nervous system changing in response to perceptions
+                                            - Continual structural changes - **History**
+                                                - Living systems are autonomous. Environmental influences trigger structural changes but does not direct them; the system decides for itself. 
+                                                - Responds to disturbance in a self organising way
+                                                - You can never direct a living system, you can only disturb it. 
+                                                - This structural coupling establishes a clear difference between how living and non living systems interact with their environments.
+                                                - As an organisms structure changes, its future response will be different - this is "learning". Thus a structurally coupled system is a learning system.
+                                                - Individuality of lifeforms are a result of structural changes in response to disturbances/perturbations. Structure is thus a record of history
+                                                - Since an organisms structure at any point of its development is a record of previous structural changes and since all changes influence the future structure of the organism, this implies the future behaviour of an organism is dictated by its own structure.
+                                                    - AKA Structural determinism
+                                            - Behaviour of living systems are determined. Not by outside forces, nor from environmental influences but by its own structure and constitution!
+                                            - A structure is formed from a succession of autonomous structural changes!
+                                            - Therefore we are both determined and have agency!
+- **Lecture Summary**
+    - The concept of Autopoiesis and metabolism provide a clear and powerful criterium between living and non living systems. 
+        - A virus is therefore non living as its just a molecular structure of proteins and acids. It will not change!
+            - Its a chemical message that needs the metabolisim a living host cell to produce the instructions contained in its DNA and RNA
+    - Autopoiesis and metabolism define biological life as a particular pattern of organisation.
+        - A self generating network within a boundary of its own making
+        - To dive deeper we need to look at **flow** aspect of metabolisim. The description of these flows are critical to understand the emergence of biological forms and functions.

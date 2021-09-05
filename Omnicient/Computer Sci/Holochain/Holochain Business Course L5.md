@@ -1,0 +1,407 @@
+[[Holochain]]
+
+- Notes
+    - # Growing communities
+    - ## Forking - disbanding of a community; exclusion from a community;
+    - (Sid: Can it be a sub-culture formed within, or as an addition to an existing culture i.e. not exclusionary)
+    - ### What is forking?
+        - A form of group/personality/software schism
+        - A derivative of an original/new path
+        - Portions of a community deciding to work with new rules
+        - Splitting
+        - An evolution or diversion
+        - Experimentation
+        - Mutation
+        - Easier/smaller/more agile?
+        - More/new groups options and possibilities?
+        - Harder to create coherence
+        - Adaptation
+        - Dissonance
+        - Individuation
+        - Dis-entanglement
+        - De-coupling
+        - Rebellion
+        - Unhappiness with a current state and trying to improve that state by creating slightly different versions.
+        - 49% of people are not supposed to follow 51% ( so the number of people doesn’t mean right). So any community should be able to follow their culture.
+        - A place to find your own path
+        - Wanting to be completely independent
+        - An evolution?
+        - Creation of a new culture - may be spun off in an entirely new collective, or as a sub-culture.
+        - Feels like an increase in ‘diversity’ in a system. If things are getting too homogenous, forking feels like a good idea.
+        - Difference in Values
+    - Do you believe in Fork?
+        - Yes,
+        - Sure, it happens. If the culture is a monoculture then it should probably happen
+        - Yes, happens all the time everywhere.
+    - ### How do you avoid forking, can you?
+        - Pre-empt the possibility in the initial (social) contract, make the possibility explicit and add an “exit membrane”, be it in a form of commitment to have a reflection discussion or provide honest feedback.
+        - By being honest and following your word
+        - Do a pre-mortem session, pre-commit to effort in working through before forking
+        - Set up an explicit conflict resolution scheme at the start
+        - Spoon
+        - Not really, but you can take steps to avoid forking in a way that’s destructive and painful, by orienting towards the inevitability at the offset, and if you want to get really interesting, by setting things up so that when things do fork, they do so more likely carrying specific pieces of th culture or social DNA
+        - Transcend the problem and include
+        - Don’t complain, even if its shit tough going
+        - Make it so small; secretive; exclusive nobody knows about it.
+        - Highly specialized and anonymous.
+        - Try to include people and their points of view and having a process of helping them to solve their problems with the way things currently work.
+        - Maximising the opportunity for all members of a community to be heard
+        - Enabling re-integration after splitting
+        - Why bother, it’s natural - check out the church
+        - Have space for multiplicity within community
+        - Develop tolerance
+        - Strong culture of the current community can absorb more and leak less. Force is not working. We can not stop forking.
+        - Build stronger allegiance to the original
+        - Make it more worthwhile to not
+        - Never stop growing and learning
+        - Keeping relationships healthy
+        - Open lines of communication
+    - ### How do you support forking?
+        - Yes
+        - By being open to it, by having it open, accessible and ready to be copied and adapted.
+        - Variety is great, celebrate forking, especially when it focuses on more variety rather than leaving “the old” behind.
+        - Talking about it openly
+        - Being open to and processing the grief over the change, to be able to accept the new thing
+        - Enabling bridges between the different strands of the forking communities
+        - Celebrate where it happens already
+        - Be clear what the “stem” is (in terms of values, norms, practices)
+        - Explore the options of after-fork affinity or coupling
+        - Encouring experimentation
+        - Introduce it as a natural part of community building
+        - Use Non-Zero-Sum-Rewards mechanisms.
+        - By maintaining the version you control well. Forked versions will appreciate that the original version is working to improve the community and forked versions can learn from the original and vice versa; ultimately encouraging collaboration between versions rather than competition of who gets to be the main version.
+        - Introduce it as an inevitable consequence of creating, is the destruction and support people’s mindsets and embracing of it
+        - Build bridges, not walls
+        - Think positive sum
+        - By being honest
+    - ### How do you enable forking?
+        - By mind and tools. (holochain easily support forking)
+        - By having the source/structure/content/practices/culture/tools open, accessible and ready to be copied and adapted.
+        - Teach or Model
+        - Clear understanding of the rules and simple opportunity to put forward proposals for new rules that portions of the community can decide to follow
+        - A radically honest culture
+        - Transparency
+        - Keep things [[Open Source]].
+        - Develop and encourage protocols of inter-fork interoperability and cooperation
+        - Don’t build a monoculture
+        - Encourage or explore links of continuity, weak coupling
+        - Don’t try to control things or resist the natural flow (i-ching/dao)
+        - Sharing of information/ideas about how to fork and discuss them.
+        - Make the community tools available for free.
+    - ### How do you love / encourage forking? What value does it bring?
+        - It is like planting  seed. It can empower the original project
+        - Individuation
+        - More diverse exploration of the space, ecosystem
+        - New path and new experiences. Variety bring beauty.
+        - It brings resilience. Bitcoin is resilient because of all its forks.
+        - It brings adaptability and evolution into the fold. When you fork, you can adapt and further develop something.
+        - Adaptability to local or regional circumstances.
+        - Personalisation. Adapt it to personal/individuals needs.
+        - Pluralism
+        - Show how multiplicity can become higher level novelty when integrated. (like evolution: proto-cells → multi-cell → multi-organism → ..)
+        - Let;s
+        - An increase in diversity. Builds resilience in the long term.
+        - It is like planting  seed. It can empower the original project
+        - More choices & connections
+        - Reduces rent-seeking patterns
+        - Let’s just anybody find his own position.
+    - ### Does this exercise, influence the experience you have when you realise a holochain app can be forked and replicated so easily, making it way harder to build platform or aggregator business models?
+        - Yes, interesting that even Holo is not build to allow forking easily, it is hard to understand new business models that allow forking and actively thrives through forking
+        - Yes, making sure that there is clarity on how we need to find voluntary support for each fork och differentiation in order to achieve more complex functionality
+        - Not so much - cohesion has always been a tough problem for humanity. Forking can be good or bad, its contextual.
+        - Yes, I’ve been mulling over this for a while. In my head I’ve always been pro-forking, and that seems like a conflict to building a business. I’d love to resolve the conflict.
+        - Yes, there’s a battle in my mind right now as to either support/not support forking. It’s leaning on the supporting right now as I read more benefits of forking, however, a lot of questions are still unanswered such as, are there any new business models that can be born out by supporting or encouraging forking?
+        - Not sure, will have to see how this will work out eventually. A trillion different [[Open Source]] projects can be limiting by it’s amount.
+    - ## Bridging
+    - ### What is bridging?
+        - like social signaling
+        - Overcoming differences
+        - Connecting
+        - Translation
+        - Pollination?
+        - Mediation of trust
+        - Weak-linking
+        - Connectors between different communities (either people who participate in two communities or technical solutions)
+        - Working horizontally across many mountains
+        - Making to perspectives blend
+        - Trying on boots
+        - Moving between cultures
+        - Connecting values
+        - Potential lifelines/survival
+        - Exponential growth
+        - Speed
+        - Like wildflower
+        - Conflict resolution
+        - Sharing is caring
+    - ### How do you win / rewards at bridging, can you?
+        - Currently bridging is often rewarded by “clip of the ticket” transactions. This let’s me try to avoid these costs and find pathways that do not require bridging. I’d rather reward bridging by single “entry fees” that allow me to use the bridge forever.
+        - Successful bridging is rewarding by itself.
+        - Protocol for honoring or recognizing the bridging act
+        - Access to some of the unlocked value in some capacity, timeframe
+        - Securing a place, access in the bridged or merged entity
+        - Stronger communities
+        - Ambassadorship, [[Badges]] of honour/trust in various places.
+        - Creating currencies that capture value created/shared
+        - Explicitly ask for what you need so that people that benefit from the bridging you’ve done have a path of gifting back
+        - Non-monetary capital, feeling good, able to celebrate
+        - Possible, at monetary and non-monetary levels. (Global trade was an example of this?)
+        - Experience; new connections; new insights; improvement overall.
+    - ### How do you lose at bridging? What are the risks?
+        - Arbitrage, lowering frictions where they can be generative (alá Kraefel)
+        - Opening the space or membrane to extraction, exploitation, erosion
+        - Exposing the sensitive / early growth “insides” too soon
+        - Serving as a catalyst, which then gets excluded
+        - Winner-takes-all dynamics if the structure of the cells gets eroded, homogenized
+        - Not having something meaningful to offer…
+        - Risk is that someone takes my work and builds a business on top of it and through competition pushes my business model out
+        - Spreading yourself too thin. Dashing your reputation in multiplaces at once destroying your redundancy
+        - Extractive models
+        - Less intimacy and closeness when things are over-expanded
+        - Dilution of resources - time etc
+        - If your perspective is “losing is such sort of gaining” there is no lose in bridging.
+        - Not knowing who/what to bridge with.
+        - Making the wrong connections/bridges.
+        - If something/someone burns the bridge you are dependent on.
+    - ### How do you enable bridging? What social, technical processes need to be put in place?
+        - Guarantee, SITG, some form of staking
+        - Triangulation - not just one agent doing the bridging
+        - Enabling individual agents to offer bridging (many forms of it), rather than centralising it
+        - Transparency. What is being bridged and shared in the process?
+        - The ability to control and if necessary block bridges to oneself is important.
+        - Offering agency to the nodes that are facilitating bridges
+        - Ask.
+        - Work with people. Play other peoples games.
+        - Build with the bridge in mind
+        - Network, community and share and encourage collaboration
+        - Work out-loud - show others where you are playing
+        - Make sure to modularise or limit the creations that we work on so that they are quicker and simpler to expose and play with for others
+    - ### How do you love / encourage bridging?
+        - People with different views and cultures walking in someone else’s shoes and really getting them
+        - By setting the values of a certain project and letting people who value the same things in.
+        - There is a lot of potential in building bridges and connecting the right people, communities and data.
+        - Ask questions, request help
+        - Appreciating that flows are necessary for life
+        - Proportional distribution of the business income and resources
+        - Closing the loops - aiming for circularity
+        - Multiple description - exploring things from many lenses
+        - Observing the observer, what are modus operandi and are they compatible/non-compatible
+    - How to Reuse/Transfer/Learn from Other communities or applications?
+    - (by Hedayat, I don’t know how relevant this topic is. But It is always in my mind)
+    - I think there are 3 topics here:
+        - **Equality**(all communities can reuse the same resource.)
+        - **Similarity** ( they can transfer some part of it. Like transfering blood AB+ to my body)
+        - **Functionality**: we can learn how others are working and learn.
+    - ## Growing
+    - ### How do you form communities?
+        - Reaching out and reaching out and reaching out, until there is trust
+        - Hosting space, opening up space or inviting for more engagement, commitment
+        - Being mindful of the spheres of engagement
+        - Building something actually useful.
+        - Inquire for the pains, needs and desires of the participants of potential participants
+        - Making an invitation
+        - Be an example
+        - Tapping into needs and then sharing a vision
+        - Finding an emotional goal/vision that serves my game and inspires others to participate
+        - Spirit of the Gift i.e. non-reciprocity i.e. moving people to give of themselves
+        - Align the members’ goals with the project/communities’ goals
+        - Bridging. Play other peoples games honestly, help and create value.
+        - Establishing authenticity
+        - Openly sharing
+        - By watching Field of Dreams - ‘Build it and they will come’
+        - Gifts create sense of non-seperation
+        - Creating shared intention around values/behaviors (can be more fluid identity than goal/vision, like [prosocial](https://www.prosocial.world/))
+        - Cocreation
+        - By broadcasting the belief, vision, set of values you want to have around your community and then create a space for likely members to share ideas, discuss, and interact
+        - By holding space and showing oneself.
+        - By living as an example and inviting others to join.
+        - Organize events and bring people together.
+        - Providing value to your early members.
+    - ### How do you manage membranes?
+        - Not being afraid to exclude, seeing it as a positive pruning of a community
+        - By always being honest
+        - Period revisioning of membranes
+        - Communication: responsible honesty.
+        - Be consistent (or risk a personality schism / accusations of being two faced)
+        - By allowing a space for community members to challenge the membrane implementation
+        - Transparently. How to be included, why to be excluded?
+        - In communities
+        - Let them evolve naturally.
+        - Be flexible
+    - ### How do you grow your communities?
+        - Give, give, give, give, give, then ask.
+        - Pose a challenge
+        - Generosity.
+        - Being inviting and supportive.
+        - Bring value build trust - don’t extract.
+        - Put aligned entities in contact,
+        - Focus on Resonance, not scale.
+        - Being transparent; open and honest.
+    - ### How do you communicate?
+        - Balance between clear direction and being open for unexpected direction
+        - With honesty, in a probabilistic and subjective sense - there is no truth
+        - In the highest bandwidth medium possible
+    - ### How do you address challenges along the way?
+        - Sometimes it is good to listen and sometimes better to take action and move
+        - Vulnerability
+        - Improvise - find compromises without losing integrity
+        - Bayesian inference
+        - Ask for input
+    - ## Building community
+    - Pretend that you are Bear, Carolyn, me / running a building a business on holochain course…. Or just yourself and connecting to your contribution
+    - **Your game (****may evolve, it’s ok****)**
+    - Building a business on holochain
+    - **Community**
+    - 15-20 participants, all going through a 6 week course
+    - **Question**
+    - **Answer...**
+    - How do I imagine the community will look?
+    - A space to find clarity on whether my business/idea/concept can really play on holochain
+    - A group of people coming together prepared to take the leap to work on our games together
+    - A village, with different people having different relationships, some folks live there and hold things down, some folks live there and support where needed, some folks, just, like, live there. Lots of people come to visit.
+    - A brotherhood/sisterhood/personhood
+    - A playground
+    - The ocean, with lots of waves but quite a high amount of salt in the water keeping us all floating. But remembering that we are still not on solid ground.
+    - A “substrate” of interweaved connections, resources, enabling emergence and nourishment of various seed forms.
+    - A set of people who are looking for new ways of  generating values and sharing it with the community they serve/generate
+    - All the best bits of being in a family.
+    - Support network where we hold each other accountable.
+    - Group of people discovering new teammates for a project
+    - A viable, well resourced, growing organism
+    - What is my intention for building this community?
+    - amplifying patterns that are best suited for this eco-system, nudging others to stick to their ‘game’.
+    - To embody a consciousness capable of making and using tools to serve Life
+    - Would love to come out with some deeper relationships that lead to working together
+    - To fulfil a wish to see something
+    - To help people for their conflicts
+    - Help members understand themselves
+    - Honesty. Saying openly “this is tough” but not being afraid of the truth and tackling it together.
+    - Teach and learn
+    - To build more support for each member
+    - To connect, support each other's personal games for the ecosystem and to grow and evolve together.
+    - To enable a harmonious relationships between humans and other beings
+    - Learning how to grow functionality and people in a healthy way
+    - To continue teching the main goal of having a new flow of value instead of flow of money.
+    - To generate a space where each of us can explore new ways of building and sharing values.
+    - To learn the key components to running an efficient business.
+    - To build members’ conviction of their games
+    - What value do I get from the community?
+    -  Getting clarity for myself and being inspired by clarity that others get.
+    - Sense of continuity across time
+    - Networking
+    - Satisfaction, beauty, novelty, challenge, growth, relationship
+    - Knowledge
+    - Sense of purposefl engagement
+    - Collaborating with our many points of view and individual skills.
+    - Helping my build my game, while watching other’s build theirs.
+    - New Insights, practice my dreams first myself.
+    - Learning, lots of learning, without it feeling like a chore.
+    - Accelerated learning.
+    - Deep reflection
+    - Unlocking blockages in me
+    - Flows of energy/information
+    - Deep insights on what value is, what it is not, and how it can be shared and grown.
+    - self- awareness
+    - What do others get?
+    - Support, Clarity, Feedback  +1
+    - Meaning, energy, relationship, growth
+    - A group, feedback, connection, intention
+    - Others Insight. For sure there are enough brilliant insight for others to learn.
+    - Access to skills and experience.
+    - More potential to play with
+    - What are we doing with this value?
+    - Laying the foundations of a massive eco-system(s)
+    - ecologizing
+    - Nothing yet, I feel like it is feeding the roots, but not yet ready to bloom
+    - Planting seeds, entering networks and opening up space for bridges
+    - Creating resilience for a collective vision
+    - We are practicing the future now.
+    - Act on it!
+    - **Question**
+    - **Answer...**
+    - What is mine?
+    - A vision
+    - Commitment
+    - The energy is bring; the way I respond; how I contribute; how I share in between sessions.
+    - How I choose to step up or not.
+    - Whether I reach out for support or not.
+    - The commitments I make and follow up on.
+    - Intention and attention
+    - My experience and my perspective, my responsibility to share them
+    - Duty
+    - Creativity, cognition and consiousness
+    - Responsibility for membranes
+    - Who’s community is this?
+    - Bear’s - it’s a subset of the community he is cultivating
+    - Nobody’s - it’s something we make together
+    - David’s - Teaching is the best way to learn
+    - Everyone who has understood what its about: who isn’t pushy and who is willing to learn and support.
+    - Everybodies and nobodies
+    - Those that connect.
+    - Ours
+    - All of ours - as long as we bring all of ourselves
+    - Bear + David + Carolyn lead governance for now. Community members co-own it, may also be offered the opportunity to participate in governance.
+    - Awsome. Right time at Right place. For shifting to new future, we need new mindset not just new tools.
+    - What are the first things people could do together around it?
+    - Come together and pursue projects together
+    - Buddy up in the meantime or afterwards
+    - Set up empowerment and commitment rounds
+    - Set up streams of revenue/value for different interests, have cooperative guidance on how funds might be well spent to enable functionality for all
+    - Help each other crystallize their games. Hold ourselves to it. Share patterns that we’re coming across and that could be beneficial for everyone.
+    - Buddy groups of 2 or 3 to continue supporting each other beyond the 6 weeks
+    - Do these collective thinking sessions
+    - Plan an event to gather together in person when the Universe is like; “yeah, now it’s cool”
+    - What is bringing people in? What energies are attracted?
+    - An underlying need for connection - entrepreneurship can be effin’ lonely. Looking for sounding boards. Looking to build a network that will hold them accountable.
+    - The burning desire to achieve people’s games
+    - A deep care and love for the planet, the ecosphere and the living beings on/in it.
+    - People interested in holochain. Not clear about the underlying interest (of others or myself)
+    - A practical idealism they haven’t found elsewhere.
+    - The exciting unexplored maps and territories
+    - The alive intersection of the social, technological and economical
+    - Sense that our contributions can matter, shape things right from the start
+    - Resonnance with the values and intentions
+    - Desire to live a more integrated, authentic life
+    - Bear into a thing into being
+    - To help people resolve their conflicts.
+    - Excitement
+    - What am I doing to attract these energies?
+    - Leading with the benefit to each member first. Helps build trust and helps people to open up and offer themselves.
+    - Making an invitation to a time and space
+    - Honing the intention
+    - Providing value to people and building relationship
+    - Being honest
+    - Not knowing how it’s going to go, or what it’s going to be
+    - Listening and doing what people are asking for without knowing how it will go/work
+    - Not caring too much about it
+    - Maintaining membranes
+    - Giving the community a lot of space to find its own way. Being much slower in delivering the tech than expected. Lack of clear direction (on how to build on holochain)
+    - What am I shifting in myself, to shift in what shows up in the community?
+    - Leading with a spirit of contribution, rather than thinking about what’s in it for me.
+    - Become emotionally clear on my game (it is still more logical)
+    - Deeper inner work
+    - Being more honest with myself (especially as to what i want from my game)
+    - Being able to trust distributed leadership more/ handling it myself
+    - Showing up more
+    - More space
+    - What is happening in the space?
+    - People are slowly letting their barriers down. This sparks off genuine, fresh thinking which is not based in old patterns of fear and scarcity. This could lead to an upward spiral of collaborative thinking.
+    - Movement
+    - Some good insights and at the same time I feel an impatience to “get it” and move forward to implementation.
+    - Friendship is born
+    - Always finding someone who thinks similarly as yourself
+    - People moved to act on their games
+    - Integration of what we’re learning  - which then extends to outside world.
+    - Ad-hoc conversations, sharing
+    - Support with technical and other challenges.
+    - What energy is around when my game is working?
+    - Vigour, enthusiasm, resonance, expansive thinking.
+    - Excitement, joy, love
+    - Electricity
+    - Peacefulness
+    - Sense of magic, of uncovering some more fundamental principles
+    - Vitality, immanent sense of purpose
+    - Fulfillment
+    - Meaning
+    - Motivation that is not driven from something external
+    - Getting closer. To what? I don’t know. I just trust and till now it is working. (It is beautiful walking with trustable people and teacher somehow to take you somewhere you don’t know where is it exactly)
+    - 

@@ -1,0 +1,50 @@
+[[Holochain]] [[Call Notes]]
+
+- Updating the HDK
+- Designed tobe more concurrent
+- Redux was an anti-pattern
+- Native recognition of countersigning/multi-party sigs
+    - Fetching multiple patterns from multiple agents will be much easier
+- [HackMD](https://hackmd.io/9BI8OQKhSAKyZ5Kc95cJcg)
+- Whats Lamport, whats concurrency? (Martin DOW)
+    - https://en.wikipedia.org/wiki/TLA%2B
+- From [[Jakub]]
+    - In terms of computer science grounding, new volume of "Treatise on Systems" from Mark Burgess is out, focusing on intentional distributed systems.
+    - From [[Jakub]] Lanc to Everyone: (08:40 pm)
+        - http://markburgess.org/treatise_vol2.pdf
+- Deining membranes medical use case
+    - Personal/device DHT
+    - Access to parents etc - pre approved
+    - Market = transport
+- Membranes - Q1 - What are your membranes?
+    - Slack app with channels as micros services
+- Modularity and code reuse
+    - What can be reused / mixed in? Integration
+- Entries
+    - Colums in relational database
+    - Graph schema
+    - What makes the data valid, what are we including
+    - Functions that are allowed e.g. CRUD
+    - Colllisions - how to avoid them, do we care (structure determines the address)
+    - Rivalrous data issues? 
+    - Entry private, hash public. E.g. exposing dice rolls in a game
+    - Headers are a system type, not happ structure
+        - [Specs](https://docs.rs/holochain_core_types/0.0.45-alpha1/holochain_core_types/chain_header/struct.ChainHeader.html)
+        - Hash of the data
+        - Hasho of the previous data
+        - Data type
+        - Signature -> changing to self signing
+        - Previous entry of same type ->removing
+        - Local time stamp
+    - Essentially a distributed CRDT
+        - CRDT = Conflict-free replicated data type
+        - Entry and header transform into 
+        - "In the real world reality is multi-valent"
+            - Forking change path
+            - If deterministic we need a method to resolve
+            - Couple of ways in regardds to links
+                - Call back is the way to resolve
+                    - https://en.wikipedia.org/wiki/Callback_(computer_programming)
+                    - example of a callback in a holochain app are "receive", "validate_agent" 
+- Homework
+    - 

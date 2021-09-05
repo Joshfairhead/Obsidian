@@ -1,0 +1,76 @@
+[[Holochain]] [[Call Notes]]
+
+- What do we personally NEED?
+    - Income discussion
+        - Weighted contribution
+    - Josh/[[Thomas]]
+        - Income/solidarity
+    - [[Guilliem]]
+        - Solidarity
+    - [[Jakub]]
+        - Clarity on when/how we get closer to financial sustainable
+        - Promise commitment on 
+        - Involvement that he can bring to local projects
+    - Julia
+        - Part time job would like to contribute the other part time to holo
+        - Resources coming in to make that sustainable
+    - Loic
+        - Doesnt know
+    - Hadyat
+        - Working so doesnt need finance for private life. 
+        - Finding a way to have an official company or idea thats fantastic that will build a future
+        - Currently busy educating but willing to spend as much time as needed
+        - Can be patient
+    - [[[[Raphi]]]]
+        - Two sides
+        - Financial; would like to make a living doing what he loves
+        - Solidarity; needs a good team where we can support eachother doing things we love being creative. 
+        - Feel a bit uncomfortable in leadership as he brought it up. Wants egalatraian ways of working. Maybe some facillitators but doesnt want to bear the weight alone
+    - Karl
+        - More specificity in the future
+        - Needs trust that he can rely on the team
+        - Wants to build a future with GF
+        - That we an cope with the future having the right people 
+        - Timing wise hes got a job so no pressure now but passive income would be great to transition. Say 5 products over two years so we know what were managing
+    - Bear
+        - Lots of 
+    - Loic
+        - Business model
+        - solidarity
+        - Balance
+        - Weighted work
+        - Interacton with the real world that balances without damaging our relations in the trade
+    - Hadayat 
+        - happyness; its not a big deal if it doesnt happen
+    - Julia
+        - Needs based operation, money shouldnt be a fear. 
+    - Viktor
+        - Need to have more financial support
+        - Many places to get it from however
+        - Not just about my needs
+        - Alan Erving; full circle leadership
+            - Visionary
+            - Maintanece
+            - Optimiastion
+            - etc
+        - Finding the sweetspot of comfort. 
+        - Regenerative services/collaborations if were doing economical endevours
+            - Mushrooms
+            - Health supplements
+            - In service to smething bigger
+        - Non extractivity
+    - Bear
+        - Multiple ways to support eachother
+    - Viktor
+        - Microsolidarity.cc to move forward as a framework
+        - Josh seconds
+        - [[Jakub]] thirds
+    - Hadayatt
+        - Idea that can be built in Barcelona
+        - Willing to help people even if not part of a core were here for the future of society. Our experience of being human is the main focus, 
+    - Karl
+        - here to bring holo further
+    - [[Jakub]]
+        - Provisioning for specific needs
+    - [[Raphi]]
+        - Non pressurized business

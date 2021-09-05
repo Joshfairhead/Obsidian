@@ -1,0 +1,9 @@
+---
+Tags: [Primitives]
+---
+Related: [[DAO Legal]] [[Legal Structures]]
+
+# Ricardian Contracts
+- The **Ricardian contract**, as invented by Ian Grigg in 1996, is a method of recording a document as a [contract](https://en.wikipedia.org/wiki/Contract) at law, and linking it securely to other systems, such as accounting, for the contract as an issuance of value. It is robust through use of identification by [cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function), transparent through use of readable text for legal prose and efficient through [markup language](https://en.wikipedia.org/wiki/Markup_language) to extract essential information.
+- A Ricardian contract places the defining elements of a legal agreement in a format that can be expressed and executed in software. The key is to make the format both machine readable, such that they can easily be extracted for computational purposes, and readable as an ordinary text document such that lawyers and contracting parties may read the essentials of the contract conveniently.
+- From a legal perspective, the use of [markup language](https://en.wikipedia.org/wiki/Markup_language) embedded within a mostly legal prose document leads to reduced transaction costs, faster dispute resolution, better enforceability and enhanced transparency. From a computing perspective, the Ricardian contract is a [software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) to digitize documents and have them participate within financial transactions, such as payments, without losing any of the richness of the contracting tradition. Publication of the content and reference to that content by the unique [cryptographic message digest](https://en.wikipedia.org/wiki/Cryptographic_message_digest) eliminates frauds based on multiple presentations.

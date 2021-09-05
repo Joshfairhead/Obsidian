@@ -1,0 +1,145 @@
+
+---
+Tags: [Refactor, Patterns, Heuristics, Deliverables]
+---
+Related: [[Network Mapping]] [[Trust]] [[Trust Games]]
+# Onboarding
+
+- ### Ikigai Questions
+    - What do you love?
+    - What are you good at?
+    - What do you think the world needs?
+    - What capacities can you reliably discharge in service to your vision?
+- ### Ikigai2.0 Questions (better!)
+    - What are you deeply passionate about?
+    - What gifts are you encoded to give?
+    - What does the world need?
+- ### Personal Questions
+    - Whats your inner purpose? (primary driver/awakening)
+    - Whats your outer purpose? (secondary driver/actioning)
+    - How do you keep your world in balance? [[Mic]]
+    - How do you get into a 'flow' state?
+    - How do you organise your "resources"/stay out of precarious situations? [[Mic]]
+    - How do you keep the center in mind, whilst exploring the extremes/limits? [[Mic]]
+    - How do you create room to allow for errors? (Try/catch..?) [[Mic]]
+    - What kind of things engages you and makes you happy? [[Gus]]
+    - Do you know your enneagram archetype? [[Josh]]
+- ### Relational Questions
+    - **Trust**
+        - Are there three namable people that you're close to and that you consider to be people who consistently look out for your best interests?
+        - Who can you ask for support when you need to resolve a personal situation?
+    - **Collaboration**
+        - What are you working on?
+        - What do you need help with?
+        - What can you help people with?
+        - Who do you work with?
+        - Have you worked with anyone around here before? Who?
+        - If you were on a basketball team, who sets you up for an "alley-oop"? 
+            - Who can you rely on to get things done when you need help?
+        -  At least twice in the last month, have you gone to __this specific person__ for help with technical work-related problems?
+        - Second order repetitional questions: how was working with a particular person? [[Raphi]]
+            - Did you get things done? 
+            - Were you able to communicate effectivly?
+            - How difficult was it to communicate effectively?
+    - **Innovation**
+        - Who can you innovate and ideate with?
+    - **Information** sharing network
+        - Who do you rely on for providing relevant and useful information?
+        - Who would you look to when you want to learn something?
+        - At least twice in the last month, have you received information that you need to do your job from __this person__ ?
+- ### Psychological questions [[Gus]]
+    - Do you adopt a positive perspective in difficult or stressfull situations? [[Gus]]
+    - How do you evaluate your relationships with friends, family and colleagues? [[Gus]]
+    - How do you savor your accomplishments? [[Gus]]
+    - Do you have a clear meaning and purpose in your life? What is it? [[Gus]]
+- ### Business oriented questions [[Karl Holo]]
+    - Task-Driven [[Karl Holo]]
+        - Whats your specialisation? 
+        - What can you generalise in? 
+        - What is your dream job?  [[Karl Holo]]
+        - In which specialized field do you want to work for the next 3 years? [[Karl Holo]]
+        - What is your timeline? in for short or long term?
+        - What are your Strengths and Weaknesses? [[Karl Holo]] 
+        - What Opportunities and Threats do you see in your personal development? [[Karl Holo]] 
+    - Cultural dimensions/Geert Hofstede [[Karl Holo]]
+        - How much inequality can/should exist between people? (power distance) [[Karl Holo]]
+        - Are you more independent or do you believe in a greater collective good? (individualism vs. collectivism) [[Karl Holo]]
+        - Does gender play a role for certain positions, tasks and emotional responsibilities? (masculinity vs. feminism) [[Karl Holo]]
+        - How do you handle uncertain situations? (uncertainty avoidance) [[Karl Holo]]
+        - Are you more short-term or long-term oriented? What do you perceive as long and short term? (long-term vs short-term orientation) [[Karl Holo]] 
+        - Which role does individual freedom play in your personal downtime? (indulgence) [[Karl Holo]] 
+    - Corporate alignment [[Karl Holo]]
+        - What do you think about our vision? [[Karl Holo]]
+        - What do you think about our mission? [[Karl Holo]]
+        - In which environment do you want to work in? (culture) [[Karl Holo]]
+        - Where do you see us in 10 years? [[Karl Holo]] 
+- Why are you doing this? 
+- What are you interested in achieving?
+- [[Guilliem]]:
+    - What games do you know on social collaboration? (resource mapping/knowlege graph?)
+    - What are categories/areas/games that you'd like to play with other people that would also be interested in playing?
+        - e.g. social collaboration conversations/games
+- [[Jakub]]: where is the absence of activity :)
+
+
+- ### Break all the rules summary
+    - From SourceCred Role Growth
+        - Introduction
+            - These thoughts are inspired by my recent explorations into the research done by Gallup and it’s “Twelve Questions” which help measure how engaged someone is in their role and work on the whole. In the book “First, Break All the Rules” 1 where I’m encountering these ideas, the author makes an analogy between the journey of starting a new role and becoming an expert in it, and the experience of climbing a mountain from bottom to top.
+            - Each phase of the journey to becoming truly engaged in your role, corresponds to a “camp” on the mountain as you climb to the summit.
+            - Note that being “truly engaged” is not about how committed you are to the project, or how many hours of your time you sacrifice. Instead it’s the difference between a grocery employee who points you to the grapefruit, and the employee who walks you over there and explains how to pick your preferred ripeness of grapefruit based on their stocking methods. Being engaged means you’re truly present and purposeful in your work. That’s the summit of the metaphorical mountain.
+            - I’ve written my thoughts in the “Climbing the Mountain” section through the lense of onboarding newcomers in SourceCred, however this system could be applicable to many different roles and journeys both micro and macro within our community.
+        - Thoughts on the fractal nature of this method
+            - This document replaces my previous musings about the “Onboarding Machine”. The Onboarding Machine is a good example of a ridged system, something that was designed for one purpose and will likely need to be overhauled every time the community grows/changes. Yes, this metaphor of climbing the mountain can be applied to the onboarding experience in our community beautifully, however it can also describe the experience of becoming a champion, of joining a new team, or taking on a new role of any kind within the community.
+            - This climbing of the mountain metaphor contains both micro and a macro applications which I imagine will make it a more flexible, useful, and longterm tool for our community once it’s been refined. Regardless of the experience level or application; if you’re starting a new role of any variety, then you’ve just found yourself at the bottom of a new metaphorical mountain.
+        - A warning about “helicoptering up the mountain”
+            - The book specifically mentions the temptation and danger of helicoptering up to a higher base on the mountain and trying to get to the summit from there. In real mountain climbing, you’ll get very sick if you don’t put in the effort to start at the bottom and acclimate as you go. In this metaphor, if you can’t provide the understanding outlined in each “camp” before moving on to the next “camp”, then it’s only a matter of time before things fall apart.
+            - You may even start a new role and find that you’re at Camp Three, but missing the staples outlined in Camp One. You may be willing/able to hold out for longer if you’re feeling good about your sense of belonging in the community, but things will eventually crumble if you can’t ever get an answer to the question “what is expected of me”?
+            - There is deep importance in starting at the beginning, and addressing those needs one at a time as you work your way up the mountain.
+        - **Climbing the Mountain:**
+            - Base Camp: Learning how to play
+                - Q1: I know what is expected of me.
+                - Q2: I have the tools I need to do my work right.
+            - At base camp, newcomers are taking stock. They’re getting a lay of the land, and trying to understand what they’ve just walked into. How does the project work? How does the community expect me to behave? How to I get my questions answered? How to I know where to start contributing? What tools/resources are available to me while I contribute? What do I get if I start contributing?
+            - At this phase, a newcomer needs access to quick learning. They need clear, simple, and accessible documentation to answer basic questions and impart foundational knowledge. As well as a direct line to the community to get a grasp for the “feel” of how things work in this new-to-them space.
+            - Starting a new journey or role without an understanding of what you’re expected to do, or the resources you’ll need to do it can be immensely frustrating. If a newcomer doesn’t have a solid understanding of what’s expected of them, or they don’t have the tools they need to fulfill those expectations, then before too long they’ll probably rage-quit or at least float away in search of other projects.
+            - In SourceCred, this is currently a real problem. We need ways to communicate to anyone starting a new journey in SourceCred the bare minimum expectations around social behavior, getting involved, hierarchy, and available opportunities. As well as give extremely easy access to the existing tools to get started with.
+            - Core Aspects:
+            - Easy access to basic information about community/project
+            - Easy access to community’s shared platforms/tools
+            - Knows how they’ll get rewarded
+            - Knows how to start contributing
+            - Knows how to interact with community
+        - **Camp One: Experimentation and gaining experience**
+            - Q3: I have the opportunity to do what I do best every day.
+            - Q4: I’ve received recognition when I create value.
+            - Q5: An experienced community member cares about me as a person.
+            - Q6: Someone in the community encourages my development.
+            - In camp one, a newcomer is gauging their confidence in their own expertise, and getting an idea of how other community members view them and their contributions. At this phase, a newcomer needs an expansiveness of opportunity to contribute, to try out different approaches with their contributions; thereby learning the right and wrong ways to try and add value through experience. Then, they need to be able to receive quick feedback from the community/algorithm on whether their contributions are truly creating meaningful value. This helps our newcomers “fail effectively” by encouraging attempts to contribute, and giving quick, constructive feedback based on their attempts. This process should be automated where that makes sense, but should also deeply focus on the fostering of relationships between newcomers and more experienced contributors in the community.
+            - Core Aspects:
+                - Lots of opportunity to experiment with their first contributions and explore the intersection of their interests and the community’s needs.
+                - Quick and accurate feedback loops to help the newcomer gauge whether their contributions are creating true value in the community.
+                - Easy access to personal engagement, connection, and mentorship with more experienced contributors.
+        - **Camp Two: Community trust and belonging**
+            - Q7: My opinions matter to the community.
+            - Q8: The community’s mission/purpose makes me feel my work here is important.
+            - Q9: My peers are committed to making valuable contributions.
+            - Q10: I have a best friend in the community.
+            - In camp two, the climber is evaluating whether they feel a sense of belonging in their community. It’s an assessment of the mutual trust building between contributor and community over time. Do people listen when the newcomer speaks up about their ideas or proposals? Do they trust that everyone else in the community is trying as hard as they are, and also delivering value to the project consistently? Do they feel truly comfortable, familiar, and friendly with (at least some of) the others who work on this project? Do they feel like their own personal values are aligned with the overall vision of the community? Do they feel like they belong here?
+            - Core Aspects:
+                - The opportunity to speak up and share new ideas.
+                - Deeper understanding of both their own values, and the values of the community/project.
+                - True friendship with other community members.
+                - Trust built over time in both directions.
+        - **Camp Three: True access to innovation**
+            - Q11: I’ve talked about my progress with an experienced community member in the last six months.
+            - Q12: Within this community, I’ve had the opportunity to learn and grow this last year.
+            - This phase concerns itself with the ways in which understanding (base), experimentation (one), and building of trust (two) lay the foundation to truly innovate within a community and/or project. The contributor has deep interpersonal relationships with those they look up to in the community which allow for nuanced reflection of the contributor’s progress. As well as other markers of progress like a large cred score, or potentially someday a wall of [[Badges]]. All three of which reflect and affirm their consistently valuable contributions to the project.
+            - They also have the understanding, experience, and trust to; shake things up, bring new ideas, challenge assumptions, get passionate, and explore their own learning within the context of their contributions to the community.
+            - Core Aspects:
+                - Deep connections with mentors who listen as well as give reflections about the contributions made.
+                - Access to opportunities to innovate and change things within the community.
+                - Ability to choose their realm of interest and influence.
+                - Systems that accurately recognize and reward the depth of their contributions.
+        - **The Summit: Engaged and effective**
+            - I as a contributor have clarity, focus, purpose, and a reoccurring sensation of achievement. Every day the best in me is called upon, and the best in me answers. I am engaged in what I want to create for my community, as well as effective and compassionate in my methods

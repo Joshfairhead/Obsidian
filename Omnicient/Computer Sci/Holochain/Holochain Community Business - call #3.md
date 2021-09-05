@@ -1,0 +1,44 @@
+[[Holochain]] [[Call Notes]] 
+
+- Facillitator?
+- Lets build an adgenda
+    - [Sheet of stuff](https://docs.google.com/spreadsheets/d/1mDBuUcyxEvEHrbEuvr2I7qdN_gFyUWTXpIPg-uXWNGA/edit#gid=1139887768)
+    - Josh: Odyssey
+        - Shared [Sheet](https://docs.google.com/spreadsheets/d/1KkV8Qi5QAUdCyzcM1rHRPdUuvg5LPWwPDB3lEjSjvmk/edit?usp=sharing)
+        - Shared [Telegram](https://t.me/joinchat/GyUX4FAAH16hL0ZbKSLgpQ)
+    - Loic: Busy, nothing for the agenda 
+    - Viktor: Portugal Preperation
+        - Space and time
+        - Most people arriving the 7th
+        - Happy to make a map of things we could share. Detailing the potential design
+        - Context: first things to build, application that Victor wanted to build, personal library, session on high level design. Already have a design that might be improved? Bringing people in to get the context of the app. Distribute tasks potentially.
+        - Session with [[Guilliem]] about load/context?
+        - Maybe some parts suitable for business model and others not? 
+        - Training session to help people learn to code? Deep dive on more advanced topics if people feel it necessary? (maybe reach out to Cameron from the trillions.global as a funnel)
+    - [[Guilliem]]: Contacts and Training opportunities
+        - Requested to do training for a Venezuelan IT consultancy
+            - [[Enspiral]] do a good dev acadamy, if we wanna do that as a business it might be a good overlap to talk with them
+            - Requests an intensive two week program, want to constitute a Holochain dev hub within their company. Udemy style course would also be useful for them. 
+            - Nothing settled but could be done through this group? want it done fast Jan/Feb.
+            - Viktor: hard to as open collective as you need to have own legal vehicle. 
+            - If going there what are the arrangements around the split?
+            - Should we create an entity for these sorts of things?
+            - What are the things people need to shift in their minds? Not having that feedback makes it hard to build a Udemy
+            - Whats online support? Whats the pricing structure and add ons?
+            - Once a week training, are they following the best practices, maybe Skype them and help as a subscription service. Weekly dev call subscription
+            - Holochain has a pecularity that if you dont get your design right from the beginning it gets out of control, you cant "just iterate over that". Content addressable linking and validation part is difficult. We also have a "list" thinking problem (content addressable graph)
+            - "Salon" sessions w/subscription or one off modules. Hourly rate for consultant booking. Income sharing percentages. Local-global. Shared Transvestment notes.
+            - Open collective [link](https://opencollective.com/open-learning-community#section-updates)
+    - [[Raphi]]: Next steps on naming, values, org structure
+        - Open collective start: all happy.
+            - Not enough when we have to own stuff: studios, houses etc
+            - Good for cognative labour
+                - Useful for creating lots of organisations as well if needed.
+            - What about IP? 
+                - No legal entity to own anything... or hold in common. Irrelevant till challenged in court of law. [[ValuesNamin]]
+            - Naming?
+                - For website
+                - For meeting people/talking about the collective
+                - Create list fo Lisbon and discuss
+        - One click orgs after?
+- [[Guilliem]] and Viktor walkthrough "offers/requests applied to books lending" on Tuesday - [Mailboox](https://www.youtube.com/watch?v=hq6Br2iOyF0&feature=emb_logo)

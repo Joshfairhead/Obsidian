@@ -1,0 +1,130 @@
+---
+Tags: [Artifacts, Patterns, Designs]
+---
+Related: [[Hermitage]]
+# Onboarding Ideas
+
+- Criterea
+    - Inclusive
+    - Fun/playful
+    - Familliar
+    - Educational (about storing your personal data)
+    - Does not have a redundancy effect!! (kicking people out of jobs)
+- Ideas jam
+    - Collections of novelty
+        - Smiling faces
+            - Selfies
+            - Costumes
+        - Recipes
+        - Personal art
+        - Stamps
+        - Guitar collections
+    - Good news!/Guess what?
+        - Births
+        - Birthdays (Grandmas 100th)
+        - Lottery winners
+        - Achievements
+        - Marrages
+        - Trees planted
+        - Sunny weather
+    - Events/Occasions
+        - Local events
+        - Gameshows
+        - Manifestations
+        - Exhibitions
+        - Carnivals
+        - Festivals
+        - Gigs
+        - Markets
+        - Religious ceremony
+    - Art
+        - Digital graffiti
+        - Facial morphing 
+            - Instagram filters
+        - Controlling screen with face
+        - Digital artwork (NFT's)
+    - Directions/wayfinding
+        - Stores 
+        - Maps
+        - Hostels
+        - Hubs
+        - Bars
+        - Recycling centres
+    - Education
+        - Learning management systems
+        - Personal Knowledge Management Systems
+        - Distributed Knowledge Management Systems
+    - Attractions
+        - Sites
+        - Monuments
+        - Vinyards
+        - Info board
+    - Proposals/Agreements
+    - Offers/Requests
+        - Frame
+            - Offers = prescriptive
+            - Requests = descriptive
+        - Too good to go
+    - Games
+        - Public pong (see Adam Curtis doco on Ayn Rand for example)
+        - Virtual graffiti world painted with phones as spray cans
+            - Paint places in VR with your phone, share capabilities and create a tapestry of various works
+        - Dance revolution/Kennect style camera
+        - Game of [[Badges]]
+            - Earn [[Badges]]/points in various games
+        - Team O's & X's game with random strangers
+        - Real life guess who (see smiling faces)
+        - Popping balloons/adverts
+        - Popping bubbles
+        - Catching butterflies
+        - Whack a mole
+        - Attention improving games
+        - Ingress/Pokemon go
+        - Flashmobs
+        - Manifestations
+        - Talking screens (to other cities/parts of the city)
+    - Personal
+        - Social networks
+        - Solidarity networks
+        - Intereset groups
+        - Meetups
+        - Friends
+        - Dating
+        - Communications
+        - Interests (ethical advertising?)
+    - Tickets
+        - Autonomous ticketmaster
+        - Trains/transport 
+        - Argos
+        - Digital post
+        - Prescriptions
+    - Sprint ideas (unordered)
+        - Valentina
+            - Specific context
+                - Map associations/needs
+                    - Existing apps that deal with exchange 
+                        - Cars
+                        - Goods 
+                        - Services
+                        - Pros/cons
+                    - Mapping according to context
+                        - e.g. Testing alternative currencies / economic groups / sharing apps
+                            - Talk with these communities
+        - Others
+            - Public chat room
+            - Public instruments
+            - Performers
+            - Rotating dormant function
+            - Light art / projections
+            - Windows to the world
+            - Sustainableity metrics
+            - Social cartography / transform map, open green maps, 
+            - Participatory budgeting
+            - Untitled.community
+            - Citizen engagement tools like polis
+            - Seats to meet
+            - Lion card /line card
+            - Open food network
+            - Olio - food sharing
+            - The edible bustop
+            - Skol centre for entrapeneurship

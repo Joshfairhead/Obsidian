@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Numeric Qualities",
+      "path": "Omnicient/Monad Forrest/Numeric Qualities.md"
+    },
+    {
+      "type": "file",
+      "title": "Sources",
+      "path": "Omnicient/Monad Seeds/Assorted Sources.md"
+    },
+    {
+      "type": "file",
+      "title": "Project Management",
+      "path": "Omnicient/Monad Forrest/Project Management.md"
+    },
+    {
+      "type": "file",
+      "title": "Personal website",
+      "path": "Immanent/Personal/Website/Personal website.md"
+    },
+    {
+      "type": "file",
+      "title": "Obsidian",
+      "path": "Omnicient/Monad Saplings/Obsidian.md"
+    },
+    {
+      "type": "file",
+      "title": "Governance",
+      "path": "Omnicient/Monad Forrest/Governance.md"
+    },
+    {
+      "type": "file",
+      "title": "Mastering Econometrics",
+      "path": "Omnicient/Monad Saplings/Mastering Econometrics.md"
+    },
+    {
+      "type": "file",
+      "title": "Entities",
+      "path": "Omnicient/Entities/Entities.md"
+    },
+    {
+      "type": "file",
+      "title": "Places Sheet",
+      "path": "Omnicient/Entities/Places Sheet.md"
+    },
+    {
+      "type": "file",
+      "title": "People",
+      "path": "Omnicient/Entities/PrivateIndividuals/People.md"
+    }
+  ]
+}

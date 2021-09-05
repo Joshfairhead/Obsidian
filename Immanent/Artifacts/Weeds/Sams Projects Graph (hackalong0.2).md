@@ -1,0 +1,105 @@
+- [[Transvestment]] 
+    - [[Land Easement]]
+        - [ ] Templates or linked smart contracts for [[Land Easement]]
+        - [ ] White label contract for land owners to sign 
+        - [ ] [[Land Easement]] explainer video
+    - [ ]  Add [this](https://github.com/Joshfairhead/Resources/wiki/The-Commons) to transvestment sources [[Josh]]
+    - [ ] Transvestment user stories/mural
+    - [ ] Transvestment animated video
+    - [ ] Transvestment mini app 
+    - [ ] Transvestment contributor/investor interface 
+    - [ ] Transvestment visual contract
+    - [ ] Transvestment investor terms
+    - [x] Payment splitter; personal, local, global [[Roberto]]
+    - [ ] PreciousPlastic.com want a DAO - on boarding project?
+    - [ ] DAO factory for xFUTILE 
+    - [ ] Sequence diagrams for Devs 
+- [[Badges]]
+    - [ ] Badge pattern templates - NFT, RFT Composability, Transferability 
+    - [ ] [[Badges]]; LinkedIn, Bio, fairtrade etc 
+- [[Knock]]
+    - [ ] Scrape LinkedIn for skills 
+- [[Interspace]]
+    - [ ] Connect [[Kay Gertler]] and Ivo re:communication protocols and dialup.com [[Roberto]], [[Josh]]
+    - [ ] [[Interspace]] room png hovering vector 
+    - [ ] [[Interspace]] WebRTC Implementation [[Roberto]]
+    - [x]  Multiverse for [[Interspace]]
+    - [ ] Avatars for [[Interspace]] 
+    - [ ] [[Interspace]] Pi servers
+- [[Offers / Requests]]
+    - [[For product]] (goods or services)
+    - [ ] Tourist board in town for [[Offers / Requests]]
+- [[PirateDAO]]
+- [[Solar DAO]] 
+    - [ ] ESCO smart contracts
+    - [ ] ESCO contracts for [[Liminal]]
+    - [ ] Snap proof step by step validation (Giveth milestone?)
+- [[Content]]
+    - [ ] [[Hackalong handbook]] 
+        - [ ] Onboarding Chapter
+            - [[Onboarding]] questions into framework (network analysis)
+            - Ikigai Onboarding?: https://docs.google.com/spreadsheets/d/1EChvDxtX0kutVQXNkeWRrf6ccZdzjT6c6e3JUxFvyqY/edit#gid=0
+    - [ ] Create digital artefacts of boards/notes 
+    - Video content
+        - [ ] [[Land Easement]] explainer video
+        - [ ] Set scenes for web series (outdoors) 
+            - [ ] Monologues for web series; questions + discussions
+        - [ ] Collect hack-along0.2 media [[Roberto]]
+            - [ ] Upload media to IPFS
+            - [ ] Compile footage into sharable clip
+        - [x] Contact @Jayurbuzz about his visit/media [[Roberto]]
+    - [ ] [[Liminal]] badge design 
+- [[Communications]]
+    - Community Data Science [[Josh]]
+        - ((IxtULyW41)) [[Josh]]
+    - [x] Set Up Ghost [[Maija]]
+        - [x] Get Ghost running in production enviroment
+        - Install on Heroku [docs](https://github.com/SNathJr/ghost-on-heroku)
+        - [Setup docs](https://ghost.org/docs/setup/)
+        - [Setup guide for self hosted servers ASmallOrange](https://www.ghostforbeginners.com/how-to-install-ghost-on-a-small-orange/)
+    - [x] Netlify Moon bot [[Maija]]
+    - [x] Eric Bear / [[Liminal]] discussion [[Josh]]
+    - [x] Add sociocracy3.0 to the forum [[Josh]]
+- [[Governance]] 
+- [[Events]]
+    - [x] Global harmonisation day
+- [[Hack-Along]]
+- [[NGI - Identity Graph notes]]
+- [[NGI - WeQuest Application]]
+    - **Description**
+    - WeQuest is a community-governed digital billboard installed in small towns and city neighbourhoods.  Instead of advertisers, passers-by can publish what they can offer (a local tour, a culinary specialty, english lessons etc) and request anything they need (organic food, a new bench in the park etc.). It represents a digital common, which reconnect locals into a fully-inclusive peer-to-peer economy. The WeQuest companion app enables the citizens to submit listings for goods or services: the geo-localised needs are aggregated onto needs and offer maps and shared with passers by.
+    - Any person will be able to see this information and become providers or users for the listed needs or offer, in exchange for money and additional mutual community credits, computed automatically based on the density and intensity of needs. WeQuest also saves part of the monetary transactions into a community fund,  giving citizens the power to do governance and finance the most interesting community projects.
+    - **Challenge and Problem/solution**
+    - Small towns in southern Europe are progressively loosing population as companies and people migrate to the city. Business struggle to make ends meet, as all opportunities are in the big cities. WeQuest provides a digital platform that is able to turn this economic death spiral into a positive spiral. WeQuest first addresses the place-based specific needs and opportunities present in different communities - listening to the local context by gathering specific local needs and resources information. This information is then shared openly, enabling full economic participation.
+    - Then, WeQuest connects people in a fully-inclusive peer-to-peer economy. By using an alternate monetary system, the blockchain-backed incentive system empowers people to conduct trustworthy peer-to-peer interactions with each other, therefore able to contribute to the local community despite their current socio-economic situation
+    - **Description of research component**
+    - This project is based on research done at the University of Amsterdam by one of our team members. We have run a multi-agent system simulation of an economy that is based on resources and rewarded for directly satisfying needs. However, the agent had a shared where the need information could be read. This information should be public and transparent, controlled by the people. WeQuest represents the digital platform to be able to collect this information directly and safely from the people.
+    - **Technology description**
+    - We base our tech stack on Ethereum and Holochain. Ethereum being the de-facto standard for smart contracts, is used to guarantee data integrity to and fulfill orders. The agent centric approach provided by Holochain is used to . The hardware requirements we need large touch totems (commonly used in digital advertisements) as the onboarding mother-ship for the local fleet of users, using the cross-platform companion app.
+    - **Vertical**
+    - By collecting needs, our system allows citizens to choose how to best contribute to the local economy, and to directly participate in defining what needs to be done
+    - **How will your product/service improve citizens' control over their data? **
+    - Besides the opportunity of easily starting a transparent and fair business on the platform, citizens are able to exercise moderation for the content being displayed in the public digital space and can do governance over the collected community funds. Furthermore, instead of being only accessible through market research agencies, the public data is accessible to everyone, and to the entire Ethereum ecosystem so that everyone or every platform can contribute as a provider.
+    - **Addressable Market**
+    - WeQuest can be installed one in each small town and municipality. Our aim is one per town. There are currently no providers for such initiatives, as digital billboards are only installed in main cities, airports  and transportation hubs for advertising purposes.
+    - **Strategy and Scalability**
+    - We want to use these kind of solutions are more needed.  We have already collected interest from 5 municipalities in Italy in the 2016 earth-quake area . We will run the pilot in these towns and refine the solution starting form the uses and feedback. After a proven use case in a small towns, we will spread to other towns (> 1000 inhabitants) and allow the credits to be  used across locations. Finally we will target  the poorest neighbourhoods in capital cities, starting with Athens, Rome, Berlin, Amsterdam, Barcelona and Lisbon.
+    - **Business Model **
+    - We will offer installation of the integrated system at a fixed cost for the municipalities.
+    - Revenues will be directly fed into  the improvement and development of new features and network expansion.
+    - Besides local community funds, our smart contract also saves a part of the transactions into a  "network fund".
+    - Although anyone can apply, as core developers and initiators, we will have the credibility to tap into these extra resources to lead  the improvement and the spread of the platform.
+    - **Which new building blocks will your product/service contribute to grow open hardware and software ecosystems?**
+    - Both software and hardware will be [[Open Source]], and dual licensed, providing the basics for a sharing economy platform coop. Our  smart contract will create an accessible and geolocated list of needs . Providers around the world will be able to tap them for the smart contract and potentially become provider for that need if not possible to resolve locally first (eg: providing water cleaning solution during draughts)
+    - **Which are the five main metrics you measure in your business?**
+    - Satisfied Needs
+    - Submitted offers
+    - User participation
+    - Number of digital public spaces
+    - Number of installed companion apps
+    - **Resources  (what do you do with the grant)**
+    - Acquire the required hardware for the pilot units
+    - Build the citizen and data commons governance infrastructure.
+    - A base income to the core team members for development (Location is already provisioned) and required collaborators
+    - Travel to participate and present the solution at conferences
+- [[Ledger Template]]

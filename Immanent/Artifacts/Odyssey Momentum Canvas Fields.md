@@ -1,0 +1,105 @@
+---
+Tags: [Notes]
+---
+Related: [[Odyssey]] [[Odyssey Momentum]] [[Liminal Graph spec]] [[Identity]] [[Identity Vault Stories]] [[NGI - Identity Graph notes]]
+
+# Canvas prose
+- Set Polaris
+    - Upload poster
+        - Create
+    - Upload Meme
+        - Philosoraptor - Whole? or Part?
+    - Long term vision
+        - It's 2030 and the SDG goals have been exceeded thanks to an internet that was reinvented to work just like nature. Collective intelligence saved the day; local people learnt to self organise, share resources, accept and embrace differences and deal with complexity - largely in part with the aid of artificial general intelligence, which learnt from everyone on the planet.  
+    - UN SDG contributon
+        - NOTE_TOO LONG _ CUTS AT "Fundamental freedoms"
+        - 16.9 "by 2030, provide legal identity for all, including birth registration". Generative identity (natural) is the onramp into SSI and legal credentials. 16.6 "develop effective, accountable and transparent institutions at all levels" We are working with a data integrity layer that enables effective and transparent accounting. 
+        - 16.10 "ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements" Information is stored with the users, who can grant access to those in their Web of Trust reducing information asymmetry. 
+- Solution Details
+    - Add problem description
+        - Vendor lock-in has centralised the web and turned it into a digital dystopia where users are algorithmically manipulated by the highest bidders. These silos are also a honeypot for hackers wishing to exploit user credentials for identity theft, the fines for the Equifax hack was over half a billion alone and user liability for identity fraud was similar!
+    - Add soloution description
+        - Hermitage is a GDPR compliant data store leveraging human centric design and putting users back in the driving seat. This relieves companies from storing their data significantly de-risking their activities. For users, they can port their data to services they trust without vendor lock-in. 
+    - Link to the projects Github
+        - Odyssey github
+            - https://github.com/OdysseyMomentum/LunarPunk-Labs
+        - [[LunarPunk Labs]] github
+            - https://github.com/LunarPunk-Labs/hermitage
+    - Link to a prototype demo
+        - 
+    - Momentum prototype proof
+        - What we would like to explain
+            - [x] When the internet works backwards to the current paradigm we can look forward to a beautiful future. You don't need to be the product. 
+        - Where we need help
+            - [x] We need people that have gone through the unlearning process and want to integrate as an ecosystem.  
+    - Economic win
+        - What we would like to explain
+            - TOO LONG- Breaks at "inaccordance with" 
+            - Native GDPR compliance means that there's no need for a security team, data controller, or exorbitant server costs. The risk of a data breach is eliminated. Going forward portable KYC stored user side will reduce ~60% of banking overheads due to in-person checks, in accordance with the Payments Service Directive. We reduce friction for users and stakeholders. 
+        - Where we need help
+            - We'll need authorities to recognize and accept various credentials in accordance with EU regulation. Adoption from Odysseys ecosystem of stakeholders would be awesome. 
+    - Board Member feedback
+        - What we would like to explain
+            - 
+        - Where we need help
+            - 
+    - Building blocks worth mentioning
+        - What we would like to explain
+            - We can provide a "profile" module which acts as mechanism to store data user side in a GDPR compliant way. Which fields do you need for your app to function? Integrate our module for that and whamo SSI
+        - Where we need help
+            - We would like developers to integrate our "profiles" module to securely store personally identifying information. 
+    - Legal and regulatory aspects
+        - What we would like to explain
+            - TOO LONG BREAKS AT shortly
+            - According to the Max Planck institute, public keys stored on a public blockchain may legally be considered as personally identifying information. We do not do this, its stored privately on an agents edge device. In relation to the Payment Services Directive (PSD2), we'll shortly be enabling users to store their own KYC credentials and making them portable.  
+        - Where we need help
+            - We need to understand the nuances of PSD2 to larger degrees. 
+    - [[Open Source]] licence and strategy
+        - What we would like to explain
+            - TOO LONG breaks at cyptograhic
+            - As we are using Holochain as our protocol level infrastructure we'll be using the Cryptographic Autonomy Licence (CAL) as required. This licence transfers to any software built on top and essentially says that Apps cannot store user data, or build backdoors to revoke cryptographic keys.
+        - Where we need help
+            - We need legal Jedis to give the CAL licence a good looking at to find out if it's suitable for business adoption and as permissionless as the MIT licence. 
+    - Role of Identity in our product
+        - What we would like to explain
+            - Our product stores identity in its various incarnations (Integral lens). It leverages both Generative identity (natural) and SSI (legal)
+        - Where we need help
+            - Cryptographers would be nice to talk to regarding UUID generation and hashing functions. We would also like to understand the Blake2B-256 encryption to greater depths
+    - Why is the CSO not freaking out
+        - What we would like to explain
+            - We are utilising from a capabilities paradigm (C-list) rather than permissions paradigm (ACL). This greatly reduces (if not resolves) the issues with escalating privileges to take control of a host computer. We don't use servers either, so theres nothing to attack other than a distributed hash table. Front end and back end are hashed together as a "DNA" so we can be sure that the front end hasn't been modified for malicious purposes. 
+        - Where we need help
+            - We'd like to test these assumptions with security experts. Please try to break our software!!
+    - International standards/embraces suggested
+        - What we would like to explain
+            - Our product Hermitage integrates the DID standard by the W3C. We are also using a capabilities paradigm with research that dates back to Xerox Parc. The cryptography used was a NIST finalist for Sha-3. We're also aware of the OASIS work for DKMS. 
+        - Where we need help
+            - Tell us where we could do better or where standards could be applied. 
+- Grow Ecosystem
+    - Stakeholders
+        - Stakeholder name
+        - Wins how (Juice)
+        - Required efforts for pilot after momentum
+        - Stakeholder name
+        - Wins how (Juice)
+        - Required efforts for pilot after momentum
+        - Stakeholder name
+        - Wins how (Juice)
+        - Required efforts for pilot after momentum
+    - Key Users
+        - Key user name
+        - Wins how
+        - Key user name
+        - Wins how
+        - Key user name
+        - Wins how
+    - Pilot Goal
+- Free space
+    - Spotlight
+    - Freespace
+        - Wandering Jedi,
+Finds the red stairwell at last,
+It was wet outside!
+        - Neuro-semantic,
+Phasers cross; reality,
+Brain now does good work!

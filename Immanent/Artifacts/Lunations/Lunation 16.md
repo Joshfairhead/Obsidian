@@ -1,0 +1,24 @@
+- [[Discovery]]
+    - sightcorp striking back
+    - Writing two blog posts
+        - The price of freedom
+        - A better tax system
+    - Moved old repos to liminalvillage github
+    - [[Local]]
+        - poles around the water collection system
+        - Restored entrance fence
+        - Purchased and transported wall bricks
+- [[Opening Loops]]
+    - Fought the dragon, did not eat me.
+    - [[Community Credit Cards]] inception
+    - Investigating hybrid credit card systems which can satisfy our needs (eg: sofitto sugi)
+    - [[Fiori del Fiobbo]] meeting to purchase a Yurt in common
+    - Started Holochain in Action
+    - Created [[Mercatino dei Fiori]] in google sheets
+    - Installed tokenlog at governance.liminalvillage.com
+- [[Closing loops]]
+    - Dusting off Holons, moved to liminalvillage repo
+    - playing around with the graph: graphql access point to be able to use DAOs in holons
+    - Found ZircleUI and Zumly for holon visualization
+    - Attempted to make [[Fiori del Fiobbo]] buy into satispay
+    - 

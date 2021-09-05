@@ -1,0 +1,170 @@
+---
+Tags: [Course]
+---
+
+# Capra Course L4
+
+- [Link](https://spring.capracourse.net/lessons/lecture-4-systems-view-evolution-2/)
+    - Summary
+        - (All references are to the corresponding sections in the textbook __The Systems View of Life__ by Capra and Luisi).
+        - One of the most rewarding features of the systems view of life is a new systemic understanding of evolution. Rather than seeing evolution as the result of only random mutations and natural selection, we are beginning to recognize the creative unfolding of life in forms of ever-increasing diversity and complexity as an inherent characteristic of all living systems. Although mutation and natural selection are still acknowledged as important aspects of biological evolution, the central focus is on creativity, on life's constant reaching out into novelty.
+        - To begin with, the systems view recognizes that evolution did not begin with the first living cell but millions of years earlier with a process known as molecular, or "prebiotic" evolution. Our detailed ideas about this prebiotic evolution are still very speculative, but most biologists and biochemists do not doubt that the origin of life on Earth was the result of a sequence of chemical events, subject to the laws of physics and chemistry and to the nonlinear dynamics of complex systems. (__Section 10.3__)
+        - The key idea is that very early on, __before__ the increase of molecular complexity, certain molecules assembled into primitive membranes that spontaneously formed closed bubbles (as discussed in Lecture 3), and that the evolution of molecular complexity took place inside these bubbles, rather than in a structureless “chemical soup” (__Section 10.4__). My coauthor, Pier Luigi Luisi, is one of the world leaders in this research on the origin of life, and in our book he wrote a very detailed chapter about this fascinating new field of science (__Chapter 10__).
+        - As far as biological evolution is concerned, the classical view maintains that all evolutionary variation results from random mutations, followed by natural selection. The systems view, by contrast, recognizes three avenues of evolution: random mutations of genes, horizontal genetic transfers among bacteria (also known as "gene trading"), and finally the creation of new forms of life through acquisition of entire genomes in a process known as symbiogenesis. (__Section 9.3.5__)
+        - All these processes are subject to the physical and chemical constraints of the organism's environment — in other words, to natural selection. When new genetic patterns are created, they need to be integrated into their cellular environment. This involves a complex dynamic of an entire network of chemical reactions, in which only a limited number of new forms and functions are possible. The entire process is far from random; it is complex and highly ordered. It is an integral part of life's self-organization. (__Section 9.10__)
+        - The evolutionary unfolding of life over billions of years is a breathtaking story. Driven by the creativity inherent in all living systems, expressed through the avenues of mutation, gene trading, and symbiosis, and honed by natural selection, the planetary web of life expanded and complexified into forms of ever-increasing diversity.
+        - In this majestic unfolding of life, the human species arrived on the planet very late. To demonstrate how late, I present an ingenious narrative, devised by the Californian environmentalist David Brower, in which the age of the Earth (4.5 billion years) is compressed into the six days of the biblical creation story (__Section 11.1__). In this time scale, all visible forms of life evolve on Saturday, the last day of creation. The modern human species, appears in Africa and Asia 11 seconds before midnight and in Europe 5 seconds before midnight. Written human history begins around two thirds of a second before midnight.
+        - A special nexus in human evolution occurred about 4 million years ago with the emergence of the genus __Australopithecus__. At that time, rapid brain growth triggered the simultaneous evolution of language, reflective consciousness, the ability to make and use tools, and organized social relations. This means that our inner world of thought and language is tightly linked to technology and to social relations. They all evolved together at the dawn of the human species (__Section 11.2__).
+        - The recent sensational discovery of magnificent and highly sophisticated paintings in the Chauvet cave in southern France, which are at least 30,000 years old, has forced archaeologists to radically revise their ideas about the evolution of cave art (__Section 11.2__).
+        - The unexpectedly early date of those paintings means that high art was an integral part of the evolution of modern humans from the very beginning. In other words, the emergence of the modern human species is the emergence of the story-teller and the artist. This means that a proper understanding of human evolution is impossible without understanding the evolution of language, art, and culture. In other words, we must turn our attention to mind and consciousness, the subject of the next lecture.
+    - Key Concepts
+        - Life, definition of
+            - In biology, property of a system that metabolizes; a system that is an autopietic network operating far from equilibrium; see also: metabolism, autopoiesis, dissipative structure
+        - Context
+            - A configuration of relationships between a thing or event and its (physical, cultural, historical, etc.) environment
+        - Protocell
+            - A type of primitive, membrane-bounded bubbles (“vesicles”), which may have formed spontaneously in the primeval oceans and evolved into the first living cells
+        - Structure (of a system)
+            - The physical embodiment of the system’s pattern of organization
+        - Boundary, biological
+            - The part of a living organism that surrounds it and discriminates between the organism and its environment; see also: membrane, cellular
+        - Emergence
+            - Shorthand for the spontaneous emergence of new forms of order in nonlinear systems at critical points of instability (bifurcation points)
+        - Gene trading
+            - The horizontal transfer of genetic materials between bacteria
+        - Symbiogenesis
+            - In evolution, the creation of new forms of life through permanent symbiosis involving bacteria and other microorganisms living inside larger cells
+        - This lecture also builds on the following concepts:
+            - Structural Coupling
+            - Autopoiesis
+            - Dissipative Structures
+            - Self-organization
+    - Supplementary materials
+        - ["The Origin of Life”: a conversation with Pier Luigi Luisi](https://spring.capracourse.net/forums/topic/pier-luigi-luisi-a-personal-introduction/[[post-21047]])
+            - First lab to figure out how to build a self organising system
+            - "Spontaneous crowding" as a phenomena 
+- In the early 70's Theodosius Dobzhansky came up with the essay "Nothing in Biology makes sense, except in the light of evoloution"
+- The Systems View of Evolution
+    - Characteristics of Biological Life
+        - A cell is a membrane-bounded, self-generating, organisationally closed metabolic network
+        - It is materially and energetically open, using a constant flow of matter to and energy to produce, repair and perpetuate itself
+        - It operates far from equilibrium, where structures and new forms of order may spontaneously emerge, leading to development and evoloution.
+    - These characteristics are described by two different theories
+        - Theory of Autopoisies 
+        - Theory of dissipative structure
+    - When integrated there is a certain mismatch
+        - All autopoietic structures are dissipative because they constantly renew themselves and require the flow of energy and matter to repair and regenerate themselves
+        - Not all are disspiatve structures are living systems. Whirlpools/warter vortex. Priogines experiments with oscillating chemical structures. 
+        - Dissipative structures cover a larger range of phenomenon
+        - Since emergence is a central feature of dissipative structures, this means they have the capacity to create novelyt and evolve.
+        - This implies there must be molecular pre biotic evolution that took place long before the first living cells.
+        - This is widely accepted by most biologists but there is no consensus on the detailed steps but none have been demonstrated.
+        - The difficulty is that whatever protocells existed before the first living cells, there are no traces left due to being out performed.
+        - The conventional idea is that small molecules in a primordial wide spread chemical soup in the oceans of the early earth. These molecules became more complex until proteins DNA and genetic code emerged. this runs counter to the simple chemical systems as they don't become more complex.
+            - Today our starting position is radically different. The flaw of the classical argument of the chemical soup and within this the increase of complexity
+            - Before the evolution of complexity certain molecules congregated into primitive membranes.
+            - Structure of the vesicles is demonstrative?
+            - The primeval earth contained the basics chemicial elements still found today in living organisms today:
+                - Carbon 
+                - Oxygen
+                - Hydrogen
+                - Nitrogen
+                - Sulphur
+                - Phosphorus
+            - Among them carbon is the most reactive forming the backbone of life combined with the others. 
+                - Fatty/oily substances or Lipids with hydrophilic heads and hydrophobic tails
+            - As the wind stirred up the primeval oceans the lipids formed tiny bubbles. The interiors of these droplets became the environment for molecular evoloution
+            - The membrane like surfaces of the lipids let some droplets in and out which formed a network.
+            - As bubble sizes increased they broke into smaller bubbles so this was the origin of reproduction.
+            - Over millions of years the complexity increased and as the bubbles became more frequent they had to compete for nutrients. Differnt vesicles having differnt enviroments a kind of darwininian evoloution was put in place long before the DNA
+            - The main problem is the last step
+                - evoloution within these protocells is still pretty mysterious. 
+                - Remember this network chemistry!
+            - Once memory became encoded in the DNA, the membrane bounded chemical networks acquired the essential characteristics of todays cells. Occurring about 3.8m years ago, we get a universal ancestor which out performed all the other structures. Building a bacterial web that still exists, regulating the atmosphere and making life emergance possible
+        - Systems view of evoloution
+            - The first aspect is prebiotic evoloution
+            - The second aspect is a new understanding of biological evoloution. 
+                - Rather than seeing things as the result of only random mutations and natural selection, we can recognise the creative unfolding of life in forms of ever increasing diversity and complexity as an inherent characteristic of all living systems.
+                - Mutation and natural selection are imprtant but the central focus is on creativity.
+                - At the centre of darwinian thought, is that all living organisms from a common ancestor from modifications and natural selection.
+                    - This introduced a new concept; from being to becoming.
+                    - The planetary network of living beings interlinked in space and time
+                    - Not everything can survive and natural selection is supported. 
+                    - Whats the mechanism though?
+                        - Darwin believed in chance variation. Hereditary traits. 
+                        - Darwin recognised the flaw of gene dillution
+                        - Solution of genetical was discovered by Mendal.
+                            - Units of hereditary (genes) are conserved
+                            - They would be preserved to be enforced or elimination by natural selection
+                            - Darwin never read the letter because it was in German and full of maths
+                            - This discovery played a decisive role in establishing the Darwinian theory of evoloution and opened up the field of genetics (physical and mathmatical investigation). 
+                            - Neo Darwinist theory / modern synthesis / established theory of evoloution
+                                - Says: all evolutionary variations result from random mutations followed by natural selection. 
+                                - This is where systems view differs
+                                    - Random mutations are too slow
+                                        - most mutations are harmful and few lead to useful evoloutions
+                                        - Bacteria differs by reproducing in its billions in a few days. 
+                                        - Secondary evolution trait is they freely trade genes, spilling out genetic material to be digested by others. Astonishing recent discovery!
+                                            - Horizontal genetic transfer is like jumping into a pool with brown eyes and coming out with blue ones
+                                        - Since all can share genetic traits, some microbiologists argue that bacteria should strictly speaking not be characterised into species since the genome is changing all the time. They could be considered a single microscopic web of life!
+                                        - In evolution bacteria are able to rapidly accumulate random mutations as well as big chunks of DNA through gene trading. This makes them resilliant
+                                        - Moreover microbiology teaches us the lesson that genetic engineering and a global communications network has been around for billions of year in the realm of bacteria. 
+                                        - During those two billion years the bacteria continually transform they were the only lifeforms on the planet. A microcosm that established the Gaia system
+                                        - Bacteria established virtually all lifes basic processes
+                                            - Fermentation
+                                            - Photosynthesis
+                                            - Nitrogen fixation
+                                            - Resperation
+                                            - Mechanisims for rapid motion
+                                        - As far as evoloutionary creativity is concerned, it resides in bacteria
+                                        - What about life today?
+                                            - Third avenue was symbiosis
+                                            - living in close association: flowers and polinating insects
+                                            - Bacteria in our intestines
+                                            - Hypothesis: long term symbiosis involving bacteria and larger microorganisims (hosts) have led and continue to lead to new forms of life: e.g. chloroplasts were photosynthesising bacteria that invaded another cell
+                                                - Symbiogenesis
+                                                    - The creation of new forms of life/species through symbiosis
+                                                    - Seen as one main avenues of evolution for all higher organisation
+                                                    - "Aquiring genomes"
+                                                    - Like corporations do with smaller orgs for say communication systems
+                                                - **Three avenues of evoloution**
+                                                    - Random mutations
+                                                    - Gene trading
+                                                    - Symbiogenesis
+                                                - All three lead to genetic changes which always need to be compatible with the entire cellular enviroment. 
+                                                - Need to be integrated into the new enviroment or the organism cant survive
+                                                - This integration of new gentic patterns into the larger network of the cell (i.e. the epigenetic network) involves a complex dynamic of chemical reactions of which only a limited number of forms and functions are possible.
+                                                - The entire process is far from random, although there are random elements in the generation of patterns From then on the process is highly ordered and very complex. Its an integral part of lifes self organisation
+                                                - Human experience: when I leave the room I might have a plan about the evening but I may meet someone who invites me to dinner or get asked for help, whatever. Random elements I dont forsee but my life is not random. Organised in response to the events I meet. 
+                                                - The evolutionary unfolding of life is a breathtaking story. Driven by the creativity inherent in all living organisms expressed by the three avenues of evolution and honed by natural selection which led to the planetary web of life. 
+                                                - In this unfolding over billions of years the humans are latecomers. How late we arrived can be demonstrated in a very nice way
+                                                - **David Browers scenario of evolution**
+                                                    - Ingenious narrative. Compressing the entire span into 6days of the biblical creation story.
+                                                    - Earth is created sunday at midnight
+                                                    - Bacteria on tuesday moring 8am
+                                                    -  two and a half days evoloution
+                                                    - By thursday its fully evolved and regulating the planetary system
+                                                    - On Friday at 4pm the microganisms invent sexual reproduction
+                                                    - On Sat, the last day of creation, all the visible forms of life evolve
+                                                    - At 1:30am the first marine animals evolve
+                                                    - And by 9:30 am the first plants come ashore followed 2hrs later by amphibians and insects
+                                                    - At 4:50pm the great reptiles appear and roam the earth in lush tropical forsests for 5 hours and then suddenly die out at around 9:45pm
+                                                    - Meanwhile the mammels appeared on the scene at about 5:30 and the birds in the evening around 19:15
+                                                    - Shortly before 10pm the first tree dwellers evolved into primates and an hour later some evolved into monkies
+                                                    - around 11:40pm the great apes appeared
+                                                    - 8 mins to midnight the first southern apes stand up and walk on two legs. Five mins later they disappear again
+                                                    - The first human species Homohabilis appears 4 min before midnight 
+                                                    - And Homosapiens appear 30sec before midnight
+                                                    - The neanderthals command Europe and Asia from 15->4 sec to midnight  
+                                                    - The modern human species finally appear in africa and aisa 11s before midnight and the europeans at about 5s to midnight
+                                                    - Written human history appears about 2/3s of a second before midnight
+                                                - When we follow the evoloution of life from its very beginnings. We cant help but feel excited when the apes stand up because we can trace the gradual human emergance of DNA pathways and lineage of our evolution!
+                                                - A special nexus of our evolution occurred about 4m years ago with the genus Australopithecus africanus (southern apes). The upright apes
+                                                - Rapid brain growth triggered language, reflective consciousness, tools and organised social relations. 4m years ago
+                                                - Significant because our inner world of thought and language is linked to technology and social relations because they all evolved together 
+                                                - The Human decendants were the species homo habilis (2m) the tool makers. Homo erectus (1.6m) the upright human which was the first to emigrate to leave africa and the tropics to europe and Asia. Homo sapiens (250,000). Cro-Magnon (35,000) who were discovered in a french cave and all modern humans belong to this species. They were anatomically identical to us and brought forth an explosion of technological innovations and artistic innovations (tools of wood and bone, jewlery of ivory and cave painting in damp caves)
+                                                - Unitl recently archeologists believed they developed their paintings gradually from crude scratches onwards. (Lascaux cave 16,000 years ago)
+                                                - In 1994 the Chauvet cave consisting of underground caves filled with accomplished paintings. Similar styles but conclusivly shown through carbon dating to be 30,000 years ago. Painted in charcoal and red henna of lions, bisons, rhinos leaping and running across the walls in large pannels. Shading, angles staggering of figures used to protray motion and perspective. High art was thus an integral part of human evoloution from the very  beginning. 
+                                                - I.e. the emergance of the modern human is the emergance of the story teller and the artist!
+                                                - Without the understanding of language, art and culture we cannot understand the modern human!
+                                                - We must now must turn our attention to mind an consciousness!

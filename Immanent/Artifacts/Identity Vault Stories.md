@@ -1,0 +1,67 @@
+---
+Tags: [Deliverables, Artifacts]
+---
+Related: [[Holochain]] [[Call Notes]] [[Artifacts]]
+
+# Identity Vault Stories
+- [Link to store the below](https://lunarpunklabs-hermitage.netlify.app/)
+- Architecture
+    - https://hackmd.io/bvAGL-4-R8WDOxTcTIOFRA?view
+- High level (in accordance with archetecture doc)
+    - Question: As a user, where is my data stored?
+        - Situation: I'm interacting with an app and want to know my interactions are safe!
+        - Answer: User data is stored safely on your own private "source chain". More specifically app data is stored in "identity cells" which - more granularly - contain "persona zomes" where your personal data is stored. You then bridge your data to applications via "profile zomes".
+        - Holochain specific terminology
+            - Question: Whats a Source chain?
+                - Answer: a "source chain" is your own private blockchain which you have total agency over; you have complete sovereignty over its contents with your "agent key". 
+            - Question: Whats a Cell?
+                - Answer: A cell is a collection of microservices called "zomes", a hash of this collection and an agent key. 
+            - Question: Whats a Zome?
+                - Answer: A Zome is a Holochain microservice. 
+    - Question: Whats an Identity Cell?
+        - Answer: An identity cell houses a collection of "zomes" or microservices related to your identity. At this stage of development each "identity cell" contains a "persona zome" and a "profile zome" but will later contain others for things like capability management. If you choose to have multiple personas, you will have multiple identity cells.
+    - Question: Whats a Persona?
+        - Answer: A presona is a private microservice that lives on your source chain in which you store collections of your personal data. Each persona is a single zome which which you can think of as personalities; work, friends, etc. Persona zomes interact with others services such as the "profiles zome". 
+    - Question: Whats a Profile? 
+        - Answer: Profile zomes are microservices that interact with your Persona zomes. Specifically it bridges app fields to your Persona data and mediates the interaction. This works like an air gap to decorrelate the source of your personal information. It only references a subset of your Persona data, you can think of it like a cut out. You generate one per app. 
+    - Question: As a user, can I mix Personas?
+    - Question: As a user, how do I navigate to particular data points?
+        - Situation: As a user, I want to edit or share a particular piece of data
+        - Answer: In the UI you can search or filter data from the "me" section. 
+    - Question: As a user, how can I share my information?
+        - Situation: I want to share my phone number with a friend!
+        - Answer: Navigate to the data you wish to share and click the capabilities button next to it. This will present you with a screen to assign capabilities to your friend. 
+    - Question: As a user, how can I easily save data generated externally (e.g. a smart ticket booth)?
+        - Situation: I've been interacting with a digital service via a large totem and generating data (e.g. bought a ticket), how can I claim this data?
+        - Answer: If offered, you can scan a QR code with your camera to claim your data which creates a profile and stores it in your persona. 
+- Abstract (Interior singular)
+    - Question: As a user, how do I backup my keys?
+        - Situation: I just created an account and want to be responsible with my data
+        - Answer: Your keys are stored in the conductor. The master key is called “deep key” which you can choose to export as a mnemonic seed.
+    - Question: As a user, how can I recover access to my account?
+        - Situation: I have lost my access keys/computer
+        - Answer: Go to the key recovery section and input your backup phrase (mnemonic seed). Alternatively you can choose social recovery through your web of trust by assigning capability grants to people you trust (ephemeral key sharding). Down the line you might also recover your keys in a number of creative ways or through biometrics.
+    - Question: As a user, how can I delete my data?
+        - Situation: I have information that I no longer wish to use and want to delete
+        - Answer: Navigate to the data you wish to delete and click remove. On your source chain the entry is marked invalid but technically remains in your merkle tree.
+    - Question: As a user, how can I update my persona?
+        - Situation: I have information that needs updating (moved house, changed phone)
+        - Answer: Navigate to the data you wish to update and edit the information. On your source chain you are essentially marking the entry as invalid and updating the link to newer information.
+    - Question: As a user, how can I search my personal data?
+        - Situation: I can’t remember the context something was stored under but I still want a way to find it
+        - Answer: The identity manager indexes all information stored within your persona (with the anchor pattern) so that you can search for relevant keywords. 
+    - Question: As a user, how do I read my persona data?
+        - Situation: I want to use my personal data in a service
+        - Answer: Your personal data is stored on your source chain embedded in a persona. Personas are a key:value pair. Profiles are just a mapping. When interacting with a hApp the profile containing the mapping matches with the persona, which then responds with and populates the value. If there is no match found you can associate the field it with any piece of data already stored in your persona. For instance your persona might store your name under "First Name" while and App might request the "name field", in which case you use the field mapper.  
+    - Question: As a user, how can I read my persona data?
+        - Situation: I want to rummage through my data to find a particular byte
+        - Answer: If you remember the context you saved it under, you can navigate to it directly as everything is stored on your source chain. If you don't you can search or filter contexts via the UI
+    - Question: As a user, how do I create data to populate my persona?
+        - Situation: I’m a new user and would like to make use of online services
+        - Answer: When you fill out an online profile it gets stored in your persona. You can also create profiles directly from within the identity manager. In future you may be able import already existing web2 profile data.
+- Technical
+    - Question: How do Happs communicate?
+        - Situation: Personas and happs need to listen to eachother and update upon events happening either side
+        - Answer: Websockets (socket.io)
+- CANVAS
+    - Question: How can I recover my data if I forget my password / loose my device or keys?

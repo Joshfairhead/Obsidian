@@ -1,0 +1,28 @@
+- [[Discovery]]
+    - [[Crowdpol]] / [[WeQuest]]
+    - [[Annual General Meeting]] to apply retrospectively to previous hackalongs
+    - [[DeepWork]]
+    - [[Podium]]
+    - [[Fall Equinox]]
+    - [[Covid-19]]
+    - [[Permaculture]]
+    - [[Holochain]] Archetecture/Business courses
+    - [[Capra Course]] / systems view of life
+    - [[unMonastery]]
+    - [[edgeryders]]
+    - [[fabmanager]]
+    - [[Liminal Learning Activities]]
+    - [[Liminal Association]] business model
+    - [[Global Hack]]
+- [[Opening Loops]]
+    - [[WeQuest]]
+        - [[Node Red]] to be used on IBM cloud to make use of all kind of AI analysis tools. Could be used by [[WeQuest]] or scraping telegram conversations
+    - Started [[Theos Handbook]]
+    - "appropriating billions of dollars from pension funds via [[Securities]] which has to be invested in utilities." [[JoshFairhead]]
+- [[Closing Loops]]
+    - Participated in [[GlobalHack]] with WeQuest and CrowdPol
+    - [[InnerGame]]
+    - [[Patterns]]
+- [[Harmonization]]
+    - [[WeQuest]] facelift / getting skinnable
+    - [[Liminal Association]] as investments from pension funds 

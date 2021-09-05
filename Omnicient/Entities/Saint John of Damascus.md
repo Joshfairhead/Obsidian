@@ -1,0 +1,1 @@
+-  "God is above all knowing and above all essence" [[Agnostic]] [[Quotes]]

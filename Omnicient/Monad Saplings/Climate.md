@@ -1,0 +1,28 @@
+---
+Tags: [Organisations, Networks, Tools, Index, Refactor]
+---
+Related: [[Climate Justice]] [[Evidence based research]] [[Open Source]] [[Open Science]] [[Civic Indigenous 7.0]] [[H3uni]] [[Carbon]]
+
+# Climate
+
+#### Organisations
+[Our-Sci](https://www.our-sci.net/): [[Open Science]] [[Open Source]]
+[Ecosystems Service Market Consortium](https://ecosystemservicesmarket.org/): [[Funding]] [[Regeneration]]
+[Quick Carbon](https://www.quickcarbon.org/): Making science accessible for land managers
+[Global Urban Forest](https://globalurbanforest.com.au/) Scientific Plant Health Care for trees
+
+#### Networks
+[Pasa Sustainable Agriculture](https://pasafarming.org/)
+
+#### Tools
+[Open Team](https://openteam.community/):[[Open Source]]
+[FarmOS](https://farmos.org/) 
+
+#### Intelligence
+[An Ontology-Based Knowledge Modelling for a Sustainability Assessment Domain](https://www.mdpi.com/2071-1050/10/2/300/htm)
+
+#### Blogs
+[Real climate science](https://realclimatescience.com/2020/01/peer-reviewed-ignorance-and-hearsay/) - Blog sourced from the Seagull
+
+#### Theories
+[[Global Dimming]]

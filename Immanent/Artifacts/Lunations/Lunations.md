@@ -1,0 +1,20 @@
+- This page is a a journal of (some) themes discussed and worked on at [[Liminal Village]] in each lunation since January 2020, together with post archeo-thematic
+    - [[Lunation 0]]
+    - [[Lunation 1]]
+    - [[Lunation 2]]
+    - [[Lunation 3]] Equinox - Global Hack
+    - [[Lunation 4]] Holons
+    - [[Lunation 5]] 
+    - [[Lunation 6]] Solstice Gathering
+    - [[Lunation 7]]
+    - [[Lunation 8]] 
+    - [[Lunation 9]] Equinox + Picking Olives
+    - [[Lunation 10]] Odyssey
+    - [[Lunation 11]] Recovery 
+    - [[Lunation 12]] Small Solstice Gathering
+    - [[Lunation 13]] Greenhouse, [[Liminal]] Grounds
+    - [[Lunation 14]] Ledger Grant, H3,  Transvestment 
+    - [[Lunation 15]] Equinox Unconference, [[Disconference]], Biopool
+    - [[Lunation 16]] Community Credit Cards, [[Bridge Medicine]]
+    - [[Lunation 17]]  Covid, Zircles UI, Fighting Guerrilla [[Capitalism]]
+    - [[Lunation 18]] 

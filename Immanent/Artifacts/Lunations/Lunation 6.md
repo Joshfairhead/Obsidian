@@ -1,0 +1,20 @@
+- Intentions
+    - Finalize [[Liminal Association]] legal structure
+    - Advance [[NGI - XS Exchange Application]]
+    - Hands on with [[Holochain]]
+- [[Discovery]]
+    - [[ValueFlo.ws]] many parallels with [[NGI - XS Exchange Application]], will adopt it as language
+    - We can apply [[NGI - XS Exchange Application]]
+    - What are the parallels between housing exchanges and peer production?
+    - Identity is a fundamental piece of infrastructure
+    - [[Microsolidarity]]-online crewing
+- [[Opening Loops]]
+    - [[Liminal Values Workshop]]
+    - [[Case Clinic]]
+        - WeQuest
+        - Produce app
+    - Holons made updatable
+- [[Closing Loops]]
+    - Produce app workshop 
+- [[Harmonization]]
+    - Discussion on giving feedback

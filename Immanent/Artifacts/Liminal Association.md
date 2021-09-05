@@ -1,0 +1,46 @@
+- [[Artifacts]]
+- We are a network of co-creation locations.
+- We welcome co-creators to stay and roam within the network 
+- The [[Liminal]] association happens "in between" spaces, means that both spaces preserve their identity and agency, while they come to an agreement between them which makes them self-similar.
+- Each place decides which [[Badges]] to accept and distribute. These might represent values, contributions, references, membership fees, and anything else.
+- **Non-profit**
+    - [ ] write statute (what the hell are we doing)
+        - Agents are people who participate in the network
+        - Agents roles: 
+            - Mentors: time & skills
+            - Stewards: take care of assigned places as their own, regenerating them.
+            - Ambassadors: are residents members in one of the locations, roam around other representing the projects of that location
+        - In exchange for their participation, all agents get a [[Transitional Basic Income]], going towards having their basic needs met (eg: shelter, food, water)
+        - Resources providers: 
+            - participate in the network by sharing: land,spaces, tools, goods, services
+            - They enter an easement contract.
+            - In exchange for their donation, they get expenses repaid (utilities + maintenance)
+    - Purpose: members research and develop [[Open Source]] technology for the betterment of people and planet.
+    - 
+- **For Profit think-do-tank**
+    - People come together to do romantic [[Capitalism]].
+    - Applies for grants
+    - Recieves commercial license form opensource/non-profit projects developed inside the non profit network.
+        - Donates back parts of profit to non-profit association
+    - Spins off companies
+        - Uses Resource Event Agents accounting
+        - Analyzes and Recognizes [[Open Source]] contributions (slicing pie + source cred)
+        - Assigns roles and [[Badges]] based on historical contributions.
+    - Historical for Spaces / Time
+        - Spaces: Upon selling of the location, initial property valuation (agreed upon at the moment of onboarding) goes to owner. Stewards and network and owner divide the added regenerated value equally.
+        - Time: Upon commercial activity of the solution, rewards are split equally from contributors, hosting locations, and the network. 
+- **How do you make money?**
+    - People donate their locations and their time.
+    - The network ship seeds, solutions, knowledge information , stewards
+    - the people and the place dictates its local purpose [people, place, purpose triplet is circular - start with any]
+    - The place is regenerated,
+    - The place produces in excess from what they need (rule of thumbs 3 times)
+    -  Share excess with  guests, market, network 1 for self, one for guests, one for network. [[Contributionism]]
+    -  The place uses extra produce to host people developing regenerating solution
+    - If the place is ever sold, the extra income goes to the owner, the network and the stewards
+- Other source of income
+    - Romantic [[Capitalism]] / [[Solar DAO]]
+    - Carbon offsets can finance the projects.
+    - Pension funds can finance the network of location
+    - copy model of https://www.sohohouse.com/about 
+- [[Investor Personas]]

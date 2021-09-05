@@ -1,0 +1,27 @@
+- @jonnydubowsky 
+- jonny dubowsky, [5 Mar 2020 at 18:10:24]:
+- Hi- I've been working w/ the ETH 1 Million Devs project to create onboarding opportunities that empower new types of Ethereum developers.
+- when projects like Mattereum and [[Ocean]] Protocol start demonstrating the value in creating high dimensional data artifacts, passports, & digital twins, we will need thousands of knowledge workers to perform a variety of permissioned roles, w/ only a few of those requiring Solidity skills.
+- We've been looking for the best infastructure to coordinate these roles, at a scale that will quickly require automation.
+- I came across this awesome article on a use of Discord that is matchmaking skills and interests to place people together within World Of Warcraft.
+- “Shut up and Que” (SUAQ) is a classic world of warcraft Discord for cross server collaboration for a PVP 40 vs 40 battleground. While SUAQ shares a lot of the same attributes of many Discords of subreddits and niche communities alike, the one thing that it really does better than anything else I have ever seen is use bots and roles to create some kind of futuristic amazing meta-layer tool.
+- This is 6000 people in the server, ~100-200 waiting to queue at any given time, with ~300 people in games at any given point. Going on 24/7, automagically sorting strangers across the internet to collaborate on a relatively hard problem.
+- This is a really sophisticated sorting tool, but made in someone else’s platform and definitely not from the ground up. While there is some coding involved, this feels a lot more “low code” than other solutions, and overall a very satisfyingly good system. The channel permissions let you be sorted into different roles, in different servers, with a bot that has a whole different level of control than the users, and all of this layered logic is the backbone of making this system work.
+- I've been developing similar features with Keybase and their chatbot functionality. There is definitely a more decentralized way to solve this massive coordination challenge, but to use something today, that works...this discord approach is pretty rad.
+- I would love to help Mattereum & share what we've learned at www.sensecollective.org from our field tests.
+- This article outlines the WOWC matchmaking discord https://mule.substack.com/p/dark-horse-discord
+- @hexayurt the identity issue is definitely thorny, but I think there are some workarounds that might maintain identity integrity w/discord.
+- The highest permissioned accounts can maintain a gatekeeping whitelist that only grants permissions to accounts that have validated an Ethereum account (perhaps with social proofs).
+- There are a few contracts that can provide the bridge between a discord account and ETH, I.e
+- This is an example that could create a key pairing & account verification process:
+- https://github.com/crazyrabbitLTC/IdentityContract
+- The idea behind Identity in this approach is to create a contract which can represent a user, an organization, an agent, anything- but rather than have this identity be tied to a singular key pair, it can be tied to a contract which can exceute arbitrary code, and thus interact like a first-class citizen on Ethereum.
+- When thinking about Identiy the following things were part of the wish list:
+-  1 Meta transaction support: this means users can start using ethereum without haveing ethereum, and without having a wallet, nor owning any ETH for gas.
+-  2 First Class citizen: users can send transactions and create contracts, including using the new create2 opcode.
+-  3 Social Recovery: users can create multi-sigs collections of keypairs that are allowed to regain access to their account.
+-  4 Permission system: users can allow multiple addreses, or via multi-sig, groups of addresses to control the wallet. This means DApp developers can implement features such as 2FA for transactions.
+-  5 Arbitrary Metadata: Identities should be able to pin meta-data to themselves. This might be encrypted personal records in the case of individuals, it might be public finacial statements in the case of a non-profit. If the indetity is supposed to represent an agent, there should be the ability to attach additional metadata.
+-  6 Standards compliant: An identity should play nice with other existing standards in Ethereum.
+- If the # of admin activities is large enough to warrant automation, Discord (w/ ETH identity plugin) would be lowest friction/cost to implement. Status is great if automation isn't needed.
+- Somewhere in the middle, Keybase is rapidly becoming more viable w/ cryptographically signed access controls, chatbot integration and version control (that we've duct-taped into a TCR workflow)

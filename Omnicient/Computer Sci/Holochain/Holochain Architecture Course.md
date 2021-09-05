@@ -1,0 +1,26 @@
+[[Holochain]]
+
+- [[Holochain Architecture Course L1]]
+    - [Designing a holochain app](https://hackmd.io/9BI8OQKhSAKyZ5Kc95cJcg)
+- [[Holochain Architecture Course L2]]
+    - [L1 homework](https://hackmd.io/pXAP_fDGTSq9iY8RVr3Isg)
+    - [Holochain design challenges](https://hackmd.io/LoMJmGR0RfSkj8vXi2u33w?both)
+    - Assignment
+        - Continuing on the trajectory we started last week for [building a Reddit like site for discussion forums](https://forum.holochain.org/t/session-1-homework/2501/9), how would you go about adding reputation or voting to the system?
+        - How would you protect from gaming or abuse of voting or reputation on a P2P app?
+        - If you wanted to use votes to make a decision, approve a feature update, or elect a representative, how would you know if you’ve collected all the votes on an eventually consistent system like Holochain?
+        - Outline key elements of your design or solution for addressing these issues.
+        - Next week we will continue to address [people’s questions from this session](https://hackmd.io/LoMJmGR0RfSkj8vXi2u33w) and hopefully have a new batch of questions from figuring out ways to address voting/reputation.
+- [[Holochain Architecture Course L3]]
+    - In Session #3 we explored different strategies for addressing challenges with eventual consistency and no absolute time reference. e.g. How can you tally votes accurately?
+    - We also addressed a lot of questions about permissions/roles (implemented in validation rules) and sharing access to private data/actions (implemented via capability grants).
+    - For next week we want to try to address a couple common challenges:
+        - Rivalrous data – How do you address address collisions to establish unique names for users or groups?
+        - Membranes – How do you protect from people messing with your system by manufacturing lots of fake Sybil accounts?
+    - There are a variety of ways to tackle both of these issues. What works best for your Holochain needs?
+    - See you next week!
+    - -art
+- [[Holochain Architecture Course L4]]
+    - Looking at predictable unforgettable randomness; e.g. dice rolls, card shuffling. How do you agree on randomness across multiple parties. What are sources of randomness?
+    - Finding data, indexing, linking strategies; how do you make your data findable to the application across the whole DHT. What are the kinds of data you need to find, how are you making it possible for people to find it. 
+- [[Holochain Architecture Course L5]]

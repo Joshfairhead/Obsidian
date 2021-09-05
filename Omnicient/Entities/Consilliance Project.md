@@ -1,0 +1,43 @@
+
+## Consilliance Project CTA
+
+- Support required [doc](https://docs.google.com/document/d/16oOMmLRUcph5lXUBUm4a6ggJPiTILHLEjlxd-n2j-y0/edit?fbclid=IwAR3_rZdL8E5orhsSQ-RZURbTVa7HShczIi0LO11_gmKqpQ1t42Cv91-_FsY)
+    - Thank you for your interest in supporting the vision and mission of The Consilience Project. We are making good progress and can use allies and support in a number of areas. The following are the primary areas support is most needed:
+    - **Capital** — Capital gives us the opportunity to engage the right team members to build the consilience project. The Consilience Project is the first initiative of The Civilization Research Institute, a registered 501(c)(3) organization, so donations are tax-deductible for US donors.
+    - (The Consilience Project has no revenue model - no ads, no selling people’s data, and no information hidden behind paywalls. We believe the information commons needed to empower citizenry needs to be a public good - we are committed to stewarding the information commons, with no competing interests.)
+    - **Connections to capital **— If you know people who might be interested in this project and able to offer financial support, we would love those introductions.
+    - **Distribution support** — If you are connected to people who run podcasts, news papers or programs, email lists, celebrity connections, or other relevant distribution capacities, that Support with distribution gives us tremendous leverage to get our message, articles, and videos to a wider audience.
+    - **Advisors **— You may be, or be connected to those that would be able to offer comment or guidance when we want to make sense of topics that we are covering. This could be on or off-the-record, with or without name attached at the discretion of the advisor. For example, if we are doing a story about Huawei and 5G, we might like to speak to the CTO of Verizon to discuss the 5G landscape writ large. Or, if we are doing a story on COVID, we might like to get comments or input from virologists or epidemiologists. If you see something in an area of your expertise that you think is being miscovered or under-addressed in the media and you want to reach out to us to suggest pieces for us to cover, that is great.
+    - **Institutions** — You may have a relationship with an institution who could help us. Perhaps you are on the board of RAND, Stratfor, or a university lab researching a particular topic that is relevant to our inquiries. Perhaps you are a part of a think tank or research lab that could allocate grant money internally toward a topic that is of mutual interest to your own research and expertise whose research outputs could be shared with us.
+    - **Data processing support** — You may have a relationship with an institution who would be willing to help us make sense of a topic through provisioning of data processing, such as crawling the internet for a specific type of data, or analyzing how individual news sources reference each other over time.
+    - **Tech solutions for better sensemaking** — This could be anything from data scrapers, to semantic analysis tools that can identify sentiment, tools that can find unique or significant patterns in data dumps, or can identify Lakoff framing; image search tools that help verify deep fakes, photoshop, or whether an image was taken where it was said to have been taken.
+    - **Visualization and pedagogical help **— This would look like taking the stories, articles, or pieces that we do and helping us to create infographics, animations, etc., to engage different and wider audiences.
+    - **Open-Source Intelligence** — This could look like privileged access to private communications channels where consequential planning or conversations are happening on topics relevant to our research. It could also look like access to first-degree facts like security camera footage or images with time stamps related to a consequential event or situation. This helps us go beyond meta-news to get to first-degree facts about a situation.
+    - **Tech shop to build our site** — Individuals or organizations that could take our designs and mock ups and build the site.
+    - Roles we are looking to find the right people for:
+    - Immediately:
+    - **Web Developer **-- A person or team that can work with us and our branding team to technically build and launch the site and related technical needs.
+    - **Copy editor** -- An in-house copy editor that could own the right neutral, clear, “house tone.”
+    - **Fundraising Director** -- Ideally with a strong background in non-profit fundraising, from foundations in particular, with strong connections to that community.
+    - Soon:
+    - **Investigative Journalists and Analysts **-- Senior investigative journalists who have a good understanding of the world, who aren’t ideologically captured, are earnest and have good epistemics.
+    - If you are interested in helping please fill out [this form](https://airtable.com/shrVKehFhMKxEpWU1) or contact us at [info@civilizationresearch.org](mailto:info@civilizationresearch.org).
+    - Thank you!
+- Timeliest needs
+    - -Donations
+    - -Connections to possible aligned donors
+    - -Web development
+    - -Legal support
+    - -ORM/PR
+    - -Curating and vetting relevant resources we will curate
+    - -Connections to advisors with expertise in topics we are doing pieces on
+    - -Connections to resources for distribution post-launch
+    - -Connections to aligned journalists, news outlets, media labs, etc.
+    - -High-end journalistic copyediting
+    - -Design implementation help
+    - -Video (polished explainer video first, then video version of written pieces)
+    - -Research/writing with the team on pieces underdevelopment
+    - -Experienced help with running the innovation prizes
+    - -Experienced help with developing the community forums
+    - -Tech support for various relevant types of bid data/ ML analysis
+    - -Experienced volunteer engagement and management

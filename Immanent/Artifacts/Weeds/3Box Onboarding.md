@@ -1,0 +1,8 @@
+- [[Onboarding]] process
+    - Two interviews with COO
+    - 30 Mins with CEO
+    - 1.5hr gauntlet in Discord
+        - One member acting as customer
+        - Several team members available to help
+        - Stats bot in the channel as well
+        - Retrospective with Joel after
