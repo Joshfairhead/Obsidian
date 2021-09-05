@@ -17,6 +17,17 @@
         }
       },
       {
+        "id": "6a47cae3f5a8b78e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "32e786966d706b8a",
         "type": "leaf",
         "pinned": true,
@@ -27,17 +38,6 @@
             "mode": "source"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "f1e360fa07592fc6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/WorkBench/Obsidian Git Ignore.md",
-            "mode": "preview"
-          }
         }
       }
     ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Obsidian Git Ignore.md",
+                "file": "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Obsidian Git Ignore.md",
+                "file": "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,8 +150,10 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "f1e360fa07592fc6",
+  "active": "6a47cae3f5a8b78e",
   "lastOpenFiles": [
+    "Trancendental/Evergreen Seeds/The essence of complimentarity.md",
+    "Immanent/DailyNotes/Buffer.md",
     "Immanent/WorkBench/Obsidian Git Ignore.md",
     "Omnicient/Computer Sci/Shell.md",
     "Omnicient/Computer Sci/Git.md",
@@ -159,8 +161,6 @@
     "Immanent/Work Bench/Obsidian Git Ignore.md",
     "Immanent/DailyNotes/2021-09-03.md",
     "Omnicient/Monad Seeds/Bias.md",
-    "Immanent/DailyNotes/2021-09-04.md",
-    "assets/Confidential/SignedRentalContract.pdf",
-    "Omnicient/Monad Seeds/Logic.md"
+    "Immanent/DailyNotes/2021-09-04.md"
   ]
 }

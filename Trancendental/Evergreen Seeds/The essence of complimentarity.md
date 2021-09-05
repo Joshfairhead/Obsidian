@@ -2,8 +2,8 @@
 Tags: []
 ---
 Related: 
-# The essence of complimentarity
-[[Hypothesis]]: 
+# The Essence of Complimentarity
+[[Hypothesis]] [[Logic]]
 
 Complementarity represents a pair of operators.
 Such operators can be symmetrical or asymetrical. 
