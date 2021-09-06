@@ -17,17 +17,6 @@
         }
       },
       {
-        "id": "6a47cae3f5a8b78e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Omnicient/Monad Saplings/Power.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "32e786966d706b8a",
         "type": "leaf",
         "pinned": true,
@@ -38,6 +27,17 @@
             "mode": "source"
           },
           "pinned": true
+        }
+      },
+      {
+        "id": "c2170584f814c6a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Omnicient/Monad Seeds/Logic.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Saplings/Power.md",
+                "file": "Omnicient/Monad Seeds/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Saplings/Power.md",
+                "file": "Omnicient/Monad Seeds/Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,17 +150,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "6a47cae3f5a8b78e",
+  "active": "c2170584f814c6a9",
   "lastOpenFiles": [
-    "Omnicient/Monad Saplings/Power.md",
+    "Omnicient/Monad Seeds/Logic.md",
     "Immanent/DailyNotes/2021-09-06.md",
-    "Trancendental/Evergreen Seeds/The essence of complimentarity.md",
+    "Immanent/DailyNotes/Drum.md",
     "Immanent/DailyNotes/Buffer.md",
-    "Immanent/WorkBench/Obsidian Git Ignore.md",
-    "Omnicient/Computer Sci/Shell.md",
-    "Omnicient/Computer Sci/Git.md",
+    "Immanent/DailyNotes/2021-09-04.md",
     "Immanent/DailyNotes/2021-09-05.md",
-    "Immanent/Work Bench/Obsidian Git Ignore.md",
-    "Immanent/DailyNotes/2021-09-03.md"
+    "Immanent/DailyNotes/2021-09-02.md",
+    "Immanent/DailyNotes/2021-09-03.md",
+    "Omnicient/Entities/PrivateIndividuals/Sam.md",
+    "Omnicient/Monad Saplings/Power.md"
   ]
 }

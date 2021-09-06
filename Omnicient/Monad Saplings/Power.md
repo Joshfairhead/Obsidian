@@ -14,5 +14,5 @@ Related: [[Philosophy]] [[Praxis]] [[Capra course lecture 8]]
 
 
 #### Reflections
-- See experiences noted on[[2021-09-03]]
-- 
+- See experiences noted on [[2021-09-03]]
+- In essence; [[Optative]] and [[Hortatory]] forms of language are of a [[Trancendental]] language modality; they look up to power and use submissive volitive modes of [[Grammar]]. The [[Imperative]] is the form of [[Grammar]] a king might use and has characteristics of the [[Immanent]]; this is an active and commanding tense that asserts [[Volition]]. 
