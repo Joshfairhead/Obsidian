@@ -21,9 +21,8 @@ Tags: [Organisations, Networks, Index, Refactor]
 ## Communities
 - https://feytopia.com/ - Primavera de Filippi stayed there
 - https://embassynetwork.com/
-- https://lifeitself.us/
-- https://www.aci.auroville.org/
-- https://www.giz.de/en/html/index.html
+- https://lifeitself.us/ - Found via [[Richard Bartlett]] 
+- https://www.aci.auroville.org/ - Indian city
 - http://coop.loconomics.com.au/
 - https://dwebcamp.org/
 - https://www.gaianet.earth/
@@ -34,9 +33,11 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://percolab.be/
 	- https://www.youtube.com/watch?v=YFfXX2JHMbY	??
 
+## Consultants
+- https://www.giz.de/en/html/index.html - Complexity and learning
+
 ## Networks
 - https://weavernetwork.org/
-
 
 ## Value Networks - Makers
 - https://giveth.io

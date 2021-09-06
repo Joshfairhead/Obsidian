@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Entities/Entities.md",
+            "file": "Immanent/DailyNotes/Buffer.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Entities/Entities.md",
+                "file": "Immanent/DailyNotes/Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Entities/Entities.md",
+                "file": "Immanent/DailyNotes/Buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,12 +152,12 @@
   },
   "active": "c2170584f814c6a9",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/Buffer.md",
+    "Immanent/DailyNotes/2021-09-06.md",
     "Omnicient/Entities/Entities.md",
     "Omnicient/Entities/0x Salon.md",
-    "Immanent/DailyNotes/2021-09-06.md",
     "Immanent/DailyNotes/Drum.md",
     "Omnicient/Monad Seeds/Logic.md",
-    "Immanent/DailyNotes/Buffer.md",
     "Immanent/DailyNotes/2021-09-04.md",
     "Immanent/DailyNotes/2021-09-05.md",
     "Immanent/DailyNotes/2021-09-02.md",
