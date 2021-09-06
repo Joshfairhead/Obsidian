@@ -43,13 +43,13 @@ Also note that each proposition is of a different modality. It therefore seems t
 
 Don't confuse General terms with Collective terms; they are of different qualityies.
 
-Terms can also be **concrete** or **abstract**. 
+Terms can be **concrete** or **abstract**. 
 - **Concrete terms** are most terms that can be put in plural: house, mountain, slate.
 - **Abstract terms** are qualities, properties or accidents that belong to things: magnitude of a house, elevation of a mountain, colour of slate, thickness of a phone, etc.
 
 **Perfectly abstract terms cannot be plural**. Pluralised abstractions are necesserily conjoined to the concrete: e.g. Colour(s) of a house. Colours is an (imperfectly) abstract term. House is a concrete term. 
 
-Terms can also be **positive** or **abstract**.
+Terms can be **positive** or **abstract**.
 - Generally we give names to things due to a particular quality
 - In other cases we give names to things due to a lack of a particular quality
 	- For example: un-, a-, an-, im-, non-, or -less.
@@ -60,10 +60,12 @@ Terms can also be **positive** or **abstract**.
 	- Dry/moist
 	- Rough/smooth
 	- Verse/prose
-- **Some distinctions commit fallicies** as they are not the negative of eachother. 
-	- Big is not the negative of small.
-
-
+- **Some distinctions commit fallicies** as they are not the true negatives of eachother. The negative of big is not small; its not-big. Big and small require mediation through some reference. Hot is the posession of more heat than a median. Cold is the posession of less heat than a median.
+	- Large/Small
+	- Light/Dark
+	- Hot/Cold
+	- Heavy/Light
+	
 
 
 
