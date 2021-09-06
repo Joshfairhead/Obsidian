@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
+            "file": "Omnicient/Monad Saplings/Power.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
+                "file": "Omnicient/Monad Saplings/Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
+                "file": "Omnicient/Monad Saplings/Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,6 +152,8 @@
   },
   "active": "6a47cae3f5a8b78e",
   "lastOpenFiles": [
+    "Omnicient/Monad Saplings/Power.md",
+    "Immanent/DailyNotes/2021-09-06.md",
     "Trancendental/Evergreen Seeds/The essence of complimentarity.md",
     "Immanent/DailyNotes/Buffer.md",
     "Immanent/WorkBench/Obsidian Git Ignore.md",
@@ -159,8 +161,6 @@
     "Omnicient/Computer Sci/Git.md",
     "Immanent/DailyNotes/2021-09-05.md",
     "Immanent/Work Bench/Obsidian Git Ignore.md",
-    "Immanent/DailyNotes/2021-09-03.md",
-    "Omnicient/Monad Seeds/Bias.md",
-    "Immanent/DailyNotes/2021-09-04.md"
+    "Immanent/DailyNotes/2021-09-03.md"
   ]
 }
