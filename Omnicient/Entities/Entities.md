@@ -21,6 +21,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 ## Communities
 - https://feytopia.com/ - Primavera de Filippi stayed there
 - https://embassynetwork.com/
+- https://lifeitself.us/
 - https://www.aci.auroville.org/
 - https://www.giz.de/en/html/index.html
 - http://coop.loconomics.com.au/
