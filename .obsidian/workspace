@@ -35,8 +35,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Music Curation.md",
-            "mode": "source"
+            "file": "Immanent/WorkBench/Alive - Vital - Creative.md",
+            "mode": "preview"
           }
         }
       }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Music Curation.md",
+                "file": "Immanent/WorkBench/Alive - Vital - Creative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Music Curation.md",
+                "file": "Immanent/WorkBench/Alive - Vital - Creative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "5bfc701c34fed390",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Alive - Vital - Creative.md",
     "Immanent/WorkBench/Music Curation.md",
     "Immanent/DailyNotes/Drum.md",
     "Immanent/WorkBench/Music Recommendations.md",
@@ -161,7 +162,6 @@
     "Immanent/DailyNotes/2021-09-07.md",
     "Immanent/DailyNotes/2021-09-06.md",
     "Omnicient/Entities/Embassy Network.md",
-    "Omnicient/Entities/Entities.md",
-    "Embassy Network.md"
+    "Omnicient/Entities/Entities.md"
   ]
 }
