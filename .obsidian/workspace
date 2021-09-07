@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "79c0b590909502ad",
+        "id": "5bfc701c34fed390",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-07.md",
+            "file": "Immanent/WorkBench/Music Curation.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-07.md",
+                "file": "Immanent/WorkBench/Music Curation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-07.md",
+                "file": "Immanent/WorkBench/Music Curation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,17 +150,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "79c0b590909502ad",
+  "active": "5bfc701c34fed390",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Music Curation.md",
+    "Immanent/DailyNotes/Drum.md",
+    "Immanent/WorkBench/Music Recommendations.md",
+    "Sturgill Simpson.md",
+    "Immanent/DailyNotes/Buffer.md",
     "Immanent/DailyNotes/2021-09-07.md",
     "Immanent/DailyNotes/2021-09-06.md",
     "Omnicient/Entities/Embassy Network.md",
     "Omnicient/Entities/Entities.md",
-    "Embassy Network.md",
-    "Omnicient/Entities/0x Salon.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/Drum.md",
-    "Omnicient/Monad Seeds/Logic.md",
-    "Immanent/DailyNotes/2021-09-04.md"
+    "Embassy Network.md"
   ]
 }
