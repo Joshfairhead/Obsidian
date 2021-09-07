@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "holistic design",
+                "query": "tag:#Entities",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.99999809265137
   },
   "right": {
     "id": "2b332221d0ff3d1e",
