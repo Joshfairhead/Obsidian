@@ -30,13 +30,13 @@
         }
       },
       {
-        "id": "5bfc701c34fed390",
+        "id": "dd520243a414f235",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Alive - Vital - Creative.md",
-            "mode": "preview"
+            "file": "Immanent/DailyNotes/2021-09-08.md",
+            "mode": "source"
           }
         }
       }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Alive - Vital - Creative.md",
+                "file": "Immanent/DailyNotes/2021-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Alive - Vital - Creative.md",
+                "file": "Immanent/DailyNotes/2021-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "width": 249,
     "collapsed": true
   },
-  "active": "5bfc701c34fed390",
+  "active": "dd520243a414f235",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-08.md",
+    "Immanent/DailyNotes/2021/2021-09-06.md",
+    "Immanent/DailyNotes/2021/2021-09-07.md",
+    "Immanent/DailyNotes/2021/2021-09-04.md",
+    "Immanent/DailyNotes/2021/2021-09-05.md",
+    "Immanent/DailyNotes/2021-09-07.md",
+    "Immanent/DailyNotes/Drum.md",
     "Immanent/WorkBench/Alive - Vital - Creative.md",
     "Immanent/WorkBench/Music Curation.md",
-    "Immanent/DailyNotes/Drum.md",
-    "Immanent/WorkBench/Music Recommendations.md",
-    "Sturgill Simpson.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/2021-09-07.md",
-    "Immanent/DailyNotes/2021-09-06.md",
-    "Omnicient/Entities/Embassy Network.md",
-    "Omnicient/Entities/Entities.md"
+    "Immanent/WorkBench/Music Recommendations.md"
   ]
 }
