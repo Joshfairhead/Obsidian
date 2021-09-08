@@ -3,6 +3,7 @@ Tags: []
 ---
 Related: [[Monads]] [[Interaction Dyad]] [[Interaction Triad]]
 # Interaction Monad
+Up a scale: [[Immanent]]
 
 ### [[Forrest Landry]]
 > All experience and expression (interaction) is known and understood in the terms of choice, change, and cause.

@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/Systematic ConstruKctions/Existance/Existance Triad.md",
+            "file": "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
             "mode": "source"
           }
         }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Systematic ConstruKctions/Existance/Existance Triad.md",
+                "file": "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Systematic ConstruKctions/Existance/Existance Triad.md",
+                "file": "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,15 +164,15 @@
   },
   "active": "89ee8043ffdbe463",
   "lastOpenFiles": [
-    "Immanent/Systematic ConstruKctions/Existance/Existance Triad.md",
-    "Immanent/Systematic ConstruKctions/Experience/Experience Triad.md",
-    "Immanent/Systematic ConstruKctions/Existance/Existance Dyad.md",
-    "Immanent/Systematic ConstruKctions/Interaction/Interaction Triad.md",
-    "Interaction Monad.md",
-    "Interaction Dyad.md",
-    "Existance Triad.md",
+    "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
+    "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Dyad.md",
+    "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Monad.md",
+    "Immanent/Systematic ConstruKctions/Objectivity/Objectivity Monad.md",
+    "Immanent/Systematic ConstruKctions/Objectivity/Objectivity Triad.md",
+    "Immanent/Systematic ConstruKctions/Relationship/Relationship Monad.md",
+    "Immanent/Systematic ConstruKctions/Relationship/Relationship Triad.md",
     "Immanent/Systematic ConstruKctions/Expression/Expression Triad.md",
-    "Immanent/Systematic ConstruKctions/Untitled.md",
-    "Immanent/Systematic ConstruKctions/_Index/Triads.md"
+    "Expression Monad.md",
+    "Immanent/Systematic ConstruKctions/Perception/Perception Monad.md"
   ]
 }

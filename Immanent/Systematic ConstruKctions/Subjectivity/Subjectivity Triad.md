@@ -10,7 +10,10 @@ Related: [[Triads]][[Subjectivity Monad]] [[Subjectivity Dyad]] [[Subjectivity T
 | Perception | Observation | Experience | (expressed in this order by Landry)
 | Implicit | 
 
- 3 | 6 | 9 |
+
+%%
+| 3 | 6 | 9 |
 |---|---|---|
 | Being | Exist | Reality | (Landrys order)
 | Explicit | Exist | Reality | (My iteration)
+%%
