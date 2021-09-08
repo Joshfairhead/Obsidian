@@ -10,7 +10,7 @@ That is to say, when you find several terms that seem to fit together in a set, 
 
 Iterate on the terms and try to find tighter correspondences with the attractors. Doing so refines semantic resolution according to defined attractor basins. The tighter the set, the more refined and accurate our resolution becomes. If a given system needs tuning, this is an excersize that should build capacity. This game can be considered the practice of theory. 
  
- Ideally one should be practiced in all systems and maintain a balanced use of them. In actuality this probably wont be the case and there will be an improvisationary dynamic that requries balancinng in an autopoietic equilibrium. The movement between systems is equivelent to the movement of mental states, each system has a quality so [[Make sure to steer]]; the appropriate sequence to maintain a healthy balance is possibly an Enneagram. 
+ Ideally one should be practiced in all systems and maintain a balanced use of them. In actuality this probably wont be the case and there will be an improvisationary dynamic that requries balancinng in an autopoietic equilibrium. The movement between systems is equivelent to the movement of mental states, each system has a quality so [[Make Sure to Steer]]; the appropriate sequence to maintain a healthy balance is possibly an Enneagram. 
  
  %% [[Hypothesis]]: [[Forrest Landry]] is very keen on threes and places a high priority on immanance. Three is the realational system. There is evidance of a softness in his character that may be a reflection of his metaphysics. [[Ken Wilbur]] is a twoness and fourness kinda guy; he also lives by his metaphysics; how are the qualities of these systems personified? %%
  

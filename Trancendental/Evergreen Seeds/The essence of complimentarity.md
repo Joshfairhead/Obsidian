@@ -32,17 +32,19 @@ Subjective | Objective
 	- Immanent | Omnicient | Trancendental
 	- Being | Existance | Reality
 
-%% This may be confirmation bias as it simply describes Landrys logic. It seems to work with alternative examples such as below but examine them and [[Measure semantic delta]] for yourself%%
+%% This may be confirmation bias as it simply describes Landrys logic. It seems to work with alternative examples such as below. Make sure to examine them and [[Measure Semantic Delta]] for yourself though%%
 
 ## Experiments
 **Symmetric scale shift test**
+Relationships
 Equal | Opposite 
 Correspondence | Contiguity | Compresence 
 
 **Symmetric scale shift test**
+Relationships
 And | !Not
 Correspondence | Contiguity | Compresence
-%% Note: the same triplication seems to roughly correspond to  two different attractors or a `symetric duplication` that can be normalized to the polarity of subjective/objective. [[Measure semantic delta]]%%
+%% Note: the same triplication seems to roughly correspond to two different attractors or a `symetric duplication` that can be normalized to the polarity of subjective/objective. [[Measure Semantic Delta]]%%
 
 ----
 

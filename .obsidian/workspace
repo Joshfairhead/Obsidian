@@ -39,6 +39,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "89ee8043ffdbe463",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Immanent/DailyNotes/2021-09-08.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -151,17 +162,17 @@
     "width": 249,
     "collapsed": true
   },
-  "active": "dd520243a414f235",
+  "active": "89ee8043ffdbe463",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2021-09-08.md",
-    "Immanent/DailyNotes/2021/2021-09-06.md",
     "Immanent/DailyNotes/2021/2021-09-07.md",
-    "Immanent/DailyNotes/2021/2021-09-04.md",
-    "Immanent/DailyNotes/2021/2021-09-05.md",
-    "Immanent/DailyNotes/2021-09-07.md",
+    "Immanent/DailyNotes/2021/2021-08-19.md",
+    "Immanent/DailyNotes/Buffer.md",
     "Immanent/DailyNotes/Drum.md",
-    "Immanent/WorkBench/Alive - Vital - Creative.md",
-    "Immanent/WorkBench/Music Curation.md",
-    "Immanent/WorkBench/Music Recommendations.md"
+    "Omnicient/Monad Saplings/Obsidian.md",
+    "Trancendental/Evergreen Saplings/Take notes to capture insight.md",
+    "Trancendental/Evergreen Saplings/Find peace in a warzone.md",
+    "Trancendental/Evergreen Saplings/A good note taking system should have levels of scale.md",
+    "Trancendental/Evergreen Saplings/Don't use commerce to find correspondence.md"
   ]
 }

@@ -2,43 +2,45 @@
 Tags: [Tools]
 ---
 
-## Workflow
+# Obsidian Workflows
+
+### Structure
+- Using [[Forrest Landry]]s metaphysics as a template. Immanent for active work in the present tense; non-evergreen notes. Omnicient for information and intelligence. Trancendental for insights and [[Evergreen Notes]].
+
+### Second Brain eWorkflow
 [Video](https://www.youtube.com/watch?v=Ewhfok91AdE)
 - Incoming content
 - Idea Distillation
 - Produce Artifacts
 
-### Tags vs pages
--   Tags are meta-information about the content, they tell me what kind of note it is, or what its status is, or what context it belongs to, not what it’s about. `#article`, `#recipe`, `#person`, `#meeting`, etc.
--   [[pages]] are for entities, or subjects. `[[Digital Physics]]`, `[[New Orleans Shrimp]]`, `[[Ted Nelson]]`, `[[A Clockwork Orange]]`, `[[January Board Meeting]]`, etc.
--  Tags can be confusing when they are not identifying 'has' or 'is'. For instance; `hasPrincipals` vs `isPrincipal` - when these mix you get assorted results. Best to think of them as substances rather than accidents so `isPrincipal`. The note should only be about one thing! ~[[Josh]]
+### Tags
+- Tags are for classes. Meta-data about what kind of note I'm taking. Someone else suggested:
+	- Tags are meta-information about the content, they tell me what kind of note it is, or what its status is, or what context it belongs to, not what it’s about. `#article`, `#recipe`, `#person`, `#meeting`, etc.
+	- [[pages]] are for entities, or subjects. `[[Digital Physics]]`, `[[New Orleans Shrimp]]`, `[[Ted Nelson]]`, `[[A Clockwork Orange]]`, `[[January Board Meeting]]`, etc.
+-  Tags can be confusing when they are not identifying 'has' or 'is'. For instance; `hasPrincipals` vs `isPrincipal` - when these mix you get assorted results. Best to think of them as substances rather than accidents so `isPrincipal`. The note should only be about one thing!
 
 ### Taking notes
-[Building a second brain](https://maggieappleton.com/basb)
-[Principals](https://notes.andymatuschak.org/About_these_notes)
-- Take [[Evergreen Notes]]
-- [[Evergreen Notes should be Atomic]]
-- [[Evergreen Notes should be concept-oriented]]
-- [[Evergreen Notes should be Densely Linked]]
-
 [[Take notes to capture insight]]
 [[A good note taking system should have levels of scale]]
 
-### Meta data
-Planted on, last tended to in YAML file?
+- [Building a second brain](https://maggieappleton.com/basb)
+- Take [[Evergreen Notes]]
+	- [Principals](https://notes.andymatuschak.org/About_these_notes) of [[Evergreen Notes]]
+	- [[Evergreen Notes should be Atomic]]
+	- [[Evergreen Notes should be concept-oriented]]
+	- [[Evergreen Notes should be Densely Linked]]
 	
 ### HotKeys
-##### Custom setup
-Cmd + arrows = move cursor to line beginning/end
-Alt + arrows = move cursor one word left/right
-Shift + arrows = navigate History
-Shift + Cmd + Arrows = move panes
+My custom setup: 
+- Cmd + arrows = move cursor to line beginning/end
+- Alt + arrows = move cursor one word left/right
+- Shift + arrows = navigate History
+- Shift + Cmd + Arrows = move panes
 
-### Vim?
+### [[Git]] Syncing
+- Create a `.gitignore` file with folder paths (for teams) or use `.git/info/exclude` file for wore private git ignores. See note on [[Git]] for further info.
+- Upload to github
+- [How to automate version control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5) - Cronjob not working? Previously had script issues also but it works to degrees. 
 
-### Syncing
-- #### Git
-	- [Do This](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5)
-		- Script ond cronjob not working?
-
+### Vim
 ### Note Refactor
