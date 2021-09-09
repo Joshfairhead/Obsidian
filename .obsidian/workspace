@@ -46,8 +46,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
-            "mode": "preview"
+            "file": "Immanent/DailyNotes/2021-09-09.md",
+            "mode": "source"
           }
         }
       }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
+                "file": "Immanent/DailyNotes/2021-09-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
+                "file": "Immanent/DailyNotes/2021-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,6 +164,7 @@
   },
   "active": "89ee8043ffdbe463",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-09.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 4.md",
     "Omnicient/Monad Saplings/Enneagram.md",
@@ -171,7 +172,6 @@
     "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 2.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 1.md",
     "Omnicient/Monad Saplings/Ethics.md",
-    "Immanent/DailyNotes/2021-09-09.md",
     "Immanent/DailyNotes/2021-09-08.md",
     "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md"
   ]
