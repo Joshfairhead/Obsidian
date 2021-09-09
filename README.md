@@ -1,6 +1,6 @@
 # Obsidian Vault
 
-**What is this?**``
+**What is this?**
 - This is my Obsidian vault for public consumption. 
 - I have private directories as well which are excluded vith Git.
 - The vault is intentionally structured to cover everything I need to necessary and sufficient degrees
@@ -32,5 +32,5 @@
 - Evergreen saplings (maturing work that won't age)
 - Evergreen seeds (the start of work that wont age)
 
-#### Conclusion
+### Conclusion
 Now you know the structure of my digital brain. May it's memes spread. 
