@@ -30,34 +30,12 @@
         }
       },
       {
-        "id": "dd520243a414f235",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/DailyNotes/2021-09-08.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "89ee8043ffdbe463",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/DailyNotes/2021-09-09.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "a268f6845a9ad03a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Monad Forrest/Education as if people and planet matter.md",
+            "file": "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
             "mode": "source"
           }
         }
@@ -87,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Entities",
+                "query": "tag:#Articles",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Forrest/Education as if people and planet matter.md",
+                "file": "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Forrest/Education as if people and planet matter.md",
+                "file": "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,15 +153,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
-    "Omnicient/Monad Forrest/Education as if people and planet matter.md",
-    "Omnicient/Monad Forrest/Requisite Variety.md",
-    "Omnicient/Monad Forrest/Philosophy Monad.md",
-    "Omnicient/Monad Forrest/Paradox.md",
-    "Omnicient/Monad Forrest/Self-Organisation.md",
-    "Omnicient/Monad Forrest/Meta-learning.md",
-    "Omnicient/Monad Forrest/Writing Online.md",
-    "Omnicient/Monad Forrest/Curation.md",
-    "Omnicient/Monad Forrest/Emergent Cyclical Theory Article.md",
-    "Omnicient/Monad Forrest/EA Geneva.md"
+    "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
+    "Trancendental/Evergreen Saplings/Astropoiesis.md",
+    "Trancendental/Evergreen Saplings/Take notes to capture insight.md",
+    "Trancendental/Evergreen Seeds/Drilling qualsystems.md",
+    "Trancendental/Evergreen Seeds/The Present Moment.md",
+    "Trancendental/Evergreen Seeds/Follow the breath.md",
+    "Trancendental/Evergreen Seeds/Three, six nine meditation.md",
+    "Trancendental/Evergreen Seeds/Desires should be dynamically organic.md",
+    "Trancendental/Evergreen Seeds/Find peace in a warzone.md",
+    "Trancendental/Evergreen Seeds/Open Magick.md"
   ]
 }
