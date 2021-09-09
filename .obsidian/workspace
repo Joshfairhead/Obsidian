@@ -46,8 +46,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
-            "mode": "preview"
+            "file": "Immanent/DailyNotes/2021-09-09.md",
+            "mode": "source"
           }
         }
       }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
+                "file": "Immanent/DailyNotes/2021-09-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
+                "file": "Immanent/DailyNotes/2021-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,6 +164,8 @@
   },
   "active": "89ee8043ffdbe463",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-09.md",
+    "Immanent/DailyNotes/2021-09-08.md",
     "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
     "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Dyad.md",
     "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Monad.md",
@@ -171,8 +173,6 @@
     "Immanent/Systematic ConstruKctions/Objectivity/Objectivity Triad.md",
     "Immanent/Systematic ConstruKctions/Relationship/Relationship Monad.md",
     "Immanent/Systematic ConstruKctions/Relationship/Relationship Triad.md",
-    "Immanent/Systematic ConstruKctions/Expression/Expression Triad.md",
-    "Expression Monad.md",
-    "Immanent/Systematic ConstruKctions/Perception/Perception Monad.md"
+    "Immanent/Systematic ConstruKctions/Expression/Expression Triad.md"
   ]
 }
