@@ -1,5 +1,6 @@
 # Obsidian Vault
 
+What is this?
 - This is my Obsidian vault for public consumption. 
 - I have private directories as well which are excluded vith Git.
 - The vault is intentionally structured to cover everything I need to necessary and sufficient degrees
