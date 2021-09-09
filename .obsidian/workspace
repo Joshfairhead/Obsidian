@@ -57,7 +57,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
+            "file": "Omnicient/Monad Forrest/Education as if people and planet matter.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
+                "file": "Omnicient/Monad Forrest/Education as if people and planet matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
+                "file": "Omnicient/Monad Forrest/Education as if people and planet matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,15 +175,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
-    "Trancendental/Evergreen Saplings/Astropoiesis.md",
-    "Trancendental/Evergreen Saplings/Take notes to capture insight.md",
-    "Astropoiesis.md",
-    "Immanent/DailyNotes/2021-09-09.md",
-    "Untitled.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 4.md",
-    "Omnicient/Monad Saplings/Enneagram.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 3.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 2.md"
+    "Omnicient/Monad Forrest/Education as if people and planet matter.md",
+    "Omnicient/Monad Forrest/Requisite Variety.md",
+    "Omnicient/Monad Forrest/Philosophy Monad.md",
+    "Omnicient/Monad Forrest/Paradox.md",
+    "Omnicient/Monad Forrest/Self-Organisation.md",
+    "Omnicient/Monad Forrest/Meta-learning.md",
+    "Omnicient/Monad Forrest/Writing Online.md",
+    "Omnicient/Monad Forrest/Curation.md",
+    "Omnicient/Monad Forrest/Emergent Cyclical Theory Article.md",
+    "Omnicient/Monad Forrest/EA Geneva.md"
   ]
 }
