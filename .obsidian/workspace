@@ -46,8 +46,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-09.md",
-            "mode": "source"
+            "file": "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
+            "mode": "preview"
           }
         }
       }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-09.md",
+                "file": "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-09.md",
+                "file": "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,15 +164,15 @@
   },
   "active": "89ee8043ffdbe463",
   "lastOpenFiles": [
+    "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 4.md",
+    "Omnicient/Monad Saplings/Enneagram.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 3.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 2.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 1.md",
+    "Omnicient/Monad Saplings/Ethics.md",
     "Immanent/DailyNotes/2021-09-09.md",
     "Immanent/DailyNotes/2021-09-08.md",
-    "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md",
-    "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Dyad.md",
-    "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Monad.md",
-    "Immanent/Systematic ConstruKctions/Objectivity/Objectivity Monad.md",
-    "Immanent/Systematic ConstruKctions/Objectivity/Objectivity Triad.md",
-    "Immanent/Systematic ConstruKctions/Relationship/Relationship Monad.md",
-    "Immanent/Systematic ConstruKctions/Relationship/Relationship Triad.md",
-    "Immanent/Systematic ConstruKctions/Expression/Expression Triad.md"
+    "Immanent/Systematic ConstruKctions/Subjectivity/Subjectivity Triad.md"
   ]
 }

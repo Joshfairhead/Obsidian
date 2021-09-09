@@ -2,7 +2,7 @@
 Tags: [Principals, Frameworks, Patterns, Esoteric, Heuristics]
 ---
 
-Related:[[E-systems]] [[Enneagram Course Session 1]] [[Enneagram Course Session 2]] [[Enneagram Course Session 3]] [[Enneagram Course Session 4]] [[Enneagram Symbolism Lecture]] 
+Related: [[E-systems]] [[Enneagram Course Session 1]] [[Enneagram Course Session 2]] [[Enneagram Course Session 3]] [[Enneagram Course Session 4]] [[Enneagram Symbolism Lecture]] 
 
 
 # Enneagram
