@@ -35,8 +35,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "README.md",
     "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
     "Trancendental/Evergreen Saplings/Astropoiesis.md",
     "Trancendental/Evergreen Saplings/Take notes to capture insight.md",
@@ -161,7 +162,6 @@
     "Trancendental/Evergreen Seeds/Follow the breath.md",
     "Trancendental/Evergreen Seeds/Three, six nine meditation.md",
     "Trancendental/Evergreen Seeds/Desires should be dynamically organic.md",
-    "Trancendental/Evergreen Seeds/Find peace in a warzone.md",
-    "Trancendental/Evergreen Seeds/Open Magick.md"
+    "Trancendental/Evergreen Seeds/Find peace in a warzone.md"
   ]
 }
