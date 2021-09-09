@@ -57,7 +57,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Astropoiesis.md",
+            "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Astropoiesis.md",
+                "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Astropoiesis.md",
+                "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,6 +175,8 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Trancendental/Evergreen Saplings/Astropoiesis.md",
+    "Trancendental/Evergreen Saplings/Take notes to capture insight.md",
     "Astropoiesis.md",
     "Immanent/DailyNotes/2021-09-09.md",
     "Untitled.md",
@@ -182,8 +184,6 @@
     "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 4.md",
     "Omnicient/Monad Saplings/Enneagram.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 3.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 2.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 1.md",
-    "Omnicient/Monad Saplings/Ethics.md"
+    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 2.md"
   ]
 }
