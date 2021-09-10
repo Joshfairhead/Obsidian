@@ -3,6 +3,7 @@ Tags: [[Frameworks, Artifacts, Esoteric, Patterns, Psychology, Psycho-technology
 ---
 Related: [[Monads]] [[Philosophy]] [[Qual Systems]] [[Philosophy Dyad]]
 # Monad of [[Philosophy]]
+Wisdom
 - Illusion
 - Disillusion
 - Scope

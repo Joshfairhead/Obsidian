@@ -41,23 +41,12 @@
         }
       },
       {
-        "id": "7258b2ff3bc37b3b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/WorkBench/Enantiodromia.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "481b20a77f4bf91f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-10.md",
+            "file": "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
             "mode": "source"
           }
         }
@@ -135,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-10.md",
+                "file": "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-10.md",
+                "file": "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,15 +164,15 @@
   },
   "active": "481b20a77f4bf91f",
   "lastOpenFiles": [
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
     "Immanent/DailyNotes/2021-09-10.md",
-    "assets/Templates/Daily Template.md",
-    "Immanent/DailyNotes/2021-09-09.md",
-    "Immanent/WorkBench/Enantiodromia.md",
-    "Immanent/WorkBench/Music Curation.md",
-    "Immanent/WorkBench/Untitled.md",
-    "Enantiodromia.md",
-    "Untitled.md",
-    "README.md",
-    "Trancendental/Evergreen Seeds/Make Sure to Steer.md"
+    "Immanent/CallNotes/Spring Equinox.md",
+    "Immanent/CallNotes/NonCon.md",
+    "Immanent/CallNotes/EthTurin.md",
+    "Immanent/CallNotes/Social systems mapping call.md",
+    "Immanent/CallNotes/The Future Potential of the Present Moment - ReGeneration Rising.md",
+    "Immanent/CallNotes/Raid Game A Call.md",
+    "Immanent/CallNotes/Team of Teams.md",
+    "Omnicient/Monad Forrest/Philosophy Monad.md"
   ]
 }
