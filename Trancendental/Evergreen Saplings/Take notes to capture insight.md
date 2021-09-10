@@ -15,4 +15,5 @@ The [[Evergreen Notes]] pattern feels like its more insight based, making it of 
 
 To take care of my Roam notes and file them, I've created another two folders called "Monad Forrest" and "Monad Seeds" as they are reductive. These folders are for "intelligance" or raw "data"... I'm never going to write an article about an organisation I'm tracking but such information is still useful to have.
 
-As such I speculate that [[A good note taking system should have levels of scale]].
+As such I speculate that [[A good note taking system should have levels of scale]]. 
+Just like [[Qual Systems]] perhaps?

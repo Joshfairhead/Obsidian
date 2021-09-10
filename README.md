@@ -19,7 +19,7 @@
 - Workbench (where every new note lands)
 
 **The Omnicient is for things characteristic of information or intelligance. It has the following folders:**
-- Artifacts (things that have been created but have gone stale)
+- Artifacts Entropy (things that have been created but have gone stale)
 - Computer Sci (resources related to computer science and technology)
 - Entities (people and organisations; find the others!)
 - Monad forrest (big notes on a damain)

@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
+            "file": "Immanent/DailyNotes/2021-09-10.md",
             "mode": "source"
           }
         }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,17 +162,17 @@
     "width": 249,
     "collapsed": true
   },
-  "active": "481b20a77f4bf91f",
+  "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
+    "README.md",
     "Immanent/DailyNotes/2021-09-10.md",
-    "Immanent/CallNotes/Spring Equinox.md",
-    "Immanent/CallNotes/NonCon.md",
-    "Immanent/CallNotes/EthTurin.md",
-    "Immanent/CallNotes/Social systems mapping call.md",
-    "Immanent/CallNotes/The Future Potential of the Present Moment - ReGeneration Rising.md",
-    "Immanent/CallNotes/Raid Game A Call.md",
-    "Immanent/CallNotes/Team of Teams.md",
-    "Omnicient/Monad Forrest/Philosophy Monad.md"
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/QualSystems L1.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
+    "Trancendental/Evergreen Seeds/Associative, Perceptual, Creative.md",
+    "Trancendental/Evergreen Seeds/The Present Moment.md",
+    "Trancendental/Evergreen Seeds/Desires should be dynamically organic.md",
+    "Trancendental/Evergreen Seeds/Questions scope the variety of response available.md",
+    "Trancendental/Evergreen Seeds/Find peace in a warzone.md",
+    "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md"
   ]
 }
