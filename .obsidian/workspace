@@ -35,8 +35,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "Immanent/DailyNotes/2021-09-10.md",
+            "mode": "source"
           }
         }
       },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Immanent/DailyNotes/2021-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Immanent/DailyNotes/2021-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,15 +164,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
-    "README.md",
     "Immanent/DailyNotes/2021-09-10.md",
+    "Immanent/WorkBench/Enantiodromia.md",
+    "README.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/QualSystems L1.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
     "Trancendental/Evergreen Seeds/Associative, Perceptual, Creative.md",
     "Trancendental/Evergreen Seeds/The Present Moment.md",
     "Trancendental/Evergreen Seeds/Desires should be dynamically organic.md",
     "Trancendental/Evergreen Seeds/Questions scope the variety of response available.md",
-    "Trancendental/Evergreen Seeds/Find peace in a warzone.md",
-    "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md"
+    "Trancendental/Evergreen Seeds/Find peace in a warzone.md"
   ]
 }
