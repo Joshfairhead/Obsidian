@@ -57,7 +57,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Enantiodromia.md",
+            "file": "Immanent/DailyNotes/2021-09-10.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Enantiodromia.md",
+                "file": "Immanent/DailyNotes/2021-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Enantiodromia.md",
+                "file": "Immanent/DailyNotes/2021-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,15 +175,15 @@
   },
   "active": "481b20a77f4bf91f",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-10.md",
+    "assets/Templates/Daily Template.md",
+    "Immanent/DailyNotes/2021-09-09.md",
     "Immanent/WorkBench/Enantiodromia.md",
+    "Immanent/WorkBench/Music Curation.md",
     "Immanent/WorkBench/Untitled.md",
     "Enantiodromia.md",
     "Untitled.md",
     "README.md",
-    "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
-    "Trancendental/Evergreen Saplings/Astropoiesis.md",
-    "Trancendental/Evergreen Saplings/Take notes to capture insight.md",
-    "Trancendental/Evergreen Seeds/Drilling qualsystems.md",
-    "Trancendental/Evergreen Seeds/The Present Moment.md"
+    "Trancendental/Evergreen Seeds/Make Sure to Steer.md"
   ]
 }
