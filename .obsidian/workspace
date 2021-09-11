@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Monad Saplings/Climate.md",
+            "file": "Immanent/WorkBench/Logic.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Saplings/Climate.md",
+                "file": "Immanent/WorkBench/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Saplings/Climate.md",
+                "file": "Immanent/WorkBench/Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Omnicient/Monad Seeds/Logic.md",
+    "Immanent/DailyNotes/2021-09-11.md",
+    "Immanent/WorkBench/Berlin Burn Rate.md",
+    "assets/Templates/Daily Template.md",
+    "Immanent/WorkBench/Mark Burgess.md",
     "Omnicient/Monad Saplings/Climate.md",
     "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md",
     "Trancendental/Evergreen Saplings/Astropoiesis.md",
     "Trancendental/Evergreen Saplings/Extitutionality.md",
-    "Immanent/DailyNotes/2021-09-11.md",
-    "Omnicient/Entities/0x Salon.md",
-    "Immanent/WorkBench/Music Curation.md",
-    "Immanent/WorkBench/A Novel Perspective on NFTs.md",
-    "Omnicient/Computer Sci/Crypto Economic Primitives.md",
-    "Immanent/WorkBench/NFT.md"
+    "Omnicient/Entities/0x Salon.md"
   ]
 }
