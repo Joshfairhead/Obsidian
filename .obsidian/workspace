@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Computer Sci/A Novel Perspective on NFTs.md",
+            "file": "Immanent/DailyNotes/2021-09-11.md",
             "mode": "source"
           }
         }
@@ -93,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Computer Sci/A Novel Perspective on NFTs.md",
+                "file": "Immanent/DailyNotes/2021-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Computer Sci/A Novel Perspective on NFTs.md",
+                "file": "Immanent/DailyNotes/2021-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,15 +153,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-11.md",
+    "Omnicient/Entities/0x Salon.md",
+    "Immanent/WorkBench/Music Curation.md",
     "Immanent/WorkBench/A Novel Perspective on NFTs.md",
     "Omnicient/Computer Sci/Crypto Economic Primitives.md",
     "Immanent/WorkBench/NFT.md",
-    "Immanent/DailyNotes/2021-09-11.md",
     "Immanent/DailyNotes/2021-09-10.md",
     "Omnicient/Monad Seeds/Magick.md",
     "Immanent/WorkBench/Enantiodromia.md",
-    "README.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/QualSystems L1.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md"
+    "README.md"
   ]
 }
