@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Logic.md",
+            "file": "Immanent/WorkBench/Mark Burgess.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Logic.md",
+                "file": "Immanent/WorkBench/Mark Burgess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Logic.md",
+                "file": "Immanent/WorkBench/Mark Burgess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Mark Burgess.md",
+    "Immanent/WorkBench/Propositions Monad.md",
+    "Immanent/Systematic ConstruKctions/Propositions/Propositions Triad.md",
+    "Immanent/WorkBench/Logic.md",
+    "Immanent/DailyNotes/Drum.md",
+    "Immanent/Systematic ConstruKctions/Propositions/Untitled.md",
+    "Trancendental/Evergreen Saplings/Extitutionality.md",
     "Omnicient/Monad Seeds/Logic.md",
     "Immanent/DailyNotes/2021-09-11.md",
-    "Immanent/WorkBench/Berlin Burn Rate.md",
-    "assets/Templates/Daily Template.md",
-    "Immanent/WorkBench/Mark Burgess.md",
-    "Omnicient/Monad Saplings/Climate.md",
-    "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md",
-    "Trancendental/Evergreen Saplings/Astropoiesis.md",
-    "Trancendental/Evergreen Saplings/Extitutionality.md",
-    "Omnicient/Entities/0x Salon.md"
+    "Immanent/WorkBench/Berlin Burn Rate.md"
   ]
 }

@@ -44,3 +44,10 @@ or
 
 **Function/Doing Tetrad**
 **Correspondence Tetrad**
+
+
+---
+
+## On Communication
+Extitutional Grammar - increace bandwidth: 
+![[Logic#^600f38]] [[Information Theory]] [[Claude Shannon]]
