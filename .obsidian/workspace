@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-11.md",
+            "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-11.md",
+                "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-11.md",
+                "file": "Trancendental/Evergreen Saplings/Astropoiesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,8 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Trancendental/Evergreen Saplings/Astropoiesis.md",
+    "Trancendental/Evergreen Saplings/Extitutionality.md",
     "Immanent/DailyNotes/2021-09-11.md",
     "Omnicient/Entities/0x Salon.md",
     "Immanent/WorkBench/Music Curation.md",
@@ -160,8 +162,6 @@
     "Omnicient/Computer Sci/Crypto Economic Primitives.md",
     "Immanent/WorkBench/NFT.md",
     "Immanent/DailyNotes/2021-09-10.md",
-    "Omnicient/Monad Seeds/Magick.md",
-    "Immanent/WorkBench/Enantiodromia.md",
-    "README.md"
+    "Omnicient/Monad Seeds/Magick.md"
   ]
 }
