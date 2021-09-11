@@ -4,7 +4,9 @@ Tags: [Index]
 
 # Crypto Economic Primitives 
 
-- [[Curation]]
+- Tokens
+	- [[Curation]]
+	- [[NFTs]]
 - [[Identity Primers]]
     - [[Reputation]]
 - Proofs

@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-11.md",
+            "file": "Omnicient/Computer Sci/A Novel Perspective on NFTs.md",
             "mode": "source"
           }
         }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-11.md",
+                "file": "Omnicient/Computer Sci/A Novel Perspective on NFTs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-11.md",
+                "file": "Omnicient/Computer Sci/A Novel Perspective on NFTs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,15 +154,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Immanent/WorkBench/A Novel Perspective on NFTs.md",
+    "Omnicient/Computer Sci/Crypto Economic Primitives.md",
+    "Immanent/WorkBench/NFT.md",
     "Immanent/DailyNotes/2021-09-11.md",
     "Immanent/DailyNotes/2021-09-10.md",
     "Omnicient/Monad Seeds/Magick.md",
     "Immanent/WorkBench/Enantiodromia.md",
     "README.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/QualSystems L1.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
-    "Trancendental/Evergreen Seeds/Associative, Perceptual, Creative.md",
-    "Trancendental/Evergreen Seeds/The Present Moment.md",
-    "Trancendental/Evergreen Seeds/Desires should be dynamically organic.md"
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md"
   ]
 }
