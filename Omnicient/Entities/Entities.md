@@ -19,7 +19,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - [[Enspiral]]
 
 ## Communities
-- https://feytopia.com/ - Primavera de Filippi stayed there
+- https://feytopia.com/ - Primavera de Filippi and friends
 - [[Embassy Network]]
 - https://lifeitself.us/ - Found via [[Richard Bartlett]] 
 - https://www.aci.auroville.org/ - Indian city
@@ -34,6 +34,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 	- https://www.youtube.com/watch?v=YFfXX2JHMbY	??
 
 ## Consultants
+- [Freecircle](https://www.freecircle.li/) - Designers, [[Jakub]] now works with them
 - https://www.giz.de/en/html/index.html - Complexity and learning
 
 ## Networks
