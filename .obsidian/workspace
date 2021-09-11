@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md",
+            "file": "Omnicient/Monad Saplings/Climate.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md",
+                "file": "Omnicient/Monad Saplings/Climate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md",
+                "file": "Omnicient/Monad Saplings/Climate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Omnicient/Monad Saplings/Climate.md",
     "Trancendental/Evergreen Seeds/A good note taking system should have levels of scale.md",
     "Trancendental/Evergreen Saplings/Astropoiesis.md",
     "Trancendental/Evergreen Saplings/Extitutionality.md",
@@ -161,7 +162,6 @@
     "Immanent/WorkBench/Music Curation.md",
     "Immanent/WorkBench/A Novel Perspective on NFTs.md",
     "Omnicient/Computer Sci/Crypto Economic Primitives.md",
-    "Immanent/WorkBench/NFT.md",
-    "Immanent/DailyNotes/2021-09-10.md"
+    "Immanent/WorkBench/NFT.md"
   ]
 }
