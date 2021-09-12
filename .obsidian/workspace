@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/Personal/N26 Address.md",
+            "file": "Immanent/DailyNotes/2021-09-12.md",
             "mode": "source"
           }
         }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Personal/N26 Address.md",
+                "file": "Immanent/DailyNotes/2021-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Personal/N26 Address.md",
+                "file": "Immanent/DailyNotes/2021-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-12.md",
     "Immanent/Personal/N26 Address.md",
     "Immanent/WorkBench/Mark Burgess.md",
     "Immanent/WorkBench/Music Curation.md",
@@ -161,7 +162,6 @@
     "Immanent/Systematic ConstruKctions/Propositions/Propositions Triad.md",
     "Immanent/WorkBench/Logic.md",
     "Immanent/DailyNotes/Drum.md",
-    "Immanent/Systematic ConstruKctions/Propositions/Untitled.md",
-    "Trancendental/Evergreen Saplings/Extitutionality.md"
+    "Immanent/Systematic ConstruKctions/Propositions/Untitled.md"
   ]
 }
