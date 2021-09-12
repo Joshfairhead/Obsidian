@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[Theory of Constraints]]
+Related: [[Drum]] [[Theory of Constraints]] [[Mastering Distraction]] [[Praxis]] [[Ethics]] 
 # Productivity
 
 [Wolfram on Productivity](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
