@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-12.md",
+            "file": "Immanent/DailyNotes/Buffer.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-12.md",
+                "file": "Immanent/DailyNotes/Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-12.md",
+                "file": "Immanent/DailyNotes/Buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/Buffer.md",
     "Immanent/DailyNotes/2021-09-12.md",
+    "Omnicient/Computer Sci/Databases.md",
+    "Omnicient/Monad Seeds/Language.md",
+    "Omnicient/Monad Seeds/Semantics.md",
     "Immanent/Personal/N26 Address.md",
     "Immanent/WorkBench/Mark Burgess.md",
     "Immanent/WorkBench/Music Curation.md",
     "Omnicient/Entities/Entities.md",
-    "Immanent/WorkBench/Propositions Monad.md",
-    "Immanent/Systematic ConstruKctions/Propositions/Propositions Triad.md",
-    "Immanent/WorkBench/Logic.md",
-    "Immanent/DailyNotes/Drum.md",
-    "Immanent/Systematic ConstruKctions/Propositions/Untitled.md"
+    "Immanent/WorkBench/Propositions Monad.md"
   ]
 }
