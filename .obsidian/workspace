@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Mark Burgess.md",
+            "file": "Immanent/Personal/N26 Address.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Mark Burgess.md",
+                "file": "Immanent/Personal/N26 Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Mark Burgess.md",
+                "file": "Immanent/Personal/N26 Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "a268f6845a9ad03a",
   "lastOpenFiles": [
+    "Immanent/Personal/N26 Address.md",
     "Immanent/WorkBench/Mark Burgess.md",
     "Immanent/WorkBench/Music Curation.md",
     "Omnicient/Entities/Entities.md",
@@ -161,7 +162,6 @@
     "Immanent/WorkBench/Logic.md",
     "Immanent/DailyNotes/Drum.md",
     "Immanent/Systematic ConstruKctions/Propositions/Untitled.md",
-    "Trancendental/Evergreen Saplings/Extitutionality.md",
-    "Omnicient/Monad Seeds/Logic.md"
+    "Trancendental/Evergreen Saplings/Extitutionality.md"
   ]
 }
