@@ -19,6 +19,7 @@ Related: [[Assorted Sources]] [[Healing]] [[Meta-analysis]] [[Patterns]] [[Somat
 [Bio Nutrient Food Association](https://bionutrient.org/site/)
 
 #### Systems
+- [[Mobilization]]
 - [Peter Senge](https://en.wikipedia.org/wiki/Peter_Senge): [[Somatic Experiencing]] / [[Learning Organisations]]. According to Senge 
 	> 'learning organizations' are those organizations where people continually expand their capacity to create the results they truly desire, where new and expansive patterns of thinking are nurtured, where collective aspiration is set free, and where people are continually learning to see the whole together." - Peter Senge [[Quotes]]
 

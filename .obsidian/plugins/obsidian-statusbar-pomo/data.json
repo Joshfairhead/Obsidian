@@ -9,10 +9,10 @@
   "notificationSound": true,
   "backgroundNoiseFile": "",
   "logging": true,
-  "logFile": "PomodoroLog.md",
+  "logFile": "Pomodoro Log.md",
   "logToDaily": true,
-  "logText": "Y-MMM-DD",
-  "logActiveNote": false,
+  "logText": "Y-M-D",
+  "logActiveNote": true,
   "fancyStatusBar": false,
   "whiteNoise": false
 }

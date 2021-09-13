@@ -30,13 +30,13 @@
         }
       },
       {
-        "id": "be21d851acd05f07",
+        "id": "7f3bd4cc2822a656",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Monad Seeds/Mobilization.md",
-            "mode": "source"
+            "file": "Immanent/DailyNotes/2021-09-13.md",
+            "mode": "preview"
           }
         }
       }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pdf",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Seeds/Mobilization.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Seeds/Mobilization.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "be21d851acd05f07",
+  "active": "7f3bd4cc2822a656",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Mobilization.md",
-    "Immanent/WorkBench/Free weights.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/WorkBench/Untitled.md",
     "Immanent/DailyNotes/2021-09-13.md",
-    "Immanent/Personal/Website/Personal Genesis Story.md",
-    "Omnicient/Artefacts (entropy)/URL names.md",
-    "Omnicient/Computer Sci/Shell.md",
-    "Immanent/WorkBench/Logic.md",
-    "Immanent/R3solution/R3solution.md"
+    "Immanent/PomodoroLog.md",
+    "Immanent/WorkBench/Music Curation.md",
+    "Immanent/WorkBench/Untitled 1.md",
+    "Immanent/DailyNotes/Buffer.md",
+    "Omnicient/Monad Seeds/Mobilization.md",
+    "Omnicient/Monad Saplings/Health.md",
+    "Omnicient/Monad Seeds/Healing.md",
+    "Immanent/WorkBench/Mobilization.md",
+    "Immanent/WorkBench/Free weights.md"
   ]
 }
