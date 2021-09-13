@@ -17,6 +17,17 @@
         }
       },
       {
+        "id": "4d7dd7b56abacae7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Omnicient/Monad Saplings/Enantiodromia.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "7c7ab530703f4206",
         "type": "leaf",
         "pinned": true,
@@ -27,17 +38,6 @@
             "mode": "source"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "7f3bd4cc2822a656",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/DailyNotes/2021-09-13.md",
-            "mode": "preview"
-          }
         }
       }
     ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-13.md",
+                "file": "Omnicient/Monad Saplings/Enantiodromia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-13.md",
+                "file": "Omnicient/Monad Saplings/Enantiodromia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "7f3bd4cc2822a656",
+  "active": "4d7dd7b56abacae7",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Enantiodromia.md",
+    "Immanent/DailyNotes/Drum.md",
+    "Immanent/WorkBench/Untitled.md",
+    "Immanent/WorkBench/Logic.md",
     "Immanent/DailyNotes/2021-09-13.md",
     "Immanent/PomodoroLog.md",
     "Immanent/WorkBench/Music Curation.md",
     "Immanent/WorkBench/Untitled 1.md",
     "Immanent/DailyNotes/Buffer.md",
-    "Omnicient/Monad Seeds/Mobilization.md",
-    "Omnicient/Monad Saplings/Health.md",
-    "Omnicient/Monad Seeds/Healing.md",
-    "Immanent/WorkBench/Mobilization.md",
-    "Immanent/WorkBench/Free weights.md"
+    "Omnicient/Monad Seeds/Mobilization.md"
   ]
 }
