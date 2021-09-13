@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Monad Saplings/Enantiodromia.md",
+            "file": "Immanent/DailyNotes/2021-09-13.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Saplings/Enantiodromia.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Saplings/Enantiodromia.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,11 +153,11 @@
   },
   "active": "4d7dd7b56abacae7",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-13.md",
     "Immanent/WorkBench/Enantiodromia.md",
     "Immanent/DailyNotes/Drum.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/WorkBench/Logic.md",
-    "Immanent/DailyNotes/2021-09-13.md",
     "Immanent/PomodoroLog.md",
     "Immanent/WorkBench/Music Curation.md",
     "Immanent/WorkBench/Untitled 1.md",
