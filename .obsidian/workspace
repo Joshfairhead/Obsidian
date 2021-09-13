@@ -144,24 +144,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 249,
-    "collapsed": true
+    "width": 249
   },
   "active": "be21d851acd05f07",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2021-09-13.md",
-    "Immanent/WorkBench/URL names.md",
-    "Immanent/WorkBench/Music Curation.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/Drum.md",
-    "assets/Templates/Daily Template.md",
-    "Immanent/WorkBench/Enantiodromia.md",
-    "Immanent/Systematic ConstruKctions/Volition ?.md",
-    "Immanent/WorkBench/Mastering Distraction.md",
-    "Omnicient/Monad Seeds/Productivity.md"
+    "Immanent/R3solution/R3solution.md",
+    "Immanent/DailyNotes/2021-09-08.md",
+    "Immanent/DailyNotes/2021-09-09.md",
+    "Immanent/DailyNotes/2021-09-10.md",
+    "Immanent/DailyNotes/2021-09-11.md",
+    "Immanent/DailyNotes/2021-09-12.md",
+    "Immanent/WorkBench/R3solution.md",
+    "Omnicient/Monad Saplings/Obsidian.md",
+    "Immanent/WorkBench/URL names.md"
   ]
 }
