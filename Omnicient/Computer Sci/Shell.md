@@ -39,4 +39,4 @@ Related: [[Computer Science]] [[Fish]] [[Bash]] [[Vim]] [[Terminal]]
 	- https://beautifulracket.com/setting-the-mac-os-path.html
 
 - #### CDPATH for bookmarks
-	- https://medium.com/@marko.luksa/linux-osx-shell-trick-create-bookmarks-so-you-can-cd-directly-into-the-dirs-you-use-regularly-64003051211f
+	- [Shell bookmarks](https://medium.com/@marko.luksa/linux-osx-shell-trick-create-bookmarks-so-you-can-cd-directly-into-the-dirs-you-use-regularly-64003051211f)

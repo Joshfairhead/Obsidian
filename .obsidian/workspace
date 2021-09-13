@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-13.md",
+            "file": "Omnicient/Monad Seeds/Mobilization.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-13.md",
+                "file": "Omnicient/Monad Seeds/Mobilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-13.md",
+                "file": "Omnicient/Monad Seeds/Mobilization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "be21d851acd05f07",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Mobilization.md",
+    "Immanent/WorkBench/Free weights.md",
+    "Immanent/DailyNotes/Buffer.md",
+    "Immanent/WorkBench/Untitled.md",
     "Immanent/DailyNotes/2021-09-13.md",
-    "Immanent/WorkBench/Logic.md",
+    "Immanent/Personal/Website/Personal Genesis Story.md",
+    "Omnicient/Artefacts (entropy)/URL names.md",
     "Omnicient/Computer Sci/Shell.md",
-    "Immanent/R3solution/R3solution.md",
-    "Immanent/DailyNotes/2021-09-08.md",
-    "Immanent/DailyNotes/2021-09-09.md",
-    "Immanent/DailyNotes/2021-09-10.md",
-    "Immanent/DailyNotes/2021-09-11.md",
-    "Immanent/DailyNotes/2021-09-12.md",
-    "Immanent/WorkBench/R3solution.md"
+    "Immanent/WorkBench/Logic.md",
+    "Immanent/R3solution/R3solution.md"
   ]
 }
