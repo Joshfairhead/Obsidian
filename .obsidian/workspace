@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-13.md",
+            "file": "Immanent/R3solution/R3solution.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-13.md",
+                "file": "Immanent/R3solution/R3solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-13.md",
+                "file": "Immanent/R3solution/R3solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,8 +153,8 @@
   },
   "active": "be21d851acd05f07",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2021-09-13.md",
     "Immanent/R3solution/R3solution.md",
+    "Immanent/DailyNotes/2021-09-13.md",
     "Immanent/DailyNotes/2021-09-08.md",
     "Immanent/DailyNotes/2021-09-09.md",
     "Immanent/DailyNotes/2021-09-10.md",
