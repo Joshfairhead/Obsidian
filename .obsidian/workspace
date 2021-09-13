@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Omnicient/Computer Sci/Shell.md",
+            "file": "Immanent/DailyNotes/2021-09-13.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Computer Sci/Shell.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Computer Sci/Shell.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "be21d851acd05f07",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-13.md",
+    "Immanent/WorkBench/Logic.md",
     "Omnicient/Computer Sci/Shell.md",
     "Immanent/R3solution/R3solution.md",
-    "Immanent/DailyNotes/2021-09-13.md",
     "Immanent/DailyNotes/2021-09-08.md",
     "Immanent/DailyNotes/2021-09-09.md",
     "Immanent/DailyNotes/2021-09-10.md",
     "Immanent/DailyNotes/2021-09-11.md",
     "Immanent/DailyNotes/2021-09-12.md",
-    "Immanent/WorkBench/R3solution.md",
-    "Omnicient/Monad Saplings/Obsidian.md"
+    "Immanent/WorkBench/R3solution.md"
   ]
 }
