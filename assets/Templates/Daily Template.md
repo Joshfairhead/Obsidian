@@ -6,7 +6,7 @@ Related: [[Buffer]]
 
 **Health:**
 - [ ] 10 x Overhead presses with 15lb Kettle bell 
-
+- [ ] Morning Sitting
 
 **Content:**
 

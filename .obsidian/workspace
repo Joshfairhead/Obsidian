@@ -4,20 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9847015e54ca69",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/DailyNotes/Buffer.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "32e786966d706b8a",
+        "id": "fdda6b068d2fec92",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -30,12 +17,25 @@
         }
       },
       {
-        "id": "07179c1525c81e44",
+        "id": "7c7ab530703f4206",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Immanent/DailyNotes/Buffer.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "be21d851acd05f07",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Enantiodromia.md",
+            "file": "Immanent/DailyNotes/2021-09-13.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Enantiodromia.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Enantiodromia.md",
+                "file": "Immanent/DailyNotes/2021-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "width": 249,
     "collapsed": true
   },
-  "active": "07179c1525c81e44",
+  "active": "be21d851acd05f07",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Enantiodromia.md",
+    "Immanent/DailyNotes/2021-09-13.md",
+    "Immanent/WorkBench/URL names.md",
+    "Immanent/WorkBench/Music Curation.md",
+    "Immanent/DailyNotes/Buffer.md",
     "Immanent/DailyNotes/Drum.md",
+    "assets/Templates/Daily Template.md",
+    "Immanent/WorkBench/Enantiodromia.md",
     "Immanent/Systematic ConstruKctions/Volition ?.md",
     "Immanent/WorkBench/Mastering Distraction.md",
-    "Omnicient/Monad Seeds/Productivity.md",
-    "Immanent/WorkBench/Untitled.md",
-    "Immanent/WorkBench/Rope.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/2021-09-12.md",
-    "Omnicient/Computer Sci/Databases.md"
+    "Omnicient/Monad Seeds/Productivity.md"
   ]
 }
