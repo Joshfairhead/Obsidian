@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/R3solution.md",
+            "file": "Omnicient/Computer Sci/Shell.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/R3solution.md",
+                "file": "Omnicient/Computer Sci/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/R3solution.md",
+                "file": "Omnicient/Computer Sci/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "be21d851acd05f07",
   "lastOpenFiles": [
+    "Omnicient/Computer Sci/Shell.md",
     "Immanent/R3solution/R3solution.md",
     "Immanent/DailyNotes/2021-09-13.md",
     "Immanent/DailyNotes/2021-09-08.md",
@@ -161,7 +162,6 @@
     "Immanent/DailyNotes/2021-09-11.md",
     "Immanent/DailyNotes/2021-09-12.md",
     "Immanent/WorkBench/R3solution.md",
-    "Omnicient/Monad Saplings/Obsidian.md",
-    "Immanent/WorkBench/URL names.md"
+    "Omnicient/Monad Saplings/Obsidian.md"
   ]
 }
