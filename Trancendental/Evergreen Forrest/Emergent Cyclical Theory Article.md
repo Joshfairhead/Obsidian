@@ -171,6 +171,7 @@ The remorseless [CP] conception was thus the most primordial conception Graves c
 The subjects of this [CP] conception (‘express self at all costs’) however began to shift in their beliefs - lo and behold - into the already documented conception of 'deny self for later reward'! Thus in one stroke the earlier anomaly of [GT] subjects denying their own prior conceptions was also resolved; they had undergone a **process** of central change and were starting to embrace a yet inconceived modality. **Subsequently**, **these findings paved the way for psychological health to be viewed as a process rather than fixed state.**
 
 ‌
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Uq__g4ul0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 HU: Not a model man, Not a saviour or a saint, Imperfect in a world, Make no mistake.
 
@@ -298,7 +299,7 @@ It seems apparent to me at this point that _Emergent Cyclical Theory_ has a wide
 
 Further to that, _Emergent Cyclical Theory_ seems pretty applicable to the emerging fields such as cryptocurrency, artificial general intelligence and computer science as they are all artefacts of how we think. These [encoded ideologies](https://www.youtube.com/watch?v=hZ3gmh-d9oI) are the products of our environmental coupling which then become concrete realities and shape the affordances of our daily lives. Having an awareness of what’s shaping us and the modality that created it is an incredibly important notion to be aware of… and perhaps even more so in the reverse; how we’re using our agency to shape the world and others around us is a deep ethical concern that we can probably all be more aware of. How are we contributing? What values are driving our actions and behaviour? How much hubris is involved?
 
-Navigating the tensions present in daily life feels analogous to matching voltage; wherever there's an ontological mismatch there's a energetic bottleneck that restricts flow and leaks potential. Stepping and blending these energetics is an art form I could personally use more practice in, yet having an sense of where others are coming from is certainly helpful in attempting such alchemy!
+Navigating the tensions present in daily life feels analogous to matching voltage; wherever there's an ontological mismatch there's a energetic bottleneck that restricts flow and leaks potential. Stepping and blending these energetics is an art form I could personally use more practice in, yet having a sense of where others are coming from is certainly helpful in attempting such alchemy!
 
 Perhaps beyond this is a notion of [situationism](https://en.wikipedia.org/wiki/Situationist_International); the conjuring of moments which enable us to grow in safe to fail environments at the collective scale. Performance events and circumstances which test our capacities and surface our ontologies for what they are; fragile beliefs, attachments and conditioned patterns. As Graves initially pondered; can exposure to confusion, contradiction, controversy and conflict help us to become better adapted to our existential environment? I personally think so, but buyer beware, it can be exhausting when sustained over long periods of time!
 

@@ -17,17 +17,6 @@
         }
       },
       {
-        "id": "4d7dd7b56abacae7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/DailyNotes/2021-09-14.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "7c7ab530703f4206",
         "type": "leaf",
         "pinned": true,
@@ -38,6 +27,17 @@
             "mode": "source"
           },
           "pinned": true
+        }
+      },
+      {
+        "id": "d15e71ed1ff0cf1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trancendental/Evergreen Forrest/Emergent Cyclical Theory Article.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-14.md",
+                "file": "Trancendental/Evergreen Forrest/Emergent Cyclical Theory Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-14.md",
+                "file": "Trancendental/Evergreen Forrest/Emergent Cyclical Theory Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "4d7dd7b56abacae7",
+  "active": "d15e71ed1ff0cf1b",
   "lastOpenFiles": [
+    "Trancendental/Evergreen Forrest/Emergent Cyclical Theory Article.md",
+    "Omnicient/Monad Saplings/Emergent Cyclical Theory.md",
+    "Immanent/DailyNotes/Buffer.md",
+    "Immanent/DailyNotes/Drum.md",
     "Immanent/DailyNotes/2021-09-14.md",
     "Immanent/DailyNotes/2021-09-13.md",
     "Omnicient/Monad Saplings/Enantiodromia.md",
     "Trancendental/Evergreen Saplings/What is our instrument?.md",
     "Trancendental/Evergreen Saplings/Take notes to capture insight.md",
-    "Trancendental/Evergreen Saplings/Astropoiesis.md",
-    "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
-    "Trancendental/Evergreen Seeds/Measure Semantic Delta.md",
-    "Trancendental/Evergreen Seeds/Three, six nine meditation.md",
-    "Trancendental/Evergreen Seeds/Questions scope the variety of response available.md"
+    "Trancendental/Evergreen Saplings/Astropoiesis.md"
   ]
 }
