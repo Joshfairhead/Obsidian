@@ -12,7 +12,7 @@ Related:
 Prioritises the Immanent. Bennets chief characteristic of three is Dynamicism 
 What is the triad of the Immanent/Dynamicism? Or is it better to shift gears for greater resolution?
 
-The most Immanent thing we can know is our understanding of the present moment and relation to it. I've started to term this [[Astropoiesis]]; the immanent rate of change between becoming and being. In other words; doing.
+The most Immanent thing we can know is our understanding of the present moment and relation to it. I've mashed together term [[Astropoiesis]] as the immanent rate of change between becoming and being. In other words; doing.
 
 3: Doing
 6: Becoming
@@ -35,3 +35,5 @@ This begs the question then as to whats our instrumental means or tools? This is
 3: Dvorak 
 6: Obsidian
 9: Words (Trivium)
+
+If the pattern so far follows that subject and object are in service to the immanent (function in Bennets terminology), and then steping up a level to tetrads we see that the immanent gains resolution as directive agency. At fiveness, this gets clearer again - quintessence of the system. 
