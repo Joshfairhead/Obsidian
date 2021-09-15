@@ -16,6 +16,7 @@ Related: [[Buffer]]
 
 **Rope**
  - Thursday 16th, 19:00: 0xSalon in Trust
+ - Friday 17th, 14:00: 0x Salon residancy call
  - Wednesday 22nd: Equinox
  - Friday 24th: Maija visits
 
