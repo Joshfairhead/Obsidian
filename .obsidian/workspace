@@ -17,6 +17,17 @@
         }
       },
       {
+        "id": "94444c511b44de4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Immanent/DailyNotes/2021-09-15.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "7c7ab530703f4206",
         "type": "leaf",
         "pinned": true,
@@ -40,17 +51,6 @@
             "mode": "source"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "d25e7fff0cdeaeb1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Immanent/DailyNotes/2021-09-15.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -164,9 +164,10 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "d25e7fff0cdeaeb1",
+  "active": "94444c511b44de4d",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2021-09-15.md",
+    "Immanent/DailyNotes/Drum.md",
     "Immanent/WorkBench/Experience Monad.md",
     "Immanent/WorkBench/Integrity Dyad.md",
     "Immanent/R3solution/Learning/Learning Dyad.md",
@@ -174,7 +175,6 @@
     "Immanent/R3solution/_Index/Triads.md",
     "Immanent/R3solution/Dialectic/Dialectic Triad.md",
     "Immanent/R3solution/Dialectic/Dialectic Monad.md",
-    "Omnicient/Monad Seeds/Rhetoric.md",
-    "Immanent/R3solution/Dialectic/Dialectic Dyad.md"
+    "Omnicient/Monad Seeds/Rhetoric.md"
   ]
 }
