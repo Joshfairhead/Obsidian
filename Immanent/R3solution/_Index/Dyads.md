@@ -24,6 +24,7 @@ Connectives
 [[Coding Dyad]]
 [[Complementarity Dyad]]
 [[Conscience Dyad]]
+[[Conscious Dyad]]
 
 ### D
 [[Desire Dyad]]

@@ -6,4 +6,5 @@ Related: [[Qual Systems]] [[Desire Monad]] [[Desire Dyad]] [[Triads]]
 
 | 3 | 6 | 9 |
 |---|---|---|
-| Future | Intention | Action |
+| Action | Intention | Future | ??
+

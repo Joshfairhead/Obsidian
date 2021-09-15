@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Complementarity Dyad.md",
+            "file": "Immanent/R3solution/Dialectic/Dialectic Triad.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Complementarity Dyad.md",
+                "file": "Immanent/R3solution/Dialectic/Dialectic Triad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Complementarity Dyad.md",
+                "file": "Immanent/R3solution/Dialectic/Dialectic Triad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "d15e71ed1ff0cf1b",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Complementarity Dyad.md",
-    "Immanent/R3solution/Complementarity/Complementarity Triad.md",
+    "Immanent/R3solution/Dialectic/Dialectic Triad.md",
     "Immanent/R3solution/_Index/Triads.md",
-    "Immanent/WorkBench/Coding Triad.md",
-    "Immanent/R3solution/R3solution.md",
-    "Immanent/DailyNotes/2021-09-15.md",
-    "Immanent/WorkBench/Kernal.community.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/Drum.md",
-    "assets/Templates/Daily Template.md"
+    "Immanent/R3solution/Desire/Desire Dyad.md",
+    "Immanent/R3solution/Desire/Desire Triad.md",
+    "Immanent/WorkBench/Conscious Triad.md",
+    "assets/Templates/Daily Template.md",
+    "assets/Templates/Calls Template.md",
+    "assets/Templates/Triad Template.md",
+    "Immanent/WorkBench/Conscious Dyad.md",
+    "Immanent/R3solution/_Index/Dyads.md"
   ]
 }

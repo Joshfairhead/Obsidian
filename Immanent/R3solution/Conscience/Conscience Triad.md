@@ -3,7 +3,15 @@ Tags: []
 ---
 Related: [[Triads]] [[Conscience Monad]] [[Conscience Dyad]]
 # Conscience Triad
-Alive | Vital | Creative 
+Derrived from: [[Omnicient]]
+(Con = inner, scire = know, ence = quality)
 
-> Conscience is a cognitive process that elicits emotion and rational associations based on an individual's moral philosophy or value system. - [Wiki](https://en.wikipedia.org/wiki/Conscience)
+| 3 | 6 | 9 |
+|---|---|---|
+| Sensation | Perception | Conception |
 
+
+%%
+| Alive | Vital | Creative |
+| Implementation | Process | Possibility |
+%%

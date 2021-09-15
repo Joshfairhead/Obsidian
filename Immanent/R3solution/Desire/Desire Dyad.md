@@ -1,9 +1,11 @@
 ---
 Tags: []
 ---
-Related: [[Dyads]] [[Desire Monad]][[Qual Systems]] [[Desire Dyad]]
+Related: [[Dyads]] [[Desire Monad]] [[Desire Dyad]]
 # Desire Dyad
-| Inward | Outward |
+| Essence | Existance |
 |---|---|
-| Needs | Wants |
-| Judgement | Taste |
+| Completeness | Emptiness | ??
+| Wholeness | Hole-ness | ??
+| Needs | Wants | ??
+| Judgement | Taste | ??

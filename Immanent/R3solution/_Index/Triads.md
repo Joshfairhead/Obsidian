@@ -22,6 +22,7 @@ Connectives: Transformative influence
 [[Coding Triad]]
 [[Complementarity Triad]]
 [[Conscience Triad]]
+[[Conscious Triad]]
 
 #### D
 [[Desire Triad]]

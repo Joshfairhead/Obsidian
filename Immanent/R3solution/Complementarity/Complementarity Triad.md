@@ -1,9 +1,14 @@
 ---
 Tags: []
 ---
-Related: [[Triads]] [[Complementarity Dyad]] 
+Related: [[Triads]] [[Complementarity Monad]] [[Complementarity Dyad]] 
 # Complementarity Triad
 
-Opposite | Equal 
+| 3 | 6 | 9 |
+|---|---|---|
+| Correspondence | Contiguity | Copresence |
 
-| Distinct | Similar | Opposite |
+
+%%
+| Distinct | Similar | Opposite | <- Nope
+%%
