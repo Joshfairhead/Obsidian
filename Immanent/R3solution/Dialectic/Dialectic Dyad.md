@@ -8,4 +8,5 @@ Modal superset:
 | Essence | Existance |
 |---|---|
 | Proposition | Refutation | <- probably
+| Intuitive | Discursive an
 | Intension | Extension | ??

@@ -7,4 +7,6 @@ Up a scale: [[Immanent]]
 
 | 3 | 6 | 9 |
 |---|---|---|
-| [[Interaction Monad]] | [[Perception Monad]] | [[Expression Monad]] |
+| [[Expression Monad]] | [[Perception Monad]] | [[Interaction Monad]] | 
+
+

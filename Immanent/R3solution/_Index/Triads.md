@@ -33,11 +33,12 @@ Connectives: Transformative influence
 [[Essence Triad]] - Clarify further
 [[Ethics Triad]]
 [[Existance Triad]]
+[[Experience Triad]]
 [[Expression Triad]]
 
 #### I
 [[Identity Triad]]
-[[Integration Triad]]
+[[Integrity Triad]]
 
 #### L
 [[Learning Triad]]

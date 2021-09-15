@@ -6,3 +6,7 @@ Related: [[Triads]] [[Learning Monad]] [[Learning Dyad]]
 | 3 | 6 | 9 |
 |---|---|---|
 | Inductive | Deductive | Abductive |
+
+3: 
+6: 
+9: 

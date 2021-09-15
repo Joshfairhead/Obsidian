@@ -2,13 +2,9 @@
 Tags: [Frameworks, Esoteric, Patterns, Course, Calls]
 ---
 Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]] [[Forrest Landry]]
-# Qual Systems
-### Notes
-2 / 3 / 4 / 5 / 6 / 
-Essence / Character / Action / Significance / 
+# Qual Systems Index
 
-
-### Coursework
+## Coursework
 - [Resources page](https://www.h3uni.org/welcome-to-qualitative-systems-thinking/)
     - Password: QST2021
 - [[QualSystems L1]]
@@ -19,9 +15,10 @@ Essence / Character / Action / Significance /
 - [[QualSystems L6]]
 - [[QualSystems L7]]
 
-### Practice
-- [[Philosophy Monad]]
-- [[Philosophy Dyad]]
+### Note on Scale
+2 / 3 / 4 / 5 / 6 / 7
+Essence / Character / Action / Significance / Coalescence / Generative power
+
 
 
 

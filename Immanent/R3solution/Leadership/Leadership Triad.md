@@ -7,5 +7,9 @@ Modal superset: [[Immanent]]
 
 | 3 | 6 | 9 |
 |---|---|---|
-| Integrity | Authenticity | Identity |
 | Power | Identity | Agency | -> https://www.tandfonline.com/doi/abs/10.1080/00131857.2021.1929174
+
+%%
+| Integrity | Identity | Authenticity |  
+%% 
+

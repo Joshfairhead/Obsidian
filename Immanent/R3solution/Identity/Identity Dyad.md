@@ -4,17 +4,20 @@ Tags: [Artifacts, Frameworks, Esoteric, Patterns, Domains]
 Related: [[Dyads]] [[Identity Monad]] [[Identity Triad]] [[Qual Systems]]
 # Identity Dyad
 
-| Inward | Outward |
+| Essence | Existance |
 |---|---|
-| 2 | 3 |
-| Essence | Character |
+| Being | Will |
+| Function | Object |
 | Essence | Avatar |
+
+%% Nonsense
 | Being | Doing |
 | Is | Acting |
 | Singular | Collective |
-| Divicive | Integrative |
-
+| Integrative | Divicive | 
+%%
 
 #### Note
-2 / 3 / 4 / 5 / 6 / 7
-Essence / Character / Action / Significance / Coalescence / Generative power
+- It feels as if [[John Bennet]]s framework is primarily about identity and that Essence/Existance is the definition of an identity. 
+- It feels as if Identity is the same as [[Forrest Landry]]s domain. 
+- Ergo Identity is Domain; same thing. 
