@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[Triads]]
+Related: [[Triads]] [[Complementarity Dyad]] 
 # Complementarity Triad
 
 Opposite | Equal 

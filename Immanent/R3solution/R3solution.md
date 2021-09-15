@@ -13,7 +13,7 @@ Potential applications:
 - Reference library for other applications
 
 ## How
-Through a structured framework of interconnected modal attractors semantic resolution is increased. The foundations of any domain can be described to necessary and sufficient degrees through `fundemental triplication`; a collection of three terms in different modalities which triangulate the mode or feel of a term. 
+Through a structured framework of interconnected modal attractors semantic resolution is increased. The foundations of any domain can be described to necessary and sufficient degrees through `fundemental triplication`; a collection of three terms in different modalities which triangulate the mode or feel of a term. The relationships between these terms also have a mode and feel.
 
 Triples are not the only semantic structure available, but due to their ability to cover a domain in its entirity - they are desirable foundations to build upon. While triples have an all encompassing `extensionality`, they have relativly shallow `intentionality`. 
 
@@ -29,5 +29,5 @@ It seems like we are drowning in a sea of noise, with signal scarce and scant bu
 
 This library describes it's own form as a framework but leaves the door wide open by maximising it's affordances. It is general and **descriptive** but if one so chooses, they may apply it prescriptivly as it has many implications and potential uses. 
 
-
+---
 
