@@ -7,6 +7,8 @@ Modal superset:
 
 | Essence | Existance |
 |---|---|
-| Proposition | Refutation | <- probably
-| Intuitive | Discursive an
+| Proposition | Refutation | <- Probably
+| Intuitive | Discursive | <- Plato
+| Sensibles | Intelligibles | <- Plato
+| Ontologic | Metaphysical | <- Plato
 | Intension | Extension | ??

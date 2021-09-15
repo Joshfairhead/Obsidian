@@ -13,4 +13,11 @@ Three rules:
 
 You change best by feeling good
 
-The right information will not change attitudes, which will not drive behaviour. This is the informatio-action fallacy
+The right information will not change attitudes, which will not drive behaviour. This is the information-action [[Fallacy]]
+
+Three causes:
+3: Change of micro habbits
+6: Change of environment
+9: Epiphany
+
+> Take a behaviour you want, make it tiny, find where it fits naturally in your life, and nurture its growth.
