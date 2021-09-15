@@ -6,4 +6,4 @@ Related: [[Triads]] [[Economics Monad]] [[Economics Dyad]]
 
 | 3 | 6 | 9 |
 |---|---|---|
-| Interest(s) | Accounts | Value |
+| Accounts | Values | Interests |

@@ -3,13 +3,10 @@ Tags: []
 ---
 Related: [[Triads]] [[Existance Monad]] [[Existance Dyad]]
 # Existance Triad
+Superset: [[Omnicient]]
+
 | 3 | 6 | 9 |
 |---|---|---| 
-| **Immanent** | **Omnicient** | **Trancendental** |
-| Change | Cause | Choice |
+| Cause | Choice | Change |
 
-> The term existence cannot be considered to have meaning without implicit reference to a world (shared objective context)
 
-> The meaning of 'to exist' is to make an assertion that the omniscient modal aspects of a given set of interactions are common and shared for all of those interactions.
-
-> The meaning of 'to exist' is to make an assertion that the omniscient modal aspects of a given set of interactions are common and shared for all of those interactions. See: [[Objectivity Triad]]

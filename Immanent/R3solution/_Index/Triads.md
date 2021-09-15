@@ -30,7 +30,10 @@ Connectives: Transformative influence
 
 #### E
 [[Economics Triad]]
+[[Essence Triad]] - Clarify further
 [[Ethics Triad]]
+[[Existance Triad]]
+[[Expression Triad]]
 
 #### I
 [[Identity Triad]]
@@ -38,6 +41,7 @@ Connectives: Transformative influence
 
 #### L
 [[Learning Triad]]
+[[Leadership Triad]]
 
 #### O
 [[Objectivity Triad]]

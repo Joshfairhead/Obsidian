@@ -6,5 +6,6 @@ Related: [[Triads]] [[Identity Monad]] [[Identity Dyad]]
 
 | 3 | 6 | 9 | Monad | Author |
 |---|---|---|---|---|
-| Function | [[Being Triad]] | [[Conscience Triad]] | Identity | [[John Bennet]]
 | Meaning | Value | Purpose | Domain | [[Forrest Landry]]
+| Function | [[Being Triad]] | [[Will Triad]] | Identity | [[John Bennet]]
+

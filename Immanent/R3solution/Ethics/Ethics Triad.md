@@ -6,4 +6,4 @@ Related:  [[Ethics]] [[Triads]] [[Ethics Monad]] [[Ethics Dyad]]
 
 | 3 | 6 | 9 |
 |---|---|---|
-| Value | Meaning | Purpose |
+| Value | Meaning | Purpose | <- [[Forrest Landry]]

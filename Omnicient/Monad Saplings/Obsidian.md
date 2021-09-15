@@ -31,6 +31,10 @@ Tags: [Tools]
 	- [[Evergreen Notes should be Densely Linked]]
 	
 ### HotKeys
+Basics:
+- Highlight + Cmd + Delete = retain highlight, delete everything on the line infront
+- 
+
 My custom setup: 
 - Cmd + arrows = move cursor to line beginning/end
 - Alt + arrows = move cursor one word left/right

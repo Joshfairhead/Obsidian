@@ -6,7 +6,8 @@ Related: [[Dyads]] [[Economics Monad]] [[Economics Triad]]
 
 | Essence | Existance |
 |---|---|
-| Vaue | Accounting |
+| Stores | Mediums |
+| Future | Immediate |
 
 
 ## Elaborated

@@ -35,7 +35,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/Dialectic/Dialectic Triad.md",
+            "file": "Immanent/DailyNotes/2021-09-15.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "11517effcfd74175",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Immanent/WorkBench/Tiny Habbits.md",
             "mode": "source"
           }
         }
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/Dialectic/Dialectic Triad.md",
+                "file": "Immanent/WorkBench/Tiny Habbits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/Dialectic/Dialectic Triad.md",
+                "file": "Immanent/WorkBench/Tiny Habbits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +162,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "d15e71ed1ff0cf1b",
+  "active": "11517effcfd74175",
   "lastOpenFiles": [
-    "Immanent/R3solution/Dialectic/Dialectic Triad.md",
+    "Immanent/WorkBench/Untitled.md",
+    "Immanent/DailyNotes/2021-09-15.md",
+    "Immanent/R3solution/Leadership/Leadership Triad.md",
     "Immanent/R3solution/_Index/Triads.md",
-    "Immanent/R3solution/Desire/Desire Dyad.md",
-    "Immanent/R3solution/Desire/Desire Triad.md",
-    "Immanent/WorkBench/Conscious Triad.md",
-    "assets/Templates/Daily Template.md",
-    "assets/Templates/Calls Template.md",
-    "assets/Templates/Triad Template.md",
+    "Immanent/R3solution/Identity/Identity Triad.md",
+    "Omnicient/Monad Saplings/Obsidian.md",
+    "Immanent/WorkBench/Complementarity Dyad.md",
+    "Immanent/WorkBench/Conscience Monad.md",
     "Immanent/WorkBench/Conscious Dyad.md",
-    "Immanent/R3solution/_Index/Dyads.md"
+    "Immanent/WorkBench/Conscious Triad.md"
   ]
 }
