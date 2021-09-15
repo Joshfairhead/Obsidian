@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/CallNotes/Cosmic Ecology Call.md",
+            "file": "Immanent/DailyNotes/2021-09-15.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/CallNotes/Cosmic Ecology Call.md",
+                "file": "Immanent/DailyNotes/2021-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/CallNotes/Cosmic Ecology Call.md",
+                "file": "Immanent/DailyNotes/2021-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "d15e71ed1ff0cf1b",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Cosmic Ecology.md",
+    "Immanent/DailyNotes/2021-09-15.md",
+    "Immanent/DailyNotes/Drum.md",
+    "Immanent/DailyNotes/Buffer.md",
+    "assets/Templates/Daily Template.md",
     "Immanent/DailyNotes/2021-09-14.md",
+    "README.md",
+    "Immanent/WorkBench/Cosmic Ecology.md",
     "Trancendental/Evergreen Forrest/Emergent Cyclical Theory Article.md",
     "Omnicient/Monad Saplings/Emergent Cyclical Theory.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/Drum.md",
-    "Immanent/DailyNotes/2021-09-13.md",
-    "Omnicient/Monad Saplings/Enantiodromia.md",
-    "Trancendental/Evergreen Saplings/What is our instrument?.md",
-    "Trancendental/Evergreen Saplings/Take notes to capture insight.md"
+    "Immanent/DailyNotes/2021-09-13.md"
   ]
 }

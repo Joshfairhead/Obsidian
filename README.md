@@ -15,7 +15,7 @@
 - CallNotes (Scribbles while on a call)
 - DailyNotes (the anchor of my day)
 - Personal (all notes not for public consumption, PII etc)
-- Systematic ConstruKction (an in process semantics project)
+- R3solution (an in process semantics project)
 - Workbench (where every new note lands)
 
 **The Omnicient is for things characteristic of information or intelligance. It has the following folders:**
@@ -26,11 +26,16 @@
 - Monad saplings (medium notes on a domain)
 - Manad seeds (small notes on a domain)
 
-
 **Trancendental is for evergreen notes, it has the following folders:**
 - Evergreen forrest (completed work that won't age)
 - Evergreen saplings (maturing work that won't age)
 - Evergreen seeds (the start of work that wont age)
+
+Inside the DailyNotes folder I have two notes: 
+- Drum (a daily schedule for tracking my capacity)
+- Buffer (chunks of things I can fill time with, tasks I dont wan't distracting me)
+
+Templates for DailyNotes can be found in the assets folder. If were talking about theory of constraints, the daily note acts as the rope.
 
 ### Conclusion
 Now you know the structure of my digital brain. May it's memes spread. 
