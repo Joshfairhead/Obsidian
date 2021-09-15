@@ -48,7 +48,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/Learning/Learning Dyad.md",
+            "file": "Immanent/DailyNotes/2021-09-15.md",
             "mode": "source"
           }
         }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/Learning/Learning Dyad.md",
+                "file": "Immanent/DailyNotes/2021-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/Learning/Learning Dyad.md",
+                "file": "Immanent/DailyNotes/2021-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,15 +166,15 @@
   },
   "active": "d25e7fff0cdeaeb1",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-15.md",
+    "Immanent/WorkBench/Experience Monad.md",
+    "Immanent/WorkBench/Integrity Dyad.md",
     "Immanent/R3solution/Learning/Learning Dyad.md",
     "Immanent/R3solution/Learning/Learning Triad.md",
     "Immanent/R3solution/_Index/Triads.md",
     "Immanent/R3solution/Dialectic/Dialectic Triad.md",
     "Immanent/R3solution/Dialectic/Dialectic Monad.md",
-    "Immanent/DailyNotes/2021-09-15.md",
     "Omnicient/Monad Seeds/Rhetoric.md",
-    "Immanent/R3solution/Dialectic/Dialectic Dyad.md",
-    "Omnicient/Monad Seeds/Tiny Habbits.md",
-    "assets/Templates/Triad Template.md"
+    "Immanent/R3solution/Dialectic/Dialectic Dyad.md"
   ]
 }
