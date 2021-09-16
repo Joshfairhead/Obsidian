@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/Habbit/Habbit Dyad.md",
-            "mode": "preview"
+            "file": "Immanent/R3solution/Habbit/Habbit Triad.md",
+            "mode": "source"
           }
         }
       },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/Habbit/Habbit Dyad.md",
+                "file": "Immanent/R3solution/Habbit/Habbit Triad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/Habbit/Habbit Dyad.md",
+                "file": "Immanent/R3solution/Habbit/Habbit Triad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,15 +166,15 @@
   },
   "active": "94444c511b44de4d",
   "lastOpenFiles": [
+    "Immanent/R3solution/Habbit/Habbit Triad.md",
+    "Immanent/WorkBench/Perception Triad.md",
+    "Immanent/R3solution/_Index/Triads.md",
+    "Immanent/WorkBench/Objectiviy Dyad.md",
+    "Immanent/R3solution/Objectivity/Objectivity Triad.md",
+    "Immanent/R3solution/Objectivity/Objectivity Monad.md",
     "Immanent/WorkBench/Habbit Dyad.md",
     "Immanent/WorkBench/Habbit Triad.md",
     "Immanent/R3solution/Habbit/Habbit Monad.md",
-    "Immanent/R3solution/Habbit/Untitled.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Omnicient/Monad Seeds/Tiny Habbits.md",
-    "Immanent/DailyNotes/2021-09-16.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
-    "assets/Templates/Daily Template.md",
-    "assets/Templates/Dyad Template.md"
+    "Immanent/R3solution/Habbit/Untitled.md"
   ]
 }

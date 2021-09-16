@@ -36,6 +36,9 @@ Connectives: Transformative influence
 [[Experience Triad]]
 [[Expression Triad]]
 
+#### H
+[[Habbit Triad]]
+
 #### I
 [[Identity Triad]]
 [[Integrity Triad]]

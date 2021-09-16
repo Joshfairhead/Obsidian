@@ -8,6 +8,7 @@ Modal superset:
 | 3 | 6 | 9 |
 |---|---|---|
 | Volition | Part | Whole |
+| Anchor |
 
 3: Affirming volition with action
 6: On an atomic unit of habbit/work
