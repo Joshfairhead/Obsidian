@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-15.md",
+            "file": "Immanent/DailyNotes/2021-09-16.md",
             "mode": "source"
           }
         }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-15.md",
+                "file": "Immanent/DailyNotes/2021-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-15.md",
+                "file": "Immanent/DailyNotes/2021-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,15 +166,15 @@
   },
   "active": "94444c511b44de4d",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2021-09-15.md",
+    "Immanent/DailyNotes/2021-09-16.md",
     "assets/Templates/Daily Template.md",
+    "assets/Templates/Dyad Template.md",
+    "Immanent/DailyNotes/2021-09-15.md",
     "Immanent/DailyNotes/Drum.md",
     "Immanent/WorkBench/Experience Monad.md",
     "Immanent/WorkBench/Integrity Dyad.md",
     "Immanent/R3solution/Learning/Learning Dyad.md",
     "Immanent/R3solution/Learning/Learning Triad.md",
-    "Immanent/R3solution/_Index/Triads.md",
-    "Immanent/R3solution/Dialectic/Dialectic Triad.md",
-    "Immanent/R3solution/Dialectic/Dialectic Monad.md"
+    "Immanent/R3solution/_Index/Triads.md"
   ]
 }
