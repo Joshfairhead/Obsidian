@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-16.md",
-            "mode": "source"
+            "file": "Immanent/R3solution/Habbit/Habbit Dyad.md",
+            "mode": "preview"
           }
         }
       },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-16.md",
+                "file": "Immanent/R3solution/Habbit/Habbit Dyad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-16.md",
+                "file": "Immanent/R3solution/Habbit/Habbit Dyad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,15 +166,15 @@
   },
   "active": "94444c511b44de4d",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Habbit Dyad.md",
+    "Immanent/WorkBench/Habbit Triad.md",
+    "Immanent/R3solution/Habbit/Habbit Monad.md",
+    "Immanent/R3solution/Habbit/Untitled.md",
+    "Immanent/DailyNotes/Buffer.md",
+    "Omnicient/Monad Seeds/Tiny Habbits.md",
     "Immanent/DailyNotes/2021-09-16.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
     "assets/Templates/Daily Template.md",
-    "assets/Templates/Dyad Template.md",
-    "Immanent/DailyNotes/2021-09-15.md",
-    "Immanent/DailyNotes/Drum.md",
-    "Immanent/WorkBench/Experience Monad.md",
-    "Immanent/WorkBench/Integrity Dyad.md",
-    "Immanent/R3solution/Learning/Learning Dyad.md",
-    "Immanent/R3solution/Learning/Learning Triad.md"
+    "assets/Templates/Dyad Template.md"
   ]
 }

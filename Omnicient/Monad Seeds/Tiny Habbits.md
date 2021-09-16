@@ -1,7 +1,7 @@
 ---
 Tags: [Psychology, Frameworks]
 ---
-Related: [[Fogg Behavior model]] [[Matching Behaviors & Goals Exercise]]
+Related: [[Buffer]] [[Fogg Behavior model]] [[Matching Behaviors & Goals Exercise]]
 
 # Tiny Habbits
 
@@ -21,3 +21,4 @@ Three causes:
 9: Epiphany
 
 > Take a behaviour you want, make it tiny, find where it fits naturally in your life, and nurture its growth.
+
