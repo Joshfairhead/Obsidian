@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/Will/Will Triad.md",
+            "file": "Trancendental/Evergreen Forrest/Integral Identity.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/Will/Will Triad.md",
+                "file": "Trancendental/Evergreen Forrest/Integral Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/Will/Will Triad.md",
+                "file": "Trancendental/Evergreen Forrest/Integral Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,8 @@
   },
   "active": "a7bb0ef86a193f39",
   "lastOpenFiles": [
+    "Trancendental/Evergreen Forrest/Integral Identity.md",
+    "assets/Quadrants.png",
     "Immanent/R3solution/Will/Will Triad.md",
     "Immanent/R3solution/Volition/Volition Triad.md",
     "Immanent/R3solution/Identity/Identity Dyad.md",
@@ -160,8 +162,6 @@
     "Immanent/R3solution/Expression/Expression Triad.md",
     "Immanent/R3solution/Expression/Expression Monad.md",
     "Immanent/R3solution/Will/Will Monad.md",
-    "Immanent/R3solution/_Index/Triads.md",
-    "Immanent/R3solution/Experience/Experience Monad.md",
-    "Immanent/DailyNotes/Drum.md"
+    "Immanent/R3solution/_Index/Triads.md"
   ]
 }
