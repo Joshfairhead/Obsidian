@@ -15,7 +15,6 @@ Related: [[Buffer]]
 
 
 **Rope**
- - Friday 17th, 14:00: 0x Salon residancy call
  - Wednesday 22nd: Equinox
  - Friday 24th: Maija visits
 
