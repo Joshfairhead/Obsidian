@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/Will/Will Dyad.md",
+            "file": "Immanent/DailyNotes/2021-09-16.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/Will/Will Dyad.md",
+                "file": "Immanent/DailyNotes/2021-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/Will/Will Dyad.md",
+                "file": "Immanent/DailyNotes/2021-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "a7bb0ef86a193f39",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-16.md",
+    "Immanent/DailyNotes/2021-09-17.md",
     "Immanent/R3solution/Will/Will Dyad.md",
     "Immanent/R3solution/_Index/Dyads.md",
     "Immanent/R3solution/Metaphysics/Metaphysics Dyad.md",
     "Immanent/R3solution/Conscience/Conscience Triad.md",
     "Immanent/R3solution/_Index/Triads.md",
-    "Immanent/DailyNotes/2021-09-17.md",
     "Immanent/DailyNotes/Buffer.md",
     "Immanent/DailyNotes/Drum.md",
-    "Immanent/Personal/Website/Music Curation.md",
-    "Immanent/WorkBench/Untitled.md"
+    "Immanent/Personal/Website/Music Curation.md"
   ]
 }
