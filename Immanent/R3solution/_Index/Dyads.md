@@ -54,7 +54,7 @@ Connectives
 [[Subjectivity Dyad]]
 
 ### W
-[[Will Dyad]] -> Volition? Power?
+[[Will Dyad]]
 
 
 ## Loose Polarities

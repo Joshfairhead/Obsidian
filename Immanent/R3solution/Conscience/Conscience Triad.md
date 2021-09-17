@@ -8,7 +8,11 @@ Derrived from: [[Omnicient]]
 
 | 3 | 6 | 9 |
 |---|---|---|
-| Sensation | Perception | Conception |
+| Sensation | Conception | Perception | 
+
+3: Sensation is an active knowing through the senses
+6: Conception is a passive taking inwards of the senses (or other)
+9: Perception is something that arises through taking either inward or outward facing
 
 
 %%

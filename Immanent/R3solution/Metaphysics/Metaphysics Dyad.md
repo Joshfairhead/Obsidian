@@ -1,14 +1,19 @@
 ---
 Tags: []
 ---
-Related: [[Metaphysics Monad]] [[Metaphysics Triad]]
+Related: [[Dyads]] [[Metaphysics Monad]] [[Metaphysics Triad]]
 # Metaphysics Dyad
-| Trancedental | Omnicient |
+Nature: 
 
-| Self | Reality | [[Forrest Landry]]
+| Essence | Existance |
 |---|---|
+| Self | Reality | [[Forrest Landry]]
 | Subjective | Objective | [[Forrest Landry]]
 | Ontology | Epistemlogy | [[Forrest Landry]]
+
+
+%%
 | Relationship | Interaction | 
 | Feeling | Form |
 | Degrees | States |
+%% 
