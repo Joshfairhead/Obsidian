@@ -3,7 +3,7 @@ Tags: []
 ---
 Related: [[Monads]] [[Relationship Monad]]
 # Expression Monad
-Up a scale: [[Trancendental]]
+Nature: [[Immanent]]
 
 ## Synonms 
 [[Interaction Monad]]

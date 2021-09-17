@@ -6,7 +6,7 @@ Related: [[Dyads]] [[Philosophy Monad]]
 # Dyads of [[Philosophy]]
 
 
-| Inward | Outward |  
+| Essence | Existance |  
 |---|---|
 |Indetermination|Determination|
 |Immaterial|Material|

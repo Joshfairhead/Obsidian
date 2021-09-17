@@ -6,9 +6,10 @@ Related: [[Dyads]] [[Identity Monad]] [[Identity Triad]] [[Qual Systems]]
 
 | Essence | Existance |
 |---|---|
+| Essence | Avatar |
 | Being | Will |
 | Function | Object |
-| Essence | Avatar |
+
 
 %% Nonsense
 | Being | Doing |
