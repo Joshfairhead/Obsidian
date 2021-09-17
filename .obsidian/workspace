@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trancendental/Evergreen Forrest/Integral Identity.md",
+            "file": "Immanent/R3solution/_Index/Triads.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trancendental/Evergreen Forrest/Integral Identity.md",
+                "file": "Immanent/R3solution/_Index/Triads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trancendental/Evergreen Forrest/Integral Identity.md",
+                "file": "Immanent/R3solution/_Index/Triads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "a7bb0ef86a193f39",
   "lastOpenFiles": [
-    "Trancendental/Evergreen Forrest/Integral Identity.md",
-    "assets/Quadrants.png",
-    "Immanent/R3solution/Will/Will Triad.md",
-    "Immanent/R3solution/Volition/Volition Triad.md",
-    "Immanent/R3solution/Identity/Identity Dyad.md",
-    "Immanent/R3solution/Identity/Identity Triad.md",
-    "Immanent/R3solution/Expression/Expression Triad.md",
-    "Immanent/R3solution/Expression/Expression Monad.md",
-    "Immanent/R3solution/Will/Will Monad.md",
-    "Immanent/R3solution/_Index/Triads.md"
+    "Immanent/R3solution/_Index/Triads.md",
+    "Immanent/DailyNotes/2021-09-17.md",
+    "Immanent/DailyNotes/Buffer.md",
+    "Immanent/DailyNotes/Drum.md",
+    "Immanent/Personal/Website/Music Curation.md",
+    "Immanent/WorkBench/Untitled.md",
+    "Immanent/WorkBench/Music Curation.md",
+    "Immanent/WorkBench/Mark Burgess.md",
+    "Immanent/WorkBench/Kernal.community.md",
+    "Immanent/WorkBench/Objectiviy Dyad.md"
   ]
 }
