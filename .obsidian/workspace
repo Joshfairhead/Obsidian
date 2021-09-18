@@ -30,7 +30,7 @@
         }
       },
       {
-        "id": "b87cbefbb70dc01e",
+        "id": "83b2c11c48cb4556",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "b87cbefbb70dc01e",
+  "active": "83b2c11c48cb4556",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2021-09-18.md",
     "assets/Templates/Daily Template.md",
+    "Immanent/R3solution/_Index/Triads.md",
+    "Immanent/DailyNotes/2021-09-20.md",
     "Immanent/DailyNotes/2021-09-17.md",
     "Immanent/DailyNotes/2021-09-16.md",
     "Immanent/DailyNotes/2021-09-14.md",
     "Immanent/DailyNotes/2021-09-15.md",
     "Immanent/DailyNotes/2021-09-13.md",
-    "Immanent/DailyNotes/Drum.md",
-    "Immanent/R3solution/_Index/Triads.md",
-    "Omnicient/Monad Saplings/Knowledge Management.md"
+    "Immanent/DailyNotes/Drum.md"
   ]
 }
