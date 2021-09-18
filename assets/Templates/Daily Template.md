@@ -16,6 +16,6 @@ Related: [[Buffer]]
 
 **Rope**
  - Wednesday 22nd: Equinox
- - Friday 24th: Maija visits
+ - Friday 24th-27th: Maija visits, Bryan in town
 
 **Insights:**

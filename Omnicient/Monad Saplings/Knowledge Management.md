@@ -9,13 +9,14 @@ Related: [[Obsidian]] [[Roam]] [[Volvox]] [[Data Science]]
 
 
 #### Projects
+- [[Foam]] - https://foambubble.github.io/foam/
 - [[Athens]] - https://athensresearch.ghost.io/season-2/
 - [[Obsidian]]
 - [[Roam]] Research
 - [Logseq](https://logseq.com/)
 - [Memex](https://getmemex.com/)
 - [[Volvox]]
-
+- [Dendron](https://www.dendron.so/)
 #### Quotes
 In Reinventing Discovery by Michael Nielsen, Nielsen describes his vision of **The Era of Networked Science** (emphasis added):
 

@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "a7bb0ef86a193f39",
+        "id": "b87cbefbb70dc01e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-16.md",
+            "file": "Immanent/DailyNotes/2021-09-18.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-16.md",
+                "file": "Immanent/DailyNotes/2021-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-16.md",
+                "file": "Immanent/DailyNotes/2021-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "a7bb0ef86a193f39",
+  "active": "b87cbefbb70dc01e",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-18.md",
+    "Immanent/R3solution/_Index/Triads.md",
+    "assets/Templates/Daily Template.md",
+    "Omnicient/Monad Saplings/Knowledge Management.md",
     "Immanent/DailyNotes/2021-09-16.md",
     "Immanent/DailyNotes/2021-09-17.md",
     "Immanent/R3solution/Will/Will Dyad.md",
     "Immanent/R3solution/_Index/Dyads.md",
     "Immanent/R3solution/Metaphysics/Metaphysics Dyad.md",
-    "Immanent/R3solution/Conscience/Conscience Triad.md",
-    "Immanent/R3solution/_Index/Triads.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/Drum.md",
-    "Immanent/Personal/Website/Music Curation.md"
+    "Immanent/R3solution/Conscience/Conscience Triad.md"
   ]
 }
