@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Unfold the Mandala.md",
+            "file": "Immanent/WorkBench/Memetics.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Unfold the Mandala.md",
+                "file": "Immanent/WorkBench/Memetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Unfold the Mandala.md",
+                "file": "Immanent/WorkBench/Memetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "54042c2c88b0d69a",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Untitled.md",
+    "Immanent/WorkBench/Memes through the ages.md",
+    "Omnicient/Entities/0x Salon.md",
     "Immanent/DailyNotes/2021-09-19.md",
+    "Immanent/WorkBench/Untitled.md",
     "assets/Templates/Daily Template.md",
     "Immanent/DailyNotes/2021-09-18.md",
     "Immanent/R3solution/_Index/Triads.md",
     "Immanent/DailyNotes/2021/2021-09-16.md",
     "Immanent/DailyNotes/2021/2021-09-17.md",
-    "Immanent/DailyNotes/2021-09-20.md",
-    "Immanent/DailyNotes/2021-09-17.md",
-    "Immanent/DailyNotes/2021-09-16.md"
+    "Immanent/DailyNotes/2021-09-20.md"
   ]
 }
