@@ -2,10 +2,7 @@
 Tags: []
 ---
 Related: 
-# 33 The Day I Went Infinite
- Written [[2021-09-02]]
- 
----
+# 33 The day my geometry aligned
 
 My birthday, typically the most difficult day of the year for me for several reasons. 1) I don't particularly like spotlights, 2) the relationship with my mother is quite transactional, this is a date where the expectation upon me is to trade my affection for the profane - material bribes and so forth, gifts with expectation and conditionality - thus not gifts. My wishes not to perform this ritual are never respected and even mentioning them brings discord. Rocks and hard places essentially.
 
@@ -39,11 +36,15 @@ In my eyes, this is a pretty odd note. Without the years of context within my fa
 
 Somehow this damage was avoided for the duration of my stay. I can't take credit for the behaviours of others but for me its big as I was able to concede my own beliefs in totality, suspend judgemet in entirity and procees why the fuck my familys so damn screwed up... while taking counter measures (word spells) which felt like a valuable contribution towards harmony. Honestly, I'm glad as hell to be out of that (heratbreaking) environment but the experience of sucessfully holding on to my integrity throughout the entire period was something that allows me to feel proud of my actions, if not a little exhausted.
 
+%%
 
 #### Key takeaways
+- 369 meditation; be loving, think clearly, act gracefully.  
 
-369 meditation; be loving, act graceful, think clearly.  
+#### Notes
+ Written [[2021-09-02]]
+Potential titles:
+-  33 the day I went infinite
+-  33 The day my head popped out of the clouds
   
-9; Dad story, correspondence on commerce. The language of gesture. Remember where you came from.  
-3; Mum story, commerce with compassion. The language of will. Return with pax.  
-6; My story; the language of being.
+%% 

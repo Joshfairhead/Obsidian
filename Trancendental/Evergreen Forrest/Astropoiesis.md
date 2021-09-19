@@ -16,7 +16,8 @@ Related: [[Immanent]] [[Hyperstition]] [[Accelerationism]]
 
 If we want to apply this knowlege to organisations, it can be done, we just have to realise that an organisational unit is of a [[trancendental]] flavour. Aside from that its as easy as changing the mantra to "We are therefore we do, we do therefore we become, we become therefore we are" - its not quite as punchy right? it's probably because its of reconciling tone which has the life of a funeral. If we want to retain an undiluted [[Immanent]] flavour in our orgs then a topology of networked individuals is the structure to prioritise.
  
-Note that this note is essentially an [[Accelerationist]] a meta-narrative. [[Hyperstition]].
+Note that this note is essentially an [[Accelerationist]] meta-narrative. [[Hyperstition]].
+
 %%Hahahaha, a meta-note on meta-narratives. Turtles all the way down%%
 
 

@@ -5,8 +5,8 @@ Related: [[Identity]]
 # Integral Identity
 
 
-> If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the **proper question to ask**, for once I know the **proper question**, I could solve the problem in less than five minutes,”  
-> ~Albert Einstein*
+> "If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the **proper question to ask**, for once I know the **proper question**, I could solve the problem in less than five minutes,”  
+> ~Albert Einstein
 
 This article is a process of my thoughts in motion in search of a **question.** If you just want the takeaways, they can be found in the conclusion!
 
