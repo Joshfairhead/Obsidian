@@ -5,15 +5,10 @@ Related: [[Buffer]]
 # ToDo Today
 
 **Health:**
-- Rest
-- Long and lazy Sunday walk
+- [ ] 1 x 10 Overhead press with 15lb kettlebell
 
 **Context:**
-- Woke up late, allowed myself the rest
-- Went for out coffee
-- Pinged people
-- Invited to Mareikes festival
-- Walked home and wandered the park in contemplation
+
 
 **Rope**
 - Monday 20th: Call with Ronen
@@ -23,5 +18,3 @@ Related: [[Buffer]]
 - Thursday 7th Oct: Microsolidarity retrospective
 
 **Insights:**
-
-Understanding is the byproduct of reason. To effectivly understand eachother, we must convey our reasoning. The most structured form of reason is diagrammatic. Thus, structured diagrams are the highest bandwith form of conveying understanding. Lets start unfolding the mandala.
