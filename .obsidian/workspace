@@ -33,8 +33,11 @@
         "id": "4138e9dc285eb7b2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -110,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +153,15 @@
   },
   "active": "4138e9dc285eb7b2",
   "lastOpenFiles": [
+    "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qualsystems L3.md",
     "Immanent/DailyNotes/2021-09-20.md",
     "Immanent/R3solution/_Index/Triads.md",
     "assets/Templates/Daily Template.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/R3solution/Untitled.md",
     "Immanent/Essence/Essence Triad.md",
-    "Immanent/DailyNotes/2021-09-19.md",
-    "Immanent/DailyNotes/2021-09-18.md",
-    "Omnicient/Monad Saplings/Obsidian.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md"
+    "Immanent/DailyNotes/2021-09-19.md"
   ]
 }
