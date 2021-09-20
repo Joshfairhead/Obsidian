@@ -46,6 +46,8 @@ My custom setup:
 - Upload to github
 - [How to automate version control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5) - Cronjob not working? Previously had script issues also but it works to degrees. 
 
+### Outlining
+`preferences > editor > fold heading`
 
 ### Status Bar Pomodoro
 - Toggle on and off from the left ribbon bar or via command pallet
