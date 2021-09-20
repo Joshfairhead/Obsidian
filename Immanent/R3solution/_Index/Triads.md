@@ -64,7 +64,6 @@ Connectives: Transformative influence
 [[Will Triad]] -> Volition? Power?
 
 
-
 ## Links
 - [An Immanent metaphysics; modalities](http://web.archive.org/web/20191024155750/http://www.magic-flight.com/pub/uvsm_1/modality_metaphors_1.htm). [[Metaphysics#^9fc5da]]
 - [General index of triads](https://www.egreenway.com/druids/triads.htm)

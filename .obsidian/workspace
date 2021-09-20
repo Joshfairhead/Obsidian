@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "1ca4b06c4cc8b907",
+        "id": "6d2f65367d4dbeff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beep test.md",
+            "file": "Immanent/DailyNotes/2021-09-20.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beep test.md",
+                "file": "Immanent/DailyNotes/2021-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beep test.md",
+                "file": "Immanent/DailyNotes/2021-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,12 +151,12 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "1ca4b06c4cc8b907",
+  "active": "6d2f65367d4dbeff",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Untitled.md",
-    "Immanent/R3solution/_Index/Triads.md",
-    "Immanent/R3solution/Untitled.md",
     "Immanent/DailyNotes/2021-09-20.md",
+    "Immanent/R3solution/_Index/Triads.md",
+    "Immanent/WorkBench/Untitled.md",
+    "Immanent/R3solution/Untitled.md",
     "Immanent/Essence/Essence Triad.md",
     "Immanent/DailyNotes/2021-09-19.md",
     "Immanent/DailyNotes/2021-09-18.md",
