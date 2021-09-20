@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-20.md",
+            "file": "Immanent/R3solution/Git test.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-20.md",
+                "file": "Immanent/R3solution/Git test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-20.md",
+                "file": "Immanent/R3solution/Git test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "54042c2c88b0d69a",
   "lastOpenFiles": [
+    "Immanent/R3solution/Untitled.md",
     "Immanent/DailyNotes/2021-09-20.md",
     "Immanent/Essence/Essence Triad.md",
     "Immanent/DailyNotes/2021-09-19.md",
@@ -161,7 +162,6 @@
     "assets/Templates/Daily Template.md",
     "Immanent/R3solution/_Index/Triads.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
-    "Omnicient/Computer Sci/Github.md",
-    "Omnicient/Computer Sci/Git.md"
+    "Omnicient/Computer Sci/Github.md"
   ]
 }
