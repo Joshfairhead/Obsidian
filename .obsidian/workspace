@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trancendental/Evergreen Seeds/Memetics.md",
+            "file": "Immanent/DailyNotes/2021-09-20.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/Memetics.md",
+                "file": "Immanent/DailyNotes/2021-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/Memetics.md",
+                "file": "Immanent/DailyNotes/2021-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "54042c2c88b0d69a",
   "lastOpenFiles": [
-    "Trancendental/Evergreen Seeds/Memetics.md",
-    "Omnicient/Entities/0x Salon.md",
-    "Immanent/DailyNotes/2021-09-18.md",
-    "Immanent/DailyNotes/2021-09-19.md",
     "Immanent/DailyNotes/2021-09-20.md",
-    "assets/Templates/Daily Template.md",
-    "Trancendental/Evergreen Seeds/Measure Semantic Delta.md",
-    "Trancendental/Evergreen Seeds/Make Sure to Steer.md",
-    "Trancendental/Evergreen Seeds/The Essence of Complimentarity.md",
-    "Trancendental/Evergreen Seeds/Don't use commerce to find correspondence.md"
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
+    "Omnicient/Computer Sci/Github.md",
+    "Omnicient/Computer Sci/Git.md",
+    "Trancendental/Evergreen Seeds/Memetics.md",
+    "Omnicient/Monad Saplings/Logic.md",
+    "Immanent/DailyNotes/2021-09-19.md",
+    "Immanent/DailyNotes/2021-09-18.md",
+    "Omnicient/Entities/0x Salon.md",
+    "assets/Templates/Daily Template.md"
   ]
 }

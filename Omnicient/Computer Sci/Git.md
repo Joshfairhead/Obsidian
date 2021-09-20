@@ -29,6 +29,7 @@ find . | grep "\.git/" | xargs rm -rf
 [Trunk based development](https://trunkbaseddevelopment.com/)
 
 #### Explanations
+[Setting your email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address)
 [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing)
 [Merging vs Rebasing Hachernoon](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
 [Rebase vs fast forward only](https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a)

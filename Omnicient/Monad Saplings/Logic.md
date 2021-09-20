@@ -173,5 +173,4 @@ The predicate (metal) remains singular.
 
 **This is an important truth.**
 > The universal negative proposition distributes both its subject and its predicate. ~[[Quotes]] p44
-
-
+- A particular affirmitive proposition distributes neither its subjcet nor its predicate
