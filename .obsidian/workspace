@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "54042c2c88b0d69a",
+        "id": "1ca4b06c4cc8b907",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/Git test.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/Git test.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/Git test.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,8 +151,10 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "54042c2c88b0d69a",
+  "active": "1ca4b06c4cc8b907",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Untitled.md",
+    "Immanent/R3solution/_Index/Triads.md",
     "Immanent/R3solution/Untitled.md",
     "Immanent/DailyNotes/2021-09-20.md",
     "Immanent/Essence/Essence Triad.md",
@@ -160,8 +162,6 @@
     "Immanent/DailyNotes/2021-09-18.md",
     "Omnicient/Monad Saplings/Obsidian.md",
     "assets/Templates/Daily Template.md",
-    "Immanent/R3solution/_Index/Triads.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
-    "Omnicient/Computer Sci/Github.md"
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md"
   ]
 }

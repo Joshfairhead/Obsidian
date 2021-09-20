@@ -1,2 +1,0 @@
-Git test note
-Delete
