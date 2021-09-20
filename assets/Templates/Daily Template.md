@@ -15,5 +15,6 @@ Related: [[Buffer]]
 - Thursday 23rd: Sandbox with Alex
 - Friday 24th-27th: Maija visits, Bryan in town
 - Thursday 7th Oct: Microsolidarity retrospective
+- Thursday 7-11th Oct: Amit is around
 
 **Insights:**
