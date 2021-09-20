@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "6d2f65367d4dbeff",
+        "id": "4138e9dc285eb7b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assets/Templates/Daily Template.md",
+            "file": "Immanent/DailyNotes/2021-09-20.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Templates/Daily Template.md",
+                "file": "Immanent/DailyNotes/2021-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Templates/Daily Template.md",
+                "file": "Immanent/DailyNotes/2021-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,11 +151,11 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "6d2f65367d4dbeff",
+  "active": "4138e9dc285eb7b2",
   "lastOpenFiles": [
-    "assets/Templates/Daily Template.md",
     "Immanent/DailyNotes/2021-09-20.md",
     "Immanent/R3solution/_Index/Triads.md",
+    "assets/Templates/Daily Template.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/R3solution/Untitled.md",
     "Immanent/Essence/Essence Triad.md",
