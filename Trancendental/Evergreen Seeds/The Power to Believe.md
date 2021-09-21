@@ -14,9 +14,9 @@ Related: [[Trancendental]]
 - This is significant because if you control the medium you control the message. The new political parties are big tech and those who shape the network topology decide how messages propagate. 
 - This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
 - Why would that matter? Because memes denote territories. 
-	- You most apparently see parallels in propaganda used to indoctrinate the masses, aka noetic territorialisation, to uphold the idea of national boraders.  
-		- In the digital landscape the algorythm thus matters
+	- Parallels can be seen in propaganda used to indoctrinate the masses in order to uphold the idea of national boraders. aka noetic territorialisation, leading to real territorialisation.
 	- What is the significance of the message? Is it genuinly bringing joy to the world? or is there something insideous there. Intention thus matters. 
+	- In the digital landscape, algorythm denotes mental boarders. 
 	- The generality or the specifity of the meme matters as the scope denotes boundaries of the territory; or the in/out group border.
 - Society of the spectical
 - 
