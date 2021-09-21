@@ -19,7 +19,7 @@ Related: [[Trancendental]]
 	- What is the significance of the message? Is it genuinly bringing joy to the world? or is there something insideous there. Intention matters. 
 	- In the digital landscape, algorythm denotes replication affordances (aka audience). Once an audience has been reached, this audience then starts to articulate their cultural boundaries (in multiple dimensions) through image.  
 	- It might be said that memes are a form of diagrammatic reasoning. General memes have greater `extensionality` while specific memes have greater `intensionality`. The breath and depth of the audience. 
-	- There is probably a taxonomy of meme t
+	- One might taxonomy of meme types. Essence and intention probably matter more, escaping definition. 
 
 - How can memes be used with measure and appropriation?
 
