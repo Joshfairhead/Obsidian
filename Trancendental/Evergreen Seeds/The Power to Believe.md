@@ -13,10 +13,12 @@ Related: [[Trancendental]]
 - This context acting like a carrier wave is not unbiased, it is algorythmically skewed. 
 - This is significant because if you control the medium you control the message. The new political parties are big tech and those who shape the network topology decide how messages propagate. 
 - This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
+	- Society of the spectical
 - Why would that matter? Because memes denote territories. 
 	- Parallels can be seen in propaganda used to indoctrinate the masses in order to uphold the idea of national boraders. aka noetic territorialisation, leading to real territorialisation.
 	- What is the significance of the message? Is it genuinly bringing joy to the world? or is there something insideous there. Intention thus matters. 
-	- In the digital landscape, algorythm denotes mental boarders and groups then use memes to articulate their cultural boundaries or  in/out group border.
-	- Society of the spectical
+	- In the digital landscape, algorythm denotes mental boarders and groups then use memes to articulate their cultural boundaries. 
+	- General memes have grea
+
 - How can memes be used with measure and appropriation?
 
