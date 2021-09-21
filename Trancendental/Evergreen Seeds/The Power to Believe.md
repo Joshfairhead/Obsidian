@@ -16,7 +16,7 @@ Related: [[Trancendental]]
 - Why would that matter? Because memes denote territories. 
 	- You most apparently see parallels in propaganda used to indoctrinate the masses, aka noetic territorialisation, to uphold the idea of national boraders.  
 	- Intention thus matters. As does the algorythm. 
-	- What is the significance of the message? Is the funny spectacle
+	- What is the significance of the message? Is it pushing a subtle agenda, does the laugh come at or is it genuinly bringing joy to the world?
 	- The generality or the specifity of the meme matters as the scope denotes boundaries of the territory; or the in/out group border.
 - Society of the spectical
 - 
