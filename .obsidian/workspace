@@ -50,6 +50,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "a27419271c5aecaf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trancendental/Evergreen Seeds/Memetics.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -164,6 +175,8 @@
   },
   "active": "d282e9c6effe5527",
   "lastOpenFiles": [
+    "Trancendental/Evergreen Seeds/The Power to Believe.md",
+    "Trancendental/Evergreen Seeds/Memetics.md",
     "Immanent/WorkBench/The Power to Believe.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/DailyNotes/2021-09-21.md",
@@ -171,8 +184,6 @@
     "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qualsystems L3.md",
-    "Immanent/R3solution/_Index/Triads.md",
-    "assets/Templates/Daily Template.md",
-    "Immanent/R3solution/Untitled.md"
+    "Immanent/R3solution/_Index/Triads.md"
   ]
 }

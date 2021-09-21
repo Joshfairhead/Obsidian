@@ -9,4 +9,4 @@ Related: [[Trancendental]]
 - We ask why, seeking explanations from those who created them
 - This may be the birth of word propaganda a neutral term originating with the meanng "to spread" or "to propagate".
 - Memes are the definition of propaganda. Their express purpose is to self-propagate through selfish reproduction. <<{??}
-- When 
+- In the modern age this means 
