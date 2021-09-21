@@ -11,4 +11,4 @@ Related: [[Trancendental]]
 - Memes are the definition of propaganda. Their express purpose is to reproduce. <<{??}
 	- The replication of a meme is shaped by the context or medium 		which carries it. 
 	- This context acting like a carrier wave is not unbiased, it is algorythmically skewed. 
-- Ideas that spread
+- Ideas that spread are 
