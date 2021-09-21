@@ -16,5 +16,6 @@ Related: [[Trancendental]]
 - Why would that matter? Because memes denote territories. 
 	- You most apparently see parallels in propaganda used to indoctrinate the masses, aka noetic territorialisation. 
 	- Intention thus matters. As does the algorythm. 
-	- 
+	- The generality or the specifity of the meme matters as the scope denotes the in and the out group
+- How can memes be used with measure and appropriation?
 
