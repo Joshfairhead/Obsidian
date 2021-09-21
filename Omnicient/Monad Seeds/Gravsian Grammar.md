@@ -11,7 +11,7 @@ Related: [[Emergent Cyclical Theory]] [[Emergent Cyclical Theory Article]] [[Gra
 Demonstrative speech acts, teaching. 
 
 ## [[ER]]
-Empathetic 
+
 Indicatives - makes assertions but second guesses them. 
 Optatives - apoligises unnecessiraly due to uncertainty.
 

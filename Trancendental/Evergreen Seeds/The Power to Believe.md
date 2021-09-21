@@ -23,13 +23,10 @@ Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 	- It might be said that memes are a form of diagrammatic reasoning; general memes have greater `extensionality` while specific memes have greater `intensionality`. These symbols and spells cover breath and depth of the audience. The in/out group boundaries.
 	- Assuming existance is a case of "I meme, therefore I am" and they are but another form of communication. then we can ask the significance of its message? Is it genuinly bringing joy to the world? Is it positive sum? 
 
-
-
 	- In the digital landscape, algorythm and network structure denotes replication affordances (aka audience). 
 
 	
 
 - If we accept this as sourcery, what can Open Sourcery look like?[[Open Magick]] [[The Society of the Spectacle]] 
 
-- How can memes be used with measure and appropriation?
 
