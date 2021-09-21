@@ -17,9 +17,11 @@ Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 - Memes denote territory (just like project names). Parallels can be seen in the propaganda used to indoctrinate masses into upholding the idea of national boraders. This is a form of `noetic territorialisation`, leading to real territorialisation.
 	- The illusion of real territories are necessary however, for how else do you bridge with the present tense and interface with the masses undecerningly beg to be hypnotised? [[The Society of the Spectacle]]
 	- Once an audience has been reached, this audience articulates their cultural boundaries (in multiple dimensions) through symbol.
-	- Assuming existance is a case of "I meme, therefore I am" then we must ask what is the significance of its message? Is it genuinly bringing joy to the world? Is it positive sum? 
 	- One might write a taxonomy of meme types - and they likely exist - but its probably easier to think in terms of provinance and intention. 
 	- It might be said that memes are a form of diagrammatic reasoning; general memes have greater `extensionality` while specific memes have greater `intensionality`. These symbols and spells cover breath and depth of the audience. The in/out group boundaries.
+	- Assuming existance is a case of "I meme, therefore I am" and they are but another form of communication. then we can ask the significance of its message? Is it genuinly bringing joy to the world? Is it positive sum? 
+
+
 
 	- In the digital landscape, algorythm and network structure denotes replication affordances (aka audience). 
 
