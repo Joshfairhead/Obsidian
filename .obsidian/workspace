@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/Memetics.md",
+                "file": "Trancendental/Evergreen Seeds/The Power to Believe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trancendental/Evergreen Seeds/Memetics.md",
+                "file": "Trancendental/Evergreen Seeds/The Power to Believe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,10 +173,10 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "a27419271c5aecaf",
+  "active": "d282e9c6effe5527",
   "lastOpenFiles": [
-    "Trancendental/Evergreen Seeds/Memetics.md",
     "Trancendental/Evergreen Seeds/The Power to Believe.md",
+    "Trancendental/Evergreen Seeds/Memetics.md",
     "Immanent/DailyNotes/2021-09-21.md",
     "Immanent/WorkBench/The Power to Believe.md",
     "Immanent/WorkBench/Untitled.md",
