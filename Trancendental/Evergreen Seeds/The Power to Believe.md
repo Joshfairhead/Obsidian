@@ -14,12 +14,7 @@ Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 - Memes are the definition of propaganda. Their express purpose is to reproduce. 
 - The replication of a meme is shaped by the context or medium 		which carries it. 
 - This context acting like a carrier wave is not unbiased, it is algorythmically skewed. This is significant because if you control the medium you control the message. The new political parties are those who shape the network topology, essentially deciding how messages propagate. [[AlgoSov]]
-- If we accept this as sourcery, what can Open Sourcery look like?
-![[Open Magick]]
-
-
-- This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
-	- Society of the spectical
+- If we accept this as sourcery, what can Open Sourcery look like?[[Open Magick]] [[The Society of the Spectacle]] 
 - Why would that matter? Because memes denote territories. 
 	- Parallels can be seen in propaganda used to indoctrinate the masses in order to uphold the idea of national boraders. aka noetic territorialisation, leading to real territorialisation.
 	- What is the significance of the message? Is it genuinly bringing joy to the world? or is there something insideous there. Intention matters. 
