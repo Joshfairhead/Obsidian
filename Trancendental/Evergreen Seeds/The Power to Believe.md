@@ -13,8 +13,11 @@ Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 - This may be the birth of the word propaganda a neutral term originating with the meanng "to spread" or "to propagate".
 - Memes are the definition of propaganda. Their express purpose is to reproduce. 
 - The replication of a meme is shaped by the context or medium 		which carries it. 
-- This context acting like a carrier wave is not unbiased, it is algorythmically skewed. 
-- This is significant because if you control the medium you control the message. The new political parties are big tech and those who shape the network topology decide how messages propagate. 
+- This context acting like a carrier wave is not unbiased, it is algorythmically skewed. This is significant because if you control the medium you control the message. The new political parties are those who shape the network topology, essentially deciding how messages propagate. [[AlgoSov]]
+- If we accept this as sourcery, what can Open Sourcery look like?
+![[Open Magick]]
+
+
 - This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
 	- Society of the spectical
 - Why would that matter? Because memes denote territories. 
