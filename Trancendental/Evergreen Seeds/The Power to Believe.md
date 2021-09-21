@@ -15,5 +15,6 @@ Related: [[Trancendental]]
 - This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
 - Why would that matter? Because memes denote territories. 
 	- You most apparently see parallels in propaganda used to indoctrinate the masses, aka noetic territorialisation. 
-	- Intention matters.
+	- Intention thus matters. As does the algorythm. 
+	- 
 
