@@ -7,6 +7,6 @@ Related: [[Trancendental]]
 - Imagination is the instantiation of an image in the mind
 - Symbols and glyphs are ambiguous images conjured by others
 - We ask why, seeking explanations from those who created them
-- This may be the birth of propaganda
+- This may be the birth of word propaganda a neutral term originating with the meandi "to spread" or "to propagate".
 
 - Memes are catalysts 
