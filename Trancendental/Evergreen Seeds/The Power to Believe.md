@@ -14,6 +14,6 @@ Related: [[Trancendental]]
 - This is significant because if you control the medium you control the message. The new political parties are big tech and those who shape the network topology decide how messages propagate. 
 - This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
 - Why would that matter? Because memes denote territories. 
-	- You most apparently see parallels in national propaganda, used to indoctrinate the masses through noetic territorialisation, leading to. This is an undesirable situation.
-	- 
+	- You most apparently see parallels in propaganda used to indoctrinate the masses, aka noetic territorialisation. 
+	- Intention matters.
 
