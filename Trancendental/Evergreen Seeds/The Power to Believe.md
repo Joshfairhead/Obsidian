@@ -18,8 +18,8 @@ Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 	- The illusion of real territories are necessary however, for how else do you bridge with the present tense and interface with the masses undecerningly beg to be hypnotised? [[The Society of the Spectacle]]
 	- Once an audience has been reached, this audience articulates their cultural boundaries (in multiple dimensions) through symbol.
 	- Assuming existance is a case of "I meme, therefore I am" then we must ask what is the significance of its message? Is it genuinly bringing joy to the world? Is it positive sum? 
-	- One might write a taxonomy of meme types - and they likely exist - but its probably easier to think in terms of provinance and intention.  
-		- It might be said that memes are a form of diagrammatic reasoning. General memes have greater `extensionality` while specific memes have greater `intensionality`. The breath and depth of the audience. 
+	- One might write a taxonomy of meme types - and they likely exist - but its probably easier to think in terms of provinance and intention. 
+	- It might be said that memes are a form of diagrammatic reasoning; general memes have greater `extensionality` while specific memes have greater `intensionality`. These symbols and spells cover breath and depth of the audience. The in/out group boundaries.
 
 	- In the digital landscape, algorythm and network structure denotes replication affordances (aka audience). 
 
