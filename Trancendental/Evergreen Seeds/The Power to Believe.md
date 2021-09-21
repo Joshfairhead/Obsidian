@@ -16,8 +16,7 @@ Related: [[Trancendental]]
 - Why would that matter? Because memes denote territories. 
 	- Parallels can be seen in propaganda used to indoctrinate the masses in order to uphold the idea of national boraders. aka noetic territorialisation, leading to real territorialisation.
 	- What is the significance of the message? Is it genuinly bringing joy to the world? or is there something insideous there. Intention thus matters. 
-	- In the digital landscape, algorythm denotes mental boarders. 
-	- The generality or the specifity of the meme matters as the scope denotes boundaries of the territory; or the in/out group border.
+	- In the digital landscape, algorythm denotes mental boarders and groups then use memes to denote their boundaries. The generality or the specifity of memes articulate the groups ; or the in/out group border.
 - Society of the spectical
 - 
 - How can memes be used with measure and appropriation?
