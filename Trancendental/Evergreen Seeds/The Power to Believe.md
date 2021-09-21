@@ -15,8 +15,8 @@ Related: [[Trancendental]]
 - This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
 - Why would that matter? Because memes denote territories. 
 	- You most apparently see parallels in propaganda used to indoctrinate the masses, aka noetic territorialisation, to uphold the idea of national boraders.  
-	- Intention thus matters. As does the algorythm. 
-	- What is the significance of the message? Is it pushing a subtle agenda, does the laugh come at or is it genuinly bringing joy to the world?
+		- In the digital landscape the algorythm thus matters
+	- What is the significance of the message? Is it genuinly bringing joy to the world? or is there something insideous there. Intention thus matters. 
 	- The generality or the specifity of the meme matters as the scope denotes boundaries of the territory; or the in/out group border.
 - Society of the spectical
 - 
