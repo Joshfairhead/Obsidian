@@ -12,5 +12,5 @@ Related: [[Trancendental]]
 - The replication of a meme is shaped by the context or medium 		which carries it. 
 - This context acting like a carrier wave is not unbiased, it is algorythmically skewed. 
 - This is significant because if you control the medium you control the message. The new political parties are big tech and those who shape the network topology decide how messages propagate. 
-- This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all is hypnosis? [[Open Magick]]
-- 
+- This is truely sorcrery; so what does Open sourcery look like? An acknowlegement that all words, symbols, glyphs and meme are hypnosis? [[Open Magick]]
+- Why would that matter? Because memes denote territories. Noetically 
