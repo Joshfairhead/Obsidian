@@ -18,7 +18,7 @@ Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 	- The illusion of territories seem necessary however as much of society runs on trancendental psychology. 
 		- You can see it on the macro level where we often undiscerningly beg to be hypnotized at churches, sports events, movie theatres and through group identities like company names ect. [[The Society of the Spectacle]]
 		- On the mirco level its pretty apparent too if you look; we communicate through symbols. Your reading a page of them now; words and letters which enchant and animate our inner worlds with imagery and thought. [[The Society of the Spectacle]]
-	- Once an audience has been reached, this audience articulates their cultural boundaries (in multiple dimensions) through symbol.
+	- Once a symbol system has enchanted its audience, the audience then articulates its culture and the sy (in multiple dimensions) through symbol.
 	- One might write a taxonomy of meme types - and they likely exist - but its probably easier to think in terms of provinance and intention. 
 	- It might be said that memes are a form of diagrammatic reasoning; general memes have greater `extensionality` while specific memes have greater `intensionality`. These symbols and spells cover breath and depth of the audience. The in/out group boundaries.
 	- Assuming communication is a case of "I meme, therefore I am" and they are but the transmission of ideas. We can ask the significance of its message? Is it genuinly bringing joy to the world? Is it positive sum? 
