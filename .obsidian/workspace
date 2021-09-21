@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-21.md",
+            "file": "Trancendental/Evergreen Seeds/Gravsian Grammar.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-21.md",
+                "file": "Trancendental/Evergreen Seeds/Gravsian Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-21.md",
+                "file": "Trancendental/Evergreen Seeds/Gravsian Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,6 +175,7 @@
   },
   "active": "d282e9c6effe5527",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Gravsian Grammar.md",
     "Immanent/DailyNotes/2021-09-21.md",
     "Trancendental/Evergreen Seeds/The Power to Believe.md",
     "Trancendental/Evergreen Saplings/Education as if People and Planet Matter.md",
@@ -183,7 +184,6 @@
     "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
     "Trancendental/Evergreen Saplings/Have a clear and definite aim.md",
     "Trancendental/Evergreen Seeds/Memetics.md",
-    "Immanent/WorkBench/The Power to Believe.md",
-    "Immanent/WorkBench/Untitled.md"
+    "Immanent/WorkBench/The Power to Believe.md"
   ]
 }
