@@ -17,6 +17,7 @@ Related: [[Trancendental]]
 	- You most apparently see parallels in propaganda used to indoctrinate the masses, aka noetic territorialisation. 
 	- Intention thus matters. As does the algorythm. 
 	- The generality or the specifity of the meme matters as the scope denotes boundaries of the territory; or the in/out group border.
-- Accepting memes and progaganda as a given, it stands to reason that they should be considered 
+- Society of the spectical
+- 
 - How can memes be used with measure and appropriation?
 
