@@ -11,6 +11,7 @@ Related: [[Emergent Cyclical Theory]] [[Emergent Cyclical Theory Article]] [[Gra
 	- Demonstrative mood
 
 ## [[ER]]
-Imperative or Optative moods. Makes assertions but second guesses them. 
-
+In
+Indicatives - makes assertions but second guesses them. 
+Optatives - apoligises unnecessiraly due to uncertainty
 
