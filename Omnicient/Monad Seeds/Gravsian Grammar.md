@@ -8,10 +8,10 @@ Related: [[Emergent Cyclical Theory]] [[Emergent Cyclical Theory Article]] [[Gra
 
 ## [[FS]]
 - ### [[Enneagram 8]]
-	- Demonstrative mood
+	- Demonstrative speech acts, teaching. 
 
 ## [[ER]]
-In
+Interrogatives - used often when in unfamilliar territory.
 Indicatives - makes assertions but second guesses them. 
-Optatives - apoligises unnecessiraly due to uncertainty
+Optatives - apoligises unnecessiraly due to uncertainty.
 
