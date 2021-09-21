@@ -18,7 +18,7 @@ Related: [[Trancendental]]
 	- Parallels can be seen in propaganda used to indoctrinate the masses in order to uphold the idea of national boraders. aka noetic territorialisation, leading to real territorialisation.
 	- What is the significance of the message? Is it genuinly bringing joy to the world? or is there something insideous there. Intention thus matters. 
 	- In the digital landscape, algorythm denotes mental boarders and groups then use memes to articulate their cultural boundaries. 
-	- General memes have grea
+	- General memes have greater `extensionality`
 
 - How can memes be used with measure and appropriation?
 
