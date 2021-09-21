@@ -15,10 +15,10 @@ Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 - The replication of a meme is shaped by the context or medium 		which carries it. 
 - This context acting like a carrier wave is not unbiased, it is algorythmically skewed. This is significant because if you control the medium you control the message. The new political parties are those who shape the network topology, essentially deciding how messages propagate. [[AlgoSov]]
 - Memes denote territory (just like project names). Parallels can be seen in the propaganda used to indoctrinate masses into upholding the idea of national boraders. This is a form of `noetic territorialisation`, leading to real territorialisation.
-	- The illusion of territories seem necessary however as much of society runs on trancendental psychology. 
+	- The illusion of territories seem necessary on at least some leves because much of society runs on trancendental psychology. 
 		- You can see it on the macro level where we often undiscerningly beg to be hypnotized at churches, sports events, movie theatres and through group identities like company names ect. [[The Society of the Spectacle]]
 		- On the mirco level its pretty apparent too if you look; we communicate through symbols. Your reading a page of them now; words and letters which enchant and animate our inner worlds with imagery and thought. [[The Society of the Spectacle]]
-	- Once a symbol system has enchanted its audience, the audience then articulates its culture and the sy (in multiple dimensions) through symbol.
+	- Once a symbol system has enchanted its audience, the audience then articulates its culture again through symbol. (in multiple dimensions).
 	- One might write a taxonomy of meme types - and they likely exist - but its probably easier to think in terms of provinance and intention. 
 	- It might be said that memes are a form of diagrammatic reasoning; general memes have greater `extensionality` while specific memes have greater `intensionality`. These symbols and spells cover breath and depth of the audience. The in/out group boundaries.
 	- Assuming communication is a case of "I meme, therefore I am" and they are but the transmission of ideas. We can ask the significance of its message? Is it genuinly bringing joy to the world? Is it positive sum? 
