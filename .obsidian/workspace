@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Fall Equinox 2021.md",
+            "file": "Immanent/DailyNotes/2020/2020-10-10.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Fall Equinox 2021.md",
+                "file": "Immanent/DailyNotes/2020/2020-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Fall Equinox 2021.md",
+                "file": "Immanent/DailyNotes/2020/2020-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,6 +175,8 @@
   },
   "active": "d282e9c6effe5527",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2020/2020-10-10.md",
+    "Immanent/DailyNotes/2020/2020-10-07.md",
     "Immanent/WorkBench/Fall Equinox 2021.md",
     "Immanent/DailyNotes/2021-09-23.md",
     "assets/Templates/Daily Template.md",
@@ -182,8 +184,6 @@
     "Trancendental/Evergreen Seeds/The Power to Believe.md",
     "Immanent/WorkBench/Untitled.md",
     "Trancendental/Evergreen Seeds/Memetics.md",
-    "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Drilling qualsystems.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md"
+    "Trancendental/Evergreen Saplings/Unfold the Mandala.md"
   ]
 }
