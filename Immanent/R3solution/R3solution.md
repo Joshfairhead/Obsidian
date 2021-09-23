@@ -19,6 +19,8 @@ Triples are not the only semantic structure available, but due to their ability 
 
 As higher order systems contain more terms and exponentially more relationships between terms, we can say that they have an increased `intensionality` and thus greater r3solution. This clarity makes the higher order systems particularly desirable to articulate, as they become more pragmatic and applicable, however due to their decreased `extensionality` there is a greater quantity of them to enumerate. 
 
+Worth noting is the emphasis on the active tense. 
+
 ## Why
 Because not everyone has access to this degree of metaphysics, nor knows how to use them. Metaphysical descriptions are narratives which limit (or delimit) our possibility space. The broader and deeper the metaphysics; the greater access we have to optionality and potential. This library thus raises noetic capacity.
 
