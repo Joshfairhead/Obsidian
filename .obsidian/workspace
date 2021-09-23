@@ -35,8 +35,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021/2021-09-20.md",
-            "mode": "source"
+            "file": "Immanent/DailyNotes/2021-09-23.md",
+            "mode": "preview"
           }
         }
       }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021/2021-09-20.md",
+                "file": "Immanent/DailyNotes/2021-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021/2021-09-20.md",
+                "file": "Immanent/DailyNotes/2021-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
   },
   "active": "4138e9dc285eb7b2",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2021-09-20.md",
     "Immanent/DailyNotes/2021-09-23.md",
+    "Immanent/WorkBench/NickKoppenhagen.md",
+    "Immanent/DailyNotes/2021-09-20.md",
     "Omnicient/Monad Seeds/Gravsian Grammar.md",
     "Immanent/DailyNotes/2021/2021-09-21.md",
     "Immanent/WorkBench/A ship at see gathers no barnicals.md",
     "Immanent/DailyNotes/2021-09-21.md",
     "Immanent/DailyNotes/2021-09-22.md",
     "assets/Templates/Daily Template.md",
-    "Immanent/DailyNotes/2021-09-23 1.md",
-    "Trancendental/Evergreen Seeds/Memetics.md"
+    "Immanent/DailyNotes/2021-09-23 1.md"
   ]
 }
