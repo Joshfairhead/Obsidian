@@ -9,7 +9,9 @@ Related: [[Buffer]]
 - [ ] 1 x 10 Overhead press with 15lb kettlebell
 
 **Mind**
-- [ ] 
+- [ ] Add a single triple to [[Triads]]
+
+---
 
 ## Daily Planning
 
