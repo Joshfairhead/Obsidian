@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-22.md",
+            "file": "Immanent/DailyNotes/2021/2021-09-22.md",
             "mode": "source"
           }
         }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-22.md",
+                "file": "Immanent/DailyNotes/2021/2021-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-22.md",
+                "file": "Immanent/DailyNotes/2021/2021-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
