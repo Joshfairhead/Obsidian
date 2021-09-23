@@ -35,5 +35,5 @@ It seems like we are drowning in a sea of noise, with signal scarce and scant bu
 This library describes it's own form as a framework, leaving the door as open as possible to maximise it's affordances. It is general and **descriptive** but if one so chooses, they may apply it prescriptivly as it has many potential uses and implications. 
 %%
 
----
+
 
