@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-22.md",
+            "file": "Immanent/DailyNotes/2021-09-23.md",
             "mode": "source"
           }
         }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-22.md",
+                "file": "Immanent/DailyNotes/2021-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-22.md",
+                "file": "Immanent/DailyNotes/2021-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,8 +164,8 @@
   },
   "active": "a27419271c5aecaf",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2021-09-23 1.md",
     "Immanent/DailyNotes/2021-09-23.md",
+    "Immanent/DailyNotes/2021-09-23 1.md",
     "assets/Templates/Daily Template.md",
     "Trancendental/Evergreen Seeds/Memetics.md",
     "assets/Templates/General.md",
