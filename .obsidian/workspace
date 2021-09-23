@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/WorkBench/Fall Equinox 2021.md",
+            "file": "Omnicient/Computer Sci/Perspectivism.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Fall Equinox 2021.md",
+                "file": "Omnicient/Computer Sci/Perspectivism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Fall Equinox 2021.md",
+                "file": "Omnicient/Computer Sci/Perspectivism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,6 +175,7 @@
   },
   "active": "d282e9c6effe5527",
   "lastOpenFiles": [
+    "Omnicient/Computer Sci/Perspectivism.md",
     "Immanent/WorkBench/Fall Equinox 2021.md",
     "Immanent/DailyNotes/2020/2020-10-10.md",
     "Immanent/DailyNotes/2020/2020-10-07.md",
@@ -183,7 +184,6 @@
     "Immanent/R3solution/R3solution.md",
     "Trancendental/Evergreen Seeds/The Power to Believe.md",
     "Immanent/WorkBench/Untitled.md",
-    "Trancendental/Evergreen Seeds/Memetics.md",
-    "Trancendental/Evergreen Saplings/Unfold the Mandala.md"
+    "Trancendental/Evergreen Seeds/Memetics.md"
   ]
 }
