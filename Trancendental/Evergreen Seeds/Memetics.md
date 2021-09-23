@@ -27,3 +27,5 @@ Memetics have a `fitness` model of replicibility (at least according to Dawkins 
 Right now memes are sub-cultural. They are products that keep people on platforms. If you are putting out propaganda on your own behalf - especially if your cause is political - then capitalism has trancended your activity. If you try game the algo it will trancend you. The only way out is through the dark forrest. 
 
 Trancendental: When you zone out of a discussion, but are still participating in the event through chat channels, shit posting and memes. 
+
+Related poins: [[The Power to Believe]]
