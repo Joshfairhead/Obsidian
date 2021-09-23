@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/R3solution/R3solution.md",
+            "file": "Immanent/DailyNotes/2021-09-23.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/R3solution/R3solution.md",
+                "file": "Immanent/DailyNotes/2021-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/R3solution/R3solution.md",
+                "file": "Immanent/DailyNotes/2021-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,6 +175,7 @@
   },
   "active": "d282e9c6effe5527",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-23.md",
     "Immanent/R3solution/R3solution.md",
     "Trancendental/Evergreen Seeds/The Power to Believe.md",
     "Immanent/WorkBench/Untitled.md",
@@ -183,7 +184,6 @@
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Drilling qualsystems.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
     "Immanent/WorkBench/Gravsian Grammar.md",
-    "Immanent/DailyNotes/2021-09-21.md",
-    "Trancendental/Evergreen Saplings/Education as if People and Planet Matter.md"
+    "Immanent/DailyNotes/2021-09-21.md"
   ]
 }
