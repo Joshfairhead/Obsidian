@@ -5,6 +5,8 @@ Related: [[Emergent Cyclical Theory]] [[Emergent Cyclical Theory Article]] [[Gra
 # Gravsian Grammar
 
 ## [[GT]]
+- ### [[Enneagram 5]]
+Moving fast, stringing associations together in complex but coherent ways; learning their tools. 
 
 ## [[FS]]
 - ### [[Enneagram 8]]
