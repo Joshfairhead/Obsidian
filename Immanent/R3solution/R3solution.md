@@ -7,6 +7,7 @@ Related:
 R3solution is a **passive** semantic library. It's a framework consisting of modal attractors which are forseen to be useful for a number of purposes as the semantic web emerges. It is a curated lexicon of linked modes and relationships; a reference language in the form of a resourse for consumption. 
 
 Potential applications:
+- Card games
 - Semantic search
 - Training data for AI agents
 - Natural language processing
@@ -26,10 +27,13 @@ Because not everyone has access to this degree of metaphysics, nor knows how to 
 
 In more concrete terms; the semantic web is emerging and we will need to bootstrap it from somewhere. This library will hopefully become the corner stone from which semantically compatible systems can be built. Like a search engine that works! 
 
+
+%%
 ## Ethics
 It seems like we are drowning in a sea of noise, with signal scarce and scant but distraction everywhere. Big tech has colonised the internet and it's time that it was deterritorialised. While this vendor lock in may seem ok at first glance (they give us free tools), the game of capture and mind control through **prescriptive** symbol sets is antiethical to life. 
 
-This library describes it's own form as a framework but leaves the door wide open by maximising it's affordances. It is general and **descriptive** but if one so chooses, they may apply it prescriptivly as it has many implications and potential uses. 
+This library describes it's own form as a framework, leaving the door as open as possible to maximise it's affordances. It is general and **descriptive** but if one so chooses, they may apply it prescriptivly as it has many potential uses and implications. 
+%%
 
 ---
 
