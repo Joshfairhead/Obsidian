@@ -46,7 +46,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-23.md",
+            "file": "Immanent/WorkBench/Fall Equinox 2021.md",
             "mode": "source"
           }
         }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-23.md",
+                "file": "Immanent/WorkBench/Fall Equinox 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-23.md",
+                "file": "Immanent/WorkBench/Fall Equinox 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,6 +175,7 @@
   },
   "active": "d282e9c6effe5527",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Fall Equinox 2021.md",
     "Immanent/DailyNotes/2021-09-23.md",
     "assets/Templates/Daily Template.md",
     "Immanent/R3solution/R3solution.md",
@@ -183,7 +184,6 @@
     "Trancendental/Evergreen Seeds/Memetics.md",
     "Trancendental/Evergreen Saplings/Unfold the Mandala.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Drilling qualsystems.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md",
-    "Immanent/WorkBench/Gravsian Grammar.md"
+    "Omnicient/Monad Forrest/Courses/H3Uni/QualSystems/Qual Systems.md"
   ]
 }
