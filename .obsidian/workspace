@@ -17,6 +17,17 @@
         }
       },
       {
+        "id": "f6d6765311fd2eb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Immanent/DailyNotes/Drum.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "725c120a569dade1",
         "type": "leaf",
         "pinned": true,
@@ -27,17 +38,6 @@
             "mode": "source"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "4138e9dc285eb7b2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "assets/Templates/Daily Template.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Templates/Daily Template.md",
+                "file": "Immanent/DailyNotes/Drum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Templates/Daily Template.md",
+                "file": "Immanent/DailyNotes/Drum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "4138e9dc285eb7b2",
+  "active": "f6d6765311fd2eb3",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/Drum.md",
+    "Immanent/DailyNotes/Buffer.md",
+    "Immanent/R3solution/_Index/Triads.md",
+    "Immanent/WorkBench/Rope.md",
+    "Omnicient/Monad Saplings/Obsidian.md",
     "assets/Templates/Daily Template.md",
     "Immanent/DailyNotes/2021/2021-09-22.md",
     "Immanent/DailyNotes/2021-09-25.md",
     "Immanent/R3solution/Trauma/Trauma Triad.md",
-    "Immanent/R3solution/Trauma/Untitled.md",
-    "Immanent/DailyNotes/2021-09-23.md",
-    "Immanent/WorkBench/NickKoppenhagen.md",
-    "Immanent/DailyNotes/2021-09-20.md",
-    "Omnicient/Monad Seeds/Gravsian Grammar.md",
-    "Immanent/DailyNotes/2021/2021-09-21.md"
+    "Immanent/R3solution/Trauma/Untitled.md"
   ]
 }
