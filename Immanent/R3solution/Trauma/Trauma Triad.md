@@ -11,4 +11,6 @@ Modal superset:
 
 3: Accummulation is active 
 6: Situation is agency to respond
-9: Pattern 
+9: Pattern is an 
+
+Trauma; [[Allostatic Load]], [[Stability]], [[Agency]]
