@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/Drum.md",
+            "file": "Immanent/DailyNotes/2021-09-25.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/Drum.md",
+                "file": "Immanent/DailyNotes/2021-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/Drum.md",
+                "file": "Immanent/DailyNotes/2021-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "f6d6765311fd2eb3",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2021-09-25.md",
     "Immanent/DailyNotes/Drum.md",
     "Immanent/DailyNotes/Buffer.md",
     "Immanent/R3solution/_Index/Triads.md",
@@ -160,7 +161,6 @@
     "Omnicient/Monad Saplings/Obsidian.md",
     "assets/Templates/Daily Template.md",
     "Immanent/DailyNotes/2021/2021-09-22.md",
-    "Immanent/DailyNotes/2021-09-25.md",
     "Immanent/R3solution/Trauma/Trauma Triad.md",
     "Immanent/R3solution/Trauma/Untitled.md"
   ]
