@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immanent/DailyNotes/2021-09-25.md",
+            "file": "Immanent/R3solution/Trauma/Trauma Monad.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-25.md",
+                "file": "Immanent/R3solution/Trauma/Trauma Monad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2021-09-25.md",
+                "file": "Immanent/R3solution/Trauma/Trauma Monad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,6 +153,7 @@
   },
   "active": "4138e9dc285eb7b2",
   "lastOpenFiles": [
+    "Immanent/R3solution/Trauma/Untitled.md",
     "Immanent/DailyNotes/2021-09-25.md",
     "Immanent/DailyNotes/2021-09-23.md",
     "Immanent/WorkBench/NickKoppenhagen.md",
@@ -161,7 +162,6 @@
     "Immanent/DailyNotes/2021/2021-09-21.md",
     "Immanent/WorkBench/A ship at see gathers no barnicals.md",
     "Immanent/DailyNotes/2021-09-21.md",
-    "Immanent/DailyNotes/2021-09-22.md",
-    "assets/Templates/Daily Template.md"
+    "Immanent/DailyNotes/2021-09-22.md"
   ]
 }
