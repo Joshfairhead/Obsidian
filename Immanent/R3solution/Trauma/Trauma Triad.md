@@ -10,7 +10,7 @@ Modal superset:
 | Allostatic load | Situation | Pattern |
 
 %%
-3: Accummulation is active 
+3: Accummulation is active intrusion form the outside world
 6: Pattern
 9: Situation is a passive context of stability in ones situation; agency
 
