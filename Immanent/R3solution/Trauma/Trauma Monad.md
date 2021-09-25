@@ -7,8 +7,8 @@ Modal superset:
 
 | 3 | 6 | 9 |
 |---|---|---|
-| 
+| Allostatic load | Situation | Pattern |
 
-3: Acu
-6:
-9:
+3: Accummulation is active 
+6: Situation is agency to respond
+9: Pattern 
