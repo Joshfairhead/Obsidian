@@ -22,5 +22,6 @@ Related: [[Buffer]]
 - Tuesday 28th: Movement classes introduction
 - Thursday 7th Oct: Microsolidarity retrospective
 - Thursday 7-11th Oct: Amit is around
+- Friday 8th Oct: Amit brekfast/lunch introduction
 
 **Insights:**
