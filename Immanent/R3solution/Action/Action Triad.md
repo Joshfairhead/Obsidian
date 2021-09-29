@@ -9,6 +9,6 @@ Modal superset: [[Immanent]]
 |---|---|---|
 | Praxis | Habbit | Ritual |
 
-3: Praxis is the training of pattern
-6: Habbits are passive patterns that are trained and ingrained
+3: Praxis is the intentional learning of pattern
+6: Habbits are learnt patterns that happen automatically
 9: Ritual reconciles practice with habbit
