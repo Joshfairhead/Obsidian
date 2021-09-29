@@ -10,7 +10,6 @@ Three rules:
 - Take aspirations and break them down into tiny behaviours
 - Embrace mistakes as discoveries and then use them to move forward
 
-
 You change best by feeling good
 
 The right information will not change attitudes, which will not drive behaviour. This is the information-action [[Fallacy]]
