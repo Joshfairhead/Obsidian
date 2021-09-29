@@ -16,6 +16,7 @@ Related: [[Buffer]]
 
 
 **Rope**
+- Friday 1st Oct, 10:00am: Tool tickets onsale
 - Thursday 7th Oct: Microsolidarity retrospective
 - Thursday 7-11th Oct: Amit is around
 - Friday 8th Oct: Amit brekfast/lunch introduction
