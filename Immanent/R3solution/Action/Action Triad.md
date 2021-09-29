@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[Triads]] 
+Related: [[Triads]] [[Action Monad]] [[Action Dyad]]
 # Action Triad
 Modal superset: [[Immanent]]
 
@@ -9,6 +9,6 @@ Modal superset: [[Immanent]]
 |---|---|---|
 | Praxis | Habbit | Ritual |
 
-3: Praxis is the intentional learning of pattern
+3: Praxis is the intentional enactment of pattern
 6: Habbits are learnt patterns that happen automatically
 9: Ritual reconciles practice with habbit
