@@ -27,6 +27,7 @@ find . | grep "\.git/" | xargs rm -rf
 
 #### Workflows
 [Trunk based development](https://trunkbaseddevelopment.com/)
+[GitFlow is a bad idea]()
 
 #### Explanations
 [Setting your email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address)
