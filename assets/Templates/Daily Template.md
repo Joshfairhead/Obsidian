@@ -10,6 +10,8 @@ Related: [[Buffer]]
 
 ## Day
 **Content**
+- [ ] Buy tool tickets
+- [ ] Coding pomodoro timer
 
 
 **Context:**
