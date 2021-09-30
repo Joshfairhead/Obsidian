@@ -98,5 +98,6 @@ Define type and size
 
 | Implicit | Explicit |
 |---|---|
-| let arr1 = [0 ; 4]; | let arr:[i32;4] = [1, 2, 3, 4]; |
+| `let arr1 = [0 ; 4];` | `let arr:[i32;4] = [1, 2, 3, 4];` |
 
+Can be made mutable by adding `mut` after let.
