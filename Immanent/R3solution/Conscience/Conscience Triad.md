@@ -3,14 +3,14 @@ Tags: []
 ---
 Related: [[Triads]] [[Conscience Monad]] [[Conscience Dyad]]
 # Conscience Triad
-Derrived from: [[Omnicient]]
+Derrived from: [[Omnicient]] <- Really how? Surely 
 (Con = inner, scire = know, ence = quality)
 
 | 3 | 6 | 9 |
 |---|---|---|
-| |  |
 | Sensation | Conception | Perception | <- NO
 
+Conscience is th moderating  
 
 
 %% NO. 
