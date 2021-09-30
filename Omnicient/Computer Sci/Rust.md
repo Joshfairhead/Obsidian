@@ -83,14 +83,20 @@ Variables: a box inside which data (types) are put.
 
 
 Variable Scope can be:
+
 | Local | Global |
-- Declared in {} is local scope. 
-- Outside {} is a global scope.
+|---|---|
+| Declared in {} is local scope | Outside {} is a global scope |
 
 Data type definitions:
 | Implicit | Explicit |
 
+
 Arrays:
 List of elements starting at 0
-Define type and size e.g. let arr:[i32;4] = [1, 2, 3, 4];
+Define type and size
+
+| Implicit | Explicit |
+|---|---|
+| let arr1 = [0 ; 4]; | let arr:[i32;4] = [1, 2, 3, 4]; |
 
