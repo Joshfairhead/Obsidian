@@ -80,11 +80,14 @@ Related: [[Computer Science]] [[Rust Constructs]]
 #### Notes
 Variables: a box inside which data (types) are put.
 
-Variable Scope can be
-| Global | Local |
-Declared in {} makes it local. Outside {}
 
-| Mutable | Immutable |
+
+Variable Scope can be:
+| Local | Global |
+- Declared in {} is local scope. 
+- Outside {} is a global scope.
+
+
 
 Data type definitions:
 | Implicit | Explicit |
