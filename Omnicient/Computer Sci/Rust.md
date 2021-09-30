@@ -78,8 +78,10 @@ Related: [[Computer Science]] [[Rust Constructs]]
 
 
 #### Notes
-Variables: a box inside which data is put
+Variables: a box inside which data is put.
+
+Data types: 
 
 
-Notation forms:
+Type Definitions:
 | Implicit | Explicit |
