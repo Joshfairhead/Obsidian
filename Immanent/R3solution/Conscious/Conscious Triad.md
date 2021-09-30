@@ -7,6 +7,8 @@ Related: [[Triads]] [[Conscious Monad]] [[Conscious Dyad]]
 | 3 | 6 | 9 |
 |---|---|---|
 | Action | Perception | Decision |
+| Sensation | Conception | Perception | <- NO
+| Concentration | Contemplation | Meditation
 
 
 %%
