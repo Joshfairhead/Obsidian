@@ -75,3 +75,8 @@ Related: [[Computer Science]] [[Rust Constructs]]
 
 #### News
 - [Rust in blockchain](https://rustinblockchain.org/)
+
+
+#### Notes
+Notation forms
+Implicit | Explicit 
