@@ -92,3 +92,5 @@ Data type definitions:
 
 Arrays:
 List of elements starting at 0
+Define type and size e.g. let arr:[i32;4] = [1, 2, 3, 4];
+
