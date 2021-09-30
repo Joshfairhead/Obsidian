@@ -90,3 +90,5 @@ Variable Scope can be:
 Data type definitions:
 | Implicit | Explicit |
 
+Arrays:
+List of elements starting at 0
