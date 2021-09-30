@@ -78,5 +78,8 @@ Related: [[Computer Science]] [[Rust Constructs]]
 
 
 #### Notes
-Notation forms
-Implicit | Explicit 
+Variables: a box inside which data is put
+
+
+Notation forms:
+| Implicit | Explicit |
