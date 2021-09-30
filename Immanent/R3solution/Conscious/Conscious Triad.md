@@ -8,7 +8,8 @@ Related: [[Triads]] [[Conscious Monad]] [[Conscious Dyad]]
 |---|---|---|
 | Concentration | Contemplation | [[Conscience Triad]] |
 | Sensation | Perception | Conception | 
-| Action | Perception | Decision |
+| Rection | Perception | Decision |
+| Anticipation | 
 
 
 
