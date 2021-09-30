@@ -6,7 +6,7 @@ Related: [[Buffer]]
 
 ## Rituals
 - [ ] 1 x 10 Overhead press with 15lb kettlebell
-- [ ] Add a single triple to [[Triads]]
+- [ ] Work on a single triple in [[Triads]]
 
 ## Day
 **Content**
