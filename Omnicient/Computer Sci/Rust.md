@@ -77,10 +77,10 @@ Related: [[Computer Science]] [[Rust Constructs]]
 - [Rust in blockchain](https://rustinblockchain.org/)
 
 
-#### Notes
-Variables: a box inside which data (types) are put.
+# Notes
 
-
+## Variables
+- A box inside which data (types) are put.
 
 Variable Scope can be:
 
@@ -88,16 +88,18 @@ Variable Scope can be:
 |---|---|
 | Declared in {} is local scope | Outside {} is a global scope |
 
+### Compound data types
 Data type definitions:
 | Implicit | Explicit |
 
-
-Arrays:
-List of elements starting at 0
-Define type and size
+#### Arrays
+- List of elements starting at 0
+- Define type and size
 
 | Implicit | Explicit |
 |---|---|
 | `let arr1 = [0 ; 4];` | `let arr:[i32;4] = [1, 2, 3, 4];` |
 
 Can be made mutable by adding `mut` after let.
+
+#### Tuples
