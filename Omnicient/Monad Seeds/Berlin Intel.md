@@ -87,3 +87,8 @@ Required documents:
 - minimum income 2.500€ net 
 - deposit 1.500€ 
 - Minimum rental period 6 months without limitation of term
+
+
+### Interests
+- 8os.io
+- Rustacians in Berlin: https://berline.rs/
