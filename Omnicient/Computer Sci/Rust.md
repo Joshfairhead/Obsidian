@@ -87,8 +87,6 @@ Variable Scope can be:
 - Declared in {} is local scope. 
 - Outside {} is a global scope.
 
-
-
 Data type definitions:
 | Implicit | Explicit |
 
