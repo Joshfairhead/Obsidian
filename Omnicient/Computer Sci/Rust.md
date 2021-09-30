@@ -95,11 +95,11 @@ Data type definitions:
 #### Arrays
 - List of elements starting at 0
 - Define type and size
+- Can be made mutable by adding `mut` after let.
 
 | Implicit | Explicit |
 |---|---|
 | `let arr1 = [0 ; 4];` | `let arr:[i32;4] = [1, 2, 3, 4];` |
 
-Can be made mutable by adding `mut` after let.
 
 #### Tuples
