@@ -78,10 +78,10 @@ Related: [[Computer Science]] [[Rust Constructs]]
 
 
 #### Notes
-Variables: a box inside which data is put.
+Variables: a box inside which data (types) are put.
+| Global | Local |
+| Mutable | Immutable |
 
-Data types: 
-
-
-Type Definitions:
+Data type definitions:
 | Implicit | Explicit |
+
