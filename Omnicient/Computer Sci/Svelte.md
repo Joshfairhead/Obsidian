@@ -34,7 +34,11 @@ Data
 	
 Handlebars {} can take simple javascript methods and expressions
 e.g. {age + 1} or {age.toUpperCase()}
-This should generally be 
+This should generally be avoided and HTML kept clean
+
+Reactive variables:
+$:
+word:
 
 	
 	
