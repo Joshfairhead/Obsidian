@@ -17,8 +17,13 @@ Related: [[Computer Science]] [[User Interface]]
 		- <style> = css
 		- html elements (no tag, just a line break)
 - package.json lists dependencies and uses node to install them
-- `props:` allows you to add key value pairs to main.js which can be called from app.svelte with the command `export let *key*; `
+- `props:` allows you to add key value pairs to main.js which can be called from app.svelte with the command `export let *key*; 
 
-
+### Base syntax
+	
+	
+	
+	
+	
 ### Articles
 - [Svelte kit and Tailwind](https://levelup.gitconnected.com/how-to-use-svelte-kit-with-tailwind-css-jit-just-in-time-compilation-bc04c0c9ec17) [[Tailwind]]
