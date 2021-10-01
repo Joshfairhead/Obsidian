@@ -41,7 +41,10 @@ Reactive variables:
 - Labeled statements can also trigger other bits of logic; `if` statements, `console.log(name)`, etc.
 - If you have a circular input output circuit like `<input type = 'text' value ="{name}" on:input="{nameInput}" />`, then you can use the `bind:` command instead: `<input type = 'text' bind:value="{name}" />`. This should not generally be done because one should generall manage their inputs and outputs explicitly.
 
-
+Components:
+`<Component>` or `<component>`
+- Lower case elements will be treated as html elements
+- Upper case elements will be treated as custom elements
 	
 	
 	
