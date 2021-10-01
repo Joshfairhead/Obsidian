@@ -46,6 +46,13 @@ Components:
 - Lower case elements will be treated as html elements
 - Upper case elements will be treated as custom components
 Styles are scoped to component
+
+exporting variables:
+```<script>
+
+export let something = 'something'
+
+</script>```
 	
 	
 ### Articles
