@@ -10,8 +10,6 @@ Related: [[Buffer]]
 
 ## Day
 **Content**
-- [ ] Buy tool tickets
-- [ ] Coding pomodoro timer
 
 
 **Context:**
@@ -22,5 +20,6 @@ Related: [[Buffer]]
 - Thursday 7-11th Oct: Amit is staying
 - Friday 8th Oct: Amit brekfast/lunch introduction
 - Friday 12th-14th October: TheNewCommonSense Conf
+- Sunday 22nd May 2022: Tool concert
 
 **Insights:**
