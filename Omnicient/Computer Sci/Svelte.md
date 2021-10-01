@@ -6,11 +6,12 @@ Related: [[Computer Science]] [[User Interface]]
 # Svelte
 
 ## Notes
-Javascript is the only language that runs in the client/browser. 
-Modern web apps use single page builds and API interfaces (json)
-Svelte is a compiler not a framework
-Frameworks like Vue and your code are usually shipped together, and then the server serves compiled responses to the client. 
-Svelt is a compiler that packs your code into vanilla machine readable JS which is then run on server.
+- Javascript is the only language that runs in the client/browser. 
+- Modern web apps use single page builds and API interfaces (json)
+- Svelte is a compiler not a framework
+- Frameworks like Vue and your code are usually shipped together, and then the server serves compiled responses to the client. 
+- Svelte is a compiler that packs your code into vanilla machine readable JS which is then run on server.
+
 
 
 
