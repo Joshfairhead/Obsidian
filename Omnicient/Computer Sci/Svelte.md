@@ -44,8 +44,8 @@ Reactive variables:
 Components:
 `<Component>` or `<component>`
 - Lower case elements will be treated as html elements
-- Upper case elements will be treated as custom elements
-	
+- Upper case elements will be treated as custom components
+Styles are scoped to component
 	
 	
 ### Articles
