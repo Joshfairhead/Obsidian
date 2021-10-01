@@ -11,8 +11,12 @@ Related: [[Computer Science]] [[User Interface]]
 - Svelte is a compiler not a framework
 - Frameworks like Vue and your code are usually shipped together, and then the server serves compiled responses to the client. 
 - Svelte is a compiler that packs your code into vanilla machine readable JS which is then run on server.
-
-
+- Each Svelte page is a component
+	- Components are made up of 
+		- <script> = logic
+		- <style> = css
+		- html elements (no tag, just a line break)
+- 
 
 
 ### Articles
