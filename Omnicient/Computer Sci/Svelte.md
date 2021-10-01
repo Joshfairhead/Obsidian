@@ -20,13 +20,17 @@ Related: [[Computer Science]] [[User Interface]]
 - `props:` allows you to add key value pairs to main.js which can be called from app.svelte with the command `export let *key*;`
 
 ### Base syntax
+Event - Data - Output
+
 Data
 - Output
 	- Change text 
 	- Change Css class
 	- Set HTML attribute/property
 - Input
-	- 
+	- Text entered into the input
+	- Button clicked
+	- Data loaded from a server
 	
 	
 	
