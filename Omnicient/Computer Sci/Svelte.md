@@ -51,7 +51,9 @@ Exporting variables:
 `<script>
 export let something = 'something'
 </script>`
-- Allow
+- Expose access to the variable from outside
+
+
 	
 	
 ### Articles
