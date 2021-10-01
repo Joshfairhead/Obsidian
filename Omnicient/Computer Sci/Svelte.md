@@ -32,6 +32,8 @@ Data
 	- Button clicked
 	- Data loaded from a server
 	
+Handlebars {} can take simple javascript expressions
+e.g. {age + 1}
 	
 	
 	
