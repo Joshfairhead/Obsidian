@@ -37,8 +37,8 @@ e.g. {age + 1} or {age.toUpperCase()}
 This should generally be avoided and HTML kept clean
 
 Reactive variables:
-$:
-word:
+`$:` creates a labelled expression. If an expression is labeled, it will update with 
+
 
 	
 	
