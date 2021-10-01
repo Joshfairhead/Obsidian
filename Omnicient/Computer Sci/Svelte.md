@@ -7,7 +7,7 @@ Related: [[Computer Science]] [[User Interface]]
 
 ## Notes
 Javascript is the only language that runs in the client/browser. 
-
+Modern web apps use single page builds and API interfaces
 
 
 
