@@ -37,7 +37,7 @@ e.g. {age + 1} or {age.toUpperCase()}
 This should generally be avoided and HTML kept clean
 
 Reactive variables:
-`$:` creates a labelled expression/labeled statement. If an expression is labeled, it will update when a variable is updated 
+`$:` creates a labelled expression/labeled statement. If an expression is labeled, it will update when a variable is updated. This is useful for keeping logic in the `<script>` section as opposed to having it in the markup. 
 
 
 	
