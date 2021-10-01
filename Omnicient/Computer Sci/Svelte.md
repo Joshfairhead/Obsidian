@@ -47,12 +47,11 @@ Components:
 - Upper case elements will be treated as custom components
 Styles are scoped to component
 
-exporting variables:
-```<script>
-
+Exporting variables:
+`<script>
 export let something = 'something'
-
-</script>```
+</script>`
+- Allow
 	
 	
 ### Articles
