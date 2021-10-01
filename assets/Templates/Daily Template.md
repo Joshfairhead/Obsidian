@@ -18,9 +18,9 @@ Related: [[Buffer]]
 
 
 **Rope**
-- Friday 1st Oct, 10:00am: Tool tickets onsale
 - Thursday 7th Oct: Microsolidarity retrospective
-- Thursday 7-11th Oct: Amit is around
+- Thursday 7-11th Oct: Amit is staying
 - Friday 8th Oct: Amit brekfast/lunch introduction
+- Friday 12th-14th October: TheNewCommonSense Conf
 
 **Insights:**
