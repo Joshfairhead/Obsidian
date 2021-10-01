@@ -13,14 +13,20 @@ Related: [[Computer Science]] [[User Interface]]
 - Svelte is a compiler that packs your code into vanilla machine readable JS which is then run on server.
 - Each Svelte page is a component
 	- Components are made up of 
-		- <script> = logic
-		- <style> = css
+		- `<script>` = logic
+		- `<style>` = css
 		- html elements (no tag, just a line break)
 - package.json lists dependencies and uses node to install them
-- `props:` allows you to add key value pairs to main.js which can be called from app.svelte with the command `export let *key*; 
+- `props:` allows you to add key value pairs to main.js which can be called from app.svelte with the command `export let *key*;`
 
 ### Base syntax
-	
+Data
+- Output
+	- Change text 
+	- Change Css class
+	- Set HTML attribute/property
+- Input
+	- 
 	
 	
 	
