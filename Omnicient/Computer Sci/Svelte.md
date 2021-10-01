@@ -32,8 +32,10 @@ Data
 	- Button clicked
 	- Data loaded from a server
 	
-Handlebars {} can take simple javascript expressions
-e.g. {age + 1}
+Handlebars {} can take simple javascript methods and expressions
+e.g. {age + 1} or {age.toUpperCase()}
+This should generally be 
+
 	
 	
 	
