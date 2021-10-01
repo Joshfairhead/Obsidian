@@ -17,7 +17,7 @@ Related: [[Computer Science]] [[User Interface]]
 		- <style> = css
 		- html elements (no tag, just a line break)
 - package.json lists dependencies and uses node to install them
-
+- `props:` allows you to add key value pairs to main.js which can be called from app.svelte with the command `export let *k*`
 
 
 ### Articles
