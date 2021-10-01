@@ -16,7 +16,7 @@ Related: [[Computer Science]] [[User Interface]]
 		- <script> = logic
 		- <style> = css
 		- html elements (no tag, just a line break)
-- 
+- package.json lists dependencies and uses node to install them
 
 
 ### Articles
