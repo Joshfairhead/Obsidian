@@ -6,6 +6,7 @@ Related: [[Triads]] [[Complementarity Monad]] [[Complementarity Dyad]]
 
 | 3 | 6 | 9 |
 |---|---|---|
+| Distinct | Opposite | Equivelent |
 | Correspondence | Contiguity | Copresence |
 
 

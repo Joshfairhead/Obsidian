@@ -8,6 +8,5 @@ Related: [[Dyads]] [[Complementarity Monad]] [[Complementarity Triad]]
 |---|---|
 | Equivelence | Distinction |
 | Equal | Opposite |
-| Equal | Equivelent | <- Best candidate?
 | Equal | Different |
 
