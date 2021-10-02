@@ -33,7 +33,6 @@ Subjective | Objective
 	- Immanent | Omnicient | Trancendental
 	- Alive | Vital | Creative
 
-
 %% This may be confirmation bias as it simply describes Landrys logic. It seems to work with alternative examples such as below. Make sure to examine them and [[Measure Semantic Delta]] for yourself though%%
 
 ## Experiments
