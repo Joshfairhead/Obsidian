@@ -16,7 +16,7 @@ And | Or
 **Graded autonyms**
 Equal | Distinct
 
-When a dyad takes symmetric form, in that it is self canceling, it's assumed that its terms can be transformed into symmetric threeness. This `fundemental triplication` takes only one form; a set of three terms that correspond to and describe either term within the symetrical dyads.
+Complementary autonyms are assumed that its terms can be transformed into symmetric threeness. This `fundemental triplication` takes only one form; a set of three terms that correspond to and describe either term within the symetrical dyads.
 
 **Symmetric scale shift example**
 Subjective | Objective 
