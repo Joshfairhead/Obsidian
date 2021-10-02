@@ -3,7 +3,7 @@ Tags: []
 ---
 Related: [[Monads]] [[Will Dyad]] [[Will Triad]] [[Will Tetrad]]
 # Will Monad
-Natrue: [[Immanent]] [[Hortatory]]
+Natrue: [[Immanent]] [[Hortatory Exposition]]
 
 
 ## Etymology
