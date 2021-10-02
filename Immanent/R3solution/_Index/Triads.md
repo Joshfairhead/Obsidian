@@ -61,7 +61,7 @@ Connectives: Transformative influence
 [[Subjectivity Triad]]
 
 #### W 
-[[Will Triad]] -> Volition? Power?
+[[Will Triad]] -> Volition? Power? <- Hortatory
 
 
 ## Links
