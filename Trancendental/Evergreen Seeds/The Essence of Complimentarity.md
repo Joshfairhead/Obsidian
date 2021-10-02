@@ -5,15 +5,15 @@ Related:
 # The Essence of Complimentarity
 [[Hypothesis]] [[Logic]]
 
-Complementarity autonyms represent a pair of symetri operators.
-These can be symmetrical or asymetrical. 
+Complementarity autonyms represent a pair of symetric operators.
+Graded autonyms are asymetric and ma implicitly involve a third state
 
-**Symetric examples**
+**Complementary autonyms**
 Subjective | Objective 
 Equal | Opposite
 And | Or
 
-**Asymmetric example**
+**Graded autonyms**
 Equal | Distinct
 
 When a dyad takes symmetric form, in that it is self canceling, it's assumed that its terms can be transformed into symmetric threeness. This `fundemental triplication` takes only one form; a set of three terms that correspond to and describe either term within the symetrical dyads.
