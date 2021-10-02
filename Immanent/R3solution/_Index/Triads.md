@@ -74,5 +74,6 @@ Connectives: Transformative influence
 - Rythm, Key, Tempo = Music 369?
 - Alive, Vital, Creative
 - Concentration, Contemplation, Meditation
+- Equal, din
 
 > **"By its persistent denial of a place for values, meaning, and purpose,…the reductionist attitude has cast its shadow beyond the confines of science, affecting our whole cultural and even political climate." ~ [[Arthur Koestler]]**

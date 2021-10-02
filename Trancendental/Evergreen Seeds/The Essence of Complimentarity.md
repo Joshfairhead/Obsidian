@@ -16,7 +16,7 @@ And | Or
 **Graded autonyms**
 Equal | Distinct
 
-Complementary autonyms are assumed that its terms can be transformed into symmetric threeness. This `fundemental triplication` takes only one form; a set of three terms that correspond to and describe either term within the symetrical dyads.
+Complementary autonyms are assumed to be convertable into symmetric threeness. This `fundemental triplication` takes only one form; a set of three terms that correspond to and describe either term within the symetrical dyads.
 
 **Symmetric scale shift example**
 Subjective | Objective 
