@@ -5,8 +5,8 @@ Related:
 # The Essence of Complimentarity
 [[Hypothesis]] [[Logic]]
 
-Complementarity represents a pair of operators.
-Such operators can be symmetrical or asymetrical. 
+Complementarity autonyms represent a pair of symetri operators.
+These can be symmetrical or asymetrical. 
 
 **Symetric examples**
 Subjective | Objective 

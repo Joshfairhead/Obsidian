@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: [[Trancendental]]
-# The Power to Believe
+# The Power to Believe Outline
 
 Ask these questions on Twitter?? Get the 0x people engaged on Tele or both??
 
