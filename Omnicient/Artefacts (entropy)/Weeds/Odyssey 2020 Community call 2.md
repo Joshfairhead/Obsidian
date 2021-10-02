@@ -12,7 +12,7 @@ Related: [[Call Notes]]
     - should I ?
 - From poochy to Everyone: (07:14 pm)
     - yeah!
-- From [[Sam Butler]] to Everyone: (07:14 pm)
+- From [[LetOurPowersCombine]] to Everyone: (07:14 pm)
     - yep agrees
 - From hedayat to Everyone: (07:18 pm)
     - Would you continue doing what you are doing if you had all the money you would ever need? If the answer is yes, you are among the fortunate ones whose work and job coincide. What is the percentage of people you know who would continue their job, if they didn’t need the money? Anything that may help people enjoy what they are doing should be welcome.

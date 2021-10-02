@@ -11,7 +11,7 @@
     - [[KayGertler]]
     - [[BryanCurtin]]
     - [[JoshFairhead]]
-    - [[Sam Butler]]
+    - [[LetOurPowersCombine]]
     - [[LauraValenti]]
     - 
 - [[Liminal Learning Activities]]

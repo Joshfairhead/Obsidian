@@ -156,7 +156,7 @@
         - 150k to support team needs and expenses for the  first year
         - 
     - **Team & Partners**
-        - Bryan (sustainability engineer), [[Roberto]] (AI, blockchain), Josh (communication-outreach), [[Thomas]] full stack software, [[Maija]] interface, [[Sam Butler]] ( Business Dev)
+        - Bryan (sustainability engineer), [[Roberto]] (AI, blockchain), Josh (communication-outreach), [[Thomas]] full stack software, [[Maija]] interface, [[LetOurPowersCombine]] ( Business Dev)
         - Partners:
             - [[Liminal]] Village - Provisioning working place and accomodation
             - Vipper eWings razvan

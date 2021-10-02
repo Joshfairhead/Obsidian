@@ -16,10 +16,10 @@ Related: [[Odyssey Momentum]]
         - So I'm piecing together the jigsaw of teams at the moment and things are moving now. It looks like [[Roberto]], Pavle and Will will do the concious cities challenge (possibly with Martijn and Jaclyn who have an NGO saving rainforests). So the three of them are EthDevs, but Will is a phd in Napier working on digital identity in the blockpass lab so he'll be a good touch point for the team that myself [[Thomas]] and [[Maija]] have formed. We'll do a social graph on Holochain as per the ledger application above, currently two spots are open so I figured Id see if you want in with us? If not we can also help find other teams for you depending on interest etc. but I thought I'd figure out the vibe asap so we can all get our applications in before the deadline.
         - If you are forming a seperate team with the friend you mentioned and want help filling out the other spots I'm happy to make introductions. (He can probably fit with us as well, but if so it would be nice to say hello first 😉)... so yeah, thats my odyssey thoughts, excited about moving forward at the rate these things are unfolding at!
     - [x] Ping [[Guilliem]]
-    - Maybe [[Sam Butler]]?
+    - Maybe [[LetOurPowersCombine]]?
     - Maybe Adam Stallard?
 - Conscious Cities
-    - Added [[Sam Butler]]
+    - Added [[LetOurPowersCombine]]
     - [x] Ping [[Roberto]]
     - [x] Ping Will
         - Maybe not available
