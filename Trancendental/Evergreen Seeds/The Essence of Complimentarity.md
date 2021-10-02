@@ -18,19 +18,21 @@ Equal | Distinct
 
 Complementary autonyms are assumed to be convertable into symmetric threeness. This `fundemental triplication` takes only one form; a set of three terms that correspond to and describe either term within the symetrical dyads.
 
+
+
 **Symmetric scale shift example**
 Subjective | Objective 
 Immannent | Omnicient | Trancendental
-Being | Existance | Reality
 
 **Symmetric scale shift long form**
 Subjective | Objective 
 - **Subjective** 
  	- Immanent | Omnicient | Trancendental 
- 	- Being | Existance | Reality
+ 	- Alive | Vital | Creative
 - **Objective** 
 	- Immanent | Omnicient | Trancendental
-	- Being | Existance | Reality
+	- Alive | Vital | Creative
+
 
 %% This may be confirmation bias as it simply describes Landrys logic. It seems to work with alternative examples such as below. Make sure to examine them and [[Measure Semantic Delta]] for yourself though%%
 
