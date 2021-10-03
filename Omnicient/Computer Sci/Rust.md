@@ -77,7 +77,8 @@ Related: [[Computer Science]] [[Rust Constructs]]
 - [Rust in blockchain](https://rustinblockchain.org/)
 
 
-# Notes
+# Notes 
+Playing with Educative rust course
 
 ## Variables
 - A box inside which data (types) are put.
