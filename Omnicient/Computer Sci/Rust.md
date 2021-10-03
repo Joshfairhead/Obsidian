@@ -106,4 +106,8 @@ Data type definitions:
 
 #### Constant Variables
 Constant variables are ones that are declared constant throughout the program scope, meaning, their value cannot be modified. 
-
+- Immutable
+- Manditory data types
+- Cannot be set during runtime
+- Cannot be shadowed
+- 
