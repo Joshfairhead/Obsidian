@@ -2,7 +2,7 @@
 Tags: [daily]
 ---
 Related: [[Buffer]]
-# ToDo {{date: dddd }} 
+# {{date: dddd Do MMM YYY}}
 
 ## Rituals
 - [ ] 1 x 10 Overhead press with 15lb kettlebell
