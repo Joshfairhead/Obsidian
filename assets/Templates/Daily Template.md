@@ -5,7 +5,7 @@ Related: [[Buffer]]
 # {{date: dddd Do MMM (YYYY)}}
 
 ## Rituals
-- [ ] 1 x 10 Overhead press with 15lb kettlebell
+- [ ] 1 x 10 [[Overhead Press]] with 15lb [[Kettlebell]]
 - [ ] Work on a single triple in [[Triads]]
 
 ## Day
