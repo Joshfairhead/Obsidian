@@ -110,4 +110,5 @@ Constant variables are ones that are declared constant throughout the program sc
 - Manditory data types
 - Cannot be set during runtime
 - Cannot be shadowed
-- 
+
+Here: https://www.educative.io/courses/learn-rust-from-scratch/myJr3BWZnA3
