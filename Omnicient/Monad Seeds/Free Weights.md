@@ -4,4 +4,4 @@ Tags: []
 Related: 
 # Free Weights Index
 
-[[Overhead Press]]
+[[Overhead Press]] [[Kettlebell]]
