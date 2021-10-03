@@ -103,3 +103,7 @@ Data type definitions:
 
 
 #### Tuples
+
+#### Constant Variables
+Constant variables are ones that are declared constant throughout the program scope, meaning, their value cannot be modified. 
+
