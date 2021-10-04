@@ -68,8 +68,9 @@ If you need to add HTML content (and process it), then put `@html` before the te
 
 Dynamic Css:
 
-Lock statement:
-`{#}` 
+Block statement:
+`{#}` - A statement that effects multiple lines of our markup code
+`{#if done}` - If block statement (if done is true)
 
 
 
