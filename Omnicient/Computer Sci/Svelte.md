@@ -62,6 +62,10 @@ You can destructure it to:
 As a shortcut, whereby it self-describes
 
 
+Outputting HTML content:
+If you need to add HTML content (and process it), then put `@html` before the text
+
+
 
 	
 ### Articles
