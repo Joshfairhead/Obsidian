@@ -59,7 +59,7 @@ When a variable property is the same as the variable as follows:
 `userName={userName}`
 You can destructure it to:
 `{userName}` 
-As a shortcut, wher
+As a shortcut, whereby it self-describes
 
 
 
