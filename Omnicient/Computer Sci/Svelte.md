@@ -70,7 +70,7 @@ Dynamic Css:
 
 Block statement:
 `{#}` - A statement that effects multiple lines of our markup code
-`{#if done}` - If block statement (if done is true)
+`{#if done}` - If block statement (if done is true) `{/if}` to close block
 
 
 
