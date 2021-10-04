@@ -54,7 +54,11 @@ export let something = 'something'
 </script>`
 - Expose access to the variable from outside
 
-
+Self describing properties
+when a property looks as follows
+`userName={userName}`
+you can destructure it to
+{}
 	
 	
 ### Articles
