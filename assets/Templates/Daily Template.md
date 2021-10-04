@@ -6,7 +6,7 @@ Related: [[Buffer]]
 
 ## Rituals
 - [ ] 1 x 10 [[Overhead Press]] with 15lb [[Kettlebell]]
-- [ ] Work on a single triple in [[Triads]]
+- [ ] Dvorak practice
 
 ## Day
 **Content**
