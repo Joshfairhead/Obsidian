@@ -16,11 +16,10 @@ Related: [[Computer Science]] [[Vue]]
 	- `this.property`
 - Functions `{}`
 	- `function double(number) {return number * 2};`
-		- Declare function, declare function name, (declare variable), {keyword, variable, * 2};
+		- Declare function, declare function name, (declare parameter), {keyword, variable, * 2};
+		- Paramaters are special types of variable
 		- Methods are function definition statements in `{}`
 	- `double()` <- call function above
-	
-
 
 ## Learn JS Highlights
 
