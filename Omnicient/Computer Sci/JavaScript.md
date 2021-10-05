@@ -15,8 +15,8 @@ Related: [[Computer Science]] [[Vue]]
 - Properties
 	- `this.property`
 - Functions `{}`
-	- `function double(number) {return number * 2}`
-		- 
+	- `function double(number) {return number * 2};`
+		- Declare function, declare function name, (declare variable), {keyword, variable, * 2};
 	- Methods are function definition statements in `{}`
 	- `function () {this.property + this.property}`
 	- 
