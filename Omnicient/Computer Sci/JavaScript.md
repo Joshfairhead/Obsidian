@@ -18,6 +18,7 @@ Related: [[Computer Science]] [[Vue]]
 	- `function double(number) {return number * 2};`
 		- Declare function, declare function name, (declare parameter), {keyword, variable, * 2};
 		- Paramaters are special types of variable
+		- A parameter is a variable that a function receives.
 		- Methods are function definition statements in `{}`
 	- `double()` <- call function above
 
