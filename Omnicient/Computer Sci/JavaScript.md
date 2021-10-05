@@ -36,6 +36,7 @@ Related: [[Computer Science]] [[Vue]]
 - Note that the `return` keyword can **only** be used **inside** a function.
 - Once having defined a function, you can call it with different values
 	- `function double(number) {return number * 2};`
-	-  `double(4)` = 4 is the paramater passed 
+		-  `double(4)` = 4 is the paramater passed to the function variables in this case `number`
 -  functions allow us to reuse logic
 -  A parameter is a variable that a function receives.
+-  
