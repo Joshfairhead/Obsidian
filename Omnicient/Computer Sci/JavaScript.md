@@ -31,3 +31,5 @@ Related: [[Computer Science]] [[Vue]]
 - A function is a reusable piece of code that performs some logic and gives you a result.
 - For example, assuming we have a function `sum`, then writing `sum(3, 5)` will give us the sum of 3 and 5 which is 8
 - There's an important benefit of functions, which is **reusability**
+- The function keyword is used to define a function. This allows you to group related code logic together to make a reusable task.
+- **return** is used to give the _result_ of the function
