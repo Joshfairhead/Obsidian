@@ -17,11 +17,8 @@ Related: [[Computer Science]] [[Vue]]
 - Functions `{}`
 	- `function double(number) {return number * 2};`
 		- Declare function, declare function name, (declare variable), {keyword, variable, * 2};
-		- Once having defined a function, you can call it with different values
-			-  `double(4)` = above
-		-  functions allow us to reuse logic
-	- Methods are function definition statements in `{}`
-	- `function () {this.property + this.property}`
+		- Methods are function definition statements in `{}`
+	- `double()`
 	
 
 
@@ -37,4 +34,6 @@ Related: [[Computer Science]] [[Vue]]
 - The function keyword is used to define a function. This allows you to group related code logic together to make a reusable task.
 - **return** is an important keyword used to give the _result_ of the function
 - Note that the `return` keyword can **only** be used **inside** a function.
-- 
+- Once having defined a function, you can call it with different values
+	-  `double(4)` = above
+-  functions allow us to reuse logic
