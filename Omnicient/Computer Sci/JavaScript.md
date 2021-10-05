@@ -17,10 +17,12 @@ Related: [[Computer Science]] [[Vue]]
 - Functions `{}`
 	- `function double(number) {return number * 2};`
 		- Declare function, declare function name, (declare variable), {keyword, variable, * 2};
+		- Once having defined a function, you can call it with different values
+			-  `double(4)` = above
+		-  functions allow us to reuse logic
 	- Methods are function definition statements in `{}`
 	- `function () {this.property + this.property}`
-	- Once having defined a function, you can call it with different values
-	- 
+	
 
 
 ## Learn JS Highlights
