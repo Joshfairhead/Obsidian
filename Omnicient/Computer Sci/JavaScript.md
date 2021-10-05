@@ -17,3 +17,9 @@ Related: [[Computer Science]] [[Vue]]
 - Functions
 	- Methods are function definition statements in `{}`
 	- `function () {this.property + this.property}`
+
+
+#### Learn JS Bookmar
+
+### Basic operations
+The first time you define a variable, you have to define it with let, however the next time you use that variable, you should NOT use let anymore
