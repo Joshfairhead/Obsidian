@@ -19,6 +19,7 @@ Related: [[Computer Science]] [[Vue]]
 		- Declare function, declare function name, (declare variable), {keyword, variable, * 2};
 	- Methods are function definition statements in `{}`
 	- `function () {this.property + this.property}`
+	- Once having defined a function, you can call it with different values
 	- 
 
 
