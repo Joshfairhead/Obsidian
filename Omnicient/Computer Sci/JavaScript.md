@@ -33,4 +33,5 @@ Related: [[Computer Science]] [[Vue]]
 - There's an important benefit of functions, which is **reusability**
 - The function keyword is used to define a function. This allows you to group related code logic together to make a reusable task.
 - **return** is an important keyword used to give the _result_ of the function
+- Note that the `return` keyword can **only** be used **inside** a function.
 - 
