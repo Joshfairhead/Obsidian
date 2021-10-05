@@ -23,6 +23,7 @@ Related: [[Computer Science]] [[Vue]]
 	- `double()` <- call function above
 
 ## Learn JS Highlights
+[Link](https://learnprogramming.online/app.html)
 
 ### Basic operations
 - The first time you define a variable, you have to define it with let, however the next time you use that variable, you should NOT use let anymore
