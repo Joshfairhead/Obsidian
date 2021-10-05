@@ -71,9 +71,10 @@ Dynamic Css:
 Block statement:
 `{#}` - A statement that effects multiple lines of our markup code
 `{#if done}` - If block statement (if done is true) `{/if}` to close block
+`{#each}` - for loops
 
-
-
+Updating the DOM;
+`description.push` - this will push 'description' into an array but will n
 	
 ### Articles
 - [Svelte kit and Tailwind](https://levelup.gitconnected.com/how-to-use-svelte-kit-with-tailwind-css-jit-just-in-time-compilation-bc04c0c9ec17) [[Tailwind]]
