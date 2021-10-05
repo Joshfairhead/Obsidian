@@ -35,6 +35,7 @@ Related: [[Computer Science]] [[Vue]]
 - **return** is an important keyword used to give the _result_ of the function
 - Note that the `return` keyword can **only** be used **inside** a function.
 - Once having defined a function, you can call it with different values
-	-  `double(4)` = above	
+	- `function double(number) {return number * 2};`
+	-  `double(4)` = 4 is the paramater passed 
 -  functions allow us to reuse logic
 -  A parameter is a variable that a function receives.
