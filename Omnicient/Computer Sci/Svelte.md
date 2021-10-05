@@ -75,6 +75,9 @@ Block statement:
 
 Updating the DOM;
 `description.push` - this will push 'description' into an array but will not update the DOM. Instead use an = sign so that updates can register. 
+
+Updating arrays:
+Uses the spread operator `...`
 	
 ### Articles
 - [Svelte kit and Tailwind](https://levelup.gitconnected.com/how-to-use-svelte-kit-with-tailwind-css-jit-just-in-time-compilation-bc04c0c9ec17) [[Tailwind]]
