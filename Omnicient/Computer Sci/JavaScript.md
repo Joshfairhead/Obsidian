@@ -19,7 +19,12 @@ Related: [[Computer Science]] [[Vue]]
 	- `function () {this.property + this.property}`
 
 
-#### Learn JS Bookmar
+## Learn JS Highlights
 
 ### Basic operations
-The first time you define a variable, you have to define it with let, however the next time you use that variable, you should NOT use let anymore
+- The first time you define a variable, you have to define it with let, however the next time you use that variable, you should NOT use let anymore
+
+### Basic functions
+- A function is a reusable piece of code that performs some logic and gives you a result.
+- For example, assuming we have a function `sum`, then writing `sum(3, 5)` will give us the sum of 3 and 5 which is 8
+- There's an important benefit of functions, which is **reusability**
