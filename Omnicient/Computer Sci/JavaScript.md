@@ -39,4 +39,9 @@ Related: [[Computer Science]] [[Vue]]
 		-  `double(4)` = 4 is the paramater passed to the function variables in this case `number`
 -  functions allow us to reuse logic
 -  A parameter is a variable that a function receives.
--  
+-  So to call a function, you have to write its **name** (in this example `double`) and then you need to have the parentheses `()` with a value that you want to pass for the parameter. Hence why it looks like: `double(5)` or `double(20)`
+- Recap
+	-   A parameter is a variable that a function receives.
+	-   Most functions will use that variable they receive and will compute the result based on it.
+	-   To call a function, you have to start with its **name** then opening parentheses `(`, then the value you want to give to the parameter and then a closing parenthesis `)`
+-   
