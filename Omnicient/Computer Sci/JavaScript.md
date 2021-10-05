@@ -14,9 +14,12 @@ Related: [[Computer Science]] [[Vue]]
 #### Structure
 - Properties
 	- `this.property`
-- Functions
+- Functions `{}`
+	- `function double(number) {return number * 2}`
+		- 
 	- Methods are function definition statements in `{}`
 	- `function () {this.property + this.property}`
+	- 
 
 
 ## Learn JS Highlights
