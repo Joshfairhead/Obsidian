@@ -57,4 +57,5 @@ JavaScript is the only programming language that runs in your browser. Which is 
 		- This concept is called the **scope** of a variable
 	- Since functions **return** a result, you can in fact store that result in a variable
 		- `let firstResult = double(4)`
-	- 
+
+Strings
