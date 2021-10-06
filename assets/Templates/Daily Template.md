@@ -16,7 +16,6 @@ Related: [[Buffer]]
 
 
 **Rope**
-- Thursday 7th Oct: Microsolidarity retrospective
 - 20:00; Thursday 7th Oct: From Terrestrial to Cosmic Ecology
 - Thursday 7-11th Oct: Amit is staying
 - Friday 8th Oct: Amit brekfast/lunch introduction
