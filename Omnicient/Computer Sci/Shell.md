@@ -13,6 +13,7 @@ Related: [[Computer Science]] [[Fish]] [[Bash]] [[Vim]] [[Terminal]]
 
 ### Tools
 [Starship](https://github.com/starship/starship) cross shell prompt
+[PC commands](https://geniushub.io/how-to-delete-files-folders-directories-cmd-windows-command-line-prompt-del-rmdir/)
 
 ### Syntax & commands
 - #### Autocomplete with Tab
