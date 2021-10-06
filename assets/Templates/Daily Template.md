@@ -21,6 +21,9 @@ Related: [[Buffer]]
 - Thursday 7-11th Oct: Amit is staying
 - Friday 8th Oct: Amit brekfast/lunch introduction
 - Friday 12th-14th October: TheNewCommonSense Conf
+- 20:00; Thursday 14th Oct: Twelve Levels of the Universe of Observation
+- 20:00; Thursday 21st Oct: The Qualities of Energy at Each Level
+- 20:00; 28 October: Pattern Thinking with Qualitative Systems
 - Sunday 22nd May 2022: Tool concert
 
 **Insights:**
