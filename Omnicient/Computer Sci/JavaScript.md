@@ -66,3 +66,11 @@ let city = "Stockholm"
 city.length // this will result in 9
 ```
 - `.length` is a property (of the variable city, which is "stockholm")
+
+Console log
+- As you start to work more with variables and functions, it becomes hard to remember what the value of some variable is, so it would be nice to have a way to **visualize** that.
+- This is exactly why we have the `console.log()` function
+- -   `console.log()` allows you to visualize your code in the **console**.
+-   The **console** is only visible to you (the developer), but not the end-user.
+-   `console.log()` helps you find bugs.
+
