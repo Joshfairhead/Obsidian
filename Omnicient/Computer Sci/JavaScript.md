@@ -73,4 +73,4 @@ Console log
 - -   `console.log()` allows you to visualize your code in the **console**.
 -   The **console** is only visible to you (the developer), but not the end-user.
 -   `console.log()` helps you find bugs.
-
+- `console.log` does **NOT** replace return. It must therefore be 
