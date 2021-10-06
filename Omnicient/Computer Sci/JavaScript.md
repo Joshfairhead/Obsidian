@@ -53,4 +53,5 @@ Related: [[Computer Science]] [[Vue]]
 	- The parameters of a function are only accessible **inside** that function. That means from the opening `{` until the corresponding closing `}`.
 		- This concept is called the **scope** of a variable
 	- Since functions **return** a result, you can in fact store that result in a variable
-		- ``` let firstResult = double(4) let secondResult = double(10)```
+		- `let firstResult = double(4)`
+	- 
