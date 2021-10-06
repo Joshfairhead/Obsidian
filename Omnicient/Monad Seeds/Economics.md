@@ -6,6 +6,7 @@ Related: [[Ergodic Economics]] [[Crypto Economic Primitives]] [[Barter]] [[Cosmo
 
 #### Parties
 - [[Economic Space Agency]]
+- [Long term stock exchange](https://ltse.com/platform/equity/) [[Stocks]] [[Equity]] [[Liquidity]]
 
 #### Papers
 - [Economics in nouns and verbs](https://arxiv.org/ftp/arxiv/papers/2104/2104.01868.pdf)
