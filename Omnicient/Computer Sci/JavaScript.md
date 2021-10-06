@@ -46,4 +46,5 @@ Related: [[Computer Science]] [[Vue]]
 	-   Most functions will use that variable they receive and will compute the result based on it.
 	-   To call a function, you have to start with its **name** then opening parentheses `(`, then the value you want to give to the parameter and then a closing parenthesis `)`
 -   Functions can have 0 or more parameters
-	-   `Function `
+	-   `Function add(a, b,) {return add a + b}`
+	-   
