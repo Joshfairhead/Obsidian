@@ -21,7 +21,7 @@ Related: [[Computer Science]] [[Vue]]
 			- A parameter is a variable that a function receives.
 		- Methods are function definition statements in `{}`
 	- `double()` <- call function above
-	- `double(5)` <- 
+	- `double(5)` <- `5` = **argument**
 
 ## Learn JS Highlights
 [Link](https://learnprogramming.online/app.html)
@@ -50,3 +50,4 @@ Related: [[Computer Science]] [[Vue]]
 	-   `Function add(a, b) {return add a + b}`
 	-   `add(5, 10)`
 		-   the `5, 10` are called **arguments**
+	-   
