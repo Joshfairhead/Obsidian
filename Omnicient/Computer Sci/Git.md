@@ -30,6 +30,7 @@ find . | grep "\.git/" | xargs rm -rf
 - [GitFlow is a bad idea](https://youtu.be/_w6TwnLCFwA)
 
 #### Explanations
+[Git username and email address](https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/)
 [Setting your email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address)
 [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing)
 [Merging vs Rebasing Hachernoon](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
