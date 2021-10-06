@@ -75,4 +75,7 @@ Console log
 -   `console.log()` helps you find bugs.
 - `console.log` does **NOT** replace return. It must therefore be interjected
 -  When you have a `return ` in your function, this will be the last line of code executed in that function.
--  
+
+Methods
+- The `.toUpperCase()` method allows us to make a new copy of a string while converting every single character to uppercase. This allows you to go from "alex" to "ALEX".
+- 
