@@ -65,4 +65,4 @@ Strings
 let city = "Stockholm"
 city.length // this will result in 9
 ```
-- `.length` is a property (of the variable city, which is )
+- `.length` is a property (of the variable city, which is "stockholm")
