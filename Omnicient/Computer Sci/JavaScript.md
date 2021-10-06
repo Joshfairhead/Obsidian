@@ -60,4 +60,5 @@ JavaScript is the only programming language that runs in your browser. Which is 
 
 Strings
 - Programming languages have what we call **data types**, these are the different types that variables can hold. In real life, a number (for example 35) is different than a name (for example "Sam"). One of them is a number, the other one is a string.
-- 
+- Properties
+	- city.length
