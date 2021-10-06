@@ -77,6 +77,8 @@ Console log
 -  When you have a `return ` in your function, this will be the last line of code executed in that function.
 
 Methods
-- Methods are NOT properties, but easily confusible. `city.length` is a property not a method. 
+- Methods are NOT properties, but easily confusible. 
+- `name.length` is a property whereas `name.toUpperCase()` is a method. Methods **require the parentheses at the end** or else they won't work.  
+You can think of the `()` in this case as a way to perform an action.
 - The `.toUpperCase()` method allows us to make a new copy of a string while converting every single character to uppercase. This allows you to go from "alex" to "ALEX".
 - 
