@@ -50,4 +50,7 @@ Related: [[Computer Science]] [[Vue]]
 	-   `Function add(a, b) {return add a + b}`
 	-   `add(5, 10)`
 		-   the `5, 10` are called **arguments**
-	-   
+	- The parameters of a function are only accessible **inside** that function. That means from the opening `{` until the corresponding closing `}`.
+		- This concept is called the **scope** of a variable
+	- Since functions **return** a result, you can in fact store that result in a variable
+		- ``` let firstResult = double(4) let secondResult = double(10)```
