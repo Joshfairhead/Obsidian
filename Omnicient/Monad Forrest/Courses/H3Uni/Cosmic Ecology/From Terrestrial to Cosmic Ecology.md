@@ -76,4 +76,6 @@ Do you agree that world view is an important factor in the social global patholo
 
 The eternal triangle:
 - Convention of finding our place in the cosmos is typically hierarchial
-- Cosmos, plan
+- Cosmos, planet, humanity... in a triangle rather than linear.
+	- Links cosmos and humanity on the third side
+	- Human
