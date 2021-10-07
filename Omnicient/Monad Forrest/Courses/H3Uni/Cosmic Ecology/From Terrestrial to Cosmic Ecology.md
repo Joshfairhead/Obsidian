@@ -121,3 +121,6 @@ Values, meaning, purpose - picked up from Openskey (not Koesler..??)
 Tools = function
 Light = being
 Choice of action = will
+
+rider an horse trot the journey
+a temporary hybrid holon o
