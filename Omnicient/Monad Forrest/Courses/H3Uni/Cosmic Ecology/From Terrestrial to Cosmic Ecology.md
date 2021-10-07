@@ -37,3 +37,5 @@ Related: [[H3uni]] [[Anthony Hodgeson]]
 		- 60% of stuff out there is unknown (dark matter etc)
 	- Humans potentially have a role to be cosmically intelligent
 
+What is the contempory context of the forbidden zone?
+- The gr
