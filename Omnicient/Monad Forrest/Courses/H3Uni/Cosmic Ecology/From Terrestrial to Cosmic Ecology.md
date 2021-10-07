@@ -65,5 +65,11 @@ Acknowledging the greater anthropocene
 		- Ignorance
 
 Accumulating feedback from the whole 
-	- for thousands of years we have lived in weakly connected domains and our fragmentation catrophies have not destroyed the Gaian system
-	but now oll our 
+- for thousands of years we have lived in weakly connected domains and our fragmentation catrophies have not destroyed the Gaian system
+- but now oll our domains are strongly connected and catastrophies are no longer in isolation
+- our minds remain fragmented with no effective collective basis for evekning humanl planetary situation
+- Three tragedies above
+	
+Ontering the portal we can entertain alternative worldviews and see what new questions loraing and meaning they bring.
+
+Do you agree that world view is an important factor in the social global pathology og humans?
