@@ -24,4 +24,12 @@ Related: [[H3uni]] [[Anthony Hodgeson]]
 		- Matter is dumb
 		- Only brain is intelligent
 		- Human brains are the most intelligent
-		- Earth biospher
+		- Earth biosphere are not brain and therefore dumb
+		- All stuff out there is not brain and therefore dumb
+		- Humans are the only not-dumb in the universe
+
+- Permitted exploration
+	- Matter is intelligent; intelligence is matter
+	- Intelligence/consciousness is prior to the brain
+	- Human intelligence is currently cosmically primitive
+	- 
