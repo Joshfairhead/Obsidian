@@ -83,7 +83,14 @@ The eternal triangle:
 	- Cosmos < Cosmic ecology > Humanity
 		- heuristic.
 - Can all be framed as ignorance or wisdom. Avidya -> Vidya
+
+Avidya:
 - Big bang does not necessarily explain everything. If its a deterministic big bang, it reflects hopelessness
 - Only the brain has evolved intelligance = blindness (e.g. electromagnetic spectrum and the range of vibrations in the universe)
 - The stuff of the universe is blind and unintelligent = Exploitation
-- 
+
+Vidya:
+- Humanity has the potential to be cocreator of worlds: hope/cocreation
+- human brain has the potential for greater universal intelligence; consciousness
+	- Culture as a restraining force on consciousness
+-
