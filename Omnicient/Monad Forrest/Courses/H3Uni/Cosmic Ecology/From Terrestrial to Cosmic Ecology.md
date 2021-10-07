@@ -38,4 +38,8 @@ Related: [[H3uni]] [[Anthony Hodgeson]]
 	- Humans potentially have a role to be cosmically intelligent
 
 What is the contempory context of the forbidden zone?
-- The gr
+- "The greater anthropocene"
+- the anthropocene is a term shifting from the holoscene, referring to humanities impact on the planet meeting in proportion
+- The greater antropocene is used to express the wider context of belief systems
+- We seemingly only learn the hard way. 
+	- Infintie flat earth,
