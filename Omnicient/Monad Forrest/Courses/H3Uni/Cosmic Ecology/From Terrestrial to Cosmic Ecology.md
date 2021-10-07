@@ -72,4 +72,8 @@ Accumulating feedback from the whole
 	
 Ontering the portal we can entertain alternative worldviews and see what new questions loraing and meaning they bring.
 
-Do you agree that world view is an important factor in the social global pathology og humans?
+Do you agree that world view is an important factor in the social global pathology of humans?
+
+The eternal triangle:
+- Convention of finding our place in the cosmos is typically hierarchial
+- Cosmos, plan
