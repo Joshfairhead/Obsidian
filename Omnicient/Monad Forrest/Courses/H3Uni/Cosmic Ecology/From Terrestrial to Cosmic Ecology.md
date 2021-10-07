@@ -52,4 +52,12 @@ What is the contempory context of the forbidden zone?
 	- Discovering cosmic ecology; deeper meaning and purpose (outer and inner)
 
 Acknowledging the greater anthropocene
-- arrival of the antr
+- arrival of the anthropocene
+- Created a planet-wide impasse
+- "We are off the map"
+- Impact is predominantly negative; why?
+	- fragmented incoumplete understanding
+		- Distortion
+		- Factional exploitation (our truth is the truth)
+		- Fantasy (Holly wood alternative)
+		- Fixated beliefs
