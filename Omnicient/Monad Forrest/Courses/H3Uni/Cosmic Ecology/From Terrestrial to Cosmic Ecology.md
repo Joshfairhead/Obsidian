@@ -116,3 +116,8 @@ Three aspects of experience
 
 Our experience is is binary in terms of phenomena and noumena; objective and subjective - providing a huge variety of occasions. The advantage of threeness is an anti-dote to getting stuck in a dualistic trap.
 
+Values, meaning, purpose - picked up from Openskey (not Koesler..??)
+
+Tools = function
+Light = being
+Choice of action = will
