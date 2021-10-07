@@ -102,5 +102,10 @@ Tragedies:
 
 Prompt: As you see it why is there a tragedy of consciousness?
 
-#### The way in
-How world view changes percepti
+#### The Way In - How world view changes perception.
+Three aspects of experience
+- Function
+	- heres some stuff whats it doing
+- Being 
+	- 
+- Will
