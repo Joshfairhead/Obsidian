@@ -93,4 +93,8 @@ Vidya:
 - Humanity has the potential to be cocreator of worlds: hope/cocreation
 - human brain has the potential for greater universal intelligence; consciousness
 	- Culture as a restraining force on consciousness
--
+- The stoff of the universe is conscious and intelligent according to the 
+
+Tragedies:
+ - Acquiring sufficiency for self without consideration for others
+ - G
