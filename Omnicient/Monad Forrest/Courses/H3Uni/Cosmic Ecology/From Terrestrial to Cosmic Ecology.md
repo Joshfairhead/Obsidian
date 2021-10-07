@@ -41,9 +41,15 @@ What is the contempory context of the forbidden zone?
 - "The greater anthropocene"
 - the anthropocene is a term shifting from the holoscene, referring to humanities impact on the planet meeting in proportion
 - The greater antropocene is used to express the wider context of belief systems
-- We seemingly only learn the hard way. 
+- Waking up the hard way:
 	- Infintie flat earth; expansive domination and exploitation.
 	- Discovering terresterial ecology; Habitat and species extinction
+		- Tragedy of the commons
 	- Hitting planetary limits; survival of humanity
+		- Tragedy of the horzons
 	- Recognising spiritual failure; survival of the biosphere
-	- Discovering cosmic ecology; deeper meaning and purpose
+		- Tragedy of consciousness
+	- Discovering cosmic ecology; deeper meaning and purpose (outer and inner)
+
+Acknowledging the greater anthropocene
+- arrival of the antr
