@@ -122,5 +122,6 @@ Tools = function
 Light = being
 Choice of action = will
 
-rider an horse trot the journey
-a temporary hybrid holon o
+Function = rider an horse trot the journey
+Beinng = a temporary hybrid holon of human/horse is formed
+Will= rapport between them is established
