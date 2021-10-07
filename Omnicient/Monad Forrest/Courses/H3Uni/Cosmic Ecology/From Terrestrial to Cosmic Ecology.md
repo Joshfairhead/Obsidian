@@ -28,8 +28,12 @@ Related: [[H3uni]] [[Anthony Hodgeson]]
 		- All stuff out there is not brain and therefore dumb
 		- Humans are the only not-dumb in the universe
 
-- Permitted exploration
+- Permitted exploration/ the cosmic portal
 	- Matter is intelligent; intelligence is matter
 	- Intelligence/consciousness is prior to the brain
 	- Human intelligence is currently cosmically primitive
-	- 
+	- Earth and its biosphere are cosmically intelligent
+	- All visible stuff out there is a light manifustation of the hidden intelligence that is actually out there
+		- 60% of stuff out there is unknown (dark matter etc)
+	- Humans potentially have a role to be cosmically intelligent
+
