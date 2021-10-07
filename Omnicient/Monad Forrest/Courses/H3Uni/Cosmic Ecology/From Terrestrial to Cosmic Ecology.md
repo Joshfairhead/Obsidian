@@ -107,5 +107,10 @@ Three aspects of experience
 - Function
 	- heres some stuff whats it doing
 - Being 
-	- 
+	- The feel of what it is for something to be in right relation
 - Will
+	- The perseption of choice, raison de etere
+
+> Unity/Non-duality is closer than your jugular vein. 
+
+Our experience is 
