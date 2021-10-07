@@ -84,4 +84,6 @@ The eternal triangle:
 		- heuristic.
 - Can all be framed as ignorance or wisdom. Avidya -> Vidya
 - Big bang does not necessarily explain everything. If its a deterministic big bang, it reflects hopelessness
-- Only the brain has evolved intelligance = blindness (e.g. electromagnetic spectrum and the range of vibrations in the universa)
+- Only the brain has evolved intelligance = blindness (e.g. electromagnetic spectrum and the range of vibrations in the universe)
+- The stuff of the universe is blind and unintelligent = Exploitation
+- 
