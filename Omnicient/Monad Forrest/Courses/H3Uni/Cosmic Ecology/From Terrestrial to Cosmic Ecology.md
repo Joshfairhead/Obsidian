@@ -19,3 +19,9 @@ Related: [[H3uni]] [[Anthony Hodgeson]]
 - Often traditions have constraining assumptions.
 - Dominant cultures where you'd be excommunicated or executed.
 - Some systems have forrayed into this transdiciplinary are; complexity ecuminical 
+- There is a widespread social distortion which create a wilful pathology in our world views which block us from discovering a cosmic ecology.
+	- This creates a forbidden zone or boundaries:
+		- Matter is dumb
+		- Only brain is intelligent
+		- Human brains are the most intelligent
+		- Earth biospher
