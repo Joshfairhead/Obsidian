@@ -104,12 +104,13 @@ Prompt: As you see it why is there a tragedy of consciousness?
 
 #### The Way In - How world view changes perception.
 Three aspects of experience
-- Function
+- Function (how)
 	- heres some stuff whats it doing
-- Being 
+- Being (what)
 	- The feel of what it is for something to be in right relation
-- Will
+- Will (why)
 	- The perseption of choice, raison de etere
+	- Experience as specific instantiations of intent, choice, connectivity and value meaning.
 
 > Unity/Non-duality is closer than your jugular vein. 
 
