@@ -102,3 +102,5 @@ Tragedies:
 
 Prompt: As you see it why is there a tragedy of consciousness?
 
+#### The way in
+How world view changes percepti
