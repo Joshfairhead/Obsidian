@@ -100,4 +100,5 @@ Tragedies:
  - Getting it now without consideration for future generations
  - Assuming complete knowlege and awareness and the false sense of security it gives rise to
 
-As you see it why is there a tragedy of consciousness?
+Prompt: As you see it why is there a tragedy of consciousness?
+
