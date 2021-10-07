@@ -97,4 +97,5 @@ Vidya:
 
 Tragedies:
  - Acquiring sufficiency for self without consideration for others
- - G
+ - Getting it now without consideration for future generations
+ - Assuming complete knowlege and awareness and the false sense of security it gives rise to
