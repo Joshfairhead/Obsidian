@@ -125,3 +125,4 @@ Choice of action = will
 Function = rider an horse trot the journey
 Beinng = a temporary hybrid holon of human/horse is formed
 Will= rapport between them is established
+
