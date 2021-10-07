@@ -82,5 +82,6 @@ The eternal triangle:
 	- Planet  < Cosmo genesis > Cosmos
 	- Cosmos < Cosmic ecology > Humanity
 		- heuristic.
-- Can all be framed as ignorance or wisdom. 
-- Big bang does not necessarily explain everything. If its a deter
+- Can all be framed as ignorance or wisdom. Avidya -> Vidya
+- Big bang does not necessarily explain everything. If its a deterministic big bang, it reflects hopelessness
+- Only the brain has evolved intelligance = blindness (e.g. electromagnetic spectrum and the range of vibrations in the universa)
