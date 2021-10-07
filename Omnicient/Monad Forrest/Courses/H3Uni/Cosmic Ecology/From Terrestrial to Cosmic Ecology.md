@@ -61,3 +61,9 @@ Acknowledging the greater anthropocene
 		- Factional exploitation (our truth is the truth)
 		- Fantasy (Holly wood alternative)
 		- Fixated beliefs
+			- Trynig to change belief with better information doesnt work (Daniel Khanamman)
+		- Ignorance
+
+Accumulating feedback from the whole 
+	- for thousands of years we have lived in weakly connected domains and our fragmentation catrophies have not destroyed the Gaian system
+	but now oll our 
