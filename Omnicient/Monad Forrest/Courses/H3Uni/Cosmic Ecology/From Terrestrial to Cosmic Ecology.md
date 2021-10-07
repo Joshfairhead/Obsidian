@@ -113,4 +113,5 @@ Three aspects of experience
 
 > Unity/Non-duality is closer than your jugular vein. 
 
-Our experience is 
+Our experience is is binary in terms of phenomena and noumena; objective and subjective - providing a huge variety of occasions. The advantage of threeness is an anti-dote to getting stuck in a dualistic trap.
+
