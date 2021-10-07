@@ -16,3 +16,6 @@ Related: [[H3uni]] [[Anthony Hodgeson]]
 ## Cosmic Ecology
 - Not a science or religion, sort of philosophy but not of philosophers. 
 - A playground or field of study
+- Often traditions have constraining assumptions.
+- Dominant cultures where you'd be excommunicated or executed.
+- Some systems have forrayed into this transdiciplinary are; complexity ecuminical 
