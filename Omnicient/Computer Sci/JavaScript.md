@@ -93,3 +93,4 @@ If Statements
 - Curly braces `{}` containing the piece of the code that should be run conditionally (this is called the **body of the if**)
 - When the answer is `true`, then the body of the if condition (so everything between the curly braces after the `if`) will execute.
 - With `if` conditions, some lines of code may be skipped, depending on the condition.
+- 
