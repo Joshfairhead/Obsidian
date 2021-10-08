@@ -104,4 +104,3 @@ If Statements
 		7.  finally, you should close the opening curly brace with a closing one: `}`
 	-  If you forget the closing `}` you will get an error message along the lines of: `Unexpected end of input`.
 	-  If you forget the parentheses, you will get an error message along the lines of: `Unexpected identifier`. That's because it was not expecting to see `age` in `age >= 18` because of the missing parentheses.
-	
