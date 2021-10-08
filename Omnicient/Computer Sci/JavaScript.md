@@ -90,4 +90,6 @@ Equality comparison operator
 
 If Statements
 - the `if` keyword which is followed by a condition in between parentheses
+- Curly braces `{}` containing the piece of the code that should be run conditionally (this is called the **body of the if**)
+- When the answer is `true`, then the body of the if condition (so everything between the curly braces after the `if`) will execute.
 - 
