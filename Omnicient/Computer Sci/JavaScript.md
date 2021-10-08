@@ -80,4 +80,8 @@ Methods
 - Methods are NOT properties, but easily confusible. 
 - `name.length` is a property whereas `name.toUpperCase()` is a method. Methods **require the parentheses at the end** or else they won't work. You can think of the `()` in this case as a way to perform an action.
 - The `.toUpperCase()` method allows us to make a new copy of a string while converting every single character to uppercase. This allows you to go from "alex" to "ALEX".
-- 
+
+Equality comparison operator
+- Because the `=` sign will only do **assignment**, there is a completely different operator used for **equality comparison** and that is `===` that's 3 equals ===
+- Notice how the moment we want to **compare** we use **===** and the moment we want to **assign** (give a value) then it's **=
+- So 1 equal sign is for assignment and 3 equal signs are for equality comparison.
