@@ -106,5 +106,7 @@ If Statements
 	-  If you forget the parentheses, you will get an error message along the lines of: `Unexpected identifier`. That's because it was not expecting to see `age` in `age >= 18` because of the missing parentheses.
 	- The function body (which is all the code between the curly braces `{ }` in a function definition), is where you'll often spend most of your time
 
-.trim()
-The `.trim()` method allows us to make a new copy of a string while removing leading and trailing spaces from the original string
+`.trim()`
+- The `.trim()` method allows us to make a new copy of a string while removing leading and trailing spaces from the original string
+- The `.trim()` is often used in forms on websites. For example, when you sign up to some website, they will often `.trim()` your email because users might enter extra spaces at the beginning or end of the email by accident
+- 
