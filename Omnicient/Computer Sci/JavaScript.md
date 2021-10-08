@@ -8,6 +8,7 @@ Related: [[Computer Science]] [[Vue]]
 JavaScript is the only programming language that runs in your browser. Which is why whenever you want to build an interactive browser app, you will have to write some JavaScript code.
 
 - Learning JS
+	- Good course: https://learnjavascript.online/
     - MDN Documentation
         - [String object and methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
         - [Math object and methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
