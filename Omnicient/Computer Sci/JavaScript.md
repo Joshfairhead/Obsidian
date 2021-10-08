@@ -93,4 +93,12 @@ If Statements
 - Curly braces `{}` containing the piece of the code that should be run conditionally (this is called the **body of the if**)
 - When the answer is `true`, then the body of the if condition (so everything between the curly braces after the `if`) will execute.
 - With `if` conditions, some lines of code may be skipped, depending on the condition.
-- 
+	- Syntax breakdown
+	- Let's break down the syntax of an if condition:
+		1.  We start with the `if` keyword
+		2.  followed by open parenthesis `(`
+		3.  then the **condition**. Which is for example `age >= 18` or could be `grade === 10` depending on what you're checking in the if condition.
+		4.  then followed by a closing parenthesis `)`
+		5.  then followed by an open curly brace `{`. This denotes the start of the if block. Which determines what would happen if the condition inside the `if` was `true`.
+		6.  You could have whatever expression here. We didn't learn about expressions yet, but you could return here if you were in a function, or change the value of a variable.
+		7.  finally, you should close the opening curly brace with a closing one: `}`
