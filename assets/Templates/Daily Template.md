@@ -17,6 +17,7 @@ Related: [[Buffer]]
 
 **Rope**
 - Friday 12th-14th October: TheNewCommonSense Conf
+- 19:00;  Movement Class
 - 20:00; Thursday 14th Oct: Twelve Levels of the Universe of Observation
 - 20:00; Thursday 21st Oct: The Qualities of Energy at Each Level
 - 20:00; 28th October: Pattern Thinking with Qualitative Systems
