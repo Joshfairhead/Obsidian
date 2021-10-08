@@ -83,5 +83,7 @@ Methods
 
 Equality comparison operator
 - Because the `=` sign will only do **assignment**, there is a completely different operator used for **equality comparison** and that is `===` that's 3 equals ===
-- Notice how the moment we want to **compare** we use **===** and the moment we want to **assign** (give a value) then it's **=
+- Notice how the moment we want to **compare** we use `===` and the moment we want to **assign** (give a value) then it's **`=`**
 - So 1 equal sign is for assignment and 3 equal signs are for equality comparison.
+- When you want to check that 2 numbers are NOT the same, then you should use the `!==` operator (which is written as !`==`)
+- 
