@@ -16,9 +16,6 @@ Related: [[Buffer]]
 
 
 **Rope**
-- 20:00; Thursday 7th Oct: From Terrestrial to Cosmic Ecology
-- Thursday 7-11th Oct: Amit is staying
-- Friday 8th Oct: Amit brekfast/lunch introduction
 - Friday 12th-14th October: TheNewCommonSense Conf
 - 20:00; Thursday 14th Oct: Twelve Levels of the Universe of Observation
 - 20:00; Thursday 21st Oct: The Qualities of Energy at Each Level
