@@ -102,3 +102,6 @@ If Statements
 		5.  then followed by an open curly brace `{`. This denotes the start of the if block. Which determines what would happen if the condition inside the `if` was `true`.
 		6.  You could have whatever expression here. We didn't learn about expressions yet, but you could return here if you were in a function, or change the value of a variable.
 		7.  finally, you should close the opening curly brace with a closing one: `}`
+	-  If you forget the closing `}` you will get an error message along the lines of: `Unexpected end of input`.
+	-  If you forget the parentheses, you will get an error message along the lines of: `Unexpected identifier`. That's because it was not expecting to see `age` in `age >= 18` because of the missing parentheses.
+	
