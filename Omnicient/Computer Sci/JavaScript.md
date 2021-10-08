@@ -87,4 +87,7 @@ Equality comparison operator
 - Notice how the moment we want to **compare** we use `===` and the moment we want to **assign** (give a value) then it's **`=`**
 - So 1 equal sign is for assignment and 3 equal signs are for equality comparison.
 - When you want to check that 2 numbers are NOT the same, then you should use the `!==` operator (which is written as !`==`)
+
+If Statements
+- the `if` keyword which is followed by a condition in between parentheses
 - 
