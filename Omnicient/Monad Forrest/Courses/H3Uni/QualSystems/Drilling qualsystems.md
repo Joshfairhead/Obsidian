@@ -37,3 +37,5 @@ Turtles all the way down:
 - Pick a monad and split it into a system of choice (e.g. Triad).
 - Choose a node form this system and repeat.
 
+## Observations
+The six laws of three seems to correspond to the six connectives of four. Does this function as a checksum? 
