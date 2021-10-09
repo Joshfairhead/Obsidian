@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[Triads]] [[Economics Monad]] [[Economics Dyad]]
+Related: [[Triads]] [[Economics Monad]] [[Economics Dyad]] [[Economics Tetrad]]
 # Economics Triad
 
 | 3 | 6 | 9 |
