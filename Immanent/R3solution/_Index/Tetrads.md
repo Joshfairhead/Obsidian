@@ -45,7 +45,7 @@ Connectives:
 [[Metaphysics Tetrad]]
 
 ### O
-[[Objectivity Monad]]
+[[Objectivity Tetrad]]
 
 ### P
 [[Perception Tetrad]]
