@@ -109,4 +109,9 @@ If Statements
 `.trim()`
 - The `.trim()` method allows us to make a new copy of a string while removing leading and trailing spaces from the original string
 - The `.trim()` is often used in forms on websites. For example, when you sign up to some website, they will often `.trim()` your email because users might enter extra spaces at the beginning or end of the email by accident
-- 
+
+Variable Reassignment
+-   The `.trim()` method allows us to make a new copy of the string while removing leading and trailing spaces from the original string.
+-   The `.trim()`, `.toLowerCase()` and `.toUpperCase()` methods create new copies of the variable and do not change the original variable.
+-   To change the variable, you have to re-assign it to itself with the function call. For example: `cleaned = cleaned.trim()` will change the value of `cleaned` and make it trimmed.
+
