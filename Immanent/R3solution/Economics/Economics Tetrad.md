@@ -24,7 +24,7 @@ Connectives:
 
 | Ideal Pattern | Medium/Material ground | Instrumental Capactiy | Directive agency |
 |---|---|---|---|
-| Balance/Stability/Equilibrium | Exchange | Currencies/units of account | Mass psychology |
+| Security/Balance/Stability/Equilibrium | Exchange | Currencies/units of account | Mass psychology |
 
 | Motavational Imperative | Demonstrable action | Effectual compatibility | Receptive Regard|  Material mastery | Technical power |
 |---|---|---|---|---|---|
