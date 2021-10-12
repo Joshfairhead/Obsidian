@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[Triads]] 
+Related: [[Triads]] [[Trust Monad]] [[Trust Dyad]] [[]]
 # Trust Triad
 Modal superset:
 
@@ -10,5 +10,5 @@ Modal superset:
 | Emotional | Cognitive | Behavioural |
 
 3: Does the counter party activly care about my best interests?
-6: Can the 
-9:
+6: Is the counterparty able to reason?
+9: How consistent are they in their actions?
