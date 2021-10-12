@@ -135,5 +135,6 @@ Naming
 Parameter confusion
 - The common confusion that happens with developers is when you declare a variable with the same name as the parameter.
 
-
-An expression is a combination of one or more variables, functions, and operators that the programming language computes to produce a value.
+Expressions:
+- An expression is a combination of one or more variables, functions, and operators that the programming language computes to produce a value.  
+- An expression produces a value and can be written wherever a value is expected.
