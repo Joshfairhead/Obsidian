@@ -114,4 +114,5 @@ Variable Reassignment
 -   The `.trim()` method allows us to make a new copy of the string while removing leading and trailing spaces from the original string.
 -   The `.trim()`, `.toLowerCase()` and `.toUpperCase()` methods create new copies of the variable and do not change the original variable.
 -   To change the variable, you have to re-assign it to itself with the function call. For example: `cleaned = cleaned.trim()` will change the value of `cleaned` and make it trimmed.
+-   You cannot re-define a variable once it has been defined, only reassign it
 
