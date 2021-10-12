@@ -145,7 +145,12 @@ Undefined data type
 - > What are you planning on doing tonight? Nothing.
 - So when a variable contains nothing, then its value is `undefine`
 - if you define a variable and do not give it any value, its value by default will be `undefined`.
-
-Because the function above had **no** return keyword, then you will get `undefined`.
-This is a concept called **implicit return**. The word **implicit** means: suggested though not directly expressed.  
-In simplified terms, it means when you don't provide a `return`, JavaScript will automatically `return undefined` for you.
+- If a function has **no** return keyword, then you will get `undefined`.
+- This is a concept called **implicit return**. The word **implicit** means: suggested though not directly expressed. In simplified terms, it means when you don't provide a `return`, JavaScript will automatically `return undefined` for you:
+```javascript
+function getNameLength(name) {
+    name.length
+    return undefined // implicit return added by JavaScript
+}
+```
+- Note that you will **NOT** see that `return undefined` but think as if it gets added after you run the code while being processed by the computer
