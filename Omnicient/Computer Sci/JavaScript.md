@@ -123,3 +123,7 @@ Function/Variable rules
 Naming conventions:
 - A naming convention is a set of rules that you should take into consideration when defining the name of a variable and function
 - In JavaScript, the naming convention for variables & functions is: **lowerCamelCase**
+
+Boolean pro tip:
+- When defining a variable that will contain a boolean value or a function that will return a boolean value, it's a good idea to give it a name that starts with `can` or `has` or `is`. For example: `canVote`, `isLegal`, `hasVoted`, `isRegistered`.  
+- The name implies that there will be a boolean as a value.
