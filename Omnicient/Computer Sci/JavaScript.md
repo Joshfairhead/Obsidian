@@ -115,5 +115,11 @@ Variable Reassignment
 -   The `.trim()`, `.toLowerCase()` and `.toUpperCase()` methods create new copies of the variable and do not change the original variable.
 -   To change the variable, you have to re-assign it to itself with the function call. For example: `cleaned = cleaned.trim()` will change the value of `cleaned` and make it trimmed.
 -   You cannot re-define a variable once it has been defined, only reassign it
--   Variables/Functions are case sensitive
 
+Function/Variable rules
+-   Variables/Functions are case sensitive
+-   You cannot use a variable before declaring it
+
+Naming conventions:
+- A naming convention is a set of rules that you should take into consideration when defining the name of a variable and function
+- 
