@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[Triads]] [[Trust Monad]] [[Trust Dyad]] [[]]
+Related: [[Triads]] [[Trust Monad]] [[Trust Dyad]] 
 # Trust Triad
 Modal superset:
 
