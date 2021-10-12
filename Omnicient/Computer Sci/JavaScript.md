@@ -138,3 +138,9 @@ Parameter confusion
 Expressions:
 - An expression is a combination of one or more variables, functions, and operators that the programming language computes to produce a value.  
 - An expression produces a value and can be written wherever a value is expected.
+
+Undefined data type
+- The `undefined` data type can only contain one value which is `undefined`.
+- You can think of `undefined` as the word **nothing** in English. For example:
+- > What are you planning on doing tonight? Nothing.
+- So when a variable contains nothing, then its value is `undefine`
