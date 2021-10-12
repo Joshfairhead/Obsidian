@@ -154,4 +154,5 @@ function getNameLength(name) {
 }
 ```
 - Note that you will **NOT** see that `return undefined` but think as if it gets added after you run the code while being processed by the computer
-
+-   The concept of implicit return also applies in functions with branching (with if conditions).
+-   If one of the branches does not have a `return`, it will `return undefined`. We will learn how to fix that in upcoming chapters.
