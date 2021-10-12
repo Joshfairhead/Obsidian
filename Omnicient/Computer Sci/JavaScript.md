@@ -144,3 +144,4 @@ Undefined data type
 - You can think of `undefined` as the word **nothing** in English. For example:
 - > What are you planning on doing tonight? Nothing.
 - So when a variable contains nothing, then its value is `undefine`
+- if you define a variable and do not give it any value, its value by default will be `undefined`.
