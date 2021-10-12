@@ -29,4 +29,4 @@ Connectives:
 | Motavational Imperative | Demonstrable action | Effectual compatibility | Receptive Regard|  Material mastery | Technical power |
 |---|---|---|---|---|---|
 | Ground <> Ideal | Directive <> Instrumental | Instrumental <> Ideal | Ideal <> Directive | Directive <> Ground | Ground <> instrumental |
-| Liquidity/Agency | Consumption | Interest | Desires | Production | Investment |
+| Liquidity/Agency | Consumption | Desires | Interest | Production | Investment |
