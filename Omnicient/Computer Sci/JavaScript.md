@@ -131,3 +131,6 @@ Boolean pro tip:
 Naming
 - You will most likely never stumble upon this, but just in case, you cannot start a variable name with a number.
 - Rather than knowing the exact rules for what a valid variable/function name is, it's easier to always start it with a letter (any letter from `a` to `z`) or an `_` (underscore).
+
+Parameter confusion
+- The common confusion that happens with developers is when you declare a variable with the same name as the parameter.
