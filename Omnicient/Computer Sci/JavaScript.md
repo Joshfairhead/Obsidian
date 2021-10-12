@@ -122,4 +122,4 @@ Function/Variable rules
 
 Naming conventions:
 - A naming convention is a set of rules that you should take into consideration when defining the name of a variable and function
-- 
+- In JavaScript, the naming convention for variables & functions is: **lowerCamelCase**
