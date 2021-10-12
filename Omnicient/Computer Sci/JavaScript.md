@@ -127,3 +127,7 @@ Naming conventions:
 Boolean pro tip:
 - When defining a variable that will contain a boolean value or a function that will return a boolean value, it's a good idea to give it a name that starts with `can` or `has` or `is`. For example: `canVote`, `isLegal`, `hasVoted`, `isRegistered`.  
 - The name implies that there will be a boolean as a value.
+
+Naming
+- You will most likely never stumble upon this, but just in case, you cannot start a variable name with a number.
+- Rather than knowing the exact rules for what a valid variable/function name is, it's easier to always start it with a letter (any letter from `a` to `z`) or an `_` (underscore).
