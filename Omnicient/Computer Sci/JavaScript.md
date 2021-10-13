@@ -166,3 +166,7 @@ The "opposite" of a `=== true` is `=== false` or `!== true`.
 So the opposite of `age >= 18` is `age < 18`. Notice how the `>=` becomes `<` rather than `<=`. That's because if you take the `age` 18, you are allowed to vote which means it should be excluded from its opposite.
 
 Let's say you're playing a game where you need to get a score of at least 100 to win. The condition to win would be: `score >= 100`. What would be the condition to lose? It would be `score < 100`. So because **100** is counted as winning, it should be excluded from its opposite, which is why the `>=` operator becomes a strict `<` operator.
+-   The opposite of `age >= 18` is `age < 18`.
+-   The opposite of `score >= 100` is `score < 100`.
+-   The opposite of `lives < 0` is `lives >= 0`.
+
