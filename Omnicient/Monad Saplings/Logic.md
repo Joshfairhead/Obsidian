@@ -174,4 +174,7 @@ When a term is universally affirmed, it is only the subject (coins) that is dist
 > The universal negative proposition distributes both its subject and its predicate. ~[[Quotes]] p44
 - A particular affirmitive proposition distributes neither its subjcet nor its predicate ("that coin is metallic").
 - A particular negative proposition "some violets are not odorous"
-	- the subject 
+	- the subject is undistributed (violets) but the predictate is distributed. 
+- When we say "some violets are odorous", the propostition is both an affirmation and negation
+	- "Some violets are odorous;
+		Some violets are nat odorous"
