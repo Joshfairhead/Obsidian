@@ -185,7 +185,7 @@ Universal affirmitive propositions can be transformed into a universal negative 
 
 A particular affirmitive proposition can be simply converted. 
 Such is the case with universal negative propositions. 
-Universal negative propositions are harder to convert however
+Universal affirmitive propositions are harder to convert however
 - "All jellyfish are animals" - True
 - "All animals are jellyfish" - False
 
