@@ -178,4 +178,6 @@ When a term is universally affirmed, it is only the subject (coins) that is dist
 - When we say "some violets are odorous", the propostition is both an affirmation and negation: "Some violets are odorous; Some violets are not odorous"
 
 ## Changing propositions
-Universal affirmitive propositions can be transformed into a universal negative of the same meaning: e.g. "There are no things which ma not be useful" = "All things may be useful". THi
+**Proposition conversion**
+Universal affirmitive propositions can be transformed into a universal negative of the same meaning: e.g. "There are no things which ma not be useful" = "All things may be useful" - "Some churches are wooden" = "Some wooden buildings are churches"
+
