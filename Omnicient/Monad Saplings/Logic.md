@@ -221,6 +221,10 @@ Conclusion: "Therefore no paupers are electors"
 	- Six pences
 	- Things coined at tower hill
 
-- "English silver coins" does not appear in the Conclusion; it is used to compare statements occoring in the mid-circle. It is accordingly named **the middle term**. 
+Picture of concentric circles in notes; tower hill, english silver, sixpences:
+- "English silver coins" does not appear in the conclusion; it is used to compare statements occuring in the mid-circle. It is accordingly named **the middle term**. 
 - The largest circle is that containging all things coined at tower hill. This is **the major term of a syllogism**
 - Sixpences being in the smallest circle, is called **the minor term/lesser term**
+
+- The middle term is always the term which is NOT in the conclusion
+- The minor term is the subject of the conclusion
