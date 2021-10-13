@@ -206,5 +206,7 @@ Conclusion: "All sixpences are coined at tower hill."
 - This is an example of a **universal affirmitive conclusion**.
 
 **Universal negative conclusion:**
-Prem
+Premise: "All electors pay rates"
+Premise: "No Paupers pay rates"
+Conclusion: "Therefore no paupers are electors"
 
