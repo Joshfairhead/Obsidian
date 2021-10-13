@@ -194,4 +194,5 @@ The proposition of the negative should be:
 - "All jellyfish are some animals" - True
 - "Some animals are all jellyfish" - **Limited conversion**
 
-A universal **affirmitive propostion** when so converted becomes a **particular affirmitive** one. 
+A universal **affirmitive propostion** when so converted becomes a **particular affirmitive** one = **Limited conversion**
+
