@@ -239,4 +239,4 @@ Its generally more correct to write the major premise first. Even if put second 
 
 ## Rules of the Syllogism
 **Rule 1**
-A syllogism must contain three terms and not more than three terms; for the reasoning consists in comparing two terms with each the  by mean sof a third term.
+A syllogism must contain three terms and not more than three terms; for the reasoning consists in comparing two terms with eachother by means of a third term. Four terms would contian two syllogisms or none at all. 
