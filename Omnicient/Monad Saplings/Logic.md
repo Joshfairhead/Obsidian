@@ -228,3 +228,11 @@ Picture of concentric circles in notes; tower hill, english silver, sixpences:
 
 - The middle term is always the term which is NOT in the conclusion
 - The minor term is the subject of the conclusion
+
+There are seperate names for the two premises:
+- The major term is called the **Major premise**
+	- That which contains the major term
+- The minor term is called the **Minor premise**
+	- That which contains the minor term
+
+Its generally m
