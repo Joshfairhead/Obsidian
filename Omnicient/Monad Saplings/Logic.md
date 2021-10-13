@@ -235,4 +235,8 @@ There are seperate names for the two premises:
 - The minor term is called the **Minor premise**
 	- That which contains the minor term
 
-Its generally m
+Its generally more correct to write the major premise first. Even if put second its still the Major premise. 
+
+## Rules of the Syllogism
+**Rule 1**
+A syllogism must contain three terms and not more than three terms; for the reasoning consists in comparing two terms with each the  by mean sof a third term.
