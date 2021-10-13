@@ -220,3 +220,5 @@ Conclusion: "Therefore no paupers are electors"
 	- English silver coins
 	- Six pences
 	- Things coined at tower hill
+
+"English silver coins" does not appear in the Conclusion, it is used to compare statements occoring in the mid-circle
