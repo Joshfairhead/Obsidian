@@ -196,3 +196,5 @@ The proposition of the negative should be:
 
 A universal **affirmitive propostion** when so converted becomes a **particular affirmitive** one = **Limited conversion**
 
+## Syllogism 
+In a great many of the arguments we use, on proposition is gathered or inferred from two other propositions:
