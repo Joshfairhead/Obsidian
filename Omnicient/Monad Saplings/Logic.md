@@ -210,6 +210,13 @@ Premise: "All electors pay rates" - Universal affirmative proposition
 Premise: "No Paupers pay rates" - Universal negative proposition
 Conclusion: "Therefore no paupers are electors"
 
-"All English silver coins are coined at tower hill"
+
+### Dissecting a syllogism
+
+"All English silver coins are coined at tower hill;"
 "All sixpences are english silver coins;"
-"Therefore all sixpences are coined at tower hi"
+"Therefore all sixpences are coined at tower hill;"
+- 3 terms/classes
+	- English silver coins
+	- Six pences
+	- Things coined at tower hill
