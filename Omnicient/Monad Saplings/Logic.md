@@ -163,8 +163,7 @@ There are four base types of propositon:
 - Particular affirmitive
 - Particular negative
 
-When a term is universally affirmed it is only the subject (coins) that is distributed.
-The predicate (metal) remains singular. 
+When a term is universally affirmed, it is only the subject (coins) that is distributed. The predicate (metal) remains singular. 
 
 "No seaweed is a flowering plant": Universal negative.
 - Subject is distributed as before
