@@ -198,3 +198,7 @@ A universal **affirmitive propostion** when so converted becomes a **particular 
 
 ## Syllogism 
 In a great many of the arguments we use, on proposition is gathered or inferred from two other propositions:
+
+Premise: "All english silver couns are couned at tower hill;"
+Premise: "All sixpences are english silver coins;"
+Conclusion: "All sixpences are coined at tower hill."
