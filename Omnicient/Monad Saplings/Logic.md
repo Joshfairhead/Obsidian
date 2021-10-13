@@ -179,7 +179,7 @@ When a term is universally affirmed, it is only the subject (coins) that is dist
 
 ## Changing propositions
 **Proposition conversion**
-Universal affirmitive propositions can be transformed into a universal negative of the same meaning: e.g. "There are no things which ma not be useful" = "All things may be useful" 
+Universal affirmitive propositions can be transformed into a universal negative of the same meaning: e.g. "There are no things which may not be useful" = "All things may be useful" 
 
 **Simple conversion:** "Some churches are wooden" = "Some wooden buildings are churches"
 
@@ -188,7 +188,9 @@ Such is the case with universal negative propositions.
 Universal negative propositions are harder to convert however
 - "All jellyfish are animals" - True
 - "All animals are jellyfish" - False
+
 The proposition of the negative should be: 
 - "All jellyfish are some animals" - True
 - "Some animals are all jellyfish" - Limited
-A universal affirmitive 
+
+A universal **affirmitive propostion** when so converted becomes a **particular affirmitive** one. 
