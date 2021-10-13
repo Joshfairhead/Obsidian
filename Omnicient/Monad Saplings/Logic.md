@@ -183,3 +183,6 @@ Universal affirmitive propositions can be transformed into a universal negative 
 
 **Simple conversion:** "Some churches are wooden" = "Some wooden buildings are churches"
 
+A particular affirmitive proposition can be simply converted. Such is the case with universal negative propositions. 
+
+Un
