@@ -221,4 +221,6 @@ Conclusion: "Therefore no paupers are electors"
 	- Six pences
 	- Things coined at tower hill
 
-"English silver coins" does not appear in the Conclusion, it is used to compare statements occoring in the mid-circle
+"English silver coins" does not appear in the Conclusion; it is used to compare statements occoring in the mid-circle.
+	- It is accordingly named **the middle term**. 
+	- The largest circle is that containging all t
