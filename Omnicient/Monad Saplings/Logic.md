@@ -210,3 +210,6 @@ Premise: "All electors pay rates"
 Premise: "No Paupers pay rates"
 Conclusion: "Therefore no paupers are electors"
 
+The two premises lead to a conclusion; however note their type:
+- Universal affirmative proposition
+- Universal negative proposition

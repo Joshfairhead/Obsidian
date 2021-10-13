@@ -6,7 +6,7 @@ Related: [[Ethereum]]
 
 #### Code Documentation
 - [JS to svg flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html)
-- 
+- Diagrams of most varieties: https://kroki.io/
 
 #### Assorted
 - [ListMonk](https://listmonk.app) - Mailing list infrastructure
