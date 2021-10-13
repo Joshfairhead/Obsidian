@@ -160,3 +160,4 @@ function getNameLength(name) {
 Conditional function call
 -   You can call functions inside **if** conditions.
 -   Calling functions inside if conditions allows your program to handle more complicated use cases.
+
