@@ -170,3 +170,15 @@ Let's say you're playing a game where you need to get a score of at least 100 to
 -   The opposite of `score >= 100` is `score < 100`.
 -   The opposite of `lives < 0` is `lives >= 0`.
 
+#### else
+The `else` keyword can be used to handle all the other cases of an `if` condition. For example, to make the code above return **"You are not allowed to vote"** when the `age >= 18` returns `false`, you have to add the `else` keyword like this:
+
+```javascript
+function getVotingMessage(age) {
+    if (age >= 18) {
+        return "You are allowed to vote"
+    } else {
+        return "You are not allowed to vote"
+    }
+}
+```
