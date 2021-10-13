@@ -202,3 +202,9 @@ In a great many of the arguments we use, on proposition is gathered or inferred 
 Premise: "All english silver couns are couned at tower hill;"
 Premise: "All sixpences are english silver coins;"
 Conclusion: "All sixpences are coined at tower hill."
+
+- This is an example of a **universal affirmitive conclusion**.
+
+**Universal negative conclusion:**
+Prem
+
