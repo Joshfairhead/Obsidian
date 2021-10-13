@@ -183,7 +183,12 @@ Universal affirmitive propositions can be transformed into a universal negative 
 
 **Simple conversion:** "Some churches are wooden" = "Some wooden buildings are churches"
 
-A particular affirmitive proposition can be simply converted. Such is the case with universal negative propositions. 
-- Universal negative propositions are harder to convert however
+A particular affirmitive proposition can be simply converted. 
+Such is the case with universal negative propositions. 
+Universal negative propositions are harder to convert however
 - "All jellyfish are animals" - True
 - "All animals are jellyfish" - False
+The proposition of the negative should be: 
+- "All jellyfish are some animals" - True
+- "Some animals are all jellyfish" - Limited
+A universal affirmitive 
