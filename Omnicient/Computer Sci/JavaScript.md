@@ -162,3 +162,5 @@ Conditional function call
 -   Calling functions inside if conditions allows your program to handle more complicated use cases.
 
 The "opposite" of a `=== true` is `=== false` or `!== true`.
+
+So the opposite of `age >= 18` is `age < 18`. Notice how the `>=` becomes `<` rather than `<=`. That's because if you take the `age` 18, you are allowed to vote which means it should be excluded from its opposite.
