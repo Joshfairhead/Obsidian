@@ -16,7 +16,7 @@ Related: [[Buffer]]
 
 
 **Rope**
-- 19:00; Wednesday 13th October: Movement Class
+- 
 - 20:00; Thursday 14th Oct: Twelve Levels of the Universe of Observation
 - 20:00; Thursday 21st Oct: The Qualities of Energy at Each Level
 - 20:00; 28th October: Pattern Thinking with Qualitative Systems
