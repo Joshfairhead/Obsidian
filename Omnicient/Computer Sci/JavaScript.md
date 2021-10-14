@@ -200,3 +200,7 @@ let message = "Welcome " + name
 console.log(message) // "Welcome Alex"
 ```
 - Notice how we used the `+` operator to **concatenate** the string with the value of the variable. This means it puts them together, glues them together into one string.
+- The `+` sign can do either **addition** or **concatenation** depending on the two items before and after it. We call them the `operands`.
+	1.  If the 2 operands are numbers, then `+` will perform an **addition**. For example: `1 + 3` will result in `4` (addition).
+	2.  If one of the 2 operands is a string, then `+` will perform a **concatenation**. For example: `"abc" + "def"` will result in `"abcdef"` (concatenation).
+
