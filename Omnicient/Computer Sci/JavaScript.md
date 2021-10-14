@@ -195,3 +195,8 @@ function canVote(age) {
 - This pattern **only** applies where we check if something is true, and return true and return false in other cases.If you were returning a string or a number, this pattern cannot be used.
 
 #### String concatenation 
+```javascript
+let message = "Welcome " + name
+console.log(message) // "Welcome Alex"
+```
+- Notice how we used the `+` operator to **concatenate** the string with the value of the variable. This means it puts them together, glues them together into one string.
