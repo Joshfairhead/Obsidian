@@ -8,6 +8,7 @@ Related: [[Petersberger Strass 5]]
 - [ ] Vaccume the ground
 
 ## Appliences
+- [ ] Clean fridge surface
 - [ ] Stove top; remove grease and food remains
 - [ ] Sink; remove stains, grease and water
 - [ ] Washing machine; clear dishes, clean dish rack, wipe the pseudo-counter
