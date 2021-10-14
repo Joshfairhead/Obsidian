@@ -204,3 +204,6 @@ console.log(message) // "Welcome Alex"
 	1.  If the 2 operands are numbers, then `+` will perform an **addition**. For example: `1 + 3` will result in `4` (addition).
 	2.  If one of the 2 operands is a string, then `+` will perform a **concatenation**. For example: `"abc" + "def"` will result in `"abcdef"` (concatenation).
 
+#### Template strings
+It's also possible to define strings with the **backtick character**, which is this character: **
+Pay close attention to this character, it's not a single quote. It is called the backtick character.
