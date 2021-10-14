@@ -208,3 +208,7 @@ console.log(message) // "Welcome Alex"
 -   It's possible to define strings with the **backtick character**, which is this character: `
 -   Strings defined with the backtick character are called **template strings**.
 -   Here's an example of a string defined with the backtick character: let name = `Sam`
+
+Interpolation
+- In the previous chapter, we learned how to concatenate a string with a variable. There's another way to achieve the same result but in a nicer way, at least when you get used to it. And that is called **interpolation**.
+- **Interpolation** is when you insert variables (or expressions) inside a **string**. The end result will be a string containing the values of these variables (or expressions).
