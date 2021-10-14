@@ -185,3 +185,5 @@ function getVotingMessage(age) {
 
 #### else if
 `else if` allows us to handle other cases, not necessarily the "opposite" or the "rest". Writing `else if` after the `else`. Having an `else` is optional, but if you decide to have an `else`, then it **must be at the end**.
+
+#### Simplifying
