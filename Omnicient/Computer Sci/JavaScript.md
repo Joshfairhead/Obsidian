@@ -212,3 +212,6 @@ console.log(message) // "Welcome Alex"
 Interpolation
 - In the previous chapter, we learned how to concatenate a string with a variable. There's another way to achieve the same result but in a nicer way, at least when you get used to it. And that is called **interpolation**.
 - **Interpolation** is when you insert variables (or expressions) inside a **string**. The end result will be a string containing the values of these variables (or expressions).
+- To write interpolation correctly, remember that interpolation requires 2 steps:
+	1.  The string **has** to be a template string (which means, written using the backtick character). It does NOT work with string created with the double-quotes.
+	2.  Wrap the variable with `${` and then `}`.
