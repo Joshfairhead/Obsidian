@@ -205,4 +205,6 @@ console.log(message) // "Welcome Alex"
 	2.  If one of the 2 operands is a string, then `+` will perform a **concatenation**. For example: `"abc" + "def"` will result in `"abcdef"` (concatenation).
 
 #### Template strings
-It's also possible to define strings with the **backtick character**. It's not a single quote. It is called the backtick character.
+-   It's possible to define strings with the **backtick character**, which is this character: `
+-   Strings defined with the backtick character are called **template strings**.
+-   Here's an example of a string defined with the backtick character: let name = `Sam`
