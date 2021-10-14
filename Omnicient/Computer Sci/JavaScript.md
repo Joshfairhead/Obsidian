@@ -184,4 +184,4 @@ function getVotingMessage(age) {
 ```
 
 #### else if
-`else if` which allows us to handle other cases, not necessarily the "opposite" or the "rest".
+`else if` allows us to handle other cases, not necessarily the "opposite" or the "rest".
