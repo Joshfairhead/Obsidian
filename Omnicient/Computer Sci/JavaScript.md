@@ -242,4 +242,10 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 - If you try to access an element that doesnt exist, the console will return `undefined`
 - Because the array index is 0-based, the last item is always going to be positioned **one** number less than the total number of items
 - To be on the safe side, it's often better to write the `()` which dictate the order of the Mathematical operations. In this example, we want to multiply `firstRectangle[0]` with `firstRectangle[1]` before subtracting that to the remaining part of the operation, which is why it's better to group them with parentheses `()`. And the same thing applies to the `secondRectangle[0] * secondRectangle[1]`. In mathematics, multiplication has higher precedence over subtraction
-- 
+
+Changing the contents of an array
+-  The logic is similar to reading an element.
+-  Ask yourself: how can I **read** that item that I want to change?
+-  `grades[0] // returns 5`
+-  2Now assign it to the new value with the equal sign (`=`) and the new value like so:
+-  2.  Now assign it to the new value with the equal sign (`=`) and the new value like so:
