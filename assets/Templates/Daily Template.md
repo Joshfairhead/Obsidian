@@ -16,8 +16,6 @@ Related: [[Buffer]]
 
 
 **Rope**
-- 15:00; Thursday 14th October: Syncing up Roberts Obsidian
-- 20:00; Thursday 14th Oct: Twelve Levels of the Universe of Observation
 - 12:00; Saturday 17th October: Call with Rishi
 - 13:30~; Saturday 17th October: Call with Vadim
 - 20:00; Thursday 21st October: The Qualities of Energy at Each Level
