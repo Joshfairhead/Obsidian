@@ -215,3 +215,6 @@ Interpolation
 - To write interpolation correctly, remember that interpolation requires 2 steps:
 	1.  The string **has** to be a template string (which means, written using the backtick character). It does NOT work with string created with the double-quotes.
 	2.  Wrap the variable with `${` and then `}`.
+
+Arrays:
+**An array is a list of values**.
