@@ -255,3 +255,5 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 - We've got the `.length` property on arrays which returns the **number of items** in that array
 
 > The `.length` is a property, meaning that it's a value that has already been computed. It's **NOT** a function which is why you should not put the `()` afterward.
+
+The last item of an array is always at position: **number of items - 1**
