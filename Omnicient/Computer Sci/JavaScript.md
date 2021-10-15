@@ -250,4 +250,6 @@ Changing the contents of an array
 -  Now assign it to the new value with the equal sign (`=`) and the new value like so:
 	-  `grades[0] = 6`
 - Always perform the operations and then at the end of the function, return the array.
-- 
+
+**Array length**
+- We've got the `.length` property on arrays which returns the **number of items** in that array
