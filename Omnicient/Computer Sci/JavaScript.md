@@ -235,3 +235,7 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 	 4. This is the tricky part. The **position** starts at 0. We're going to spend plenty of time to make sure you understand this one.
 - in JavaScript (and the majority of programming languages), the **position** starts at 0. In day to day life, you're used to start counting from 1, but in programming we count from 0.
 - A quick note that we've been using the word **position**, but a more correct word that you will see people use would be **index**. We just didn't want to introduce too many things at once :) So from now on, we'll start referring to the position as the **index** or **array index**
+- Since the index in an array starts from 0, then if you want to access the first item of the array, you'd have to write: `array[0]`.
+- The reason why the index starts from 0 is mostly due to how programming languages store arrays in the memory.  
+	- In an over simplified way, they save the location of the first item of the array, and from that item they can make the jump to the next one. So having an index starting at 0 simplifies the math for it.
+- 
