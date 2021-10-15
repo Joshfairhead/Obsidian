@@ -249,4 +249,5 @@ Changing the contents of an array
 	-  `grades[0] // returns 5`
 -  Now assign it to the new value with the equal sign (`=`) and the new value like so:
 	-  `grades[0] = 6`
--  
+- Always perform the operations and then at the end of the function, return the array.
+- 
