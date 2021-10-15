@@ -233,3 +233,5 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 	 2. Inside the square brackets you should have the **position** of the item that you want to read. So for example `[1]`
 	 3. This syntax needs to go directly after the name of the array. So for the above example, it would look like `grades[1]`
 	 4. This is the tricky part. The **position** starts at 0. We're going to spend plenty of time to make sure you understand this one.
+- in JavaScript (and the majority of programming languages), the **position** starts at 0. In day to day life, you're used to start counting from 1, but in programming we count from 0.
+- A quick note that we've been using the word **position**, but a more correct word that you will see people use would be **index**. We just didn't want to introduce too many things at once :) So from now on, we'll start referring to the position as the **index** or **array index**
