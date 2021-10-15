@@ -246,6 +246,7 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 Changing the contents of an array
 -  The logic is similar to reading an element.
 -  Ask yourself: how can I **read** that item that I want to change?
--  `grades[0] // returns 5`
--  2Now assign it to the new value with the equal sign (`=`) and the new value like so:
--  2.  Now assign it to the new value with the equal sign (`=`) and the new value like so:
+	-  `grades[0] // returns 5`
+-  Now assign it to the new value with the equal sign (`=`) and the new value like so:
+	-  `grades[0] = 6`
+-  
