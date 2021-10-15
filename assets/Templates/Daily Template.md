@@ -19,7 +19,8 @@ Related: [[Buffer]]
 - 12:00; Saturday 17th October: Call with Rishi
 - 13:30~; Saturday 17th October: Call with Vadim
 - 20:00; Thursday 21st October: The Qualities of Energy at Each Level
-- 19:00; Thursday 27th October: Movement Class
+- 22:00~; Thursday 21st October: Maija visits
+- 19:00; Wednesday 27th October: Movement Class
 - 20:00; 28th October: Pattern Thinking with Qualitative Systems
 - 20:00; 4th November: Reciprocal Maintenance and the Eight Cosmoses
 - Friday 12-14th November: TheNewCommonSense Conf
