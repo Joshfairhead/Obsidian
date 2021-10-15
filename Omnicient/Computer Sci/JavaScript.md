@@ -224,3 +224,7 @@ Arrays:
 -   You can think of arrays as a **row** in an excel sheet.
 
 As we learn more about arrays, you're going to discover that arrays come with specific methods that will help us manage them. How do you create an empty array? The answer is quite simple, an empty array is denoted by `[]`. The square brackets are a syntax that instructs JavaScript that this is the array data type.
+
+`let array = [Array, items]`
+- Array items are the items within an array
+- Arrays can contain not just numbers but also strings, booleans, etc
