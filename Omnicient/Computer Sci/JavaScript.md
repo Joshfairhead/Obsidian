@@ -216,7 +216,7 @@ Interpolation
 	1.  The string **has** to be a template string (which means, written using the backtick character). It does NOT work with string created with the double-quotes.
 	2.  Wrap the variable with `${` and then `}`.
 
-Arrays:
+### Arrays:
 **An array is a list of values**.
 -   Arrays are a new data structure that we're learning about.
 -   An array is a list of values.
@@ -243,7 +243,7 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 - Because the array index is 0-based, the last item is always going to be positioned **one** number less than the total number of items
 - To be on the safe side, it's often better to write the `()` which dictate the order of the Mathematical operations. In this example, we want to multiply `firstRectangle[0]` with `firstRectangle[1]` before subtracting that to the remaining part of the operation, which is why it's better to group them with parentheses `()`. And the same thing applies to the `secondRectangle[0] * secondRectangle[1]`. In mathematics, multiplication has higher precedence over subtraction
 
-Changing the contents of an array
+**Changing the contents of an array**
 -  The logic is similar to reading an element.
 -  Ask yourself: how can I **read** that item that I want to change?
 	-  `grades[0] // returns 5`
@@ -253,3 +253,5 @@ Changing the contents of an array
 
 **Array length**
 - We've got the `.length` property on arrays which returns the **number of items** in that array
+
+> The `.length` is a property, meaning that it's a value that has already been computed. It's **NOT** a function which is why you should not put the `()` afterward.
