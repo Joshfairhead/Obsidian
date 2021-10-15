@@ -218,3 +218,8 @@ Interpolation
 
 Arrays:
 **An array is a list of values**.
+-   Arrays are a new data structure that we're learning about.
+-   An array is a list of values.
+-   Instead of defining 5 variables called `grades1`, `grades2`, etc., you can define **one** variable called `grades` which is an array containing those numbers.
+-   You can think of arrays as a **row** in an excel sheet.
+
