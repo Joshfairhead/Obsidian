@@ -258,3 +258,6 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 
 The last item of an array is always at position: **number of items - 1**
 So the **number of items - 1** can be written as the following expression, assuming a variable called `items`: `items.length - 1`.
+- `items[items.length - 1] // (last item)`
+	- The code above works for no matter how many items there are in the array (except for 0 items).
+
