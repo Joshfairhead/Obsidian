@@ -228,3 +228,4 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 `let array = [Array, items]`
 - Array items are the items within an array
 - Arrays can contain not just numbers but also strings, booleans, etc
+- Array operations allow you to run some functions on an array. For example, you can ask JavaScript: does the array `[10, 15, 20]` include the number `15`? And you'd get a boolean answer (either true or false).
