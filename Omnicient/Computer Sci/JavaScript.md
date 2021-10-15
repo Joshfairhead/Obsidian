@@ -229,3 +229,7 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 - Array items are the items within an array
 - Arrays can contain not just numbers but also strings, booleans, etc
 - Array operations allow you to run some functions on an array. For example, you can ask JavaScript: does the array `[10, 15, 20]` include the number `15`? And you'd get a boolean answer (either true or false).
+	 1.  To access an item from an array, there's a new syntax for it which is the square brackets `[]`
+	 2. Inside the square brackets you should have the **position** of the item that you want to read. So for example `[1]`
+	 3. This syntax needs to go directly after the name of the array. So for the above example, it would look like `grades[1]`
+	 4. This is the tricky part. The **position** starts at 0. We're going to spend plenty of time to make sure you understand this one.
