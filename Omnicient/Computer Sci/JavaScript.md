@@ -238,4 +238,5 @@ As we learn more about arrays, you're going to discover that arrays come with sp
 - Since the index in an array starts from 0, then if you want to access the first item of the array, you'd have to write: `array[0]`.
 - The reason why the index starts from 0 is mostly due to how programming languages store arrays in the memory.  
 	- In an over simplified way, they save the location of the first item of the array, and from that item they can make the jump to the next one. So having an index starting at 0 simplifies the math for it.
-- 
+- You may have noticed that all array names that we've used so far are in the **plural**. That's a very good habit to have. It's a best practice because arrays are made to contain more than 1 item. So having their name in plural will make it easier for you to reason about the array. This will become more evident once we learn about the `.forEach` method.
+
