@@ -1,65 +1,65 @@
-- [[Transvestment]] 
-    - [[Land Easement]]
-        - [ ] Templates or linked smart contracts for [[Land Easement]]
-        - [ ] White label contract for land owners to sign 
-        - [ ] [[Land Easement]] explainer video
-    - [ ]  Add [this](https://github.com/Joshfairhead/Resources/wiki/The-Commons) to transvestment sources [[Josh]]
-    - [ ] Transvestment user stories/mural
-    - [ ] Transvestment animated video
-    - [ ] Transvestment mini app 
-    - [ ] Transvestment contributor/investor interface 
-    - [ ] Transvestment visual contract
-    - [ ] Transvestment investor terms
-    - [x] Payment splitter; personal, local, global [[Roberto]]
-    - [ ] PreciousPlastic.com want a DAO - on boarding project?
-    - [ ] DAO factory for xFUTILE 
-    - [ ] Sequence diagrams for Devs 
+ [[Transvestment]] 
+    [[Land Easement]]
+        - Templates or linked smart contracts for [[Land Easement]]
+        - White label contract for land owners to sign 
+        - [[Land Easement]] explainer video
+    -  Add [this](https://github.com/Joshfairhead/Resources/wiki/The-Commons) to transvestment sources [[Josh]]
+    - Transvestment user stories/mural
+    - Transvestment animated video
+    - Transvestment mini app 
+    - Transvestment contributor/investor interface 
+    - Transvestment visual contract
+    - Transvestment investor terms
+    - [ ] Payment splitter; personal, local, global [[Roberto]]
+    - PreciousPlastic.com want a DAO - on boarding project?
+    - DAO factory for xFUTILE 
+    - Sequence diagrams for Devs 
 - [[Badges]]
-    - [ ] Badge pattern templates - NFT, RFT Composability, Transferability 
-    - [ ] [[Badges]]; LinkedIn, Bio, fairtrade etc 
+    - Badge pattern templates - NFT, RFT Composability, Transferability 
+    - [[Badges]]; LinkedIn, Bio, fairtrade etc 
 - [[Knock]]
-    - [ ] Scrape LinkedIn for skills 
+    - Scrape LinkedIn for skills 
 - [[Interspace]]
-    - [ ] Connect [[Kay Gertler]] and Ivo re:communication protocols and dialup.com [[Roberto]], [[Josh]]
-    - [ ] [[Interspace]] room png hovering vector 
-    - [ ] [[Interspace]] WebRTC Implementation [[Roberto]]
-    - [x]  Multiverse for [[Interspace]]
-    - [ ] Avatars for [[Interspace]] 
-    - [ ] [[Interspace]] Pi servers
+    - Connect [[Kay Gertler]] and Ivo re:communication protocols and dialup.com [[Roberto]], [[Josh]]
+    - [[Interspace]] room png hovering vector 
+    - [[Interspace]] WebRTC Implementation [[Roberto]]
+    -  Multiverse for [[Interspace]]
+    - Avatars for [[Interspace]] 
+    - [[Interspace]] Pi servers
 - [[Offers / Requests]]
     - [[For product]] (goods or services)
-    - [ ] Tourist board in town for [[Offers / Requests]]
+    - Tourist board in town for [[Offers / Requests]]
 - [[PirateDAO]]
 - [[Solar DAO]] 
-    - [ ] ESCO smart contracts
-    - [ ] ESCO contracts for [[Liminal]]
-    - [ ] Snap proof step by step validation (Giveth milestone?)
+    - ESCO smart contracts
+    - ESCO contracts for [[Liminal]]
+    - Snap proof step by step validation (Giveth milestone?)
 - [[Content]]
-    - [ ] [[Hackalong handbook]] 
-        - [ ] Onboarding Chapter
-            - [[Onboarding]] questions into framework (network analysis)
-            - Ikigai Onboarding?: https://docs.google.com/spreadsheets/d/1EChvDxtX0kutVQXNkeWRrf6ccZdzjT6c6e3JUxFvyqY/edit#gid=0
-    - [ ] Create digital artefacts of boards/notes 
+    - [[Hackalong handbook]] 
+        - Onboarding Chapter
+            - [x] [[Onboarding]] questions into framework (network analysis)
+            - [x] Ikigai Onboarding?: https://docs.google.com/spreadsheets/d/1EChvDxtX0kutVQXNkeWRrf6ccZdzjT6c6e3JUxFvyqY/edit#gid=0
+    - Create digital artefacts of boards/notes 
     - Video content
-        - [ ] [[Land Easement]] explainer video
-        - [ ] Set scenes for web series (outdoors) 
-            - [ ] Monologues for web series; questions + discussions
-        - [ ] Collect hack-along0.2 media [[Roberto]]
-            - [ ] Upload media to IPFS
-            - [ ] Compile footage into sharable clip
-        - [x] Contact @Jayurbuzz about his visit/media [[Roberto]]
-    - [ ] [[Liminal]] badge design 
+        - [[Land Easement]] explainer video
+        - Set scenes for web series (outdoors) 
+            - Monologues for web series; questions + discussions
+        - Collect hack-along0.2 media [[Roberto]]
+            - Upload media to IPFS
+            - Compile footage into sharable clip
+        - Contact @Jayurbuzz about his visit/media [[Roberto]]
+    - [[Liminal]] badge design 
 - [[Communications]]
     - Community Data Science [[Josh]]
         - ((IxtULyW41)) [[Josh]]
-    - [x] Set Up Ghost [[Maija]]
-        - [x] Get Ghost running in production enviroment
-        - Install on Heroku [docs](https://github.com/SNathJr/ghost-on-heroku)
-        - [Setup docs](https://ghost.org/docs/setup/)
-        - [Setup guide for self hosted servers ASmallOrange](https://www.ghostforbeginners.com/how-to-install-ghost-on-a-small-orange/)
-    - [x] Netlify Moon bot [[Maija]]
-    - [x] Eric Bear / [[Liminal]] discussion [[Josh]]
-    - [x] Add sociocracy3.0 to the forum [[Josh]]
+    - Set Up Ghost [[Maija]]
+        - Get Ghost running in production enviroment
+        - [ ] Install on Heroku [docs](https://github.com/SNathJr/ghost-on-heroku)
+        - [ ] [Setup docs](https://ghost.org/docs/setup/)
+        - [ ] [Setup guide for self hosted servers ASmallOrange](https://www.ghostforbeginners.com/how-to-install-ghost-on-a-small-orange/)
+    - Netlify Moon bot [[Maija]]
+    - Eric Bear / [[Liminal]] discussion [[Josh]]
+    - Add sociocracy3.0 to the forum [[Josh]]
 - [[Governance]] 
 - [[Events]]
     - [x] Global harmonisation day
