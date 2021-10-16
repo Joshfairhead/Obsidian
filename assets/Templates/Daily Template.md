@@ -16,8 +16,6 @@ Related: [[Buffer]]
 
 
 **Rope**
-- 12:00; Saturday 17th October: Call with Rishi
-- 13:30~; Saturday 17th October: Call with Vadim
 - 20:00; Thursday 21st October: The Qualities of Energy at Each Level
 - 22:00~; Thursday 21st October: Maija visits
 - 19:00; Wednesday 27th October: Movement Class
