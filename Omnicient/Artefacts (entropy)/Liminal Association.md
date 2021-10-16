@@ -4,7 +4,7 @@
 - The [[Liminal]] association happens "in between" spaces, means that both spaces preserve their identity and agency, while they come to an agreement between them which makes them self-similar.
 - Each place decides which [[Badges]] to accept and distribute. These might represent values, contributions, references, membership fees, and anything else.
 - **Non-profit**
-    - [ ] write statute (what the hell are we doing)
+    - write statute (what the hell are we doing)
         - Agents are people who participate in the network
         - Agents roles: 
             - Mentors: time & skills

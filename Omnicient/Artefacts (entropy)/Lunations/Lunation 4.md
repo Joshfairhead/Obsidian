@@ -1,11 +1,11 @@
 - [[Intentions]] (pre-discovery)
     - Refresh [[Liminal]] Website. 
-        - [ ] URLs arrangements
-        - [ ] Condensing
-        - [ ] Value proposition page [[Fund Manager Persona]] 
-        - [ ] Link up to [[Hack-Along]].
+        - URLs arrangements
+        - Condensing
+        - Value proposition page [[Fund Manager Persona]] 
+        - Link up to [[Hack-Along]].
     - Hub manager
-    - [ ] [[Team of Teams]] on Dapphero or better mix with knock.[[Roberto Valenti]]
+    - [[Team of Teams]] on Dapphero or better mix with knock.[[Roberto Valenti]]
     - Revisit Create [[NGI - XS Exchange Application]] page [[Roberto Valenti]]
     - Holochain Data Exchange [[JoshFairhead]]
     - [[Microsolidarity]] on the 8th [[JoshFairhead]]

@@ -12,15 +12,15 @@ Related: [[Funding]]
 	- **Grant** €5000 - €50 000
 	- **Check out** [Previously funded / relevant projects](https://nlnet.nl/thema/NGIZeroDiscovery.html)
 	
-	- [ ] [A Distributed Software Stack For Co-operation](https://nlnet.nl/project/Perspectives/)
-	- [ ] [elRepo.io - Resilient, human-centered, distributed content sharing and discovery](https://nlnet.nl/project/elrepo_io/)
-	- [ ] [FairSync](https://nlnet.nl/project/FairSync/)
-	- [ ] [IN COMMON a network of non-profit actors to identify, promote, and defend the Commons](https://nlnet.nl/project/InCommon/)
-	- [ ] [Mangaki  [[Open Source]] library for privacy-preserving group recommendations of items](https://nlnet.nl/project/Mangaki/)
-	- [ ] [openEngiadina - semantic social network](https://nlnet.nl/project/Mangaki/)
-	- [ ] [ OpenKit - "peer-to-peer" courses](https://nlnet.nl/project/OpenKi/)
-	- [ ] [P2Pcollab- protocols for peer-to-peer collaboration](https://nlnet.nl/project/P2Pcollab/)
-	- [ ] [InPlace -Practical Tools to Build the Context Web]
+	- [A Distributed Software Stack For Co-operation](https://nlnet.nl/project/Perspectives/)
+	- [elRepo.io - Resilient, human-centered, distributed content sharing and discovery](https://nlnet.nl/project/elrepo_io/)
+	- [FairSync](https://nlnet.nl/project/FairSync/)
+	- [IN COMMON a network of non-profit actors to identify, promote, and defend the Commons](https://nlnet.nl/project/InCommon/)
+	- [Mangaki  [[Open Source]] library for privacy-preserving group recommendations of items](https://nlnet.nl/project/Mangaki/)
+	- [openEngiadina - semantic social network](https://nlnet.nl/project/Mangaki/)
+	- [ OpenKit - "peer-to-peer" courses](https://nlnet.nl/project/OpenKi/)
+	- [P2Pcollab- protocols for peer-to-peer collaboration](https://nlnet.nl/project/P2Pcollab/)
+	- [InPlace -Practical Tools to Build the Context Web]
 - ### **Documents/ Application Form**
 ** A [Sorites Paradox](https://en.wikipedia.org/wiki/Sorites_paradox) with potential for immensely dangerous consequences. But what could we do to root this immense power back into humanity and the common sanity checks of social structures, enable the good in it?
 - [ ] Website / wiki 
