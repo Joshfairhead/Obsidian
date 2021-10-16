@@ -176,5 +176,14 @@
       ],
       "key": "4"
     }
-  ]
+  ],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-checklist-status": []
 }
