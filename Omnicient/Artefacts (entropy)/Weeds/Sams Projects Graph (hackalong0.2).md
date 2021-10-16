@@ -62,7 +62,7 @@
     - Add sociocracy3.0 to the forum [[Josh]]
 - [[Governance]] 
 - [[Events]]
-    - [x] Global harmonisation day
+    - Global harmonisation day
 - [[Hack-Along]]
 - [[NGI - Identity Graph notes]]
 - [[NGI - WeQuest Application]]
