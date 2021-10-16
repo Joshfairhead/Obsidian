@@ -12,7 +12,10 @@ Related: [[Buffer]]
 **Content**
 ```tasks
 not done
+hide edit button
+
 ```
+
 
 **Context:**
 
