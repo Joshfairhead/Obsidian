@@ -112,14 +112,7 @@
       "key": "M"
     }
   ],
-  "hotkeysplus-obsidian:better-toggle-todo": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
+  "hotkeysplus-obsidian:better-toggle-todo": [],
   "hotkeysplus-obsidian:toggle-bullet-number": [
     {
       "modifiers": [
