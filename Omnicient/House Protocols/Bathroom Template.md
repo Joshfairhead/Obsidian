@@ -14,13 +14,13 @@ Related: [[Petersberger Strass 5]]
 - Wipe the outside of the bowl
 
 ## Sink
-- [ ] Remove limescale with thick yellow bleach
-- [ ] Wipe underneath
+- Remove limescale with thick yellow bleach
+- Wipe underneath
 
 ## Floor
-- [ ] Vaccumme the floor
-- [ ] Wipe around edges of the floor
+- Vaccumme the floor
+- Wipe around edges of the floor
 
 ## Surfaces
-- [ ] Clean surfaces around toilet with bleach spray
-- [ ] Clean surface under the sink (top and sides)
+- Clean surfaces around toilet with bleach spray
+- Clean surface under the sink (top and sides)

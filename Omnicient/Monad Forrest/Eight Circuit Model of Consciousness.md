@@ -19,8 +19,8 @@ The proposal suggests that these altered states of consciousness are recently re
 
 #### Circuits
 - 1. 
-- [ ] 		(Leary)The vegetative-invertebrate circuit 
-		(Wilson) The oral bio-survival circuit
+(Leary)The vegetative-invertebrate circuit 
+(Wilson) The oral bio-survival circuit
 		- This circuit is concerned with nourishment, physical safety, comfort and survival, suckling, cuddling, etc. It begins with one spatial dimension, forward/back.
 		- This circuit is [imprinted](https://en.wikipedia.org/wiki/Imprinting_(psychology)) early in infancy. The imprint will normally last for life unless it is re-imprinted by a powerful experience. Depending on the nature of the imprint, the organism will tend towards one of two basic attitudes:
 			- **A positive imprint** sets up a basic attitude of trust. The organism generally considers the environment benign and accepts and approaches. This is equivalent to a default life position of "you're ok" in the 'life positions' model of [[Transactional Analysis]]
