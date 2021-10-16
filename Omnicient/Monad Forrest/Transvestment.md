@@ -79,7 +79,7 @@ https://www.nature.com/articles/s41567-019-0732-0#Equ2
                 - How do we track ecosystem progress?
             - How do you deal with participants’ capital outside the network?
             - Can my mother buy veg from the network rather than the supermarket?
-        - [ ] Transvestment user stories/mural
+        - Transvestment user stories/mural
 - # **Assertions**
     - **Ostrom's 8 Rules for commoning**
         - Define clear group boundaries
