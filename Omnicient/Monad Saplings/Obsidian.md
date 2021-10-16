@@ -55,3 +55,5 @@ My custom setup:
 
 ### Vim
 ### Note Refactor
+### Daily notes for each day
+https://github.com/SilentVoid13/Templater/discussions/240
