@@ -10,7 +10,7 @@
     - Transvestment contributor/investor interface 
     - Transvestment visual contract
     - Transvestment investor terms
-    - [ ] Payment splitter; personal, local, global [[Roberto]]
+    - Payment splitter; personal, local, global [[Roberto]]
     - PreciousPlastic.com want a DAO - on boarding project?
     - DAO factory for xFUTILE 
     - Sequence diagrams for Devs 
@@ -54,9 +54,9 @@
         - ((IxtULyW41)) [[Josh]]
     - Set Up Ghost [[Maija]]
         - Get Ghost running in production enviroment
-        - [ ] Install on Heroku [docs](https://github.com/SNathJr/ghost-on-heroku)
-        - [ ] [Setup docs](https://ghost.org/docs/setup/)
-        - [ ] [Setup guide for self hosted servers ASmallOrange](https://www.ghostforbeginners.com/how-to-install-ghost-on-a-small-orange/)
+        - Install on Heroku [docs](https://github.com/SNathJr/ghost-on-heroku)
+        - [Setup docs](https://ghost.org/docs/setup/)
+        - [Setup guide for self hosted servers ASmallOrange](https://www.ghostforbeginners.com/how-to-install-ghost-on-a-small-orange/)
     - Netlify Moon bot [[Maija]]
     - Eric Bear / [[Liminal]] discussion [[Josh]]
     - Add sociocracy3.0 to the forum [[Josh]]
