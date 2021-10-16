@@ -60,8 +60,8 @@ dedication.
 - **Schedule**
 - [Outline of challanges](https://s3.amazonaws.com/fundingbox-sites/gear%2F1572531546587-D1.5._Update_of_+LEDGER_SRI%28Strategic_Research_and_Innovation%29_Work_Programme+%281%29.pdf)
 - **Application form**
-    - [ ] [Application page](https://ledger-2nd-open-call.fundingbox.com/edit/6b5005a30e6d59177fc6d903)
-    - [ ] **Contact information**
+    - [Application page](https://ledger-2nd-open-call.fundingbox.com/edit/6b5005a30e6d59177fc6d903)
+    - **Contact information**
         - **Legal name of the SME**
             - Natural Persons
         - **Name of the contact person**
@@ -70,31 +70,31 @@ dedication.
             - 
         - **Phone number**
             - 
-    - [x] **Team composition**
-        - [x] **Your team is composed of**
+    - **Team composition**
+        - **Your team is composed of**
             -  A group of natural persons
-        - [x] **If you choose "A group of natural persons" in the question above, please fill in the information below:**
+        - **If you choose "A group of natural persons" in the question above, please fill in the information below:**
             - **Country where most of the team members are based. Take notice that only countries indicated in GfA Section 3.2 are eligible for application.**
                 - Italy
-    - [ ] **Project description**
-        - [ ] **Project Name**
-        - [ ] **Tagline**
-        - [x] **Brief Description**
+    - **Project description**
+        - **Project Name**
+        - **Tagline**
+        - **Brief Description**
             - Instructions
                 - Tell us more about your project and how you see not only its market implementation but also the potential of shared gains for the entire ecosystem impacted by your project (Max 1000 characters)
             - Description
                 - WeQuest is a community-governed digital billboard installed in small towns and city neighbourhoods.  Instead of advertisers, passers-by can publish what they can offer (a local tour, a culinary specialty, english lessons etc) and request anything they need (organic food, a new bench in the park etc.). It represents a digital common, which reconnects locals to a fully-inclusive peer-to-peer economy. The WeQuest companion app enables the citizens to submit a listing for goods or services: the geo-localised needs are aggregated onto an offers/requests map and shared with passers by.
                 - Any person will be able to see this information and become providers (or consumers) for the listed needs (or offers), in exchange for money and mutual community credits, computed automatically based on the density and intensity of needs. WeQuest also reserves part of the monetary transactions into a community fund, giving citizens the power to govern and finance the most interesting community projects.
-        - [ ] **Website (optional)**
-            - [ ] Use [Hugo](https://gohugo.io/) to make things pretty on the surface level of Hackalong, [[Liminal]] and whatever name we choose for this project. We need a headless CMS like Ghost on the back end. 
-            - 
-        - [ ] **Slide [[Presentation]]. Optional. You can upload here a [[Presentation]] of your business idea (Max. 10MB)**
-            - [ ] Create [[Presentation]] deck
-        - [ ] **Video. Optional. Please enter the url of a video explaining your business idea (max 2 min), if available.**
-            - [ ] Link: https://youtu.be/EQ1FgRigltA
+        - **Website (optional)**
+            - Use [Hugo](https://gohugo.io/) to make things pretty on the surface level of Hackalong, [[Liminal]] and whatever name we choose for this project. We need a headless CMS like Ghost on the back end. 
+
+        - **Slide [[Presentation]]. Optional. You can upload here a [[Presentation]] of your business idea (Max. 10MB)**
+            - Create [[Presentation]] deck
+        - **Video. Optional. Please enter the url of a video explaining your business idea (max 2 min), if available.**
+            - Link: https://youtu.be/EQ1FgRigltA
         - [x] **City**
             - Castorano, Ascoli Piceno
-        - [ ] **Vertical. Select the main sectors relevant to your project according to the LEDGER Scientific and Research Work**
+        - **Vertical. Select the main sectors relevant to your project according to the LEDGER Scientific and Research Work**
             - Options
                 -  Health
                 -  Economy
@@ -104,7 +104,7 @@ dedication.
                 -  Open Innovation
             - Selections
                 - 
-        - [ ] **Technologies. Select all technologies relevant to your project.**
+        - **Technologies. Select all technologies relevant to your project.**
             - Options
                 -  Blockchain technologies
                 -  Distributed ledger technologies
@@ -116,33 +116,33 @@ dedication.
                 -  Others
             - Selections
                 - 
-        - [ ] **References**
+        - **References**
             - Description
                 - Incubator references (or commitments to take part in them)
             - Selection
-        - [ ] **If you get selected, how are you planning to spend the resources of the project? Staff cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+        - **If you get selected, how are you planning to spend the resources of the project? Staff cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
             - Cost form
                 - $60000
-        - [ ] **Subcontracting cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+        - **Subcontracting cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
             - Cost form
                 - $40000
-        - [ ] **Technology Assets cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+        - **Technology Assets cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
             - Cost form
                 - $20000
-        - [ ] **Travel & other indirect costs in euros. Use dots and not commas as a decimal separator. No thousands separator**
+        - **Travel & other indirect costs in euros. Use dots and not commas as a decimal separator. No thousands separator**
             - Cost form
                 - $10000
-        - [ ] **Sales & Marketing cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
+        - **Sales & Marketing cost in euros. Use dots and not commas as a decimal separator. No thousands separator**
             - Cost form
                 - $20000
-    - [ ] **Excellence**
+    - **Excellence**
         - [x] **Challenge and Product / Service **
             - Description - **address open innovation**
                 - Explain the problem you're addressing and how your product will overcome it. Also, describe your product/service, and the differential advantages and enhanced value it offers. Highlight the innovative approach behind it (e.g. ground -breaking objectives, novel concepts and approaches, new products, services or business and organisational models) (max. 1000 characters)
             - Response
                 - Small towns in southern Europe are progressively losing population as people and business migrates towards opportunity in the big cities. Surviving businesses often struggle to make ends meet. WeQuest provides a digital platform that is able to turn this economic death spiral into a positive one. WeQuest first addresses the place-based specific needs and opportunities present in different communities - listening to the local context and gathering local needs and resource information. This is shared openly, enabling full economic participation.
                 - WeQuest connects people in a fully-inclusive peer-to-peer economy. By using this alternative blockchain-backed monetary incentive system, we empower people to conduct trustworthy peer-to-peer interactions with each other. This enables people to contribute to the local community despite their current socio-economic situation.
-        - [ ] **Is your product/service based or developing any research component? **
+        - **Is your product/service based or developing any research component? **
             - Options
                 -  Not based or developing any research
                 -  Based on/developing 3rd parties theoretical research
@@ -161,7 +161,7 @@ dedication.
                 - What is the technology (or process) behind your business? Explain the technology you use in order to illustrate how your product works (description of devices, HW, SW, type of communications, architecture of the system, etc) (max. 500 characters)
             - Response
                 - We base our tech stack on Holochain and Ethereum. Ethereum is the de-facto standard for smart contracts and used to guarantee data integrity during the fulfillment of orders. The agent centric approach provided by Holochain is used to track trust and mutual credit. The hardware requirements we require are large touch totems (commonly used in digital advertisements) as the onboarding signal for local passers by to engage with immediately, or through cross-platform companion applications.
-        - [ ] **Technology Readiness Level. Which of the following best describes your current status at a technological level? **
+        - **Technology Readiness Level. Which of the following best describes your current status at a technological level? **
             - Options
                 -  TRL 3. Experimental proof of concept
                 -  TRL 4. Component and/or breadboard validation in laboratory environment
@@ -170,7 +170,7 @@ dedication.
                 -  TRL 7. System prototype demonstration in an operational environment.
             - Selection
                 -  
-        - [ ] **Which license are you planing to use for your future product? **
+        - **Which license are you planing to use for your future product? **
             - Options
                 - Product/service developed will license some parts under proprietary license
                 -  Product/service developed will use permissive free and open source (FOSS) licenses (ie. Apache)
@@ -182,7 +182,7 @@ dedication.
                 - Tell us how does your project fit with LEDGER Strategic Research and Innovation Worldprogramme? Read it and explain briefly how your project is aligned with the document (max 200 characters)
             - Response
                 - By gathering request data our system enables citizens to choose how best to contribute towards the localitys needs. This can be done by fulfilling requests directly or by describing what you need done to the needs market!
-        - [ ] **Will your product/service improve citizens' control over their data? **
+        - **Will your product/service improve citizens' control over their data? **
             - Options
                 - Yes
                 - No
@@ -190,14 +190,14 @@ dedication.
                 - Yes
         - [x] **How will your product/service improve citizens' control over their data? ** 
             - Besides the opportunity of easily starting a transparent and fair business on the platform, citizens are able to exercise moderation for the content being displayed in their public digital space and collectively govern the communally accrued funds. 
-            - [ ] Rephrase: Furthermore, instead of being only accessible through market research agencies, the public data is accessible to everyone, and to the entire Ethereum ecosystem so that everyone or every platform can contribute as a provider.
-    - [ ] **Impact**
+            - Rephrase: Furthermore, instead of being only accessible through market research agencies, the public data is accessible to everyone, and to the entire Ethereum ecosystem so that everyone or every platform can contribute as a provider.
+    - **Impact**
         - [x] **Addressable Market **
             - Description
                 - Show the market potential of your product. Indicate the targeted market, potential clients and end-users as precicely as possible. Illustrate the direction for the future growth (max 500)
             - Response
                 - Our aim is one Totem per town or municipality. There are currently no providers for such initiatives as digital billboards are predominantly installed in large cities, airports and transportation hubs for the purpose of advertising.
-        - [ ] **Current progress or traction **
+        - **Current progress or traction **
             - Options
                 - We plan to launch a beta/pilot within next 12 months
                 -  We plan to launch a beta/pilot within next 6 months
@@ -207,7 +207,7 @@ dedication.
                 -  None of the above
             - Selection
                 -  
-        - [ ] **Proved experience in your vertical. Tell us the years of experience in the vertical market selected by the most experienced member (only one) of the team **
+        - **Proved experience in your vertical. Tell us the years of experience in the vertical market selected by the most experienced member (only one) of the team **
             - Options
                 -  Less than 1 year
                 -  1 to 3 years
