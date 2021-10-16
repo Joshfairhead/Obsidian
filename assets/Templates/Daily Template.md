@@ -21,7 +21,7 @@ hide edit button
 
 
 **Rope**
-- 20:00; Thursday 21st October: The Qualities of Energy at Each Level
+- 20:00; Thursday 21st October: [[The Qualities of Energy at Each Level]]
 - 22:00~; Thursday 21st October: Maija visits
 - 19:00; Wednesday 27th October: Movement Class
 - 20:00; 28th October: Pattern Thinking with Qualitative Systems
