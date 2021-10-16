@@ -227,7 +227,7 @@ dedication.
             - Response
                 - We will offer installation of the integrated system at a fixed cost for the municipalities. The generated revenues will be directly fed into the improvement and development of new features and network expansion.
                 - Besides local community funds, our smart contract also saves a part of the transactions into a "network funding pool". Although anyone can apply, as core developers and initiators, we will have the experience and credibility to tap into these extra resources for the improvement and the spread of the platform.
-        - [ ] **Are you planning to use any free and open source hardware or/and software license? **
+        - **Are you planning to use any free and open source hardware or/and software license? **
             - Options
                 - Yes
                 - No
@@ -238,7 +238,7 @@ dedication.
                 - Please write down which applications, algorythms, etc. from your product/service you can contribute to grow open hardware and software
             - Response
                 - Both software and hardware will be open source, and dual licensed, providing the basics for a sharing economy oracle or platform coop. Our smart contract will create an accessible and geolocated list of needs. Providers around the world will be able to tap the smart contract and potentially become providers for specific needs if not locally accessible (eg: providing water cleaning solution during draughts)
-        - [ ] **Contribution to Sustainable Development Goals (SDG). Please, select all SDG to which your project might contribute. More info on SDG at https://sustainabledevelopment.un.org/?menu=1300**
+        - **Contribution to Sustainable Development Goals (SDG). Please, select all SDG to which your project might contribute. More info on SDG at https://sustainabledevelopment.un.org/?menu=1300**
             - Options
                 -  SDG#1. No Poverty;
                 -  SDG#2. Good Health and wellbeing;
@@ -253,8 +253,8 @@ dedication.
                 -  None of the above
             - Selection
                 - 
-        - [ ] **INVESTMENT**
-            - [ ] **Investment received. Have your project or team received any investment? **
+        - **INVESTMENT**
+            - **Investment received. Have your project or team received any investment? **
                 - Options
                     -  Less than 100 K
                     -  From 100 K to 500 K
@@ -263,7 +263,7 @@ dedication.
                     -  No investment received
                 - Selection
                     -  Less than 100 K 
-            - [ ] **Sources of investment. Please select the source or sources of the investment received till now**
+            - **Sources of investment. Please select the source or sources of the investment received till now**
                 - Options
                     -  Own money
                     -  FFF
@@ -273,7 +273,7 @@ dedication.
                     -  Venture Capital
                 - Selection
                     - Own Money
-            - [ ] **Which amount will you be looking for to develop next stages of your product. Please, select the option which best fit on what you plan.**
+            - **Which amount will you be looking for to develop next stages of your product. Please, select the option which best fit on what you plan.**
                 - Options
                     -  Not on round
                     -  Less than 100K
@@ -283,8 +283,8 @@ dedication.
                     -  More than 5m
                 - Selection
                     -  From 100K to 500K
-        - [ ] **Projection (optional)**
-            - [ ] **Metrics**
+        - **Projection (optional)**
+            - **Metrics**
                 - **Year**
                 - **Users**
                 - **Clients**
@@ -297,11 +297,11 @@ dedication.
                 - User participation
                 - Number of digital public spaces
                 - Number of installed companion apps
-    - [ ] **Implementation**
-        - [ ] **Team introduction**
-            - [ ] **Members' Video. Please enter the url of a 1 minute unlisted (not private) video introducing the team members. Please introduce yourselves, explain what you’re doing and why, and tell us anything you want to about the members or the project. The video should contain only the members talking, there is no need for the background music. Keep it simple.**
+    - **Implementation**
+        - **Team introduction**
+            - **Members' Video. Please enter the url of a 1 minute unlisted (not private) video introducing the team members. Please introduce yourselves, explain what you’re doing and why, and tell us anything you want to about the members or the project. The video should contain only the members talking, there is no need for the background music. Keep it simple.**
                 - 
-            - [ ] **Team introduction. **
+            - **Team introduction. **
                 - Description
                     - Introduce your team. Write down everything that makes you the team that can make your idea into reality. How much have you been involved in entrepreneurial projects, together or individually? Do you have domain expertise in this area? etc (max 1000)
                 - Response
@@ -311,15 +311,15 @@ dedication.
                         - [[Roberto]] has a Phd in human centric design and provisions a networked space in Ascoli called [[Liminal]] Village. He plays the roles of researcher, back end developer, philosopher, and entrepreneur.
                         - Josh has a strong R&D background in the relevant technologies having previously worked in the distributed ledger and identity spaces. Since then he's been actively involved in grassroots outreach and self organising communities. 
                         - [[Thomas]] wants to enable a more natural world through technology. He's an experienced fullstack developer, holds a masters degree in computer science, and contemplates the many ethical implications of computing. 
-            - [ ] **How many members includes your team? Please include total number of members in your team. **
+            - **How many members includes your team? Please include total number of members in your team. **
                 - 4
-            - [ ] **How many academic researcher includes your team? Please, count each member of your team in only one role. **
+            - **How many academic researcher includes your team? Please, count each member of your team in only one role. **
                 - 1
-            - [ ] **How many entrepreneurs and/or business developer includes your team? Please, count each member of your team in only one role. **
+            - **How many entrepreneurs and/or business developer includes your team? Please, count each member of your team in only one role. **
                 - 1
-            - [ ] **How many software developers include your team? Please, count each member of your team in only one role. **
+            - **How many software developers include your team? Please, count each member of your team in only one role. **
                 - 2
-        - [ ] **Team composition**
+        - **Team composition**
             - Add contact details for at least 3 team members (including the contact person)
                 - [x] **Name**
                     - Josh Fairhead
@@ -398,7 +398,7 @@ dedication.
                             - Software Developer
                     - [x] ** Insert a link to your CV in english (You may use a LinkedIn profile, if you wish) **
                         - https://www.linkedin.com/in/thomasmcalpine/
-        - [ ] **Other team information**
+        - **Other team information**
             - [x] **Dedication to project. Choose the most appropriate description of your team's member dedication to the project. **
                 - Options
                     -  3 member dedicated part-time
@@ -447,8 +447,8 @@ dedication.
                     - Build customised infrastructure for municipalities and their citizens to govern the shared data commons.
                     - A base income to the core team members for development (Location is already provisioned) and the required collaborators.
                     - Travel to participate and present the solution at conferences.
-    - [ ] **Transversal Criteria**
-        - [ ] **Potential User Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
+    - **Transversal Criteria**
+        - **Potential User Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
             - Options
                 -  Reduce Cost to Users
                 -  Increased quality
@@ -459,7 +459,7 @@ dedication.
                 -  None
             - Selection
                 - 
-        - [ ] **Potential Economic Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
+        - **Potential Economic Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
             - Options
                 -  Creates jobs
                 -  Stimulates economic growth
@@ -470,7 +470,7 @@ dedication.
                 -  None
             - Selection
                 - 
-        - [ ] **Potential Societal Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
+        - **Potential Societal Benefits. Select the most important benefits of your product / service. Select all relevant from list.**
             - Options
                 -  Creates jobs
                 -  Reduces digital divide
@@ -481,14 +481,14 @@ dedication.
                 -  Others
                 -  None
             - Selection
-    - [ ] **Statistical criteria** 
-        - [ ] **Is there a baseline or is this a new initiative? **
+    - **Statistical criteria** 
+        - **Is there a baseline or is this a new initiative? **
             - Options
                 - Completely new approach - Disruptive
                 -  Improvement of existing approach – Incremental
             - Selection
                 - 
-        - [ ] **At what stage of readiness is the initiative? Select the highest degree of readiness from the list. **
+        - **At what stage of readiness is the initiative? Select the highest degree of readiness from the list. **
             - Options
                 - Basic principles of product/service understood
                 -  Technology concept for product/service defined
@@ -499,7 +499,7 @@ dedication.
                 -  None of those
             - Selection
                 - 
-        - [ ] **In relation to NGI value-chain, How do you see your position in the ecosystem? Select all relevant from list. **
+        - **In relation to NGI value-chain, How do you see your position in the ecosystem? Select all relevant from list. **
             - Options
                 - Developer of Enabler
                 -  Application developer
@@ -510,7 +510,7 @@ dedication.
                 -  None of those
             - Selection
                 - 
-        - [ ] **Where do the needs and/or requirements come from. Select all relevant from list. **
+        - **Where do the needs and/or requirements come from. Select all relevant from list. **
             - Options
                 -  Competitor
                 -  Client
@@ -523,11 +523,11 @@ dedication.
                 -  Other
             - Selection
                 - 
-        - [ ] **Indicate the combined number of years (or fractions) of management experience considering all your team members. **
+        - **Indicate the combined number of years (or fractions) of management experience considering all your team members. **
             - 20
-        - [ ] **Indicate the combined number of years (or fractions) of technical experience in the target domain of your proposal considering all your team members. **
+        - **Indicate the combined number of years (or fractions) of technical experience in the target domain of your proposal considering all your team members. **
             - 40
-        - [ ] **Type of customer that will use the product or service. Select all relevant answers. **
+        - **Type of customer that will use the product or service. Select all relevant answers. **
             - Options
                 - Consumer
                 -  Business
@@ -535,7 +535,7 @@ dedication.
                 -  Indifferent
                 -  Other
             - Selection
-        - [ ] **Select target geographic area for the proposed product or service. **
+        - **Select target geographic area for the proposed product or service. **
             - Options
                 -  Local
                 -  Regional
@@ -546,7 +546,7 @@ dedication.
                 -  Global
             - Selection
                 - 
-        - [ ] **How did you hear about LEDGER? Select all relevant from list. **
+        - **How did you hear about LEDGER? Select all relevant from list. **
             - Options
                 -  Social media
                 -  Email campaigns
