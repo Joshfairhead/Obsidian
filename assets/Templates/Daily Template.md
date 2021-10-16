@@ -10,11 +10,6 @@ Related: [[Buffer]]
 
 ## Day
 **Content**
-```tasks
-not done
-hide edit button
-
-```
 
 
 **Context:**
