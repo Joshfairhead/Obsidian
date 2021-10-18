@@ -33,7 +33,6 @@ Tags: [Tools]
 ### HotKeys
 Basics:
 - Highlight + Cmd + Delete = retain highlight, delete everything on the line infront
-- 
 
 My custom setup: 
 - Cmd + arrows = move cursor to line beginning/end
@@ -56,4 +55,4 @@ My custom setup:
 ### Vim
 ### Note Refactor
 ### Daily notes for each day
-https://github.com/SilentVoid13/Templater/discussions/240
+[Templater](https://github.com/SilentVoid13/Templater/discussions/240)
