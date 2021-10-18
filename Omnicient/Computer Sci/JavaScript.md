@@ -263,4 +263,6 @@ So the **number of items - 1** can be written as the following expression, assum
 
 ##### Array.push()
 - A method is a function that you can call on a certain data structure.
+- The `.push(item)` method adds (or pushes) an item into an existing array
+- Every time you call `push(item)` it adds that item at **the end of the array**.
 - 
