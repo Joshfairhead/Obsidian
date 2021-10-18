@@ -261,3 +261,6 @@ So the **number of items - 1** can be written as the following expression, assum
 - `items[items.length - 1] // (last item)`
 	- The code above works for no matter how many items there are in the array (except for 0 items).
 
+##### Array.push()
+- A method is a function that you can call on a certain data structure.
+- 
