@@ -279,3 +279,16 @@ So the **number of items - 1** can be written as the following expression, assum
 -   `array.includes(item)` returns `true` when the item is found inside the array.
 -   `array.includes(item)` returns `false` when the item is NOT found inside the array.
 
+#### Array join
+- Say you have an array of numbers and you would like to convert that array into a string. For example, you want to convert `[3, 1, 6]` to the string: `"3;1;6"`. Here's how you can do it:
+```javascript
+let numbers = [3, 1, 6]
+
+let string = numbers.join(";") // "3;1;6"
+```
+- The `array.join(glue)` method converts the array into a string by **gluing** together the items with the `glue` that you provide
+- Another common example is converting an array into CSV format:
+```javascript
+let numbers = [3, 1, 6]
+let csv = numbers.join(", ") // "3, 1, 6"
+```
