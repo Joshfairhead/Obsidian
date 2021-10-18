@@ -267,4 +267,6 @@ So the **number of items - 1** can be written as the following expression, assum
 - Every time you call `push(item)` it adds that item at **the end of the array**.
 - What's nice about the `.length` property is that it always reflects the number of items in this array
 - The methods and functions that you call, will **always** return something. Even if it's `undefined`.
-- 
+- The `.push(item)` method returns the **new length of the array**. So it returns a number
+- if we assign the result of `.push()` into a variable, it will be a number representing the new length of the array:
+
