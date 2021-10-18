@@ -16,5 +16,3 @@ Related: [[Buffer]]
 **Context:**
 
 
-**Rope**
-
