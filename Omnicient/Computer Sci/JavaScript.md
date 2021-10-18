@@ -271,4 +271,6 @@ So the **number of items - 1** can be written as the following expression, assum
 - if we assign the result of `.push()` into a variable, it will be a number representing the new length of the array:
 - Most often, you will need to return the new array rather than the new length of the array, which is why you have to `return` the array after you `.push()` rather than returning the result of `.push()`.
 - You can also push a variable into an array
-- 
+
+##### array.includes(item)
+- Say you have an array containing some numbers and you would like to check if that array **includes** (contains) a certain number. This means, that you want to go through every item of that array and check if a certain number exists
