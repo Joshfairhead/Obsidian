@@ -7,7 +7,7 @@ function scheduleTemplate(tp) {
       case 5: return tp.file.include("[[Friday]]")
       case 6: return tp.file.include("[[Saturday]]")
       case 7: return tp.file.include("[[Sunday]]")
-      default: return tp.file.include("[[Schedule - +Weekday]]")
+      default: return tp.file.include("[[DailyTemplate]]")
     }
   }
   
