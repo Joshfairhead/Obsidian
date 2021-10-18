@@ -265,4 +265,6 @@ So the **number of items - 1** can be written as the following expression, assum
 - A method is a function that you can call on a certain data structure.
 - The `.push(item)` method adds (or pushes) an item into an existing array
 - Every time you call `push(item)` it adds that item at **the end of the array**.
+- What's nice about the `.length` property is that it always reflects the number of items in this array
+- The methods and functions that you call, will **always** return something. Even if it's `undefined`.
 - 
