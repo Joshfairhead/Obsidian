@@ -269,3 +269,4 @@ So the **number of items - 1** can be written as the following expression, assum
 - The methods and functions that you call, will **always** return something. Even if it's `undefined`.
 - The `.push(item)` method returns the **new length of the array**. So it returns a number
 - if we assign the result of `.push()` into a variable, it will be a number representing the new length of the array:
+- Most often, you will need to return the new array rather than the new length of the array, which is why you have to `return` the array after you `.push()` rather than returning the result of `.push()`.
