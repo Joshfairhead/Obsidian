@@ -2,6 +2,8 @@
 Tags: [daily]
 ---
 Related: [[Buffer]]
-# <% tp.date.now("dddd Do MMM (YYYY)") %>
-## Correspondence Day
+# <% tp.date.weekday("dddd Do MMM (YYYY)", 6, tp.file.title, "YYYY-MM-DD") %>
+
+
+
 
