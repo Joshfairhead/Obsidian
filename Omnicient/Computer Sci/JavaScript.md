@@ -294,4 +294,15 @@ let csv = numbers.join(", ") // "3, 1, 6"
 ```
 	
 ##### Iteration
-the array **.forEach()** method which is one of the most important methods on arrays.
+- The array **.forEach()** method is one of the most important methods on arrays.
+- The `.forEach()` method allows us to iterate over an array
+- What the forEach does is that it allows you to run a function for every item of an array
+```javascript
+let grades = [14, 10, 18]
+
+grades.forEach(function logGrade(grade) {
+    console.log(grade)
+})
+```
+- Now, this function `logGrade` will be called **for every item in the array**.
+- 
