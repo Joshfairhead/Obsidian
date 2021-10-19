@@ -294,3 +294,4 @@ let csv = numbers.join(", ") // "3, 1, 6"
 ```
 	
 ##### Iteration
+the array **.forEach()** method which is one of the most important methods on arrays.
