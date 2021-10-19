@@ -305,4 +305,6 @@ grades.forEach(function logGrade(grade) {
 })
 ```
 - Now, this function `logGrade` will be called **for every item in the array**.
-- 
+- When calling functions, we've been used to calling them with a number, a string or a boolean.
+- However, you may have noticed, that with the `.forEach()`, we passed a function.
+- We call this function a **callback** because this function is being called back automatically by the JavaScript.
