@@ -293,7 +293,7 @@ let numbers = [3, 1, 6]
 let csv = numbers.join(", ") // "3, 1, 6"
 ```
 	
-##### Iteration
+##### Iteration + Callbacks
 - The array **.forEach()** method is one of the most important methods on arrays.
 - The `.forEach()` method allows us to iterate over an array
 - What the forEach does is that it allows you to run a function for every item of an array
@@ -308,3 +308,22 @@ grades.forEach(function logGrade(grade) {
 - When calling functions, we've been used to calling them with a number, a string or a boolean.
 - However, you may have noticed, that with the `.forEach()`, we passed a function.
 - We call this function a **callback** because this function is being called back automatically by the JavaScript.
+- A callback function is a function that is passed as an argument and that will be called by the programming language (sometimes at a later stage).
+- When writing the callback for the `.forEach` method, you can actually remove the function name completely, that's because this function won't be re-used anywhere else, so it's meaningless to give it a name.
+```javascript
+let grades = [14, 10, 18]
+
+grades.forEach(function logGrade(grade) {
+    console.log(grade)
+})
+```
+To
+```javascript
+let grades = [14, 10, 18]
+
+grades.forEach(function (grade) {
+    console.log(grade)
+})
+```
+- We recommend that you drop the function name. When you drop the function name, it's often referred to as **anonymous function**, which is a function without a name
+- From experience, we think that the most challenging concept for beginners with the `.forEach()` method is the shift from an array into an array item.
