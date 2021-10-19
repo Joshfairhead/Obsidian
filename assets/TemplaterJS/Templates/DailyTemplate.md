@@ -20,6 +20,7 @@
 - 16:00; 1st October: Call with Amit
 - 20:00; 4th November: Reciprocal Maintenance and the Eight Cosmoses
 - Friday 12-14th November: TheNewCommonSense Conf
+- Thursday 11th-14th of November
 - 20:00; 11th November: Transcending the Limitations of Space-time
 - 20:00; 18th November: The Nature and Condition of Humanity
 - 20:00; 25th November: Cosmogenesis and Intelligent Evolution
