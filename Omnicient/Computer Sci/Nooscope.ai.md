@@ -1,0 +1,94 @@
+---
+Tags: []
+---
+Related: 
+# Nooscope.ai
+![](assets/TheNooscopeManifested.pdf)
+
+## Notes
+> ## 4. The history of AI as the automation of perception.
+> The need to demystify AI (at least from the technical point of view) is understood in the corporate world too. Head of Facebook AI and godfather of convolutional neural networks Yann LeCun reiterates that current AI systems are not sophisticated versions of cognition, but rather, of perception. Similarly, the Nooscope diagram exposes the skeleton of the AI black box and shows that AI is not a thinking automaton but an algorithm that performs **pattern recognition**.
+
+> Regardless of their complexity, from the numerical perspective of machine learning, notions such as image, movement, form, style, and ethical decision can all be described as statistical distributions of pattern. In this sense, pattern recognition has truly become a new **cultural technique** that is used in various fields. For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: **training**, **classification**, and **prediction**. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation.
+
+> Rosenblatt’s Perceptron was the first algorithm that paved the way to machine learning in the contemporary sense. At a time when ‘computer science’ had not yet been adopted as definition, the field was called ‘computational geometry’ and specifically ‘connectionism’ by Rosenblatt himself. The business of these neural networks, however, was to calculate a statistical inference. What a neural network computes, is not an exact pattern but the **statistical distribution of a pattern**. Just scraping the surface of the anthropomorphic marketing of AI, one finds another technical and cultural object that needs examination: the **statistical model**.
+
+> ## 5. The learning algorithm: compressing the world into a statistical model.
+> But what do the algorithms of machine learning really do? Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model (more accurately termed an ‘algorithmic statistical model’). In the developer community, the term ‘algorithm’ is increasingly replaced with ‘model.’ This terminological confusion arises from the fact that the statistical model does not exist separately from the algorithm: somehow, the statistical model exists inside the algorithm under the form of distributed memory across its parameters. For the same reason, it is essentially impossible to visualise an algorithmic statistical model, as is done with simple mathematical functions. Still, the challenge is worthwhile.
+
+> In machine learning, there are many **algorithm architectures**: simple Perceptron, deep neural network, Support Vector Machine, Bayesian network, Markov chain, autoencoder, Boltzmann machine, etc. Each of these architectures has a different history (often rooted in military agencies and corporations of the Global North). Artificial neural networks started as simple computing structures that evolved into complex ones which are now controlled by a few **hyperparameters** that express millions of **parameters**
+
+> Statistical models have always influenced culture and politics. They did not just emerge with machine learning: machine learning is just a new way to automate the technique of statistical modelling. When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’ No statistical models, no climate science: no climate science, no climate activism. Climate science is indeed a good example to start with, in order to understand statistical models. Global warming has been calculated by first collecting a vast dataset of temperatures from Earth’s surface each day of the year, and second, by applying a mathematical model that plots the curve of temperature variations in the past and projects the same pattern into the future. Climate models are historical artefacts that are tested and debated within the **scientific community,** and today, also beyond. Machine learning models, on the contrary, are opaque and inaccessible to community debate. Given the degree of myth-making and social bias around its mathematical constructs, AI has indeed inaugurated the age of _statistical science fiction_. Nooscope is the projector of this large statistical cinema.
+
+> ## 6. All models are wrong, but some are useful.
+> But what should be contested is that AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent.
+
+> The algorithm is programmed to record only the dark edge of a profile (that is to _fit_ that desired pattern) and not all the pixels across the image (that would result in _overfitting_ and repeating the whole visual field). A statistical model is said to be trained successfully when it can elegantly **fit** only the important patterns of the training data and apply those patterns also to new data ‘in the wild’.
+
+> As  aptly puts it: ‘There is no intelligence in artificial intelligence, nor does it learn, even though its technical name is machine learning, it is simply mathematical minimization.’ [[Dan McQuillian]] [[Quotes]] [36](https://nooscope.ai/#nooscope-ref-36-bottom)
+
+> It is important to recall that the ‘intelligence’ of machine learning is not driven by exact formulas of mathematical analysis, but by algorithms of **brute force approximation**. The shape of the correlation function between input _x_ and output _y_ is calculated algorithmically, step by step, through tiresome mechanical processes of gradual adjustment (like gradient descent, for instance) that are equivalent to the differential calculus of Leibniz and Newton.
+
+> ## 7. World to vector.
+> The notions of data fitting, overfitting, underfitting, interpolation and extrapolation can be easily visualised in two dimensions, but statistical models usually operate along multidimensional spaces of data. Before being analysed, data are encoded into a **multi-dimensional vector space** that is far from intuitive. What is a vector space and why is it multi-dimensional? Cardon, Cointet and Mazière describe the vectorialisation of data in this way:
+>
+>A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation. While certain objects such as images are naturally broken down into vectors, other objects need to be ‘embedded’ within a vectorial space before it is possible to calculate or classify them with neural networks. This is the case of text, which is the prototypical example. To input a word into a neural network, the _Word2vec_ technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus. Words thus inherit a position within a space with several hundreds of dimensions. The advantage of such a representation resides in the numerous operations offered by such a transformation. Two terms whose inferred positions are near one another in this space are equally similar semantically; these representations are said to be distributed: the vector of the concept ‘apartment’ [-0.2, 0.3, -4.2, 5.1...] will be similar to that of ‘house’ [-0.2, 0.3, -4.0, 5.1...]. […] While natural language processing was pioneering for ‘embedding’ words in a vectorial space, today we are witnessing a generalization of the embedding process which is progressively extending to all applications fields: networks are becoming simple points in a vectorial space with _graph2vec_, texts with _paragraph2vec_, films with _movie2vec_, meanings of words with _sens2vec_, molecular structures with _mol2vec_, etc. According to Yann LeCun, the goal of the designers of connectionist machines is to put the world in a vector (_world2vec_)
+
+> William Gibson’s original definition of cyberspace prophesized, most likely, the coming of a vector space rather than virtual reality: ‘A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding. [[Quotes]] [[William Gibson]]
+
+> It must be stressed, however, that machine learning still resembles more craftsmanship than exact mathematics. AI is still a history of hacks and tricks rather than mystical intuitions. For example, one trick of information compression is **dimensionality reduction**, which is used to avoid the Curse of Dimensionality, that is the exponential growth of the variety of features in the vector space.
+
+> **Dimensionality reduction can shrink taxonomies and introduce bias, further normalising world diversity and obliterating unique identities**
+
+> Since the times of the Perceptron, classification has been the originary application of neural networks: with Deep Learning this technique is found ubiquitously in face recognition classifiers that are deployed by police forces and smartphone manufacturers alike.
+
+> Machine learning **prediction** is used to project future trends and behaviours according to past ones, that is to complete a piece of information knowing only a portion of it. In the prediction modality, a small sample of input data (a primer) is used to predict the missing part of the information following once again the statistical distribution of the model (this could be the part of a numerical graph oriented toward the future or the missing part of an image or audio file). Incidentally, other modalities of machine learning exist: the statistical distribution of a model can be dynamically visualised through a technique called latent space exploration and, in some recent design applications, also _pattern exploration_
+
+>  Even if recognising an obstacle on a road seems to be a neutral gesture (it’s not), identifying a human being according to categories of gender, race and class (and in the recent COVID-19 pandemic as sick or immune), as state institutions are increasingly doing, is the gesture of a new disciplinary regime
+
+Running the network backwards:
+>An artwork that is said to be created by AI always hides a human operator, who has applied the generative modality of a neural network trained on a specific dataset. In this modality, the neural network is run _backwards_ (moving from the smaller output layer toward the larger input layer) to generate new patterns after being trained at classifying them, a process that usually moves from the larger input layer to the smaller output layer. The generative modality, however, has some useful applications: it can be used as a sort of reality check to reveal what the model has learnt, i.e. to show how the model ‘sees the world.’ It can be applied to the model of a self-driving car, for instance, to check how the road scenario is projected.
+
+GANs:
+> The two main modalities of classification and generation can be assembled in further architectures such as in the Generative Adversarial Networks. In the GAN architecture, a neural network with the role of _discriminator_ (a traditional classifier) has to recognise an image produced by a neural network with the role of _generator,_ in a reinforcement loop that trains the two statistical models simultaneously. For some converging properties of their respective statistical models, GANs have proved very good at generating highly realistic pictures. This ability has prompted their abuse in the fabrication of ‘deep fakes’
+
+Scientific hallucination and regimes of truth:
+> Concerning regimes of truth, a similar controversial application is the use of GANs to generate synthetic data in cancer research, in which neural networks trained on unbalanced datasets of cancer tissues have started to hallucinate cancer where there was none. In this case ‘instead of discovering things, we are inventing things', Fabian Offert notices, ‘the space of discovery is identical to the space of knowledge that the GAN has already had. While we think that we are seeing through GAN — looking at something with the help of a GAN — we are actually seeing _into_ a GAN. GAN vision is not augmented reality, it is virtual reality. GANs do blur discovery and invention.’ The GAN simulation of brain cancer is a tragic example of AI-driven scientific hallucination.
+
+> ## 9. Faults of a statistical instrument: the undetection of the new.
+> The normative power of AI in the 21st century has to be scrutinised in these epistemic terms: what does it mean to frame collective knowledge as patterns, and what does it mean to draw vector spaces and statistical distributions of social behaviours?
+
+> A logical limit of machine learning classification, or pattern recognition, is the inability to recognise a **unique anomaly** that appears for the first time, such as a new metaphor in poetry, a new joke in everyday conversation, or an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario.
+
+> As a technique of information compression, machine learning automates the dictatorship of the past, of past taxonomies and behavioural patterns, over the present. This problem can be termed the **regeneration of the old** — the application of a homogenous space-time view that restrains the possibility of a new historical event. [[Quotes]]
+
+> The hackneyed question ‘Can AI be creative?’ should be reformulated in technical terms: is machine learning able to create works that are not imitations of the past? Is machine learning able to extrapolate beyond the stylistic boundaries of its training data? The ‘creativity’ of machine learning is limited to the detection of styles from the training data and then random improvisation within these styles.
+
+> ## 10. Adversarial intelligence vs. artificial intelligence.
+> **Adversarial attacks** exploit blind spots and weak regions in the statistical model of a neural network, usually to fool a classifier and make it perceive something that is not there.
+
+> Adversarial examples are designed knowing what a machine has never seen before. This effect is achieved also by reverse-engineering the statistical model or by polluting the training dataset. In this latter sense, the technique of **data poisoning** targets the training dataset and introduces doctored data. In so doing it alters the accuracy of the statistical model and creates a backdoor that can be eventually exploited by an adversarial attack
+
+> The logical and ontological boundary of machine learning is the unruly subject or anomalous event that escapes classification and control.
+
+> ## 11. Labour in the age of AI.
+> Against the idea of alien intelligence at work, it must be stressed that in the whole computing process of AI the human worker has never left the loop, or put more accurately, has never left the assembly line. Mary Gray and Siddharth Suri coined the term ‘**ghost work**’ for the invisible labour that makes AI appear artificially autonomous.
+
+> Automation is a myth; because machines, including AI, constantly call for human help, some authors have suggested replacing ‘automation’ with the more accurate term **heteromation**. Heteromation means that the familiar narrative of AI as _perpetuum mobile_ is possible only thanks to a reserve army of workers.
+ 
+> Even scientific datasets rely on scientific labour, experiment planning, laboratory organisation, and analytical observation. The information flow of AI has to be understood as an apparatus designed to extract ‘analytical intelligence’ from the most diverse forms of labour and to transfer such intelligence into a machine (obviously including, within the definition of labour, extended forms of social, cultural and scientific production). In short, the origin of machine intelligence is the **division of labour** and its main purpose is the **automation of labour**.
+
+> Historians of computation have already stressed the early steps of machine intelligence in the 19th century project of mechanizing the division of mental labour, specifically the task of hand calculation
+
+>The enterprise of computation has since then been a combination of surveillance and disciplining of labour, of optimal calculation of surplus-value, and planning of collective behaviours. Computation was established by and still enforces a regime of visibility and intelligibility, not just of logical reasoning. The genealogy of AI as an apparatus of power is confirmed today by its widespread employment in technologies of identification and prediction, yet the core anomaly which always remains to be computed is the _disorganisation of labour_.
+
+> The impact of AI on labour is well described (from the perspective of workers, finally) within a paper from the European Trade Union Institute, which highlights ‘seven essential dimensions that future regulation should address in order to protect workers:
+> 1) safeguarding worker privacy and data protection; 
+> 2) addressing surveillance, tracking and monitoring; 
+> 3) making the purpose of AI algorithms transparent; 
+> 4) ensuring the exercise of the ‘right to explanation’ regarding decisions made by algorithms or machine learning models; 
+> 5) preserving the security and safety of workers in human-machine interactions; 
+> 6) boosting workers’ autonomy in human–machine interactions; 
+> 7) enabling workers to become AI literate.
+>
+> Ultimately, the Nooscope manifests for a novel Machinery Question in the age of AI. The Machinery Question was a debate that sparked in England during the industrial revolution, when the response to the employment of machines and workers’ subsequent technological unemployment was a social campaign for more education about machines, that took the form of the Mechanics’ Institute Movement. Today an Intelligent Machinery Question is needed to develop more collective intelligence about ‘machine intelligence,’ more public education instead of ‘learning machines’ and their regime of knowledge extractivism (which reinforces old colonial routes, just by looking at the network map of crowdsourcing platforms today). Also in the Global North, this colonial relationship between corporate AI and the production of knowledge as a common good has to be brought to the fore. The Nooscope’s purpose is to expose the hidden room of the corporate Mechanical Turk and to illuminate the invisible labour of knowledge that makes machine intelligence appear ideologically alive.
