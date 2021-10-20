@@ -342,4 +342,23 @@ grades.forEach(function (grade) {
 	- Because it's a sum, we start at 0.
 - paramaters inside callbacks are scoped and are only available inside the function
 - Make sure that you define the `let sum = 0` **before** the `.forEach()`.
-- 
+
+- In this lesson, we're going to learn how to put our logic in a function, so that we can reuse it. For example, a function `calculateSum(array)` that takes an array of numbers and returns the sum of items in that array.
+- This will allow us to **reuse** our code with different arrays
+```javascript
+function calculateSum(items) {
+    let sum = 0
+    items.forEach(function(item) {
+        sum = sum + item
+    })
+    return sum
+}
+
+// Sample usage
+calculateSum([10, 20, 30]) // 60
+calculateSum([5, 2]) // 7
+calculateSum([]) // 0
+```
+- A common mistake is placing the `return sum` _inside_ the `.forEach(function(item) { ... })` but that won't work as you will need to **return** from the outer function, which is `calculateSum`. If you `return` inside the function of the `.forEach()`, you will **NOT** be returning from the `calculateSum`, because they are different functions.  
+- So make sure to place the `return sum` at the end of the function.
+
