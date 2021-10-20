@@ -361,4 +361,6 @@ calculateSum([]) // 0
 ```
 - A common mistake is placing the `return sum` _inside_ the `.forEach(function(item) { ... })` but that won't work as you will need to **return** from the outer function, which is `calculateSum`. If you `return` inside the function of the `.forEach()`, you will **NOT** be returning from the `calculateSum`, because they are different functions.  
 - So make sure to place the `return sum` at the end of the function.
+- The `sum = sum + grade` piece of code can be re-written as: `sum += grade`
+- The `+=` operator means that it will take the old value and add to it.
 
