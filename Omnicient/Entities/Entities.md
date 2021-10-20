@@ -10,6 +10,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - [Bateson institute](https://batesoninstitute.org)
 - [Warm Data Labs](https://batesoninstitute.org/warm-data-labs/)
 - [[Center for Collective Learning]]
+- [One World In Dialogue](https://oneworldindialogue.com/)
 
 ## Collaborative Orgs
 - https://opencollective.com
