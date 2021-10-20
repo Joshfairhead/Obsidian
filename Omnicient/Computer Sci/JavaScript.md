@@ -340,4 +340,5 @@ grades.forEach(function (grade) {
 
 - Once we're going to write the code that sums an array, we need to tell the programming language that we want to have a variable that will hold the **sum**. But then, we need to give it a certain value. What would that be? 0? 1?
 	- Because it's a sum, we start at 0.
-- paramaters inside callbacks are scoped and are only availabl
+- paramaters inside callbacks are scoped and are only available inside the function
+- 
