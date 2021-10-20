@@ -328,4 +328,9 @@ grades.forEach(function (grade) {
 - We recommend that you drop the function name. When you drop the function name, it's often referred to as **anonymous function**, which is a function without a name
 - From experience, we think that the most challenging concept for beginners with the `.forEach()` method is the shift from an array into an array item.
 - When you write `grades.forEach()` and you pass it a `function (grade){ ... }`, you have to immediately stop thinking of the `grades` array and start thinking about **one element of the array**.
+ 
+ Callbacks: Plural to Singular
+- When iterating over an array, you're always going from an array of several items into iterating over them **one by one**.
+- Make sure your array name is **plural**.
+- And make sure the function you pass to the forEach has the parameter in the **singular**.
 - 
