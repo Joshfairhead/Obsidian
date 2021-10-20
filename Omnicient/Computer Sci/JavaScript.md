@@ -333,4 +333,7 @@ grades.forEach(function (grade) {
 - When iterating over an array, you're always going from an array of several items into iterating over them **one by one**.
 - Make sure your array name is **plural**.
 - And make sure the function you pass to the forEach has the parameter in the **singular**.
-- 
+- You can think of writing array iterations as 3 steps
+	- 1.  Start by writing `grades.forEach()`
+	- Then inside the forEach(), you need to write the function that will be called for every grade: `function(grade) { }`
+	- And finally, you add the `console.log(grade)` inside of that function.
