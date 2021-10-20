@@ -367,3 +367,4 @@ calculateSum([]) // 0
 - Mathematically speaking, the average is calculated with the following formula:
 `average = sum / count`
 - The average always depends on the **sum** and the **count**. So when a new number is added to that array, the `count` becomes 4. For example, if we add 50, we get the array `[10, 20, 30, 50]`, now the average = 110 / 4 = 27.5
+- 
