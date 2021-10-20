@@ -337,3 +337,6 @@ grades.forEach(function (grade) {
 	- 1.  Start by writing `grades.forEach()`
 	- Then inside the forEach(), you need to write the function that will be called for every grade: `function(grade) { }`
 	- And finally, you add the `console.log(grade)` inside of that function.
+
+- Once we're going to write the code that sums an array, we need to tell the programming language that we want to have a variable that will hold the **sum**. But then, we need to give it a certain value. What would that be? 0? 1?
+- Because it's a sum, we start at 0.
