@@ -5,12 +5,10 @@ Related:
 # Twelve Levels of the Universe of Observation
 [Meeting Recording](https://us02web.zoom.us/rec/share/FeFf21twza2pS-khoCKJ51fFh4UXgF25T4OzPF2aUJqZb__p4PGcLurJS5HMmjff.zBdVQCtbhC-gEDW0)
 - Access Passcode: vmH35FX%
-
-![[CE-M1-Terrestrial-to-Cosmic-v3.pdf]]
-
-![[CE-M1-Terrestrial-to-Cosmic-v3.pptx]]
+![[assets/CE-M1-Terrestrial-to-Cosmic-v3.pdf]]
 
 
+##
 The Stalker (Movie).
 
 Evoking a common mood;
