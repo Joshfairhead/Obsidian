@@ -415,4 +415,5 @@ let sum = grades.reduce(function(total, current) {
 - Thus the sum is 30.
 
 ##### Initial Value
-The `.reduce()` method accepts 2 arguments: `reducer` and `initialValue` (not to be confused by the 2 parameters of the `reducer` which are `total` and `current`). We explained the `reducer` above. The `initialValue` is the value we give to the `total` (or `accumulator`) the first time the callback runs.
+The `.reduce()` method accepts 2 arguments: `reducer` and `initialValue` (not to be confused by the 2 parameters of the `reducer` which are `total` and `current`). The `initialValue` is the value we give to the `total` (or `accumulator`) the first time the callback runs.
+
