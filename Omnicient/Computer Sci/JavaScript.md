@@ -380,4 +380,11 @@ The goal of the `reduce()` method is to calculate a single value from an array. 
 Reduce example: sum
 - We can **reduce** the array [5, 10, 5] to the number 20.  
 - We can **reduce** the array [2, 4, 3] to the number 9.
+- One of the most common use cases of `reduce()`, which is summing the array items.
 
+Reduce example: multiplication
+- We can **reduce** the array [10, 2, 2] to the number 40 (10 * 2 * 2 = 40).
+
+So is the reduce method a sum or a multiplication?  
+- It's neither. That's because the `reduce()` method accepts the **reducer** which is a callback that you have to write. That callback can be sum, multiplication or some other logic that you may think of.
+- So reduce is a generic function that will reduce an array into a single value. The way it will reduce that array into a single value is configurable by you, the developer. You can configure that in the `reducer` callback
