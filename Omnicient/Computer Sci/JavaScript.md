@@ -390,3 +390,4 @@ So is the reduce method a sum or a multiplication?
 - So reduce is a generic function that will reduce an array into a single value. The way it will reduce that array into a single value is configurable by you, the developer. You can configure that in the `reducer` callback
 
 #### Array reduce: sum
+Reducer:
