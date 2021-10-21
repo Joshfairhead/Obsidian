@@ -399,3 +399,17 @@ function(total, current) {
 - This is the callback that is applied for every item in the array, however, this callback takes 2 parameters: `total` and `current`.
 - This is the callback that is applied for every item in the array, however, this callback takes 2 parameters: `total` and `current`.
 - The `total` is always referring to the last computed value by the reduce function. You may often see this called as `accumulator` in documentation which is a more correct name. And the `current` is referring to a single item in the array. Let's see what this means by showing the value of `total` and `current` for every step:
+```javascript
+// code that we run
+let grades = [10, 15, 5]
+
+let sum = grades.reduce(function(total, current) { 
+    return total + current
+}, 0);
+```
+- The first time the callback runs, total is assigned 0 (because of the initial value that we'll explain in a bit) and current will be assigned to the first item of the array. So total = 0 and current = 10.
+- Then we return `total + current` which is `0 + 10 = 10`. Now the new value of `total` becomes 10.
+- The callback runs the second time and this time `current = 15` (second item of the array) and `total = 10`. We return `total + current` which is `10 + 15 = 25`. The current value of `total` becomes 25.
+- The callback runs the third time and this time `current = 5` (third item of the array) and `total = 25`. We return `total + current` which is `25 + 5 = 30`.
+- There are no more items in the array, so the result of the reduce is the final value of `total` which is 30.  
+    Thus the sum is 30.
