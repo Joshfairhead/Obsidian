@@ -3,6 +3,11 @@ Tags: []
 ---
 Related: [[H3uni]] [[Anthony Hodgeson]] [[Cosmic Ecology Index]]
 # From Terrestrial to Cosmic Ecology
+[Meeting Recording](https://us02web.zoom.us/rec/share/Z8HbnNDW7NNWh5so92GlH0mQ0AqcknleH4sL8OiD0MhZYCaPm6vmnvvu811Fzai2.uXZ7ukyOoFFvKhQT)
+Access Passcode: z*&9sW=V
+
+![[assets/CE-M1-Terrestrial-to-Cosmic-v3.pdf]]
+
 
 - Proposing that we need to be more aware of the "forbidden zone" based on belief; be it scientific, religious or cultural belief. 
 - Opening up permission for exploration.
