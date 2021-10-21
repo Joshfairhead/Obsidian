@@ -397,4 +397,5 @@ function(total, current) {
 }
 ```
 - This is the callback that is applied for every item in the array, however, this callback takes 2 parameters: `total` and `current`.
-- 
+- This is the callback that is applied for every item in the array, however, this callback takes 2 parameters: `total` and `current`.
+- The `total` is always referring to the last computed value by the reduce function. You may often see this called as `accumulator` in documentation which is a more correct name. And the `current` is referring to a single item in the array. Let's see what this means by showing the value of `total` and `current` for every step:
