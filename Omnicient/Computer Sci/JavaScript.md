@@ -390,4 +390,11 @@ So is the reduce method a sum or a multiplication?
 - So reduce is a generic function that will reduce an array into a single value. The way it will reduce that array into a single value is configurable by you, the developer. You can configure that in the `reducer` callback
 
 #### Array reduce: sum
-Reducer:
+Reducer (total, current):
+```javascript
+function(total, current) { 
+    return total + current
+}
+```
+- This is the callback that is applied for every item in the array, however, this callback takes 2 parameters: `total` and `current`.
+- 
