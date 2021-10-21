@@ -388,3 +388,5 @@ Reduce example: multiplication
 So is the reduce method a sum or a multiplication?  
 - It's neither. That's because the `reduce()` method accepts the **reducer** which is a callback that you have to write. That callback can be sum, multiplication or some other logic that you may think of.
 - So reduce is a generic function that will reduce an array into a single value. The way it will reduce that array into a single value is configurable by you, the developer. You can configure that in the `reducer` callback
+
+#### Array reduce: sum
