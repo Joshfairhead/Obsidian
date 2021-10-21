@@ -413,3 +413,6 @@ let sum = grades.reduce(function(total, current) {
 - The callback runs the third time and this time `current = 5` (third item of the array) and `total = 25`. We return `total + current` which is `25 + 5 = 30`.
 - There are no more items in the array, so the result of the reduce is the final value of `total` which is 30. 
 - Thus the sum is 30.
+
+##### Initial Value
+The `.reduce()` method accepts 2 arguments: `reducer` and `initialValue` (not to be confused by the 2 parameters of the `reducer` which are `total` and `current`). We explained the `reducer` above. The `initialValue` is the value we give to the `total` (or `accumulator`) the first time the callback runs.
