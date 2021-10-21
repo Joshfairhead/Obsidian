@@ -371,4 +371,5 @@ calculateSum([]) // 0
 #### Array map
 - Wherever you need to transform an existing array into a new one, you should use the `.map()` method.
 - The `.map()` method allows you to apply a transformation for every item in an array. Thus the end result will be an array containing the same **number of items** (but most likely different values for those items).
+- The `.map()` function **will return** the transformed array. This is why we assigned the result of `grades.map(...)` to the new variable `let doubledGrades`.
 - 
