@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[H3uni]] [[Anthony Hodgeson]]
+Related: [[H3uni]] [[Anthony Hodgeson]] [[Cosmic Ecology Index]]
 # From Terrestrial to Cosmic Ecology
 
 - Proposing that we need to be more aware of the "forbidden zone" based on belief; be it scientific, religious or cultural belief. 
