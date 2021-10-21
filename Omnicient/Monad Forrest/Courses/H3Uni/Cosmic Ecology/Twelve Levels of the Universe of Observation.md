@@ -6,7 +6,7 @@ Related: [[Cosmic Ecology Index]] [[H3uni]] [[Anthony Hodgeson]]
 [Meeting Recording](https://us02web.zoom.us/rec/share/FeFf21twza2pS-khoCKJ51fFh4UXgF25T4OzPF2aUJqZb__p4PGcLurJS5HMmjff.zBdVQCtbhC-gEDW0)
 - Access Passcode: vmH35FX%
 
-
+![[CE-M2-12-Levels.pdf]]
 
 ## Lecture notes
 The Stalker (Movie).
