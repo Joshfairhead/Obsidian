@@ -369,3 +369,6 @@ calculateSum([]) // 0
 - The average always depends on the **sum** and the **count**. So when a new number is added to that array, the `count` becomes 4. For example, if we add 50, we get the array `[10, 20, 30, 50]`, now the average = 110 / 4 = 27.5
 
 #### Array map
+- Wherever you need to transform an existing array into a new one, you should use the `.map()` method.
+- The `.map()` method allows you to apply a transformation for every item in an array. Thus the end result will be an array containing the same **number of items** (but most likely different values for those items).
+- 
