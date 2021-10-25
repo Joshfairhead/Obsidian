@@ -34,3 +34,7 @@ Ok, thanks Luksus this is all quite helpful.
 > Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
 
 In particular this helps me understand waht your up to. Perspectives sound like a natural sucessor to profiles. It feels like a less monolithic take on 'identities' as they're concieved of in the Sovrin/IIW spaces. Definatly a more accurate term. 
+
+> Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
+
+Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. I gather the added abstraction im
