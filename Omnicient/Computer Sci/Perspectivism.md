@@ -37,4 +37,4 @@ In particular this helps me understand waht your up to. Perspectives sound like 
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
-Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. You say the essence is as an abstraction of storage/objects, but something tells me there is more to it than that. Functions and algorhytms also being forms of expression in my view, but they are a unit of somethin
+Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. You say the essence is as an abstraction of storage/objects, but something tells me there is more to it than that. Triplicating Functions and algorhytms being complimentary terms
