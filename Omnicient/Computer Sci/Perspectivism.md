@@ -33,3 +33,4 @@ Ok, thanks Luksus this is all quite helpful.
 
 > Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
 
+In particular this helps me understand waht your up to. Perspectives sound like a natural sucessor to profiles (personas being more an interior set
