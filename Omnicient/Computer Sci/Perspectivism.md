@@ -41,4 +41,4 @@ Right, thanks. Again clearing some stuff up. So if I understand you right expres
 
 > Perspectives are lists of Link Expressions. Links are triplets pointing to Expressions (of any kind of Language) and they LinkExpressions are Expressions themselves, so they rely on Agent's as well and track who states this particular association between 3 (other) Expressions. 
 
-I
+I find the above a bit confusing still. Links are triples pointing to expressions (expressions being 'objects' on a storage medium)? 
