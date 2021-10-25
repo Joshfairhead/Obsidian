@@ -37,4 +37,4 @@ In particular this helps me understand waht your up to. Perspectives sound like 
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
-Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. You say 
+Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. You say the essence is as an abstraction of storage/objects but the abstraction implies it could refer to something other than just these. 
