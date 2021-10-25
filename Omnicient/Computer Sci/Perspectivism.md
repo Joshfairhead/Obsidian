@@ -37,4 +37,8 @@ In particular this helps me understand waht your up to. Perspectives sound like 
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
-Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. You say the essence is as an abstraction of storage/objects, but something tells me there is more to it than that. Would authored/signed algorythms and functions also constitute units of a language?
+Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. You say the essence is as an abstraction of storage/objects, but something tells me there is more to it than that. Would authored/signed algorythms and functions also constitute units of a language? Perhaps thats what you mean here?
+
+> Perspectives are lists of Link Expressions. Links are triplets pointing to Expressions (of any kind of Language) and they LinkExpressions are Expressions themselves, so they rely on Agent's as well and track who states this particular association between 3 (other) Expressions. 
+
+I
