@@ -16,7 +16,7 @@
 **Rope**
 - 19:00; Wednesday 27th October: Movement Class
 - 20:00; 28th October: [[Pattern Thinking with Qualitative Systems]]
-- 16:00; 1st October: Call with Amit
+- 16:00; 1st October: [Call with Amit](https://zoom.us/j/96475798664?pwd=QjlDYjNHN3RBNzdnWGpuNVI5OGtEQT09)
 - 20:00; 4th November: [[Reciprocal Maintenance and the Eight Cosmoses]]
 - Friday 12-14th November: TheNewCommonSense Conf
 - 11th-14th of November: Extitutionality workshop/retreat
