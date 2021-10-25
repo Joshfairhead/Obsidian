@@ -27,3 +27,9 @@ From Luksus:
 > By implementing the core of a run-time with Languages for each of the three entities, the whole system can evolve by agents creating, publishing and using new Languages. So there is a Language of Agents, i.e. something that resolves DIDs to Agent Expressions (as described above), then there is a Language of Languages, which you use to publish new Languages making them accessible via URL and which the run-time uses to automatically look-up Languages when you encounter a Link to an Expression of a Language you don't have yet, and last, there is a Language (well, there can and will be several Languages) about Perspectives. Sharing Perspectives through Languages makes it possible to create very generic agent-centric collaboration spaces - called Neighbourhoods. Or put differently: a Neighbourhood is at its core a set of Agents sharing a Perspective. 
 > 
 > Not coupling UI code to the specific (partial?) implementations of these three aspects, but accessing implementations through the Ad4m interface of Languages, you can have other Neighbourhoods or apps have their own specific Languages for their specific purpose and even choose their specific set of technologies (Holochain, IPFS, Ethereum, whatever) and still have an Agent "bootstrap into" this specific part of the ad4m-web by downloading and installing Languages as they join new Neighbourhoods.
+--------------
+
+Ok, thanks Luksus this is all quite helpful. 
+
+> Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
+
