@@ -422,3 +422,19 @@ When mulitplying we can use `.reduce()` because we're reducing the entire array 
 When doing multiplication, we can't have a starting value of `0`. That's because any number multiplied by 0 will result in 0. `5 * 0 = 0`. We need a number that is neutral in multiplication, and that number is `1` because any number multiplied by 1 will be that same number. For example, `5 * 1 = 5`.
 
 This is why in multiplication we use a starting value of `1` and in sum, we use a starting value of `0`.
+
+Example:
+```javascript
+let numbers = [5, 2, 10]
+
+let result = numbers.reduce(function(total, current) {
+    return total * current
+}, 1)
+```
+1.  The first time `.reduce()` callback runs, `total` will have a value of `1` (coming from the starting value) and `current` will have a value of `5` (which is the first item of the array).
+2.  Then we return `total * current` which is `5 * 1 = 5` so the next time the callback runs, `total` will have a value of `5`.
+3.  The second time the callback runs, `total` is `5` and `current` is `2` (second item of the array). We compute `5 * 2 = 10`. We return `10`.
+4.  The third time the callback runs, `total` is `10` and `current` is `10` (third item of the array). We compute `10 * 10 = 100`. We return `100`.
+5.  The result of the `.reduce()` is 100 which is stored in the variable `result`.
+
+
