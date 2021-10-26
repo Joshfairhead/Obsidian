@@ -29,7 +29,7 @@ From Luksus:
 > Not coupling UI code to the specific (partial?) implementations of these three aspects, but accessing implementations through the Ad4m interface of Languages, you can have other Neighbourhoods or apps have their own specific Languages for their specific purpose and even choose their specific set of technologies (Holochain, IPFS, Ethereum, whatever) and still have an Agent "bootstrap into" this specific part of the ad4m-web by downloading and installing Languages as they join new Neighbourhoods.
 --------------
 
-Ok, thanks Luksus this is all quite helpful. I can understand most of what you've written but its taken some consideration to properly grok the description. While I don't think that I fully understand 
+Ok, thanks Luksus this is all quite helpful. I can understand most of what you've written but its taken some consideration to properly grok the description. I imagine you've  
 
 > Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
 
