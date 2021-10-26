@@ -50,4 +50,4 @@ Ok, this framing makes sense. DNA as a language makes sense; a syntax of zomes (
 
 > The really interesting thing about separating the world into (or describing the world by) these 3 root entities is that we can "bootstrap" a large (infinite?) number of ontologies that are secondary to this base meta-ontology
 
-Yes I can see this is a pragmatic triple for bootstrapping. I'm compelled to ask a question here; do perspectives have to be in triadic format? It makes sense as a base type for the meta language but seems restrictive otherwise. My feeling is no they don't but my reasoning is just a hunch; I can imagine that tetrads and other forms of geomet can be described as perspectives. 
+Yes I can see this is a pragmatic triple for bootstrapping. I'm compelled to ask a question here; do perspectives have to be in triadic format? It makes sense as a base type for the meta language but seems restrictive otherwise. My feeling is no they don't but my reasoning is just a hunch; I can imagine that tetrads and other forms can be described as perspectives. 
