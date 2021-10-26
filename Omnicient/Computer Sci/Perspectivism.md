@@ -37,18 +37,18 @@ The above in particular helped make things more concrete for me. Perspectives so
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
-Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored from the perspective of an agent. You say the essence is as an abstraction of storage/objects, but something tells me there is more to it than that. Would authored/signed algorythms and functions also constitute units of a language/expressions? Perhaps thats what you imply in the follewing lines:
+Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored from the perspective of an agent. You languages are an abstraction of storage/objects, but something tells me there is more to it than that? Would authored/signed algorythms and functions also constitute units of a language/expressions? Perhaps thats what you imply in the follewing lines:
 
 > Perspectives are lists of Link Expressions. Links are triplets pointing to Expressions (of any kind of Language) and they LinkExpressions are Expressions themselves, so they rely on Agent's as well and track who states this particular association between 3 (other) Expressions. 
 
-That said, I still find the above quote a bit confusing. To be clear, this is what I'm understanding:
+That said, I still find the above quote a little confusing. To be clear, this is what I'm understanding:
 - Perspectives are linked expressions.
-- Linked expressions are triplicated units of a language.
-- Languages are stored objects (but potentially other things). This is a language in itself. 
+- Linked expressions are triplicated units of a language authored by an agent.
+- Languages are stored objects (but potentially other things) authored by an agent. 
 
 > So yeah, all three together create a complete set, like base vectors creating a space. Holochain implements Agents and Languages (=DNAs) but doesn't define or map what I call Perspectives
 
-Ok, this framing makes sense. DNA as a language makes sense; a syntax of zomes (expressions). Agents feel more fuzzy to me; I guess its agent keys but also percieve varous zomes themselves (personas, deep key, conductor etc) as factors that "agents" are composed from... I'm curious where the boundaries that constitute the definition of agents lie (perhaps its just something I've not properly understood because I'm playing with the code).
+Ok, this framing makes sense. DNA as a language makes sense; a syntax of zomes (expressions). Agents feel more fuzzy to me; I guess its an agent keys but I also percieve various zomes themselves (personas, deep key, conductor etc) as factors that "agents" are composed from... I'm curious where the boundaries that constitute the definition of agents lie (perhaps its just something I've not properly understood because I'm playing with the code).
 
 > The really interesting thing about separating the world into (or describing the world by) these 3 root entities is that we can "bootstrap" a large (infinite?) number of ontologies that are secondary to this base meta-ontology
 
