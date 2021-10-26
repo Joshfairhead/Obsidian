@@ -417,4 +417,4 @@ let sum = grades.reduce(function(total, current) {
 ##### Initial Value
 The `.reduce()` method accepts 2 arguments: `reducer` and `initialValue` (not to be confused by the 2 parameters of the `reducer` which are `total` and `current`). The `initialValue` is the value we give to the `total` (or `accumulator`) the first time the callback runs.
 
-
+When mulitplying we can use `.reduce()` because we're reducing the entire array into a single number (which is the multiplication of all these numbers).
