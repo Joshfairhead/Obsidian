@@ -472,3 +472,21 @@ let sum = numbers.reduce(function(total, current) {
 -   2.  Forgetting to return
 -   3.  Wrong initialValue
 
+### other objects
+Just like with arrays of numbers, we can iterate over every item in an array of strings with the `.forEach()` method:
+
+```javascript
+let users = ["Sam", "Alex", "Charlie"]
+
+users.forEach(function(user) {
+    console.log(user)
+})
+```
+
+This will log:
+```javascript
+"Sam"
+"Alex"
+"Charlie"
+```
+
