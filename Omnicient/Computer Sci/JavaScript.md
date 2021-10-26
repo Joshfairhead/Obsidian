@@ -493,7 +493,7 @@ This will log:
 ### .includes() & .join()
 These two methods also work exactly the same as you're used to.
 
-## .map()
+### .map()
 As a reminder, the `.map()` method allows you to apply a transformation for every item in an array. Thus the end result will be an array containing the same number of items. For example, you can create a new array where all the items are lowercased:
 ```javascript
 let users = ["SAM", "CHARLIE", "ALEX"]
@@ -504,4 +504,15 @@ let lowercased = users.map(function(user) {
 console.log(lowercased) // ["sam", "charlie", "alex"]
 ```
 Notice how we call `.toLowerCase()` on **every item** of the array which is why we end up with all the names lower cased.
+
+### Array of strings manipulation
+Assuming the variable below:
+```javascript
+let name = "Alex"
+```
+You can access the first character just like you would with an array:
+```javascript
+name[0] // "A"
+```
+This index of the string also starts at 0, just like an array. Which is why `name[0]` will return the **first character** of the string.
 
