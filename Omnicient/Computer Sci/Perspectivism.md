@@ -33,11 +33,11 @@ Ok, thanks for taking the time to articulate this for me Luksus; it's all quite 
 
 > Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
 
-The above in particular helped make things more concrete for me. Perspectives sound like a natural sucessor to profiles in a way. They also feel like a less cannoical take on 'identities' as they're often concieved of in the Sovrin/IIW spaces; more accurate in terminology and multidimensional in representation. This is about the direction I was hoping that Digital Identity might start to go (shudders at the term). 
+The above in particular helped make things more concrete for me. Perspectives sound like a natural sucessor to profiles in a way. They also feel like a less cannoical take on 'identities' as they're often concieved of in the Sovrin/IIW spaces; more accurate in terminology and multidimensional in representation. This is about the direction I was hoping that Digital Identity might start to go (shudders at the term) as I've watched the space for a while and always felt it was a bit opinionated. 
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
-Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored by an agent. You say the essence is as an abstraction of storage/objects, but something tells me there is more to it than that. Would authored/signed algorythms and functions also constitute units of a language/expressions? Perhaps thats what you imply in the follewing lines:
+Right, thanks. Again clearing some stuff up. So if I understand you right expressions are a unit of language authored from the perspective of an agent. You say the essence is as an abstraction of storage/objects, but something tells me there is more to it than that. Would authored/signed algorythms and functions also constitute units of a language/expressions? Perhaps thats what you imply in the follewing lines:
 
 > Perspectives are lists of Link Expressions. Links are triplets pointing to Expressions (of any kind of Language) and they LinkExpressions are Expressions themselves, so they rely on Agent's as well and track who states this particular association between 3 (other) Expressions. 
 
