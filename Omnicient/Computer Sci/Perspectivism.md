@@ -33,7 +33,7 @@ Ok, thanks for taking the time to articulate this Luksus; it's all quite helpful
 
 > Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
 
-In particular the above helped make things more concrete for me. Perspectives sound like a natural sucessor to profiles in a way. It feels like a less monolithic take on 'identities' as they're concieved of in the Sovrin/IIW spaces. A more accurate term and multidimensional representation. This is the direction I was hoping that Digital Identity might start to go (shudders at the term). 
+In particular the above helped make things more concrete for me. Perspectives sound like a natural sucessor to profiles in a way. It feels like a less monolithic take on 'identities' as they're concieved of in the Sovrin/IIW spaces. A more accurate term and a more multidimensional representation. This is the direction I was hoping that Digital Identity might start to go (shudders at the term). 
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
@@ -41,7 +41,7 @@ Right, thanks. Again clearing some stuff up. So if I understand you right expres
 
 > Perspectives are lists of Link Expressions. Links are triplets pointing to Expressions (of any kind of Language) and they LinkExpressions are Expressions themselves, so they rely on Agent's as well and track who states this particular association between 3 (other) Expressions. 
 
-That said, I find the above a bit confusing. To be clear, this is what I'm understanding:
+That said, I still find the above quote a bit confusing. To be clear, this is what I'm understanding:
 - Perspectives are linked expressions; essentially triples which point to stored objects (but potentially other things). This is a language in itself. 
 
 > So yeah, all three together create a complete set, like base vectors creating a space. Holochain implements Agents and Languages (=DNAs) but doesn't define or map what I call Perspectives
