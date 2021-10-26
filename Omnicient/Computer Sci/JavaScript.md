@@ -516,3 +516,15 @@ name[0] // "A"
 ```
 This index of the string also starts at 0, just like an array. Which is why `name[0]` will return the **first character** of the string.
 
+Using this knowledge, let's try to convert an existing array into an array made up of the first character of every array item:
+
+```javascript
+let strings = ["abc", "def", "ghi", "jkl"]
+
+let chars = strings.map(function(string) {
+    return string[0]
+})
+console.log(chars) // ["a", "d", "g", "j"]
+```
+
+This works because we take every array item and return the first character (`return string[0]`).
