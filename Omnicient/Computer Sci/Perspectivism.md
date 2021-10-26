@@ -33,7 +33,7 @@ Ok, thanks Luksus this is all quite helpful. I can understand most of what you'v
 
 > Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
 
-In particular this helps me understand waht your up to. Perspectives sound like a natural sucessor to profiles in a way. It feels like a less monolithic take on 'identities' as they're concieved of in the Sovrin/IIW spaces. A more accurate term and multidimensional representation. This is the direction I was hoping that Identity would go.  
+In particular this helps me understand waht your up to. Perspectives sound like a natural sucessor to profiles in a way. It feels like a less monolithic take on 'identities' as they're concieved of in the Sovrin/IIW spaces. A more accurate term and multidimensional representation. This is the direction I was hoping that Digital Identity might start to go (shudders at the term). 
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
