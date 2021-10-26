@@ -437,4 +437,21 @@ let result = numbers.reduce(function(total, current) {
 4.  The third time the callback runs, `total` is `10` and `current` is `10` (third item of the array). We compute `10 * 10 = 100`. We return `100`.
 5.  The result of the `.reduce()` is 100 which is stored in the variable `result`.
 
+This is the code to calculating the sum using `.forEach` and `.reduce` so you can see the similarities and differences:
+### Using .forEach
+
+```javascript
+let sum = 0
+numbers.forEach(function(number) {
+    sum = sum + number
+})
+```
+
+### Using .reduce
+
+```javascript
+let sum = numbers.reduce(function(total, current) {
+    return total + current
+}, 0)
+```
 
