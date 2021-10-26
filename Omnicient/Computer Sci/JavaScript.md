@@ -490,3 +490,18 @@ This will log:
 "Charlie"
 ```
 
+### .includes() & .join()
+These two methods also work exactly the same as you're used to.
+
+## .map()
+As a reminder, the `.map()` method allows you to apply a transformation for every item in an array. Thus the end result will be an array containing the same number of items. For example, you can create a new array where all the items are lowercased:
+```javascript
+let users = ["SAM", "CHARLIE", "ALEX"]
+
+let lowercased = users.map(function(user) {
+    return user.toLowerCase()
+})
+console.log(lowercased) // ["sam", "charlie", "alex"]
+```
+Notice how we call `.toLowerCase()` on **every item** of the array which is why we end up with all the names lower cased.
+
