@@ -50,4 +50,4 @@ Ok, this framing makes sense. DNA makes sense, a syntax of zomes (expressions). 
 
 > The really interesting thing about separating the world into (or describing the world by) these 3 root entities is that we can "bootstrap" a large (infinite?) number of ontologies that are secondary to this base meta-ontology
 
-Yes I can see this is a pragmatic triple for bootstrapping. This statement in conjunction with what you wrote on perspectives brings me to a question; do perspectives have to be in triadic format? It makes sense as a base type on the meta language. 
+Yes I can see this is a pragmatic triple for bootstrapping. This statement in conjunction with what you wrote on perspectives brings me to a question; do perspectives have to be in triadic format? It makes sense as a base type for the meta language but seems restrictive otherwise. 
