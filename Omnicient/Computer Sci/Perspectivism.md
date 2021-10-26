@@ -48,8 +48,8 @@ That said, I still find the above quote a little confusing. To be clear, this is
 
 > So yeah, all three together create a complete set, like base vectors creating a space. Holochain implements Agents and Languages (=DNAs) but doesn't define or map what I call Perspectives
 
-Ok, this framing makes sense. DNA as a language makes sense; a syntax of zomes (expressions). Agents feel more fuzzy to me; I guess its an agent keys but I also percieve various zomes themselves (personas, deep key, conductor etc) as factors that "agents" are composed from... I'm curious where the boundaries that constitute the definition of agents lie (perhaps its just something I've not properly understood because I'm playing with the code).
+Ok, this framing makes sense. DNA as a language makes sense; a syntax of zomes (expressions). Agents feel more fuzzy to me; I guess its an agent keys but I also percieve various zomes themselves (personas, deep key, conductor etc) as factors that constitute "agents"? I'm curious where the boundaries that constitute the definition of agents lie (perhaps its just something I've not properly understood because I'm not stuck in with the code). 
 
 > The really interesting thing about separating the world into (or describing the world by) these 3 root entities is that we can "bootstrap" a large (infinite?) number of ontologies that are secondary to this base meta-ontology
 
-Yes I can see this is a pragmatic triple for bootstrapping. I'm compelled to ask a question here; do perspectives have to be in triadic format? It makes sense as a base type for the meta language but seems restrictive otherwise. My feeling is no they don't but my reasoning is just a hunch; I can imagine that tetrads and other forms can be described as perspectives. 
+Yes, I vibe that this is a pragmatic triple for bootstrapping. I'm compelled to ask a question here; do perspectives always have to be in triadic format? It makes sense as a base type for the meta language (describing all ) but seems restrictive otherwise. My feeling is no they don't but my reasoning is just a hunch; I can imagine that tetrads and other forms can be described as perspectives. 
