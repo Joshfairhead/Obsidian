@@ -50,4 +50,4 @@ Ok, this framing makes sense. DNA makes sense, a syntax of zomes (expressions). 
 
 > The really interesting thing about separating the world into (or describing the world by) these 3 root entities is that we can "bootstrap" a large (infinite?) number of ontologies that are secondary to this base meta-ontology
 
-Yes I can see this is a pragmatic triple for bootstrapping. 
+Yes I can see this is a pragmatic triple for bootstrapping. This statement in conjcbrings me to a question; 
