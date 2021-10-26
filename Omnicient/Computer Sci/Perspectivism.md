@@ -46,7 +46,7 @@ That said, I find the above a bit confusing. To be clear, this is what I'm under
 
 > So yeah, all three together create a complete set, like base vectors creating a space. Holochain implements Agents and Languages (=DNAs) but doesn't define or map what I call Perspectives
 
-Ok, this framing makes sense. DNA as a language makes sense; a syntax of zomes (expressions). Agents feel more fuzzy to me; I guess its agent keys but also percieve varous zomes themselves (personas, deep key, conductor etc) as factors that "agents" are composed from... I'm curious where the boundaries that constitute the definition of agents lie (perhaps its .
+Ok, this framing makes sense. DNA as a language makes sense; a syntax of zomes (expressions). Agents feel more fuzzy to me; I guess its agent keys but also percieve varous zomes themselves (personas, deep key, conductor etc) as factors that "agents" are composed from... I'm curious where the boundaries that constitute the definition of agents lie (perhaps its just something I've not properly understood because I'm playing with the code).
 
 > The really interesting thing about separating the world into (or describing the world by) these 3 root entities is that we can "bootstrap" a large (infinite?) number of ontologies that are secondary to this base meta-ontology
 
