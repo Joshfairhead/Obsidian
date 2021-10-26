@@ -43,7 +43,8 @@ Right, thanks. Again clearing some stuff up. So if I understand you right expres
 
 That said, I still find the above quote a bit confusing. To be clear, this is what I'm understanding:
 - Perspectives are linked expressions.
-- LinkThese are triplicated units of language), stored objects (but potentially other things). This is a language in itself. 
+- Linked expressions are triplicated units of a language.
+- Languages are stored objects (but potentially other things). This is a language in itself. 
 
 > So yeah, all three together create a complete set, like base vectors creating a space. Holochain implements Agents and Languages (=DNAs) but doesn't define or map what I call Perspectives
 
