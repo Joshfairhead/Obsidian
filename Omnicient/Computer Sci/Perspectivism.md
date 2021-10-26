@@ -29,11 +29,11 @@ From Luksus:
 > Not coupling UI code to the specific (partial?) implementations of these three aspects, but accessing implementations through the Ad4m interface of Languages, you can have other Neighbourhoods or apps have their own specific Languages for their specific purpose and even choose their specific set of technologies (Holochain, IPFS, Ethereum, whatever) and still have an Agent "bootstrap into" this specific part of the ad4m-web by downloading and installing Languages as they join new Neighbourhoods.
 --------------
 
-Ok, thanks for taking the time to articulate this Luksus; it's all quite helpful. I can understand most of what you've written but its taken some consideration to properly grok the description.  
+Ok, thanks for taking the time to articulate this Luksus; it's all quite helpful. I think I recognise most of what you've written but its taken some consideration to properly grok the description.  
 
 > Agents are rendered/perceived by other agents as a Perspective (the agent's public perspective, i.e. what they claim about themselves and what they share to anybody resolving their DID).
 
-In particular this helps me understand waht your up to. Perspectives sound like a natural sucessor to profiles in a way. It feels like a less monolithic take on 'identities' as they're concieved of in the Sovrin/IIW spaces. A more accurate term and multidimensional representation. This is the direction I was hoping that Digital Identity might start to go (shudders at the term). 
+In particular the above helped make things more concrete for me. Perspectives sound like a natural sucessor to profiles in a way. It feels like a less monolithic take on 'identities' as they're concieved of in the Sovrin/IIW spaces. A more accurate term and multidimensional representation. This is the direction I was hoping that Digital Identity might start to go (shudders at the term). 
 
 > Languages are basically just wrappers around any storage mechanism, implementing a high-level, abstract interface, but they rely on Agents since the objects they address and store have to be authored and signed by agents 
 
