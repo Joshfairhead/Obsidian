@@ -654,4 +654,5 @@ user.firstname.toUpperCase(); // ❌ this will fail
 ```
 - You will get the following error: **Uncaught TypeError: Cannot read property 'toUpperCase' of undefined**.
 - Thus, _Uncaught TypeError: Cannot read property 'X' of undefined_ is one of the most common errors when it comes to objects (`X` would be replaced by an actual name such as toUpperCase, depending on your code).
-- 
+- The problem is that we're calling `.toUpperCase()` on `undefined`. How come? That's because `user.firstname` returned `undefined`. That's because it should have been `user.firstName` (capital **N**).
+- This means that accessing a key that does not exist in an object, will return `undefined`.
