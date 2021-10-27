@@ -557,3 +557,12 @@ The `logical Or` operator evaluates to `true` when **at least** one of the 2 exp
 So then there's only one case when it evaluates to `false` and that is when both expressions are `false`.
 
 ### Logical And conditions
+- Let's say that we've got a variable `age` that contains a **number** representing the age of a person, and let's say that we are a certain organization that would like to restrict access to some users based on their age. For example, the age must be between 18 and 25 (inclusive).
+- In that case, we're looking for **both** of these conditions to be true: `age >= 18` as well as `age <= 25`. In plain English, the age must be at least 18 and also under 25. Because we need both conditions to be true, we use the **logical and** operator which you can wrap in an **if** condition:
+```javascript
+if (age >= 18 && age <= 25) {
+    console.log("You are allowed to register")
+}
+```
+- The `console.log` will only show up when both conditions are true. So for example, if the age is 19, the console.log will show up. However, when the age is 28 the console.log will not show up because `age >= 18 && age <= 25` evaluates to `false` thus the body of the **if** condition won't run.
+- It is also possible to have an `else` afterwards to catch all other cases
