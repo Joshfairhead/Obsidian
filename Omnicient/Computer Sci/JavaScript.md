@@ -632,4 +632,6 @@ let person = {
 
 ### Read a key
 - How can we read the **firstName** key of the `person` object? Here's how: `person.firstName`. So if you `console.log(person.firstName)` you will get **"Sam"** in the console
-- 
+-   We use a **dot** to access a key of an object. The syntax looks like: `objectName.keyName`.
+-   You can change the value of a key by assigning `objectName.keyName` to a new value. For example `objectName.keyName = "new value"`
+
