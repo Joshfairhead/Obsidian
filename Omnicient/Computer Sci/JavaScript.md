@@ -635,3 +635,5 @@ let person = {
 -   We use a **dot** to access a key of an object. The syntax looks like: `objectName.keyName`.
 -   You can change the value of a key by assigning `objectName.keyName` to a new value. For example `objectName.keyName = "new value"`
 
+### Why are objects important?
+- Objects are important because they represent and describe a certain object, element, entity, person, etc.
