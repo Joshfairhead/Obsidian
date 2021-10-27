@@ -640,4 +640,18 @@ let person = {
 - If the object above was saved in a variable `user`, you can then access the `name` key by writing `user.name`.
 - It would have not been manageable to have 30+ variables to represent this user but instead, we represent them with 1 object that contains as many key/values as you need
 - Remember that the values in an object are going to be strings, numbers, booleans, etc. (we'll cover nested objects in the next chapter).
+
+### The most common error
+- Assuming the code below:
+```javascript
+let user = {
+    firstName: "Sam",
+    lastName: "Doe",
+    age: 20
+};
+
+user.firstname.toUpperCase(); // ❌ this will fail
+```
+- You will get the following error: **Uncaught TypeError: Cannot read property 'toUpperCase' of undefined**.
+- Thus, _Uncaught TypeError: Cannot read property 'X' of undefined_ is one of the most common errors when it comes to objects (`X` would be replaced by an actual name such as toUpperCase, depending on your code).
 - 
