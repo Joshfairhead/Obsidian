@@ -528,3 +528,4 @@ console.log(chars) // ["a", "d", "g", "j"]
 ```
 
 This works because we take every array item and return the first character (`return string[0]`).
+
