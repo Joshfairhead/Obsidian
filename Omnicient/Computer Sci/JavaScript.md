@@ -622,4 +622,7 @@ let person = {
 - Notice how objects are different than arrays because they have `keys` and `values`. Whereas arrays only contained `values` (we previously defined arrays as being a list of values).
 
 ### So what is an object?
-An object is a data type that allows you to group several variables together into one variable that contains keys and values.
+- An object is a data type that allows you to group several variables together into one variable that contains keys and values.
+- Another definition of an object is that it's a collection of key/value pairs.
+- Objects are different than arrays because they have `keys` and `values`. Whereas arrays only contained `values`.
+
