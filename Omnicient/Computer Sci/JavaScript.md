@@ -626,3 +626,5 @@ let person = {
 - Another definition of an object is that it's a collection of key/value pairs.
 - Objects are different than arrays because they have `keys` and `values`. Whereas arrays only contained `values`.
 
+### Objects syntax 
+- Notice how the **key** has a colon next to it `:` which is then followed by the **value**: `firstName: "Sam"`. You cannot use an `=` sign here. The equal sign is only used when assigning the variable (`let config = {`) but not for the key/value pairs
