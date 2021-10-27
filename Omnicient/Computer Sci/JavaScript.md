@@ -544,3 +544,11 @@ let message = "This is \"awesome\"!"
 In JavaScript, the `!` is an operator known as the Logical "Not" operator (also known as the Bang operator). The `!` operator gives you the opposite of a boolean variable. This means that:
 -   `!true` will evaluate to `false` (because it inverts the `true` into a `false`)
 -   `!false` will evaluate to `true` (because it inverts the `false` into a `true`)
+
+### Logical And operator &&
+The `logical And` operator allows you to chain 2 expressions together and will only return `true` when both of the expressions evaluate to `true`. For example:
+```javascript
+true && true // evaluates to true
+true && false // evaluates to false
+```
+
