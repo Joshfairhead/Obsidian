@@ -552,6 +552,8 @@ true && true // evaluates to true
 true && false // evaluates to false
 ```
 
-## Logical Or operator ||
+### Logical Or operator ||
 The `logical Or` operator evaluates to `true` when **at least** one of the 2 expressions is `true`. This means that as long as one of the 2 expressions is `true`, it will evaluate to `true`.  
 So then there's only one case when it evaluates to `false` and that is when both expressions are `false`.
+
+### Logical And conditions
