@@ -599,3 +599,27 @@ function getName(name) {
 ```
 - Notice how we added a semi-colon at the end of every statement.
 
+## Objects
+- Objects are one of the most common data types in programming. But why do we need them? Let's say that you are storing some details for a person who's signing up to your website, here are some of the variables that you will end up creating:
+```javascript
+let firstName = "Sam";
+let lastName = "Doe";
+let age = 21;
+let email = "sam@gmail.com";
+let isVerified = true;
+```
+- All of these 5 variables are representing the same person, but that is not clear from the variables. We don't necessarily see that `firstName` and `age` are referring to the same **person**. This is where objects come in handy, as they allow you to group all of these variables into a single one:
+```javascript
+let person = {
+    firstName: "Sam",
+    lastName: "Doe",
+    age: 21,
+    email: "sam@gmail.com",
+    isVerified: true
+};
+```
+- This `person` object is a variable that represents one person. It contains the `firstName`, `lastName`, `age`, `email`, and `isVerified` of that person. These are called the **keys**. Every key has a value, for example, the `firstName` key has a value of **"Sam"**. The `isVerified` key has a value of **true**. 
+- Notice how objects are different than arrays because they have `keys` and `values`. Whereas arrays only contained `values` (we previously defined arrays as being a list of values).
+
+### So what is an object?
+An object is a data type that allows you to group several variables together into one variable that contains keys and values.
