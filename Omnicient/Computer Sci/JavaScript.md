@@ -656,3 +656,23 @@ user.firstname.toUpperCase(); // ❌ this will fail
 - Thus, _Uncaught TypeError: Cannot read property 'X' of undefined_ is one of the most common errors when it comes to objects (`X` would be replaced by an actual name such as toUpperCase, depending on your code).
 - The problem is that we're calling `.toUpperCase()` on `undefined`. How come? That's because `user.firstname` returned `undefined`. That's because it should have been `user.firstName` (capital **N**).
 - This means that accessing a key that does not exist in an object, will return `undefined`.
+
+### Adding a new key/value pair
+- In the previous chapter, we saw how to change an existing key/value pair in an object. You can also use the same syntax to add a new key/value pair. For example:
+```javascript
+let user = {
+    firstName: "Sam",
+    lastName: "Doe"
+};
+
+user.age = 20;
+console.log(user); // {firstName: "Sam", lastName: "Doe", age: 20}
+```
+- It is also possible to start from an empty object and add key/value pairs one by one. For example:
+```javascript
+let config = {};
+
+config.currency = "EUR";
+config.theme = "dark";
+console.log(config); // {currency: "EUR", theme: "dark"}
+```
