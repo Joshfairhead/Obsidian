@@ -540,3 +540,7 @@ This works because we take every array item and return the first character (`ret
 let message = "This is \"awesome\"!"
 ```
 
+### Logical Not operator
+In JavaScript, the `!` is an operator known as the Logical "Not" operator (also known as the Bang operator). The `!` operator gives you the opposite of a boolean variable. This means that:
+-   `!true` will evaluate to `false` (because it inverts the `true` into a `false`)
+-   `!false` will evaluate to `true` (because it inverts the `false` into a `true`)
