@@ -587,5 +587,15 @@ if (age >= 18 && age <= 20) {
 - Minification removes all the comments in the code and then removes all the white-spaces.
 
 ### At the end of a statement
+- A statement is a piece of code that performs a very specific operation. For example, a variable declaration is a statement. Another example is assigning a new value to a variable or calling a function.
+- Functions are often made up of several statements, for example:
+```javascript
+function getName(name) {
+    let formatted = name;
+    formatted = formatted.toUpperCase();
+    formatted = formatted.trim();
+    return formatted;
+}
+```
+- Notice how we added a semi-colon at the end of every statement.
 
-A statement is a piece of code that performs a very specific operation. For example, a variable declaration is a statement. Another example is assigning a new value to a variable or calling a function.
