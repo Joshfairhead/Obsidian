@@ -580,3 +580,7 @@ if (age >= 18 && age <= 20) {
     // do something
 }
 ```
+
+### Why does JavaScript have semi-colons?
+- Not all programming languages have semi-colons but JavaScript does, and it's for a very good reason.
+- When you develop a website, you will be writing a lot of JavaScript code. In order to make the website smaller, we often apply a concept called minification whereby you use a tool to minify your code in order to save characters. Saving characters automatically saves KBs. For example, the following code from Project XV:
