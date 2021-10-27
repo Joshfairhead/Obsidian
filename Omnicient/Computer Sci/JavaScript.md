@@ -529,3 +529,7 @@ console.log(chars) // ["a", "d", "g", "j"]
 
 This works because we take every array item and return the first character (`return string[0]`).
 
+### Multi-line strings
+- Sometimes you wish to create a string that spans multiple lines (a string that contains a newline character, which is the character generated when you press the **Enter** button on your keyboard). In JavaScript, this is only possible with a template string
+- Meaning that in JavaScript, you **cannot** have a multi-line string with a single quote or double quote strings
+- 
