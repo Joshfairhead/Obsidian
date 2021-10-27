@@ -629,4 +629,7 @@ let person = {
 ### Objects syntax 
 - Notice how the **key** has a colon next to it `:` which is then followed by the **value**: `firstName: "Sam"`. You cannot use an `=` sign here. The equal sign is only used when assigning the variable (`let config = {`) but not for the key/value pairs
 - If you'd like, you can make things easier and **always** add a comma after every key/value pair (even the last one)
+
+### Read a key
+- How can we read the **firstName** key of the `person` object? Here's how: `person.firstName`. So if you `console.log(person.firstName)` you will get **"Sam"** in the console
 - 
