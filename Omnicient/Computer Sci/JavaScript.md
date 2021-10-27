@@ -636,4 +636,8 @@ let person = {
 -   You can change the value of a key by assigning `objectName.keyName` to a new value. For example `objectName.keyName = "new value"`
 
 ### Why are objects important?
-- Objects are important because they represent and describe a certain object, element, entity, person, etc.
+- Objects are important because they represent and describe a certain object, element, entity, person, etc. When building applications, objects will be describing some aspects of your applications.
+- If the object above was saved in a variable `user`, you can then access the `name` key by writing `user.name`.
+- It would have not been manageable to have 30+ variables to represent this user but instead, we represent them with 1 object that contains as many key/values as you need
+- Remember that the values in an object are going to be strings, numbers, booleans, etc. (we'll cover nested objects in the next chapter).
+- 
