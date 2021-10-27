@@ -586,3 +586,6 @@ if (age >= 18 && age <= 20) {
 - When you develop a website, you will be writing a lot of JavaScript code. In order to make the website smaller, we often apply a concept called minification whereby you use a tool to minify your code in order to save characters. Saving characters automatically saves KBs. 
 - Minification removes all the comments in the code and then removes all the white-spaces.
 
+### At the end of a statement
+
+A statement is a piece of code that performs a very specific operation. For example, a variable declaration is a statement. Another example is assigning a new value to a variable or calling a function.
