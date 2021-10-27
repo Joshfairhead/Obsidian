@@ -566,3 +566,11 @@ if (age >= 18 && age <= 25) {
 ```
 - The `console.log` will only show up when both conditions are true. So for example, if the age is 19, the console.log will show up. However, when the age is 28 the console.log will not show up because `age >= 18 && age <= 25` evaluates to `false` thus the body of the **if** condition won't run.
 - It is also possible to have an `else` afterwards to catch all other cases
+
+## Conditions are separate
+
+When using `logical and` or the `logical or` operators, you have to remember that for the programming language, both expressions are completely separate. This means 2 things:
+
+### 1. Different variables in each expression
+
+It is possible to use different variables in both conditions,
