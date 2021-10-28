@@ -676,3 +676,18 @@ config.currency = "EUR";
 config.theme = "dark";
 console.log(config); // {currency: "EUR", theme: "dark"}
 ```
+
+### Array as object value
+- It is also possible (and common) to have objects containing one or more arrays!
+```javascript
+let student = {
+    firstName: "Sam", //string
+    lastName: "Doe", // string
+    hasGraduated: false, // boolean
+    age: 21, // number
+    grades: [15, 18, 14, 17], // array of numbers
+    interests: ["computers", "books"] // array of strings
+};
+```
+- This example object contains key/value pairs that have different types. Some of them are strings, others are booleans, numbers, or arrays.
+- Remember that this is an object, so to read one of the keys you have to use the **dot** syntax
