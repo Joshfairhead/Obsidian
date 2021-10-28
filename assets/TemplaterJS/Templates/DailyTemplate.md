@@ -9,10 +9,12 @@
 ## Day
 **Content**
 
+
 **Context**
 
+
 **Insights**
-- After doing the Movements yesterday I feel more more vitality within myself. There were a number of playful actions that came out of me while juggling and I desired a run ()
+
 
 **Rope**
 - 20:00; Thursday 28th October: [[Pattern Thinking with Qualitative Systems]]
