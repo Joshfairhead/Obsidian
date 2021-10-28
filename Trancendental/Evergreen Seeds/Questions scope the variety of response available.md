@@ -8,4 +8,7 @@ When we ask a question the form of question permits degrees of freedom. Closed q
 
 A directed question `demands` a response from the receiver, which may also create a greater feeling of `closeness`. However, this can be weaponized as `interrogation`.  Perhaps its worthwhile disclosing questions in ones mind rather than directing a question. This may lead to more open explorations in voice-based dialog, but it may also produce the opposite effect in text-based dialog (especially around sensitive topics).
 
-Articles "The Art of Powerful Questions" by Vogt, Brown and Isaacs, or "Strategic Questioning" by Fran Peavey?
+
+---
+
+Recommended articles on the subject I've not read: "The Art of Powerful Questions" by Vogt, Brown and Isaacs, or "Strategic Questioning" by Fran Peavey?
