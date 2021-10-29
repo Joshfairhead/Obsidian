@@ -699,3 +699,18 @@ Objects can be nested
 
 
 ### Property vs Method
+- It is also possible for an object to contain a **function**. For example:
+```javascript
+let user = {
+    firstName: "Sam",
+    lastName: "Doe",
+    age: 21,
+    canVote: function(age) {
+        return age >= 18
+    }
+};
+```
+- You can call that function by accessing the key `canVote` and then adding the parentheses afterward:
+```javascript
+user.canVote(30); // true
+```
