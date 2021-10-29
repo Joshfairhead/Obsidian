@@ -748,4 +748,9 @@ let users = [
 -   Arrays of objects contain objects, which is why you will most often need to access one of the properties on that object.
 -   Make sure to visualize the array and the objects inside by using `console.log` throughout your code.
 -   Common mistake: trying to access an object property on the array rather than on one of the objects inside the array.
--   
+
+### Iterating over them
+-   When you iterate over an array of objects, you will get an object inside the callback.
+-   It's important to always start with a console.log inside the .forEach, especially for arrays of objects as it helps you visualize the transition from **array of objects** to **object** as well as visualize the object structure.
+-   You can use `.map()` to convert an array of objects into an array of specific entries for example an array of people into an array of full names.
+
