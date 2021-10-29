@@ -742,3 +742,6 @@ let users = [
   }
 ];
 ```
+- We can't represent a recipe or a tweet with just a **string**, instead, we need an object to represent all the properties, which is why we end up with an array of objects
+
+### Working with arrays of objects
