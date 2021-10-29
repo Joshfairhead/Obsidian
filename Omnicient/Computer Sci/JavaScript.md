@@ -719,4 +719,7 @@ user.canVote(30); // true
 	-   Whereas, when the **key** has a value that is a function (for example the `canVote`) then we say that it's a **method**.
 - This is why you often see people referring to the `firstName` property, and the `age` property, and the `canVote` method.
 - ##### We've used the keyword **key** before, which is correct but `property` or `method` is more specific.
+
+### Array of objects
+- The **array of objects** is the most common data structure you will use in your development career
 - 
