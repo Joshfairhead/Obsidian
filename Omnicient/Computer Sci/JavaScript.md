@@ -745,3 +745,7 @@ let users = [
 - We can't represent a recipe or a tweet with just a **string**, instead, we need an object to represent all the properties, which is why we end up with an array of objects
 
 ### Working with arrays of objects
+-   Arrays of objects contain objects, which is why you will most often need to access one of the properties on that object.
+-   Make sure to visualize the array and the objects inside by using `console.log` throughout your code.
+-   Common mistake: trying to access an object property on the array rather than on one of the objects inside the array.
+-   
