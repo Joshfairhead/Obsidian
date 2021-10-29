@@ -714,3 +714,9 @@ let user = {
 ```javascript
 user.canVote(30); // true
 ```
+- Now that we've defined most of the possible values an object key can take, it's time to make the distinction between **property** and **method**.
+	-   When the **key** has a value that is either a string, number, boolean, array, or object then it's called a **property**.
+	-   Whereas, when the **key** has a value that is a function (for example the `canVote`) then we say that it's a **method**.
+- This is why you often see people referring to the `firstName` property, and the `age` property, and the `canVote` method.
+- ##### We've used the keyword **key** before, which is correct but `property` or `method` is more specific.
+- 
