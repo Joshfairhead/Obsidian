@@ -722,4 +722,23 @@ user.canVote(30); // true
 
 ### Array of objects
 - The **array of objects** is the most common data structure you will use in your development career
-- 
+- An array of object is an array that contains objects as its items. For example, here's an array of objects representing a list of users:
+```javascript
+let users = [
+  {
+    firstName: "Sam",
+    lastName: "Blue",
+    age: 21,
+  },
+  {
+    firstName: "Charlie",
+    lastName: "Bon",
+    age: 38,
+  },
+  {
+    firstName: "Okaley",
+    lastName: "Drijf",
+    age: 24,
+  }
+];
+```
