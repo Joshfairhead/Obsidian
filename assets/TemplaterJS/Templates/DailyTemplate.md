@@ -17,8 +17,6 @@
 
 
 **Rope**
-- 20:00; Thursday 28th October: [[Pattern Thinking with Qualitative Systems]]
-- 12:00; Friday 29th October: Call with Karina
 - 16:00; 1st October: [Call with Amit](https://zoom.us/j/96475798664?pwd=QjlDYjNHN3RBNzdnWGpuNVI5OGtEQT09)
 - 20:00; 4th November: [[Reciprocal Maintenance and the Eight Cosmoses]]
 - 14:00; Friday 5th November: Call with Konrad
