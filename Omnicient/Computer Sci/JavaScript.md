@@ -694,5 +694,8 @@ let student = {
 - A common mistake is trying to read `firstName` or `grades` as variables but these variables don't exist, the only variable that exists is `student` and you can access the **keys** on them using the **dot** syntax. For example `student.firstName` and `student.grades`.
 - You can get the number of items in the array by accessing the `.length` property, you can iterate with `.forEach()` or transform the array into a new one with `.map()`.
 
-
 ### Nested objects
+Objects can be nested
+
+
+### Property vs Method
