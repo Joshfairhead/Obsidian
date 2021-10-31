@@ -4,11 +4,13 @@ Tags: [Frameworks, Psychology, Patterns, Heuristics]
 Related: [[Timothy Leary]] [[Psychology]]
 # Eight Circuit Model of Consciousness 
 
+^0989b4
+
 [Wiki](https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness)
 
 The **eight-circuit model of consciousness** is a hypothesis by Timothy Leary, and later expanded on by [[Robert Anton Wilson]] and [Antero Alli] that "suggested eight periods (circuits) and twenty-four stages of neurological evolution". 
 
-The eight circuits, or eight "brains" as referred by other authors, operate within the human nervous system, each corresponding to its own imprint and direct experience of reality. Leary and Alli include three stages for each circuit that details developmental points for each level of consciousness.
+The eight circuits, or eight "brains" as referred by other authors, operate within the human nervous system, each corresponding to its own imprint and direct experience of reality. Leary and Alli include three stages for each circuit that details developmental points for each level of consciousness. ^3c8662
 
 Leary uses the eight "circuits" along with recapitulation theory to explain the evolution of the human species, the personal development of an individual, and the biological evolution of all life.
 
