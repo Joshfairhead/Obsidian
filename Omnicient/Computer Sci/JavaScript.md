@@ -754,3 +754,6 @@ let users = [
 -   It's important to always start with a console.log inside the .forEach, especially for arrays of objects as it helps you visualize the transition from **array of objects** to **object** as well as visualize the object structure.
 -   You can use `.map()` to convert an array of objects into an array of specific entries for example an array of people into an array of full names.
 
+### Why do we need Classes?
+- A class allows us to group together all the variables and functions describing an entity in our application (for example a user, a person, an employee, a recipe, etc.)
+- 
