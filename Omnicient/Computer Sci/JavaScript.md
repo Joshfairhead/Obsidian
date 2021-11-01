@@ -848,4 +848,20 @@ class User {
 - Also, notice how there is no `function` keyword. So functions defined inside a class (which are called methods), do not use the `function` keyword. They directly go inside the class and take the parentheses after their name and the curly braces.
 
 ### Constructor parameters
-- 
+- Let's say we've got a class `User` and we'd like to create a new instance of the class user while providing the `firstName` and `lastName` of the user, here's how you'd write the **class usage**:
+```javascript
+// class usage
+let sam = new User("Sam", "Doe");
+```
+- Just like any function, the constructor method can accept parameters. How do we capture (or read) these parameters from within the `constructor()` method? Here's how:
+```javascript
+// class definition
+class User {
+    constructor(firstName, lastName) {
+        console.log("creating instance user");
+        console.log(firstName)
+        console.log(lastName);
+    }
+}
+```
+- The syntax is the same as usual, you add the parameters in between the `()` after the function name. In this example, we've got `firstName` and `lastName`.
