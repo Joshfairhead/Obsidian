@@ -761,3 +761,8 @@ What about objects?
 - Objects allowed us to group several variables into one object, so how is a class different than an object then?
 - An object is only a representation of variables, whereas a class also defines the behavior because we can have `functions` related to that entity.
 - For example, an object `user` will contain key/value pairs describing a user. Whereas a class `User` will contain variables and functions describing a user
+
+Methods & Properties
+- Once you start working with classes, the variables inside a class are called **properties** and the functions inside a class are called **methods**.
+- Classes are not only used for grouping variables and functions, in fact, there's a very important concept that is unique to classes, and that is **instantiation**.
+
