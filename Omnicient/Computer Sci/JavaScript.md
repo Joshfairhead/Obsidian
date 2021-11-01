@@ -905,4 +905,19 @@ class User {
 ```
 - You might think that there is some repetition here with `this.firstName = firstName` and `this.lastName = lastName`. However, there is a difference between `this.firstName` and `firstName` (and the same for `this.lastName` and `lastName`).
 - `this.firstName` is a new **instance variable** where as `firstName` is a constructor parameter.
+- It is very common to capture the constructor params into instance variables. Let's take a look at another class:
+```javascript
+// class definition
+class User {
+    constructor(firstName, lastName, age, hasVoted) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+        this.hasVoted = hasVoted;
+    }
+}
 
+// class usage
+let user = new User("Sam", "Blue", 30, false);
+console.log(user); // User {firstName: "Sam", lastName: "Blue", age: 30, hasVoted: false}
+```
