@@ -834,5 +834,15 @@ class User {
 let user1 = new User(); // "creating instance" will be logged to the console
 let user2 = new User(); // "creating instance" will be logged to the console
 ```
-- So this function runs as soon as you create a **new** instance. Throughout the **class** chapters, we will use this `constructor()` method to **set up** the instances that we're creating.
-- 
+- So this function runs as soon as you create a **new** instance. We will use this `constructor()` method to **set up** the instances that we're creating.
+
+Let's take a look at the syntax of the `constructor` method:
+```javascript
+class User {
+    constructor() {
+        // code here
+    }
+}
+```
+- Notice how the `constructor()` goes **inside** the curly braces of `class User { ... }`. This is because the `constructor` method is part of the class `User`.
+- Also, notice how there is no `function` keyword. So functions defined inside a class (which are called methods), do not use the `function` keyword. They directly go inside the class and take the parentheses after their name and the curly braces.
