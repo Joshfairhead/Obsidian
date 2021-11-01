@@ -865,3 +865,5 @@ class User {
 }
 ```
 - The syntax is the same as usual, you add the parameters in between the `()` after the function name. In this example, we've got `firstName` and `lastName`.
+
+### Instance variables
