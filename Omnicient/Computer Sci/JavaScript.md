@@ -817,3 +817,4 @@ let user1 = new User();
 let user2 = new User();
 ```
 
+### Class constructor
