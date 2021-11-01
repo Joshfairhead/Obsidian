@@ -766,3 +766,6 @@ Methods & Properties
 - Once you start working with classes, the variables inside a class are called **properties** and the functions inside a class are called **methods**.
 - Classes are not only used for grouping variables and functions, in fact, there's a very important concept that is unique to classes, and that is **instantiation**.
 
+- If you look at the first line in the code above, `let sam = new User("Sam", "Blue", 30)`, you will notice a new keyword which is: **new**.
+- Because `User` is a class, you can create a **new instance of that class** with the `new` keyword.
+
