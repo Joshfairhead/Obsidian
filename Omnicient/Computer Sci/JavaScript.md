@@ -775,15 +775,17 @@ So what is a Class? (2/3)
 - The `class User` is the blueprint for creating user objects.
 
 ### Class vs Instance
-One of the most important concepts in classes is to understand the difference between a **class** and an **instance**.
-
-A **class** is a factory that is able to make **instances**.
-
-Assuming a class `Person` that accepts one parameter (the full name), you can create several instances:
+- One of the most important concepts in classes is to understand the difference between a **class** and an **instance**.
+- A **class** is a factory that is able to make **instances**.
+- Assuming a class `Person` that accepts one parameter (the full name), you can create several instances:
 ```javascript
 let person1 = new Person("Sam Doe");
 let person2 = new Person("Charley Bron");
 ```
+- The `person1` and `person2` variables are **instances** of the class `Person`.  
+- So the class `Person` is the template that we use to create the `person1` and `person2` objects which are called instances.
+- Every instance created from the same class is different.
 
-The `person1` and `person2` variables are **instances** of the class `Person`.  
-So the class `Person` is the template that we use to create the `person1` and `person2` objects which are called instances.
+So what is a Class? (3/3)
+- A class is a factory (or a blueprint) that creates an object. This object will contain properties and methods that describe an entity of your application.
+
