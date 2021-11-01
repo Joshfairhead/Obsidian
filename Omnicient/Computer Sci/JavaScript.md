@@ -818,3 +818,19 @@ let user2 = new User();
 ```
 
 ### Class constructor
+- When you define a class, you can create a function inside this class called **constructor** which will be automatically called whenever you create a new instance of this class. Here's how you define it:
+```javascript
+// class definition
+class User {
+    constructor() {
+        console.log("creating instance");
+    }
+}
+```
+- We added in this example a console.log() inside the `constructor()` method.
+- Now, whenever we create a new instance with the `new` keyword, we will see **creating instance user** in the console:
+```javascript
+// class usage
+let user1 = new User(); // "creating instance" will be logged to the console
+let user2 = new User(); // "creating instance" will be logged to the console
+```
