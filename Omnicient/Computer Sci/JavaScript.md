@@ -796,3 +796,10 @@ class User {
 
 }
 ```
+
+### Naming convention
+It's important to name the class in **UpperCamelCase**. So the first character of every word should be in upper case, the rest in lower case.  
+-   A class representing a **recipe** should be called `Recipe`.
+-   A class representing a **quick recipe** should be called `QuickRecipe`.
+-   A class representing a **yearly result** should be called `YearlyResult`.
+
