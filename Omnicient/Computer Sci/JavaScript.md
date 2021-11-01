@@ -803,3 +803,17 @@ It's important to name the class in **UpperCamelCase**. So the first character o
 -   A class representing a **quick recipe** should be called `QuickRecipe`.
 -   A class representing a **yearly result** should be called `YearlyResult`.
 
+## Class definition vs Class usage
+Similar to function definitions, we separated between the function definition and the function usage. We have the same concept in classes.  
+The class is defined once but can be used more than once. We will separate between the two with the comments: `// class definition` and `// class usage`:
+```javascript
+// class definition
+class User {
+
+}
+
+// class usage
+let user1 = new User();
+let user2 = new User();
+```
+
