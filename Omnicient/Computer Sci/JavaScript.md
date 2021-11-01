@@ -905,3 +905,4 @@ class User {
 ```
 - You might think that there is some repetition here with `this.firstName = firstName` and `this.lastName = lastName`. However, there is a difference between `this.firstName` and `firstName` (and the same for `this.lastName` and `lastName`).
 - `this.firstName` is a new **instance variable** where as `firstName` is a constructor parameter.
+
