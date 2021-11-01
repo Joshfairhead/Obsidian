@@ -769,3 +769,7 @@ Methods & Properties
 - If you look at the first line in the code above, `let sam = new User("Sam", "Blue", 30)`, you will notice a new keyword which is: **new**.
 - Because `User` is a class, you can create a **new instance of that class** with the `new` keyword.
 
+So what is a Class? (2/3)
+- So what is a class then? A class is a factory that creates objects.
+- A class is a **blueprint** for creating objects. (A blueprint is the planning of something, for example, a building).
+- The `class User` is the blueprint for creating user objects.
