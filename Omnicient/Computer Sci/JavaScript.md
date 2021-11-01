@@ -887,3 +887,8 @@ console.log(user); // User {age: 30}
 #### Why not define a variable with let?
 - You might be wondering why did we define this `age` variable with `this.age` rather than `let age = 30`.
 - If you define the variable with `let age = 30` then it's **NOT** an instance variable anymore. It's just a variable that is **only** available in the constructor(). It will NOT affect the returned object and it will not be accessible anywhere else in the instance methods of this class
+
+#### What is 'this'?
+- So `this.` allows us to define instance variables. But what does `this` refer to?
+- The keyword `this` refers to the **current instance** of the class.
+
