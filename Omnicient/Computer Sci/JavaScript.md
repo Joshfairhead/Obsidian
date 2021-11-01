@@ -884,3 +884,6 @@ class User {
 let user = new User();
 console.log(user); // User {age: 30}
 ```
+#### Why not define a variable with let?
+- You might be wondering why did we define this `age` variable with `this.age` rather than `let age = 30`.
+- If you define the variable with `let age = 30` then it's **NOT** an instance variable anymore. It's just a variable that is **only** available in the constructor(). It will NOT affect the returned object and it will not be accessible anywhere else in the instance methods of this class
