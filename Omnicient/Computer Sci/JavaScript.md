@@ -789,3 +789,10 @@ let person2 = new Person("Charley Bron");
 So what is a Class? (3/3)
 - A class is a factory (or a blueprint) that creates an object. This object will contain properties and methods that describe an entity of your application.
 
+### Defining your own class
+- Let's say we'd like to create a class that represents a `User`, then here's how you define that class:
+```javascript
+class User {
+
+}
+```
