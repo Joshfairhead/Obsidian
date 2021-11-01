@@ -867,3 +867,7 @@ class User {
 - The syntax is the same as usual, you add the parameters in between the `()` after the function name. In this example, we've got `firstName` and `lastName`.
 
 ### Instance variables
+- An instance variable is a variable that belongs to a specific instance of a class. There are two main benefits for creating instance variables:
+1.  The instance variables you create in the constructor() method get returned as key/value pairs in the object returned by the constructor.
+2.  Most importantly, these instance variables can be used in all **instance methods** in the class.
+
