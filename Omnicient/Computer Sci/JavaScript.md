@@ -834,3 +834,5 @@ class User {
 let user1 = new User(); // "creating instance" will be logged to the console
 let user2 = new User(); // "creating instance" will be logged to the console
 ```
+- So this function runs as soon as you create a **new** instance. Throughout the **class** chapters, we will use this `constructor()` method to **set up** the instances that we're creating.
+- 
