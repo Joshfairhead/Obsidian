@@ -756,4 +756,8 @@ let users = [
 
 ### Why do we need Classes?
 - A class allows us to group together all the variables and functions describing an entity in our application (for example a user, a person, an employee, a recipe, etc.)
-- 
+
+What about objects?
+- Objects allowed us to group several variables into one object, so how is a class different than an object then?
+- An object is only a representation of variables, whereas a class also defines the behavior because we can have `functions` related to that entity.
+- For example, an object `user` will contain key/value pairs describing a user. Whereas a class `User` will contain variables and functions describing a user
