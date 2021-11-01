@@ -892,7 +892,8 @@ console.log(user); // User {age: 30}
 - So `this.` allows us to define instance variables. But what does `this` refer to?
 - The keyword `this` refers to the **current instance** of the class.
 
-In the previous lesson, we learned how to create instance variables that had a hardcoded value. In this lesson, we will create instance variables and assign them to the parameter(s) received in the constructor. Here's how:
+### Capture constructor params
+- In the previous lesson, we learned how to create instance variables that had a hardcoded value. In this lesson, we will create instance variables and assign them to the parameter(s) received in the constructor. Here's how:
 ```javascript
 // class definition
 class User {
