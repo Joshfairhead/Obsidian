@@ -846,3 +846,4 @@ class User {
 ```
 - Notice how the `constructor()` goes **inside** the curly braces of `class User { ... }`. This is because the `constructor` method is part of the class `User`.
 - Also, notice how there is no `function` keyword. So functions defined inside a class (which are called methods), do not use the `function` keyword. They directly go inside the class and take the parentheses after their name and the curly braces.
+
