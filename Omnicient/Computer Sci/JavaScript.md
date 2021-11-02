@@ -921,3 +921,4 @@ class User {
 let user = new User("Sam", "Blue", 30, false);
 console.log(user); // User {firstName: "Sam", lastName: "Blue", age: 30, hasVoted: false}
 ```
+
