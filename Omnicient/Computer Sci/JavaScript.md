@@ -1018,3 +1018,5 @@ class Admin extends Employee {
     }
 }
 ```
+- When a `child` class inherits from a `parent` class, all the instance methods are inherited. You can then decide to override some of them by re-defining them in the `child` class.
+
