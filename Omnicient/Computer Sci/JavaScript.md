@@ -1006,3 +1006,15 @@ class User {
 -   This is why we capture constructor parameters as instance variables which will allow us to use these instance variables in any instance method.
 -   A common mistake is attempting to use the variable name (that the constructor() receives) rather than the instance variable. So don't forget the `this.` syntax.
 
+### Extend parent 
+- Calls In the previous lesson, we saw that the 2 classes share the same code for 2 instance methods `getFullName()` and `getInitials()`.
+- The class **Admin** is essentially the same as the class **Employee** but with extra/additional functionality (instance methods).
+- This means that the class Admin (called `child` class) can **inherit** all the functionality from the class **Employee** (called `parent` class).
+- The concept of class inheritance means that the `child` class inherits everything from its `parent` class.
+```javascript
+class Admin extends Employee {
+    paySalaries() {
+        console.log("Paying salaries...");
+    }
+}
+```
