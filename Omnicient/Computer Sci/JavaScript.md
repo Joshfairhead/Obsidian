@@ -996,3 +996,13 @@ class User {
 - Also, notice that the instance method `getFullName()` does not take any parameter. We don't need the `firstName` and the `lastName` again because we already have them as instance variables.
 - That's the beauty of classes. You create an instance of a class with the necessary data and then the entire instance becomes aware of this data. That's because they are stored as instance variables which means they are accessible by that instance. 
 - As a reminder, `this` refers to the **current instance** of the class.
+
+#### Recap
+-   An instance method is a method that can be called on an **instance** of a class.
+-   We use instance methods to group together functionality based on its logic. For example, payment functions are defined in a class `Payment` as instance methods.
+-   Another benefit of instance methods is that they can use instance variables.
+-   The syntax of an instance method is similar to that of a constructor method.
+-   The parameters you receive in the constructor are NOT accessible in instance methods (because they are different methods, and parameters are only accessible in its own method).
+-   This is why we capture constructor parameters as instance variables which will allow us to use these instance variables in any instance method.
+-   A common mistake is attempting to use the variable name (that the constructor() receives) rather than the instance variable. So don't forget the `this.` syntax.
+
