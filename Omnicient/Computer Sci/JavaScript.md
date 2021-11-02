@@ -993,4 +993,6 @@ class User {
 ```
 - The `firstName` and `lastName` variables are not accessible from the `getFullName` method. They are only accessible in the constructor.  
 - Which is why we capture those values in the constructor as instance variables, so that we can use them whenever we want in any instance method.
-
+- Also, notice that the instance method `getFullName()` does not take any parameter. We don't need the `firstName` and the `lastName` again because we already have them as instance variables.
+- That's the beauty of classes. You create an instance of a class with the necessary data and then the entire instance becomes aware of this data. That's because they are stored as instance variables which means they are accessible by that instance. 
+- As a reminder, `this` refers to the **current instance** of the class.
