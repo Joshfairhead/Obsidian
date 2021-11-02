@@ -943,3 +943,11 @@ let user = new User("Sam", "Doe");
 user.getFullName(); // "full name here"
 ```
 - Notice how `.getFullName()` is a method that we called on the `user` which is an **instance** of the class `User`.
+
+### Why are they useful?
+```javascript
+let sam = new User("Sam", "Blue", 30);
+sam.getFullName(); // "Sam Blue"
+sam.getInitials(); // "SB"
+sam.canVote(); // true
+```
