@@ -955,3 +955,42 @@ sam.canVote(); // true
 - These methods are all grouped into the same class. This will allow you to write more complicated applications as you will be grouping functionality **per** class.
 - So imagine you've got 100 functions, instead of having 100 functions scattered around in different files, you will have, for example, 30 files, each of them containing 1 class. And each class will contain instance methods.
 - That way, functions are grouped together in a class. So for example, functions relating to the `User` entity in your application will be defined in a class **User** in a file called `user.js`. Whereas, functions relating to the `Payment` will be grouped in a class **Payment** in a file called `payment.js`.
+
+### Implementing instance methods
+- Let's implement the `getFullName()` method from the previous lesson:
+```javascript
+// class definition
+class User {
+    constructor(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    getFullName() {
+        return `${this.firstName} ${this.lastName}`;
+    }
+}
+
+// class usage
+let user = new User("Sam", "Doe");
+user.getFullName(); // "Sam Doe"
+```
+- The `getFullName()` method returns the full name of the user ("Sam Doe"). Notice how the implementation of `getFullName` uses the instance variables `this.firstName` and `this.lastName` to be able to return a string of the first name and the last name separated by a space character.
+
+- A common mistake here is to attempt and write:
+```javascript
+class User {
+    constructor(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    getFullName() {
+        // ❌ this is INCORRECT
+        return `${firstName} ${lastName}`;
+    }
+}
+```
+- The `firstName` and `lastName` variables are not accessible from the `getFullName` method. They are only accessible in the constructor.  
+- Which is why we capture those values in the constructor as instance variables, so that we can use them whenever we want in any instance method.
+
