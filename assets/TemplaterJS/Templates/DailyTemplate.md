@@ -17,7 +17,8 @@
 
 
 **Rope**
-- 20:00; 4th November: [[Reciprocal Maintenance and the Eight Cosmoses]]
+- 12:30; Wednesday 3rd November; [Regen Ledger Governance Coordinator](https://meet.jit.si/regengovcoordinator)
+- 20:00; Thursday 4th November: [[Reciprocal Maintenance and the Eight Cosmoses]]
 - 14:00; Friday 5th November: Call with Konrad
 - 19:00; Thursday 11th November: Movement Class
 - Friday 12-14th November: TheNewCommonSense Conf
