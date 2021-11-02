@@ -951,3 +951,8 @@ sam.getFullName(); // "Sam Blue"
 sam.getInitials(); // "SB"
 sam.canVote(); // true
 ```
+- The methods `.getFullName()`, `.getInitials()` and `.canVote()` in the last example are **instance methods** because we call them on the `sam` variable (which is an instance of the class `User`).These methods are all grouped into the same class. This will allow you to write more complicated applications as you will be grouping functionality **per** class.
+
+So imagine you've got 100 functions, instead of having 100 functions scattered around in different files, you will have, for example, 30 files, each of them containing 1 class. And each class will contain instance methods.
+
+That way, functions are grouped together in a class. So for example, functions relating to the `User` entity in your application will be defined in a class **User** in a file called `user.js`. Whereas, functions relating to the `Payment` will be grouped in a class **Payment** in a file called `payment.js`.
