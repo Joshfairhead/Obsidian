@@ -922,3 +922,24 @@ let user = new User("Sam", "Blue", 30, false);
 console.log(user); // User {firstName: "Sam", lastName: "Blue", age: 30, hasVoted: false}
 ```
 
+### Instance methods
+- An instance method is a method that can be called on an **instance** of a class. Let's take an example:
+```javascript
+// class definition
+class User {
+    constructor(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    getFullName() {
+        // TODO: we still have to properly implement the method here.
+        // We will do that in the next lesson
+        return "full name here";
+    }
+}
+// class usage
+let user = new User("Sam", "Doe");
+user.getFullName(); // "full name here"
+```
+- Notice how `.getFullName()` is a method that we called on the `user` which is an **instance** of the class `User`.
