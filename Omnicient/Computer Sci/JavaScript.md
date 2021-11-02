@@ -1020,3 +1020,9 @@ class Admin extends Employee {
 ```
 - When a `child` class inherits from a `parent` class, all the instance methods are inherited. You can then decide to override some of them by re-defining them in the `child` class.
 
+### Frameworks / Class inheretance
+- The concepts of classes and class inheritance are mostly used in frameworks, whether back-end or front-end.
+- The benefit of it is that the framework that you are using, will define a lot of functionality in their own classes.  
+- Then, you, as a user of that framework, inherit one of their classes which gives you access to all the functionality that they provided you.
+- In the front-end world, this is visible with libraries/frameworks such as React, Vue, Angular, and others.
+
