@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: 
-# Have a Clear and Definite Aim
+# A Clear and Definite Aim
 
  From _definitus_ ‘defined, set within limits’.
 
