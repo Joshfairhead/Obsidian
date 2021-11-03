@@ -24,7 +24,7 @@
 - Friday 12-14th November: TheNewCommonSense Conf
 - 11th-14th of November: Extitutionality workshop/retreat
 - 20:00; 11th November: [[Transcending the Limitations of Space-time]]
-- 16:00; 18th November: 
+- 16:00; 18th November: Informal gathering on Pantheon Work consulting
 - 20:00; 18th November: [[The Nature and Condition of Humanity]]
 - 20:00; 25th November: [[Cosmogenesis and Intelligent Evolution]]
 - 20:00; 2nd December: [[An Evolutionary History of Humanity]]
