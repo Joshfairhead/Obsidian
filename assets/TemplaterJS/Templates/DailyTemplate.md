@@ -17,7 +17,6 @@
 
 
 **Rope**
-- 14:00; Friday 5th November: Call with Konrad
 - 19:00; Thursday 11th November: Movement Class
 - Friday 12-14th November: TheNewCommonSense Conf
 - 11th-14th of November: Extitutionality workshop/retreat
