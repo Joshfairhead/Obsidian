@@ -13,4 +13,6 @@ Manifestation - there are relative strengths of happening
 Connectivity - Things seem linked to eachother in hidden patterns 
 
 
-We integrate space and time by 
+We integrate space and time by motien. 
+We realise potential through choice.
+Normally we sleepswalk through our dimensional world unless we recive some kind of shock (wh)
