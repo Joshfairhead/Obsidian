@@ -12,7 +12,7 @@ Potential - of many possible things not all happen
 Manifestation - there are relative strengths of happening
 Connectivity - Things seem linked to eachother in hidden patterns 
 
-
-We integrate space and time by motien. 
+We integrate space and time by motion. 
 We realise potential through choice.
-Normally we sleepswalk through our dimensional world unless we recive some kind of shock (wh)
+Normally we sleepswalk through our dimensional world unless we recive some kind of shock (which can be negative or positive). 
+In timeless moments we intuit Undivided Wholeness.
