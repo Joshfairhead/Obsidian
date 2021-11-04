@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Reciprocal Maintenance and the Eight Cosmoses
 
-
+![[CE-M5-Transcending-Space-Time.pdf]]
 
 Location - there is somewhere
 Seperation - there is somewhere else
