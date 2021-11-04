@@ -4,6 +4,10 @@ Tags: []
 Related: [[H3uni]] [[Cosmic Ecology Index]] [[QualSystems]] [[Anthony Hodgeson]]
 # Pattern Thinking with Qualitative Systems
 
+![[CE-M4-Qualsystems.pdf]]
+![[CE-M4-Exercise-Sheet.pdf]]
+
+## Overview of the slides
 Bennet on Structure / general laws. e.g. seeing the structures within the symbol
 
 - We understand by a mental act that is synthetic and creative; wheras we know by an act that is analytic and outomatic. 
