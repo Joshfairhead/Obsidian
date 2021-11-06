@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: 
-# Reciprocal Maintenance and the Eight Cosmoses
+# Trancending The Limits of Space Time
 [Meeting Recording](https://us02web.zoom.us/rec/share/HSrgrlABme1TSFVqeq0qKIZxo0eyl7-8sI5G1zqtUkA8CKKwI5ijoMN9IWqGYI9-.ZslNoQ1T7U0_yU6i) 
 Access Passcode: &n844LJ@
 ![[CE-M5-Transcending-Space-Time.pdf]]
