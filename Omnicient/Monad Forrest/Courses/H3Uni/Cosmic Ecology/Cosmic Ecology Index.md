@@ -6,10 +6,10 @@ Related: [[H3uni]] [[Anthony Hodgeson]]
 [Zoom link](https://www.eventbrite.com/x/161470965003/?keep_tld=1)
 
 ## Hummanity in the Cosmos
-[[From Terrestrial to Cosmic Ecology]]
-[[Twelve Levels of the Universe of Observation]]
-[[The Qualities of Energy at Each Level]]
-[[Pattern Thinking with Qualitative Systems]]
+Module 1: [[From Terrestrial to Cosmic Ecology]]
+Module 2: [[Twelve Levels of the Universe of Observation]]
+Module 3: [[The Qualities of Energy at Each Level]]
+Module 4:[[Pattern Thinking with Qualitative Systems]]
 [[Reciprocal Maintenance and the Eight Cosmoses]]
 [[Transcending the Limitations of Space-time]]
 [[The Nature and Condition of Humanity]]
