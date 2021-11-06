@@ -17,7 +17,7 @@
 
 
 **Rope**
-- 19:00; Thursday 11th November: Movement Class
+- 19:00; Wednesday 10th November: Movement Class
 - Friday 12-14th November: TheNewCommonSense Conf
 - 11th-14th of November: Extitutionality workshop/retreat
 - 20:00; 11th November: [[Transcending the Limitations of Space-time]]
