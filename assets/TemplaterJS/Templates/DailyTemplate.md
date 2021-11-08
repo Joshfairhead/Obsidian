@@ -17,8 +17,8 @@
 
 
 **Rope**
+- 14:00; Wednesday 10th November: Meet Robert and Jennifer
 - 19:00; Wednesday 10th November: Movement Class
-- Friday 12-14th November: TheNewCommonSense Conf
 - 11th-14th of November: Extitutionality workshop/retreat
 - 20:00; 11th November: [[Transcending the Limitations of Space-time]]
 - 16:00; 18th November: Informal gathering on Pantheon Work consulting
