@@ -1026,3 +1026,19 @@ class Admin extends Employee {
 - Then, you, as a user of that framework, inherit one of their classes which gives you access to all the functionality that they provided you.
 - In the front-end world, this is visible with libraries/frameworks such as React, Vue, Angular, and others.
 
+
+
+### string.startsWith(characters)
+- The `.startsWith()` is a method that you can call on strings.  
+- It receives one parameter which is the characters you want to look for. It returns `true` when those characters are found **at the beginning** of the string and `false` otherwise. Let's take a look at some examples:
+```javascript
+let string = "Hello World!";
+
+string.startsWith("H"); // true
+string.startsWith("h"); // false
+string.startsWith("Hello"); // true
+string.startsWith("World"); // false
+```
+
+### string.endsWith(characters)
+- Similarly to `.startsWith()`, the `.endsWith()` method returns `true` when the characters are found **at the end** of the string and `false` otherwise.
