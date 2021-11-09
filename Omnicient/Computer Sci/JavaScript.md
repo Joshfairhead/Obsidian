@@ -1042,3 +1042,16 @@ string.startsWith("World"); // false
 
 ### string.endsWith(characters)
 - Similarly to `.startsWith()`, the `.endsWith()` method returns `true` when the characters are found **at the end** of the string and `false` otherwise.
+
+### Converting from string to number
+- Let's say we've got a variable called `value` which contains **"35"**, here's how you can convert it to a number:
+```javascript
+let value = "35";
+
+//convert to a number:
+let age = Number.parseInt(value, 10);
+```
+- Note that `Number.parseInt` is the name of the method. So you should keep the word `Number` (it is NOT to be replaced).  
+- This method takes 2 arguments, the first one is the string that you'd like to convert to a number. And the second argument is the `radix`.
+- The `radix` is the type of numbers that you're using. That's because computers use binary (which is a numbering system based on 0 and 1) which has a radix of 2.  
+- However, the type of numbers we're all (humans) used to is called decimal (that is made up of numbers from 0 to 9) which has a radix of 10.
