@@ -1055,3 +1055,21 @@ let age = Number.parseInt(value, 10);
 - This method takes 2 arguments, the first one is the string that you'd like to convert to a number. And the second argument is the `radix`.
 - The `radix` is the type of numbers that you're using. That's because computers use binary (which is a numbering system based on 0 and 1) which has a radix of 2.  
 - However, the type of numbers we're all (humans) used to is called decimal (that is made up of numbers from 0 to 9) which has a radix of 10.
+
+### string.split(separator)
+- Strings have a method called `split()` which takes one parameter that is the `separator`.  
+- The `.split()` method will split the string based on the separator and it will place every match in an array item.  
+- So the `.split()` method converts a string into an array. Let's take a look at an example which will make it clearer:
+```javascript
+let days = "Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday";
+
+let array = days.split(";");
+console.log(array); // ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+```
+- Notice how the string was split at every `;` character and all the matches were placed inside an array.
+- Here's another example:
+```javascript
+let string = `23 - 12 - 2020`;
+
+string.split(" - "); // ["23", "12", "2020"]
+```
