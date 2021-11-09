@@ -4,7 +4,6 @@
 ## Rituals
 - [ ] 1 x 10 [[Swings]] with 15lb [[Kettlebell]]
 - [ ] [[JavaScript]] [flashcards](https://flash.learnprogramming.online/home)
-- [ ] Dvorak practice
 
 ## Day
 **Content**
