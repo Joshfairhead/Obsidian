@@ -1073,3 +1073,16 @@ let string = `23 - 12 - 2020`;
 
 string.split(" - "); // ["23", "12", "2020"]
 ```
+
+### HTML Entities
+- To represent some symbols (such as the copyright symbol, the euro currency, etc.) on your page, you can use HTML entities.
+- An HTML Entity is an instruction that displays such symbols and it looks like this:
+```html
+&copy; // ©
+&eur; // €
+```
+- It starts with an ampersand character and ends with a semi-colon 
+
+
+
+
