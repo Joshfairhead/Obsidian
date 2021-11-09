@@ -16,10 +16,8 @@
 
 
 **Rope**
-- 14:00; Wednesday 10th November: Meet Robert and Jennifer
-- 19:00; Wednesday 10th November: Movement Class
 - 11th-14th of November: Extitutionality workshop/retreat
-- 20:00; 11th November: [[Transcending the Limitations of Space-time]]
+- 20:00; 11th November: [[Reciprocal Maintenance and the Eight Cosmoses]]
 - 15:00; 16th November: Thai massage - Grellstraße 32, Berlin, Germany
 - 16:00; 18th November: Informal gathering on Pantheon Work consulting
 - 20:00; 18th November: [[The Nature and Condition of Humanity]]
