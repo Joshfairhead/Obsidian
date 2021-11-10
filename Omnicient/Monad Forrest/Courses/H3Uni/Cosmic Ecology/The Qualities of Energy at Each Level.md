@@ -29,7 +29,7 @@ Experiencing energy fields
 
 Postulate of discontinuity of beingness
 - the equivanent of the qualtum leaps at the universal level
-- each level plays a different role in the cosmic ecolofy 
+- each level plays a different role in the cosmic ecology 
 - a cosmos is an interacting combination of levels
 - so we need the levels to be able to concieve of the cosmoses
 
