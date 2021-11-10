@@ -4,6 +4,8 @@ Tags: []
 Related: [[H3uni]] [[Cosmic Ecology Index]]
 # The Qualities of Energy at Each Level
 
+![](assets/CE-M3-Qualities-of-Energy.pdf)
+
 Reality ain't what it usud to be
 What is energy anyway?
 What are we talking about with energy fields?
