@@ -16,7 +16,6 @@
 
 
 **Rope**
-- 11th-14th of November: Extitutionality workshop/retreat
 - 20:00; 11th November: [[Reciprocal Maintenance and the Eight Cosmoses]]
 - 15:00; 16th November: Thai massage - Grellstraße 32, Berlin, Germany
 - 16:00; 18th November: Informal gathering on Pantheon Work consulting
