@@ -2,7 +2,7 @@
 Tags: [kanban]
 ---
 Related: [[Buffer]]
-# {{title}}
+# Learn Programming
 
 ## Why?
 

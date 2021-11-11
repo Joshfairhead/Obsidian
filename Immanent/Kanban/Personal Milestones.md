@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Past
 
-- [x] [Learn Programming](https://learnprogramming.online/app.html?from_completed=1)
+- [x] [[Learn Programming]]
 - [x] [[Learn Dvorak]]
 
 
