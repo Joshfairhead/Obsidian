@@ -12,4 +12,4 @@ Modal superset:
 
 3: Same and pride share active temporalities
 6: Good and brave share anticipatory temporalities
-9: Together and strength share 
+9: Together and strength share past temporalities ?
