@@ -7,10 +7,12 @@ kanban-plugin: basic
 ## Backlog
 
 - [ ] Articulate client engagement processes
-- [ ] [[Logic]] by Prof. Jovons
+- [ ] Finish reading [[Logic]] by Prof. Jovons
+- [ ] Finish reading [[Trivium]]
+- [ ] Build [[Personal website]]
 - [ ] [Udemy Svelte course](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/practice/1112372/introduction#overview)
-- [ ] [[Trivium]]
-- [ ] Read: [EvolutionOfDecisionSupportSystems][[assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf]]
+- [ ] [Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch/39ErMZ60rGM)
+- [ ] Read: [EvolutionOfDecisionSupportSystems]([[assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf]])
 - [ ] Read: [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
 - [ ] [Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch/39ErMZ60rGM)
 - [ ] Build [[Personal website]]
@@ -27,6 +29,8 @@ kanban-plugin: basic
 
 
 ## Done
+- [x] [Learn Programming](https://learnprogramming.online/app.html?from_completed=1) [Flashcards](https://flash.learnprogramming.online/home)
+- [x] Learn [Dvorak](https://www.edclub.com/sportal/program-4.game)
 
 
 
