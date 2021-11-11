@@ -20,6 +20,7 @@ kanban-plugin: basic
 
 - [ ] Read: [[assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf]]
 - [ ] Read: [Inadequite Equilibria](https://equilibriabook.com/inadequacy-and-modesty/)
+- [ ] [Rationalism](http://www.hpmor.com/chapter/29) > [[Rationalism]]
 
 
 
