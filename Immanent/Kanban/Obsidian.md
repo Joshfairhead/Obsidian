@@ -5,7 +5,7 @@ Related: [[Buffer]]
 # Obsidian
 
 ## Why?
-Augmented capabilities and expressive capacities for content creation
+Augmented capabilities and expressive capacities for content creation and project management.
 
 ## How?
 

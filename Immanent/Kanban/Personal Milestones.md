@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] [[Logic]] by Prof. Jovons
 - [ ] [Learn Javascript](https://learnjavascript.online/?utm_source=learnprogramming.online)
 - [ ] [[Trivium]]
+- [ ] [[Obsidian]]
 
 
 ## Hold
