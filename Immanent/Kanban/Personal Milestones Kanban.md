@@ -4,6 +4,21 @@ kanban-plugin: basic
 
 ---
 
+## Past
+
+- [x] [Learn Dvorak](https://www.edclub.com/sportal/program-4.game)
+- [x] [Learn Programming](https://learnprogramming.online/app.html?from_completed=1)
+
+
+## Present
+
+- [ ] [[Trivium]]
+- [ ] [[Logic]] by Prof. Jovons
+- [ ] [[Mastering Econometrics]] - [randomized control trials](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
+- [ ] [Rationalism](http://www.hpmor.com/chapter/29) > [[Rationalism]]
+- [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
+
+
 ## Backlog
 
 - [ ] Learn VIM
@@ -17,19 +32,6 @@ kanban-plugin: basic
 - [ ] Evernote recovery/conversion
 - [ ] Fix proton mail calandar > google cal on website
 - [ ] Consider [[Patential Domain Names]]
-
-
-## In Process
-
-- [ ] [[Trivium]]
-- [ ] [[Logic]] by Prof. Jovons
-- [ ] [[Mastering Econometrics]] - [randomized control trials](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
-- [ ] [Rationalism](http://www.hpmor.com/chapter/29) > [[Rationalism]]
-- [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
-
-
-## Done
-
 
 
 
