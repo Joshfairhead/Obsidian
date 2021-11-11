@@ -19,6 +19,7 @@
 - 15:00; 16th November: Thai massage - Grellstraße 32, Berlin, Germany
 - 16:00; 18th November: Informal gathering on Pantheon Work consulting
 - 20:00; 18th November: [[The Nature and Condition of Humanity]]
+- 19:00; 24th November: Movement Class
 - 20:00; 25th November: [[Cosmogenesis and Intelligent Evolution]]
 - 20:00; 2nd December: [[An Evolutionary History of Humanity]]
 - Sunday 22nd May 2022: Tool concert
