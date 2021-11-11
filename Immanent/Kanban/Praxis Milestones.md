@@ -12,6 +12,7 @@ kanban-plugin: basic
 
 ## Present
 
+- [ ] [[Service level offerings]]
 - [ ] [[Logic]] by Prof. Jovons
 - [ ] [Learn Javascript](https://learnjavascript.online/?utm_source=learnprogramming.online)
 - [ ] [[Learn the Trivium]]
@@ -29,8 +30,6 @@ kanban-plugin: basic
 - [ ] [Udemy Svelte course](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/practice/1112372/introduction#overview)
 - [ ] Build [[Personal website]]
 - [ ] [Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch/39ErMZ60rGM)
-- [ ] Articulate client engagement processes
-
 
 
 
