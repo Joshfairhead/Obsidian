@@ -1,3 +1,6 @@
 {
-  "new-note-template": "assets/Templates/Kanban Template.md"
+  "new-note-template": "assets/Templates/Kanban Template.md",
+  "new-note-folder": "Immanent/Kanban",
+  "show-checkboxes": true,
+  "hide-tags-in-title": true
 }
