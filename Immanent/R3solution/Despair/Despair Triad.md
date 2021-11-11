@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[Triads]] 
+Related: [[Triads]] [[Hope Triad]]
 # Despair Triad
 Modal superset:
 
@@ -12,4 +12,4 @@ Modal superset:
 
 3: Bad and shame share active temporalities
 6: Different and fear share receptive temporalities  
-9: Alone
+9: Alone and guilt share past temporalites
