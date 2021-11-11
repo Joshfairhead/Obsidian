@@ -11,4 +11,4 @@ Tools shape us in their own image. To shape our own image we should thus learn t
 Spaced repitition to build familliarity 
 
 ## What?
-LearnProgramming.com uses 
+LearnProgramming.com 
