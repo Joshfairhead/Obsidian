@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Past
 
 - [x] [Learn Programming](https://learnprogramming.online/app.html?from_completed=1)
-- [x] [Learn Dvorak](https://www.edclub.com/sportal/program-4.game)
+- [x] [[[Learn Dvorak](https www.edclub.com sportal program-4.game)]]
 
 
 ## Present
