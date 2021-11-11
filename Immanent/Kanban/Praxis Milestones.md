@@ -21,7 +21,6 @@ kanban-plugin: basic
 ## Hold
 
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
-- [ ] [[Mastering Econometrics]] - [randomized control trials](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
 
 
 ## Future
@@ -31,9 +30,7 @@ kanban-plugin: basic
 - [ ] Build [[Personal website]]
 - [ ] [Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch/39ErMZ60rGM)
 - [ ] Articulate client engagement processes
-- [ ] Evernote recovery/conversion
-- [ ] Fix proton mail calandar > google cal on website
-- [ ] Consider [[Patential Domain Names]]
+
 
 
 

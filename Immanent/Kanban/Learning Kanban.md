@@ -13,7 +13,7 @@ kanban-plugin: basic
 
 
 ## On Hold
-
+- [ ] [[Mastering Econometrics]] - [randomized control trials](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
 
 
 ## Future
