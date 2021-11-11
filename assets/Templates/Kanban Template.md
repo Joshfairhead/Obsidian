@@ -9,3 +9,7 @@ Related: [[Buffer]]
 ## How?
 
 ## What?
+
+## Cost 
+## Benefit 
+## Risk
