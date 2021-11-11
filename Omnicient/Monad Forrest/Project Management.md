@@ -40,7 +40,7 @@ Related: [[Design]] [[Social Archetecture]] [[Culture]]
 [[Regulation]]
 
 #### Tooling
-[[Obsidian]]
+[[Immanent/Kanban/Notes/Obsidian]]
 [[Roam]]
 [[Dvorak]]
 [[Tools]]?

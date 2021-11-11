@@ -1,7 +1,7 @@
 ---
 Tags: [Principals, Patterns, Domains, Heuristics]
 ---
-Related: [[Obsidian]] [[Roam]] 
+Related: [[Immanent/Kanban/Notes/Obsidian]] [[Roam]] 
 
 # Praxis
 
@@ -10,5 +10,5 @@ Related: [[Obsidian]] [[Roam]]
 https://wenger-trayner.com/ - From [[H3uni]]
 
 #### Tools
-[[Obsidian]]
+[[Immanent/Kanban/Notes/Obsidian]]
 [[Roam]]

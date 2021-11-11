@@ -15,7 +15,7 @@ kanban-plugin: basic
 - [ ] [[Logic]] by Prof. Jovons
 - [ ] [Learn Javascript](https://learnjavascript.online/?utm_source=learnprogramming.online)
 - [ ] [[Learn the Trivium]]
-- [ ] [[Obsidian]]
+- [ ] [[Immanent/Kanban/Notes/Obsidian]]
 
 
 ## Hold
@@ -23,7 +23,7 @@ kanban-plugin: basic
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
 - [ ] [[Mastering Econometrics]] - [randomized control trials](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
 - [ ] [Rationalism](http://www.hpmor.com/chapter/29) > [[Rationalism]]
-- [ ] [[Immanent/Kanban/Obsidian]]
+- [ ] [[Immanent/Kanban/Notes/Obsidian]]
 
 
 ## Future

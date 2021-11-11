@@ -1,7 +1,7 @@
 ---
 Tags: [Domains]
 ---
-Related: [[Obsidian]] [[Roam]] [[Volvox]] [[Data Science]]
+Related: [[Omnicient/Monad Saplings/Obsidian]] [[Roam]] [[Volvox]] [[Data Science]]
 # Knowlege Management
 
 - [A Primer: Enterprise Wisdom Management and the Flow of Understanding](http://www.cognitivecybernetics.com/PrimerFoU.html)
@@ -11,7 +11,7 @@ Related: [[Obsidian]] [[Roam]] [[Volvox]] [[Data Science]]
 #### Projects
 - [[Foam]] - https://foambubble.github.io/foam/
 - [[Athens]] - https://athensresearch.ghost.io/season-2/
-- [[Obsidian]]
+- [[Omnicient/Monad Saplings/Obsidian]]
 - [[Roam]] Research
 - [Logseq](https://logseq.com/)
 - [Memex](https://getmemex.com/)

@@ -1,7 +1,7 @@
 ---
 Tags: [Domains, Notes]
 ---
-Related: [[Obsidian]] [[Roam]] [[Volvox]] [[Data Science]] [[Knowledge Management]]
+Related: [[Omnicient/Monad Saplings/Obsidian]] [[Roam]] [[Volvox]] [[Data Science]] [[Knowledge Management]]
 # Designing Decentralized Knowledge Management Systems to Effectuate Individual and Collective Generative Capacities
 
 [Source](https://www.researchgate.net/publication/334523656_Designing_Decentralized_Knowledge_Management_Systems_to_Effectuate_Individual_and_Collective_Generative_Capacities)
