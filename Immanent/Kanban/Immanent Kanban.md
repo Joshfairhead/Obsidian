@@ -1,3 +1,9 @@
+---
+
+kanban-plugin: basic
+
+---
+
 ## Past
 
 - [x] [[Learn Programming]]
@@ -28,3 +34,11 @@
 - [ ] [Capitalism As A Trancentendental Time Machine](CapitalismAsATrancentendentalTimeMachine_Greenspan_2000.pdf)
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
 
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%
