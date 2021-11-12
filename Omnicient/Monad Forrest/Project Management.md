@@ -4,11 +4,16 @@ Tags: [Patterns, Frameworks, Domains, Index]
 Related: [[Design]] [[Social Archetecture]] [[Culture]] 
 # Project Management
 
-
-
 ### Domain Specific [[Trends]]
+
 ##### Meta
 [[Emergent Cyclical Theory Article]]
+[[Social Archetecture]]
+
+##### Processes
+[[Three Amigos]]
+[Sprint Planning](https://www.atlassian.com/agile/scrum/sprint-planning)
+[[Shape up]]
 
 ##### [[Design]]
 [[Domain Driven Design]]
