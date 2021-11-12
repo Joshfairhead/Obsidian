@@ -28,7 +28,4 @@ JavaScript is the only programming language that runs in your browser. Which is 
 	- `double(5)` <- `5` = **argument**
 
 [[Learn Programming Course]]
-
-
-- 
-
+[[Learn Javascript Course]]
