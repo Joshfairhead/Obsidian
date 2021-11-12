@@ -31,7 +31,7 @@ kanban-plugin: basic
 - [ ] [Inadequite equilibria](https://equilibriabook.com/inadequacy-and-modesty/)
 - [ ] [Mastering Econometrics](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
 - [ ] [Evolution of Group Decision Support](assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf)
-- [ ] Capitalism as a trancentental slime machine
+- [ ] [Capitalism As A Trancentendental Time Machine](CapitalismAsATrancentendentalTimeMachine_Greenspan_2000.pdf)
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
 
 
