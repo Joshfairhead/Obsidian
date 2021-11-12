@@ -30,7 +30,8 @@ kanban-plugin: basic
 ## Hold
 - [ ] [Inadequite equilibria](https://equilibriabook.com/inadequacy-and-modesty/)
 - [ ] [Mastering Econometrics](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
-- [ ] obsidian://open?vault=Obsidian&file=assets%2FTheEvolutionOfGroupDecisionSupportSystems2006.pdf
+- [ ] [Evolution of Group Decision Support](assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf)
+- [ ] Capitalism as a trancentental slime machine
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
 
 
