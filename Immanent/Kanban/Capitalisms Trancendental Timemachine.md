@@ -17,6 +17,10 @@ Related: [[Buffer]]
 - Might ingest some dark impressions
 
 ## Why?
+- Should probably learn more about the CCRU, Rhizomatic writing, Schitzo analysis, and temporalities. This is some pretty foundational reading in particular underground cultures. 
+
 ## How?
+- Reading the following 
+
 ## What?
 
