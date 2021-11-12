@@ -1,9 +1,3 @@
----
-
-kanban-plugin: basic
-
----
-
 ## Past
 
 - [x] [[Learn Programming]]
@@ -28,14 +22,9 @@ kanban-plugin: basic
 
 
 ## Hold
-
+- [ ] [Inadequite equilibria](https://equilibriabook.com/inadequacy-and-modesty/)
+- [ ] [Mastering Econometrics](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
+- [ ] [Evolution of Group Decision Support](assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf)
+- [ ] [Capitalism As A Trancentendental Time Machine](CapitalismAsATrancentendentalTimeMachine_Greenspan_2000.pdf)
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
 
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic"}
-```
-%%
