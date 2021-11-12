@@ -8,3 +8,4 @@ Related: [[Trivium]] [[Language]] [[Philosophy]] [[Psychology]] [[Esoteric]]
 [Keeping Magik Secret](https://www.youtube.com/watch?v=lX5pibjc8w8)
 [The Tree of Life: A Beginner's Guide](https://www.youtube.com/watch?v=BAE53Jqp5X4)
 [The Internet School of Magic](http://internetschoolofmagic.com)
+[The Cry of Merlin; CarlJung and the Insanity of Reason](https://themarginaliareview.com/the-cry-of-merlin-carl-jung-and-the-insanity-of-reason/)
