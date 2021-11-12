@@ -1,20 +1,20 @@
 ---
-
-kanban-plugin: basic
-
+Tags: []
 ---
+Related: 
+# Immanent Kanban
 
 ## Past
 
 - [x] [[Learn Programming]]
 - [x] [[Learn Dvorak]]
+- [x] [[Service level offerings]]
 
 
 ## Present
 
-- [ ] [[Service level offerings]]
-- [ ] [[Logic]] by Prof. Jovons
 - [ ] [Learn Javascript](https://learnjavascript.online/?utm_source=learnprogramming.online)
+- [ ] [[Logic]] by Prof. Jovons
 - [ ] [[Learn the Trivium]]
 - [ ] [[Obsidian]]
 
@@ -33,12 +33,3 @@ kanban-plugin: basic
 - [ ] [Evolution of Group Decision Support](assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf)
 - [ ] [Capitalism As A Trancentendental Time Machine](CapitalismAsATrancentendentalTimeMachine_Greenspan_2000.pdf)
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic"}
-```
-%%
