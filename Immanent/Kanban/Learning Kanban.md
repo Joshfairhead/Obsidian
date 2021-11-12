@@ -22,6 +22,7 @@ kanban-plugin: basic
 
 ## Future
 
+- [ ] [[Capitalisms Trancendental Timemachine]]
 
 
 
