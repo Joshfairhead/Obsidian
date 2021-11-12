@@ -3,8 +3,10 @@ Tags: [Patterns, Frameworks, Domains, Index]
 ---
 Related: [[Design]] [[Social Archetecture]] [[Culture]] 
 # Project Management
-### Domain Specific [[Trends]]
 
+
+
+### Domain Specific [[Trends]]
 ##### Meta
 [[Emergent Cyclical Theory Article]]
 
@@ -44,6 +46,10 @@ Related: [[Design]] [[Social Archetecture]] [[Culture]]
 [[Roam]]
 [[Dvorak]]
 [[Tools]]?
+
+
+
+---
 
 #### Assorted
 - [[Object Oriented Analysis and Design]]

@@ -21,9 +21,9 @@ kanban-plugin: basic
 
 ## Future
 
-- [ ] Learn VIM
-- [ ] [Udemy Svelte course](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/practice/1112372/introduction#overview)
 - [ ] Build [[Personal website]]
+- [ ] [Udemy Svelte course](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/practice/1112372/introduction#overview)
+- [ ] Learn VIM
 - [ ] [Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch/39ErMZ60rGM)
 
 
