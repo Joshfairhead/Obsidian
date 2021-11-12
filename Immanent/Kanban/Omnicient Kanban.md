@@ -28,7 +28,8 @@ kanban-plugin: basic
 
 
 ## Hold
-
+- [ ] [Inadequite equilibria](https://equilibriabook.com/inadequacy-and-modesty/)
+- [ ] [Mastering Econometrics](https://mru.org/courses/mastering-econometrics/how-read-economics-research-papers-randomized-controlled-trials-rcts)
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
 
 
