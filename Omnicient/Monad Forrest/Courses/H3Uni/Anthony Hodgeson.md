@@ -17,6 +17,7 @@ Related: [[H3uni]]
 - ![](assets/Hodgson2018Second-OrderAnticipatorySystem.pdf)
 
 #### Foresight And The 7 Dimensions Of Experience
-- ![](Hodgson-ForesightAndThe7DimensionsOfExperience.pdf)
+- ![](assets/Hodgson-ForesightAndThe7DimensionsOfExperience.pdf)
 
-#### Hodgson-OntologyPresentMoment .pdf
+#### Ontology Present Moment 
+- ![](assets/Hodgson-OntologyPresentMoment .pdf)
