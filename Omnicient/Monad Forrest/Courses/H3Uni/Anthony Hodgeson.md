@@ -15,7 +15,7 @@ Related: [[H3uni]]
 - ![](assets/Hodgson-ForesightAndThe7DimensionsOfExperience.pdf)
 
 #### Ontology Present Moment 
-- ![](assets/Hodgson-OntologyPresentMoment .pdf)
+- ![](assets/Hodgson-OntologyPresentMoment.pdf)
 
 #### Some Implications of Second-Order Cybernetics
 - ![](assets/1626444208_2.pdf)
