@@ -17,7 +17,6 @@
 
 
 **Rope**
-- 15:00; 16th November: Thai massage - Grellstraße 32, Berlin, Germany
 - 16:00; 18th November: Informal gathering on Pantheon Work consulting
 - 20:00; 18th November: [[The Nature and Condition of Humanity]]
 - 19:00; 24th November: Movement Class
