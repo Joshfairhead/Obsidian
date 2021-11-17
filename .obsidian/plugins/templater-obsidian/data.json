@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "assets/TemplaterJS/Templates",
+  "templates_folder": "assets/Templates/TemplaterJS/",
   "templates_pairs": [
     [
       "",
