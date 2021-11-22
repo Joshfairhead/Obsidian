@@ -1,7 +1,7 @@
 ---
 Tags: [Tools, Primitives]
 ---
-Related: [[Computer Science]] [[Vue]] 
+Related: [[Computer Science]] [[Vue]] [[Learn Programming]] [[Learn Javascript Course]]
 # JavaScript
 
 ### Why JavaScript

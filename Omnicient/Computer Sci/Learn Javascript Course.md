@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: 
+Related: [[JavaScript]] [[Learn Programming Course]] [[Vue]] [[Svelte]]
 # Learn Javascript Course
 
 ## Substrings
