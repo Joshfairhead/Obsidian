@@ -757,4 +757,6 @@ These values above are called `falsy` values because, when converted to boolean,
 -   This will allow you to recover from errors.
 
 
-## ESLint
+## Automatic Semi-colon Insertion
+-   Some specific statements in JavaScript **need** to end with a semi-colon. So, if the programmer left them out, the JavaScript engine will **automatically place a semi-colon**. This is called Automatic Semi-colon Insert and only applies in very specific cases.
+-   The most common example of ASI is with the `return` keyword (mostly while writing React code with JSX).
