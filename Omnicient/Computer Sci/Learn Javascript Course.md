@@ -760,3 +760,13 @@ These values above are called `falsy` values because, when converted to boolean,
 ## Automatic Semi-colon Insertion
 -   Some specific statements in JavaScript **need** to end with a semi-colon. So, if the programmer left them out, the JavaScript engine will **automatically place a semi-colon**. This is called Automatic Semi-colon Insert and only applies in very specific cases.
 -   The most common example of ASI is with the `return` keyword (mostly while writing React code with JSX).
+
+## Arrays & Objects
+- Arrays & Objects are both considered **objects** in JavaScript.  
+- When you write `[]`, it's the same as creating a new instance of `Array`.  
+- When you write `{}`, it's the same as creating a new instance of `Object`.
+```javascript
+new Array(); // creates []
+new Object(); //creates {}
+```
+
