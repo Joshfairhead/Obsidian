@@ -801,3 +801,5 @@ console.log(secondArray); // [10]
 
 ### What is Immutability?
 - An immutable object is an object that cannot be changed. Every update creates a new value, leaving the old one untouched.
+- it's important that you understand why immutability is needed, how `===` works, and that assigning a variable to an object will not clone it (but rather point to the same reference).
+- 
