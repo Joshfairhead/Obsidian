@@ -751,3 +751,7 @@ These values above are called `falsy` values because, when converted to boolean,
 
 ## Reducing arrays of objects
 
+
+## Try... Catch
+-   When a function call might fail, it's recommended that you wrap it with a `try...catch` block.
+-   This will allow you to recover from errors.
