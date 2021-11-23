@@ -789,3 +789,10 @@ firstArray.push(10);
 console.log(firstArray); // [10]
 console.log(secondArray); // [10]
 ```
+- You may be surprised why does `secondArray` also contain `10` now? Well that's because when we created `secondArray = firstArray`, we are **not** copying `firstArray`, but rather only creating a reference to it.
+- When you assign a variable to an object or array, it does NOT copy it. It will only reference its value.
+
+
+## Deep Equal
+- When comparing 2 objects with `===`, we saw that if they were not the same instance we'll get `false`.
+- That's because `===` is comparing the references rather than the values. If you'd like to compare by values, then what you're looking for is called **deep equal**.
