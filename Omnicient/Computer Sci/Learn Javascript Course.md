@@ -796,3 +796,8 @@ console.log(secondArray); // [10]
 ## Deep Equal
 - When comparing 2 objects with `===`, we saw that if they were not the same instance we'll get `false`.
 - That's because `===` is comparing the references rather than the values. If you'd like to compare by values, then what you're looking for is called **deep equal**.
+- Front-end libraries/frameworks do not use a deep equal strategy when comparing their state (before and after), instead, they use the `===` because it's blazing fast.
+- This is why you are required to immutably update the state (whether it was an array or an object).
+
+### What is Immutability?
+- An immutable object is an object that cannot be changed. Every update creates a new value, leaving the old one untouched.
