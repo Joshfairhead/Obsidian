@@ -776,3 +776,16 @@ new Object(); //creates {}
 {key: "something"} === {key: "something"}; //false
 ```
 - We expected `[] === []` to be true because they are both empty arrays, but the way JavaScript works is different as it's checking if they are the same instance.
+
+
+## Object assignment
+```javascript
+const firstArray = [];
+const secondArray = firstArray; // secondArray now points to firstArray
+console.log(firstArray); // []
+console.log(secondArray); // []
+
+firstArray.push(10);
+console.log(firstArray); // [10]
+console.log(secondArray); // [10]
+```
