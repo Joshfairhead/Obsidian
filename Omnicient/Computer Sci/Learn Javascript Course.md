@@ -775,4 +775,4 @@ new Object(); //creates {}
 [10] === [10]; //false
 {key: "something"} === {key: "something"}; //false
 ```
-
+- We expected `[] === []` to be true because they are both empty arrays, but the way JavaScript works is different as it's checking if they are the same instance.
