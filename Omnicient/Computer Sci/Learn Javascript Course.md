@@ -769,4 +769,10 @@ These values above are called `falsy` values because, when converted to boolean,
 new Array(); // creates []
 new Object(); //creates {}
 ```
+```javascript
+[] === []; //false
+{} === {}; //false
+[10] === [10]; //false
+{key: "something"} === {key: "something"}; //false
+```
 
