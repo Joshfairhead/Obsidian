@@ -837,7 +837,7 @@ console.log(updated); // [10, 15]
 - The `.filter()` method returns a new array (so it does not affect the original one). The `.filter()` callback in this example is excluding the `grade` that has a value of 20.
 
 ## Immutable objects
-- The same concept covered in the last lesson applies to objects. We need to create a copy of the object instead of changing the original one. To do so, you can also use the `...` operator to clone an object:
+- The same concept applies to objects. We need to create a copy of the object instead of changing the original one. To do so, you can also use the `...` operator to clone an object:
 ```javascript
 const user = {
     id: 1,
@@ -845,4 +845,34 @@ const user = {
 };
 const cloned = {...user};
 console.log(cloned); // {id: 1, age: 23} (new object not related to 'user')
+```
+
+### Immutable object update
+- To immutably update an object, you need to make a copy of it and then add the new `key: value` that will override the previous one.
+```javascript
+const user = {
+    id: 1,
+    age: 23
+};
+const clonedUser = {
+    ...user,
+    age: user.age + 1
+};
+console.log(clonedUser); // {id: 1, age: 24} (new object not related to 'user')
+```
+- Notice how the `age: user.age + 1` overrides the previous value of the `age` property.
+
+### Immutable delete
+- Though less used, here's how you can immutably delete a property from an object. It's a combination of object destructuring and the `...` operator:
+```javascript
+const book = {
+    id: 1,
+    title: "Harry Potter",
+    year: 2017,
+    rating: 4.5
+}
+
+// GOOD: immutable
+const {year, ...rest} = book;
+console.log(rest); // { id: 1, title: "Harry Potter", rating: 4.5}
 ```
