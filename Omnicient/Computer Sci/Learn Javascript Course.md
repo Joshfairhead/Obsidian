@@ -931,4 +931,7 @@ class Person {
 const person = new Person("Sam", "Green");
 console.log(person.getFullName()); // "Sam Green"
 ```
-- You cannot call `Person.getFullName()`. For that to work, `getFullName()` must be a static method. This is explained in the next chapter.
+- The `getFullName()` is an instance method. We write it inside the class definition, and then we are able to call it on an instance (for example the variable `person`).
+-  You cannot call `Person.getFullName()`. For that to work, `getFullName()` must be a static method. This is explained in the next chapter.
+
+
