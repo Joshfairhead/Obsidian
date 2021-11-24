@@ -880,6 +880,9 @@ console.log(rest); // { id: 1, title: "Harry Potter", rating: 4.5}
 - However, notice how we ask JavaScript to destructure the rest of the object with `...rest`. This means combining all the other key/values in a new object called `rest`. So we end up with `rest` which is an immutable copy of `book` excluding the `year` property!
 
 ## Introduction to classes
-### What is a class?
 - When your code starts growing, you will have a few dozen functions in your source code. To better organize your code, you can group functions that perform similar functionalities into a single **class**.
+-   Classes allow you to better organize your code by grouping your code (variables & functions) into a single class
+-   Classes promote reusability.
+-   A _class_ is a factory that is able to create _instances_.
+-   Every instance created from a class is unique.
 
