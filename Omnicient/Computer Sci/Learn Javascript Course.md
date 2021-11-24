@@ -814,4 +814,7 @@ console.log(gradesCopy); // [10, 20] (new array, not linked to 'grades')
 - This is why this syntax ends up creating a copy rather than pointing to the same reference.
 - This is called a _shallow copy_ (in contrast with _deep copy_, more on that at the end of this chapter).
 - This technique covers most scenarios for array immutability as with this new array, you will be able to manipulate it without affecting the original array.
+- This technique covers most scenarios for array immutability as with this new array, you will be able to manipulate it without affecting the original array.
+- Most array methods that you're familiar with will mutate the original array. For example, `.push()` does mutate the array. The same applies to lesser used methods such as `.sort()`.
+- On the other hand, the ones that are immutable are `.filter()` and `.map()` because these methods return a new array (rather than modifying the old one). The `.reduce()` method is also immutable since it returns a new value computed from an array.
 - 
