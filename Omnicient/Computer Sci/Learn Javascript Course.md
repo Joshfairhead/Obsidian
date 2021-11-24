@@ -876,3 +876,6 @@ const book = {
 const {year, ...rest} = book;
 console.log(rest); // { id: 1, title: "Harry Potter", rating: 4.5}
 ```
+- The reason why this works is because `{year, ...rest} = book` is destructuring the value of the key `year` from the `book` object. This is similar to reading `book.year`.
+- However, notice how we ask JavaScript to destructure the rest of the object with `...rest`. This means combining all the other key/values in a new object called `rest`. So we end up with `rest` which is an immutable copy of `book` excluding the `year` property!
+
