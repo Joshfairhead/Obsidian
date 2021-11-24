@@ -933,5 +933,23 @@ console.log(person.getFullName()); // "Sam Green"
 ```
 - The `getFullName()` is an instance method. We write it inside the class definition, and then we are able to call it on an instance (for example the variable `person`).
 -  You cannot call `Person.getFullName()`. For that to work, `getFullName()` must be a static method. This is explained in the next chapter.
+- It only works on instances, which is why it works on `person` because that variable was assigned to `new Person(...)`.
 
+### Accessing instance variables
+- In the previous chapter, we captured `constructor` params into instance variables. This allows us to use those instance variables in instance methods, just like we did here in this example.
+- The `getFullName()` instance method uses the `this.firstName` and `this.lastName` instance variables.
+```javascript
+class Person {
+    constructor(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    getFullName() {
+        // ❌ this does NOT work
+        return `${firstName} ${lastName}`;
+    }
+}
+```
+- This is what the keyword `this` refers to. It's referring to the current instance of the class.
 
