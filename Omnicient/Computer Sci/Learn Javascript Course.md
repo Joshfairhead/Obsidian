@@ -886,3 +886,28 @@ console.log(rest); // { id: 1, title: "Harry Potter", rating: 4.5}
 -   A _class_ is a factory that is able to create _instances_.
 -   Every instance created from a class is unique.
 
+## Constructor
+- When you create a new instance of a class, the `constructor()` function will be automatically called. For example:
+```javascript
+// class definition
+class Person {
+    constructor() {
+        console.log("I was automatically called");
+    }
+}
+
+// class usage
+const person = new Person; // () are optional when there are no arguments
+```
+- If the constructor expects some parameters, you can pass some arguments to the `new Person(...)` call. These arguments will be passed to the constructor. For example:
+```javascript
+// class definition
+class Person {
+    constructor(firstName, lastName) {
+        console.log(firstName + " " + lastName);
+    }
+}
+
+// class usage
+const person = new Person("Sam", "Green");
+```
