@@ -882,4 +882,4 @@ console.log(rest); // { id: 1, title: "Harry Potter", rating: 4.5}
 ## Introduction to classes
 ### What is a class?
 - When your code starts growing, you will have a few dozen functions in your source code. To better organize your code, you can group functions that perform similar functionalities into a single **class**.
-- 
+
