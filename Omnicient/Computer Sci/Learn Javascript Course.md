@@ -811,4 +811,7 @@ const gradesCopy = [...grades];
 console.log(gradesCopy); // [10, 20] (new array, not linked to 'grades')
 ```
 - The way it works is that you're creating a **new array** with the `[ ]` syntax, and inside of this array, you're spreading the items from the `grades` array.
+- This is why this syntax ends up creating a copy rather than pointing to the same reference.
+- This is called a _shallow copy_ (in contrast with _deep copy_, more on that at the end of this chapter).
+- This technique covers most scenarios for array immutability as with this new array, you will be able to manipulate it without affecting the original array.
 - 
