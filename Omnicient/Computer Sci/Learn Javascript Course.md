@@ -953,3 +953,7 @@ class Person {
 ```
 - This is what the keyword `this` refers to. It's referring to the current instance of the class.
 
+
+## Object-Oriented Programming
+- Object-Oriented Programming (OOP) is when you describe the real world with classes (that you can then instantiate which creates objects).
+- 
