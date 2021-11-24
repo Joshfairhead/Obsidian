@@ -799,7 +799,16 @@ console.log(secondArray); // [10]
 - Front-end libraries/frameworks do not use a deep equal strategy when comparing their state (before and after), instead, they use the `===` because it's blazing fast.
 - This is why you are required to immutably update the state (whether it was an array or an object).
 
-### What is Immutability?
+## What is Immutability?
 - An immutable object is an object that cannot be changed. Every update creates a new value, leaving the old one untouched.
 - it's important that you understand why immutability is needed, how `===` works, and that assigning a variable to an object will not clone it (but rather point to the same reference).
+
+## Immutable arrays
+- We saw that assigning an array to a new variable does not make a new copy of it. So, any changes to that new variable will also affect the original variable. To prevent that, you can create a shallow copy of that array using the spread syntax `...`. Here's how it works:
+```javascript
+const grades = [10, 20];
+const gradesCopy = [...grades];
+console.log(gradesCopy); // [10, 20] (new array, not linked to 'grades')
+```
+- The way it works is that you're creating a **new array** with the `[ ]` syntax, and inside of this array, you're spreading the items from the `grades` array.
 - 
