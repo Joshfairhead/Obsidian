@@ -836,3 +836,13 @@ console.log(updated); // [10, 15]
 ```
 - The `.filter()` method returns a new array (so it does not affect the original one). The `.filter()` callback in this example is excluding the `grade` that has a value of 20.
 
+## Immutable objects
+- The same concept covered in the last lesson applies to objects. We need to create a copy of the object instead of changing the original one. To do so, you can also use the `...` operator to clone an object:
+```javascript
+const user = {
+    id: 1,
+    age: 23
+};
+const cloned = {...user};
+console.log(cloned); // {id: 1, age: 23} (new object not related to 'user')
+```
