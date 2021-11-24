@@ -914,5 +914,21 @@ const person = new Person("Sam", "Green");
 
 ## Instance methods
 - We previously talked about how classes group common functionality together. This is achieved by defining instance methods. Instance methods are functions that can be called on an **instance** of a class.
+```javascript
+// class definition
+class Person {
+    constructor(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    getFullName() {
+        return `${this.firstName} ${this.lastName}`;
+    }
+}
+
+// class usage
+const person = new Person("Sam", "Green");
+console.log(person.getFullName()); // "Sam Green"
+```
 - You cannot call `Person.getFullName()`. For that to work, `getFullName()` must be a static method. This is explained in the next chapter.
-- 
