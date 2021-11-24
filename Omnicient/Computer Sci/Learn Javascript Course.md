@@ -817,4 +817,13 @@ console.log(gradesCopy); // [10, 20] (new array, not linked to 'grades')
 - This technique covers most scenarios for array immutability as with this new array, you will be able to manipulate it without affecting the original array.
 - Most array methods that you're familiar with will mutate the original array. For example, `.push()` does mutate the array. The same applies to lesser used methods such as `.sort()`.
 - On the other hand, the ones that are immutable are `.filter()` and `.map()` because these methods return a new array (rather than modifying the old one). The `.reduce()` method is also immutable since it returns a new value computed from an array.
+
+### Immutable add
+- The most common use case for array immutability is immutably adding an item to an array. You can do that in one line also using the `...` syntax:
+```javascript
+const grades = [10, 20];
+const updated = [...grades, 15];
+console.log(updated); // [10, 20, 15] (new array, not related to 'grades')
+```
+- The reason why this works is that you're creating a new array with the `[ ]` syntax, and inside this array, you're spreading the items from `grades` and adding to it a new value which is `15`.
 - 
