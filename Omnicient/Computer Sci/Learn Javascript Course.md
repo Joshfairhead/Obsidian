@@ -826,4 +826,13 @@ const updated = [...grades, 15];
 console.log(updated); // [10, 20, 15] (new array, not related to 'grades')
 ```
 - The reason why this works is that you're creating a new array with the `[ ]` syntax, and inside this array, you're spreading the items from `grades` and adding to it a new value which is `15`.
-- 
+
+### Immutable array update/remove
+- You can also immutably update an array and immutably remove an item using the `.map()` and `.filter()` methods. Example:
+```javascript
+const grades = [10, 20, 15];
+const updated = grades.filter(grade => grade !== 20);
+console.log(updated); // [10, 15]
+```
+- The `.filter()` method returns a new array (so it does not affect the original one). The `.filter()` callback in this example is excluding the `grade` that has a value of 20.
+
