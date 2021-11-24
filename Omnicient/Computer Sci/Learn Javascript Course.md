@@ -911,3 +911,8 @@ class Person {
 // class usage
 const person = new Person("Sam", "Green");
 ```
+
+## Instance methods
+- We previously talked about how classes group common functionality together. This is achieved by defining instance methods. Instance methods are functions that can be called on an **instance** of a class.
+- You cannot call `Person.getFullName()`. For that to work, `getFullName()` must be a static method. This is explained in the next chapter.
+- 
