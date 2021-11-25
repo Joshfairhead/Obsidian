@@ -972,3 +972,6 @@ class User {
     }
 }
 ```
+- Inside this setter, we're converting the `value` to a number (with `Number.parseInt(string, 10)`), and then we set the result on a new instance variable called `this._age`.
+- The `_` here in `_age` is a convention meaning that this property is internal to the class and should not be accessed from outside. JavaScript recently introduced private fields, however, sufficient browser support is not there yet.
+- This is very important. If you accidentally set the result on `this.age`, then you end up creating an infinite loop. That's because whenever you try to access `this.age`, JavaScript will automatically call this setter. So you end up with a function that keeps calling itself forever.
