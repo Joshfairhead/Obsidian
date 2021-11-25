@@ -978,4 +978,19 @@ class User {
 
 ### Getter
 - The remaining problem is that if we try to access `user.age`, we get `undefined`. That's because we have not defined a `getter` for the `age` property.
-- 
+- We do that by defining a `get age()` function as follows:
+```javascript
+class User {
+    get age() {
+        console.log("age getter");
+        return this._age;
+    }
+
+    set age(value) {
+        console.log("age setter");
+        this._age = Number.parseInt(value, 10);
+    }
+}
+```
+
+### Putting it all together
