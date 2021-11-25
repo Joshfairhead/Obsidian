@@ -1090,3 +1090,30 @@ class Course {
     }
 }
 ```
+
+## Class inheritance
+```javascript
+class Employee {
+    constructor(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    getFullName() {
+        return `${this.firstName} ${this.lastName}`;
+    }
+
+    getInitials() {
+        return this.firstName[0] + this.lastName[0];
+    }
+}
+
+class Manager extends Employee {
+    sendPerformanceReview() {
+        console.log(`Sent performance review for current quarter`);
+    }   
+}
+```
+
+## Overriding methods
+- What if we'd like a different implementation for `getFullName()`? For example, we'd like to return `(manager)` after the full name. This is possible in inheritance. You can override functions. Here's how:
