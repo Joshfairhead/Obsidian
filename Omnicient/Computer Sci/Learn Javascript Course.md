@@ -956,4 +956,10 @@ class Person {
 
 ## Object-Oriented Programming
 - Object-Oriented Programming (OOP) is when you describe the real world with classes (that you can then instantiate which creates objects).
-- 
+
+
+-   Instance methods are functions that can be called on an **instance** of a class.
+-   To be able to use instance variables inside an instance method, you have to prefix them with `this.` (as long as they were captured in the `constructor`)
+-   Inside an instance method, `this` refers to the current instance of the class.
+-   Object-Oriented Programming (OOP) is when you describe the real world with classes (that you can then instantiate which creates objects).
+-   An instance method can call another instance method using the `this.functionName()` syntax.
