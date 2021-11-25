@@ -11,3 +11,4 @@ Zooming into the modes of fear, shame and guilt, they seem to share common trait
 Relating the two triads - can fear, shame or guilt be felt in the felt presence of good, same, together? Probably not. I queried myself throught both these lenses and stumbled into a whole interior world I was unaware of. Crikey. 
 
 Caverns. 
+
