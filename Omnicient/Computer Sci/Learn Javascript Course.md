@@ -1047,8 +1047,8 @@ Though static methods are less used compared to instance methods, here are some 
 ### Static methods cannot access this.
 - Since static methods are called on the class and not an instance, they cannot access instance variable or instance methods. Thus, you cannot use `this.` inside of them.
 - If you find yourself needing to use `this.` inside a `static` method, then it means it should _not_ be `static`.
-- ## Method chaining
 
+### Method chaining
 - You may sometimes encounter method chaining, which is a method called on the result of another method. For example, assuming a class `Course`:
 ```javascript
 const course = new Course("Learn JavaScript", false);
@@ -1065,4 +1065,28 @@ course.requestCertificate();
 - You can chain the method calls, because every method is returning `this`, which in this example is the equivalent of `course` (the current instance):
 ```javascript
 course.markAsCompleted().setGrade(18).requestCertificate();
+```
+- To make this work, you need to make sure that these instance methods are returning `this`:
+```javascript
+class Course {
+    constructor(name, isCompleted) {
+        this.name = name;
+        this.isCompleted = isCompleted;
+    }
+
+    markAsCompleted() {
+        this.isCompleted = true;
+        return this; // allows method chaining
+    }
+
+    setGrade(grade) {
+        this.grade = grade;
+        return this; // allows method chaining
+    }
+
+    requestCertificate() {
+        this.askedForCertificate = true;
+        return this; // allows method chaining
+    }
+}
 ```
