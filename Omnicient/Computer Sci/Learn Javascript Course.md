@@ -994,3 +994,29 @@ class User {
 ```
 
 ### Putting it all together
+- You can still use getters and setters with the pattern where you capture constructor parameters. That's because, whenever you access `this.age` from within the class, it will also automatically trigger the `set age(value)` function. This is why we had to create an internal property and call it `this._age` to avoid creating an infinite loop.
+```javascript
+class User {
+    constructor(age) {
+        this.age = age; // calls set age(value)
+    }
+
+    get age() {
+        console.log("age getter");
+        return this._age;
+    }
+
+    set age(value) {
+        console.log("age setter");
+        this._age = Number.parseInt(value, 10);
+    }
+}
+```
+- This allows us to set the `age` when creating a new instance of `User` but also change it later on
+```javascript
+const user = new User("30");
+console.log(user.age); // 30 (number)
+user.age = "31";
+console.log(user.age); // 31 (number)
+```
+- The end result shows that we've enforced the `age` to always be a number because we always convert the received value to a number. You can also change the formatting of a number as we'll see in following challenges.
