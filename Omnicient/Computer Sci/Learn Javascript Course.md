@@ -962,3 +962,13 @@ class Person {
 
 # Class Concepts
 ## Getters & Setters
+### Setter
+- Defining getters and setters in a class is _mostly_ used to validate or modify certain values before they are set as properties on a class.
+```javascript
+class User {
+    set age(value) {
+        console.log("age setter");
+        this._age = Number.parseInt(value, 10);
+    }
+}
+```
