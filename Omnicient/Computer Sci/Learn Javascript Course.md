@@ -1023,3 +1023,18 @@ console.log(user.age); // 31 (number)
 
 
 ## Static methods & chaining
+- We saw in the previous chapter that instance methods are methods that we can call on an _instance_ of a class (the result of `new ClassName()`).
+- For some use cases though, we can create methods that can be called directly on the class and _not_ on the instance. Here's how we use them, assuming a class `Config`:
+```javascript
+console.log(Config.getYear()); // 2021
+```
+- Notice how we called the method `getYear()` directly on the class `Config` rather than on an instance. In fact, if you call it on an instance, it does not work because this is a `static` method. Here's how you implement this static method:
+```javascript
+class Config {
+    static getYear() {
+        // code to get the current year (for example, 2021)
+        const date = new Date();
+        return date.getFullYear();
+    }
+}
+```
