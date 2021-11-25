@@ -1038,3 +1038,12 @@ class Config {
     }
 }
 ```
+
+### When to create static methods?
+Though static methods are less used compared to instance methods, here are some common questions you can ask yourself that will help you decide if the method should be static:
+-   Is the result of this method the same across all instances of the class? If yes, then it should be `static`.
+-   Is the method not accessing any instance variable of this class? If yes, then most likely it should be `static`.
+
+### Static methods cannot access this.
+- Since static methods are called on the class and not an instance, they cannot access instance variable or instance methods. Thus, you cannot use `this.` inside of them.
+- If you find yourself needing to use `this.` inside a `static` method, then it means it should _not_ be `static`.
