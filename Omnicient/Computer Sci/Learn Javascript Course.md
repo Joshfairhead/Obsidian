@@ -1020,3 +1020,6 @@ user.age = "31";
 console.log(user.age); // 31 (number)
 ```
 - The end result shows that we've enforced the `age` to always be a number because we always convert the received value to a number. You can also change the formatting of a number as we'll see in following challenges.
+
+
+## Static methods & chaining
