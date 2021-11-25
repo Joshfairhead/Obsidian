@@ -1117,3 +1117,16 @@ class Manager extends Employee {
 
 ## Overriding methods
 - What if we'd like a different implementation for `getFullName()`? For example, we'd like to return `(manager)` after the full name. This is possible in inheritance. You can override functions. Here's how:
+```javascript
+/ assuming the same class definition for Employee
+
+class Manager extends Employee {
+    getFullName() {
+        return `${this.firstName} ${this.lastName} (manager)`;
+    }
+
+    sendPerformanceReview() {
+        console.log(`Sent performance review for current quarter`);
+    }   
+}
+```
