@@ -21,26 +21,22 @@ Related:
     - HTML/CSS
         - [[Maija]] recommends: https://www.youtube.com/user/LearnWebCode
         - [[Inspector]]
-- [[Category theory]] (integralising all concepts into a topology of Objects/Functions)
-
-- [[static/dynamic languages]] discussion with [[Ome]]
-
-
-- [[Monitoring]]
-- [[Databases]]
-- [[Algorithms]]
-- [[DWeb]]
+###Cour
 
 ### Topics
+- [[static/dynamic languages]] discussion with [[Ome]]
+- [[Category theory]] 
 - [[Functional Programming]]
-- - [[Promise theory]]
+- [[Promise theory]]
 - [[Digital Identity]]
 - [[Semantics]]
+- [[DWeb]]
 
 ### Domains
 - [[AI/Machine Learning]]
 - [[Data Science]]
 - [[DevOps]]
+	- [[Monitoring]]
 	- [[CI/CD]] - Continuous Integration, Continuous Deployment
 - [[SecOps]]
 - [[Front End]]
@@ -54,7 +50,9 @@ Related:
 - [[Git]]
 - [[Github]]
 - [[REPL]]
-- [[CRDT]]
+- [[Databases]]
+	- [[CRDT]]
+- [[Algorithms]]
 
 ### Languages
 - [[Rust]]
