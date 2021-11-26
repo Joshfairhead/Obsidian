@@ -1192,3 +1192,12 @@ class Manager extends Employee {
 ```javascript
 typeof(Rectangle); //"function"
 ```
+- Before the `class` keyword was added to the language in 2015, here's how we used to write "classes"
+```javascript
+function Rectangle(width, height) {
+    this.width = width;
+    this.height = height;
+}
+```
+- This function serves as the constructor. It's called the function constructor pattern in JavaScript.
+- 
