@@ -1200,4 +1200,6 @@ function Rectangle(width, height) {
 }
 ```
 - This function serves as the constructor. It's called the function constructor pattern in JavaScript.
-- 
+
+
+## Prototypal inheritance
