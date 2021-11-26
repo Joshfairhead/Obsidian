@@ -36,12 +36,10 @@ Related:
 - [[SecOps]]
 - [[Microservices]]
 - [[Semantics]]
-- [[REPL]]
 - [[Monitoring]]
 - [[Databases]]
 - [[Algorithms]]
 - [[DWeb]]
-- [[CRDT]]
 
 
 ### Tools
@@ -52,6 +50,8 @@ Related:
 - [[Vim]]
 - [[Git]]
 - [[Github]]
+- [[REPL]]
+- [[CRDT]]
 
 ### Languages
 - [[Rust]]
@@ -62,11 +62,14 @@ Related:
 - [[Vue]].js
 - [[Tailwind]] CSS
 - [[Svelte]] (Compiler)
+- [[Holochain]]
 
-- Workflows
-    - [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
-- Figures
-    - [[Claude Shannon]]
-    - [[Brett Victor]]
-    - [[Ted Nelson]]
-    - [[Douglas Englebart]]
+### Figures
+- [[Claude Shannon]]
+- [[Brett Victor]]
+- [[Ted Nelson]]
+- [[Douglas Englebart]]
+
+
+### Models of Development
+- [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
