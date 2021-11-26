@@ -38,25 +38,30 @@ Related:
 - [[SecOps]]
 - [[Microservices]]
 - [[Semantics]]
-- [[Vim]]
-- [[Shell]]
 - [[REPL]]
 - [[Monitoring]]
 - [[Databases]]
 - [[Algorithms]]
 - [[DWeb]]
 - [[CRDT]]
-- [[Fish]]
-- [[Bash]]
-- [[Terminal]]
 
+
+### Tools
+- [[Terminal]]
+- [[Shell]]
+- [[Bash]]
+- [[Fish]]
+- [[Vim]]
+- [[Svelte]]
 
 ### Languages
 - [[Rust]]
 - [[Clojure]]
 - [[JavaScript]]
 
-
+### Frameworks
+- [[Vue]].js
+- [[Tailwind]] CSS
 
 - Workflows
     - [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
