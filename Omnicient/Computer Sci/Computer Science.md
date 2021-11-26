@@ -27,8 +27,6 @@ Related:
 - [[Promise theory]]
 - [[Functional Programming]]
 - [[static/dynamic languages]] discussion with [[Ome]]
-- [[Rust]]
-- [[Clojure]]
 - [[Digital Identity]]
 - [[Functional Programming]]
 - [[CI/CD]] - Continuous Integration, Continuous Deployment
@@ -40,7 +38,6 @@ Related:
 - [[SecOps]]
 - [[Microservices]]
 - [[Semantics]]
-- [[JavaScript]]
 - [[Vim]]
 - [[Shell]]
 - [[REPL]]
@@ -48,9 +45,19 @@ Related:
 - [[Databases]]
 - [[Algorithms]]
 - [[DWeb]]
+- [[CRDT]]
 - [[Fish]]
 - [[Bash]]
 - [[Terminal]]
+
+
+### Languages
+- [[Rust]]
+- [[Clojure]]
+- [[JavaScript]]
+
+
+
 - Workflows
     - [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 - Figures
