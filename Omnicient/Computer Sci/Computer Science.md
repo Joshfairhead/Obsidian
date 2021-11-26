@@ -12,9 +12,7 @@ Related:
     - [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
 - [FLOSS Manuals - command line](http://write.flossmanuals.net/command-line/introduction/)
 - Basics
-    - [[Terminal]]
-    - [[Git]]
-    - [[Github]]
+   
     - [Logical operators](https://javascript.info/logical-operators)
     - Archictecure Basics
         - Association, aggregation, composition
@@ -27,10 +25,10 @@ Related:
 - [[Promise theory]]
 - [[Functional Programming]]
 - [[static/dynamic languages]] discussion with [[Ome]]
-- [[Digital Identity]]
 - [[Functional Programming]]
 - [[CI/CD]] - Continuous Integration, Continuous Deployment
 - [[AI/Machine Learning]]
+- [[Digital Identity]]
 - [[Install Holochain RSM]]
 - [[Front End]]
 - [[Data Science]]
@@ -52,7 +50,8 @@ Related:
 - [[Bash]]
 - [[Fish]]
 - [[Vim]]
-- [[Svelte]]
+- [[Git]]
+- [[Github]]
 
 ### Languages
 - [[Rust]]
@@ -62,6 +61,7 @@ Related:
 ### Frameworks
 - [[Vue]].js
 - [[Tailwind]] CSS
+- [[Svelte]] (Compiler)
 
 - Workflows
     - [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
