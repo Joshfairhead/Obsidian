@@ -2,7 +2,7 @@
 ---
 Tags: [Frameworks, Primitives]
 ---
-Related: [[Computer Science]] [[Monitoring]]
+Related: [[Computer Science]] [[Monitoring]] [[CI/CD]]
 
 # DevOps
 - Resources

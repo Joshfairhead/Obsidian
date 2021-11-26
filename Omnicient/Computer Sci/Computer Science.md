@@ -22,22 +22,26 @@ Related:
         - [[Maija]] recommends: https://www.youtube.com/user/LearnWebCode
         - [[Inspector]]
 - [[Category theory]] (integralising all concepts into a topology of Objects/Functions)
-- [[Promise theory]]
-- [[Functional Programming]]
+
 - [[static/dynamic languages]] discussion with [[Ome]]
-- [[Functional Programming]]
-- [[CI/CD]] - Continuous Integration, Continuous Deployment
-- [[Digital Identity]]
-- [[Semantics]]
+
+
 - [[Monitoring]]
 - [[Databases]]
 - [[Algorithms]]
 - [[DWeb]]
 
+### Topics
+- [[Functional Programming]]
+- - [[Promise theory]]
+- [[Digital Identity]]
+- [[Semantics]]
+
 ### Domains
 - [[AI/Machine Learning]]
 - [[Data Science]]
 - [[DevOps]]
+	- [[CI/CD]] - Continuous Integration, Continuous Deployment
 - [[SecOps]]
 - [[Front End]]
 
