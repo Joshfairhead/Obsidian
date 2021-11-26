@@ -1210,3 +1210,10 @@ function Rectangle(width, height) {
 -   The `extends` keyword, inherits all the methods from the parent. So, it uses prototypal inheritance to simulate classical inheritance.
 -   If you need to inherit a specific function, you can still do that by adding to the `.prototype` object.
 -   The most common use case is to use `extends` and inherit all the methods.
+
+
+## The prototype chain
+-   Every object in JavaScript inherits the prototype of `Object`.
+-   Inheritance works in JavaScript because of the prototype chain.
+-   When you call `child.parentMethod()`, JavaScript will walk up the prototype chain until it finds `parentMethod()` or `null` which signifies the end of the prototype chain.
+
