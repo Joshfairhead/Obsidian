@@ -1184,3 +1184,11 @@ class Manager extends Employee {
     }
 }
 ```
+
+
+## Class vs function
+- JavaScript doesn't have real classes! 😨 The `class` syntax you're using is syntactic sugar!
+- In fact, if you ask JavaScript about the **type of** Rectangle, you'll get **function**:
+```javascript
+typeof(Rectangle); //"function"
+```
