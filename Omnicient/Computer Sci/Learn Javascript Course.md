@@ -1165,7 +1165,7 @@ class Manager extends Employee {
 - In this example, the `Manager` class will end up having 3 instance variables `this.firstName` and `this.lastName` which are set by the Employee's constructor, and `this.department` which is set by the `Manager`'s constructor.
 
 ## Calling parent instance methods
-This is a little bit lesser-used, but you can call functions on the parent class also using the `super` keyword:
+You can also call functions on the parent class  using the `super` keyword:
 ```javascript
 // assuming the same class definition for Employee
 
