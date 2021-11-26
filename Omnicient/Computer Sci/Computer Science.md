@@ -27,20 +27,19 @@ Related:
 - [[static/dynamic languages]] discussion with [[Ome]]
 - [[Functional Programming]]
 - [[CI/CD]] - Continuous Integration, Continuous Deployment
-- [[AI/Machine Learning]]
 - [[Digital Identity]]
-- [[Install Holochain RSM]]
-- [[Front End]]
-- [[Data Science]]
-- [[DevOps]]
-- [[SecOps]]
-- [[Microservices]]
 - [[Semantics]]
 - [[Monitoring]]
 - [[Databases]]
 - [[Algorithms]]
 - [[DWeb]]
 
+### Domains
+- [[AI/Machine Learning]]
+- [[Data Science]]
+- [[DevOps]]
+- [[SecOps]]
+- [[Front End]]
 
 ### Tools
 - [[Terminal]]
@@ -73,3 +72,4 @@ Related:
 
 ### Models of Development
 - [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
+- [[Microservices]]
