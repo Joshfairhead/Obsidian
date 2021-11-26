@@ -1203,3 +1203,10 @@ function Rectangle(width, height) {
 
 
 ## Prototypal inheritance
+-   With classical inheritance, you inherit all of the parent's methods
+-   With prototypal inheritance (the one in JavaScript), you can inherit specific functions by adding them to the `.prototype`.
+-   The `.prototype` holds all the methods that can be called on instances of that class/function.
+-   Prototypal inheritance is more powerful than classical inheritance in most cases, however, it is more complicated, and fewer developers are experienced with it.
+-   The `extends` keyword, inherits all the methods from the parent. So, it uses prototypal inheritance to simulate classical inheritance.
+-   If you need to inherit a specific function, you can still do that by adding to the `.prototype` object.
+-   The most common use case is to use `extends` and inherit all the methods.
