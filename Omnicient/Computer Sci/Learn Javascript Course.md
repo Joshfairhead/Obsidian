@@ -1217,3 +1217,5 @@ function Rectangle(width, height) {
 -   Inheritance works in JavaScript because of the prototype chain.
 -   When you call `child.parentMethod()`, JavaScript will walk up the prototype chain until it finds `parentMethod()` or `null` which signifies the end of the prototype chain.
 
+
+## Public class fields
