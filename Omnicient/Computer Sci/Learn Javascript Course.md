@@ -1238,3 +1238,23 @@ class User {
     }
 }
 ```
+
+### Private instance methods
+- Private instance methods are often denoted as "helper" methods that are only meant to be used from inside the class. Since there was no JavaScript feature that marked instance methods as private, developers were also prefixing them with an `_`.
+- However, now with private class fields, you can prefix the method with `#` and it won't be accessible from the outside
+```javascript
+class User {
+    constructor(age) {
+        this.age = age;
+        this.#logAge();
+    }
+
+    #logAge() {
+        console.log(this.age);
+    }
+}
+
+const user = new User(20);
+// cannot call user.#logAge() or user.logAge()
+```
+
