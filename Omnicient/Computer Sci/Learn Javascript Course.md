@@ -1218,4 +1218,4 @@ function Rectangle(width, height) {
 -   When you call `child.parentMethod()`, JavaScript will walk up the prototype chain until it finds `parentMethod()` or `null` which signifies the end of the prototype chain.
 
 
-## Public class fields
+## Private class fields
