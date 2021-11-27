@@ -1227,4 +1227,14 @@ class User {
 }
 ```
 - Now, `#votingAge` is a private class field that **cannot** be accessed from outside of the class. It can only be accessed from inside the class with `this.#votingAge`.
-- 
+- Note that private class fields **have** to be defined outside of the constructor first. Then, you can decide to re-use them in the constructor.
+```javascript
+class User {
+    #votingAge;
+
+    constructor() {
+        // this works ☑️
+        this.#votingAge = 18;
+    }
+}
+```
