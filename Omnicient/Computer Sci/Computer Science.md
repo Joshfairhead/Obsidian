@@ -8,9 +8,9 @@ Related:
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - domains of computing and how they are connected
 - [Computer Hope!](https://www.computerhope.com) - for all the things you don't understand!
 
-- [Tech Terms definitions](https://techterms.com/)
+
     - [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
-- [FLOSS Manuals - command line](http://write.flossmanuals.net/command-line/introduction/)
+
 - Basics
     - [Logical operators](https://javascript.info/logical-operators)
     - Archictecure Basics
@@ -19,7 +19,12 @@ Related:
         - Argument = input into a function
     - HTML/CSS
         - [[Maija]] recommends: https://www.youtube.com/user/LearnWebCode
-        
+
+### Manuals
+- [FLOSS Manuals](http://write.flossmanuals.net/command-line/introduction/)
+- [FLOSS Manuals - command line](http://archive.flossmanuals.net/command-line/)
+- - [Tech Terms definitions](https://techterms.com/)
+
 ### Courses
 - [Execute programme](https://www.executeprogram.com/) - uses [[Spaced Repitition]] to teach the tools and make them memorable. [[Meta-learning]]
 
