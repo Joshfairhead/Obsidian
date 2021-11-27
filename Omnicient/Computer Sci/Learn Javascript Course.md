@@ -1219,3 +1219,10 @@ function Rectangle(width, height) {
 
 
 ## Private class fields
+### Private instance variables
+- To mark an instance variable or method as private, you have to prefix it with the `#` (hash sign).
+```javascript
+class User {
+    #votingAge = 18;
+}
+```
