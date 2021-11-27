@@ -4,15 +4,14 @@ Tags: [Frameworks, Domains, Primitives, Index, Refactor]
 Related: 
 # Computer Science
 
-- [Execute programme](https://www.executeprogram.com/) - uses [[Spaced Repitition]] to teach the tools and make them memorable. [[Meta-learning]]
+
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - domains of computing and how they are connected
 - [Computer Hope!](https://www.computerhope.com) - for all the things you don't understand!
-- [Brett Victor](http://worrydream.com/?fbclid=IwAR3Ql6ka1wYvK4ReUJ2q1N4dChTJWJwDzPAfyV0ctKnj4UVlil4BJ-Bt964) - Working on Dynamicland
+
 - [Tech Terms definitions](https://techterms.com/)
     - [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
 - [FLOSS Manuals - command line](http://write.flossmanuals.net/command-line/introduction/)
 - Basics
-   
     - [Logical operators](https://javascript.info/logical-operators)
     - Archictecure Basics
         - Association, aggregation, composition
@@ -20,8 +19,9 @@ Related:
         - Argument = input into a function
     - HTML/CSS
         - [[Maija]] recommends: https://www.youtube.com/user/LearnWebCode
-        - [[Inspector]]
-###Cour
+        
+### Courses
+- [Execute programme](https://www.executeprogram.com/) - uses [[Spaced Repitition]] to teach the tools and make them memorable. [[Meta-learning]]
 
 ### Topics
 - [[static/dynamic languages]] discussion with [[Ome]]
@@ -42,6 +42,7 @@ Related:
 - [[Front End]]
 
 ### Tools
+- [[Inspector]]
 - [[Terminal]]
 - [[Shell]]
 - [[Bash]]
@@ -70,7 +71,6 @@ Related:
 - [[Brett Victor]]
 - [[Ted Nelson]]
 - [[Douglas Englebart]]
-
 
 ### Models of Development
 - [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
