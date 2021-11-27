@@ -1226,3 +1226,5 @@ class User {
     #votingAge = 18;
 }
 ```
+- Now, `#votingAge` is a private class field that **cannot** be accessed from outside of the class. It can only be accessed from inside the class with `this.#votingAge`.
+- 
