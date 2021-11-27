@@ -4,26 +4,13 @@ Tags: [Frameworks, Domains, Primitives, Index, Refactor]
 Related: 
 # Computer Science
 
-
-- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - domains of computing and how they are connected
-- [Computer Hope!](https://www.computerhope.com) - for all the things you don't understand!
-
-
-    - [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
-
-- Basics
-    - [Logical operators](https://javascript.info/logical-operators)
-    - Archictecure Basics
-        - Association, aggregation, composition
-        - Function = transformation of an object
-        - Argument = input into a function
-    - HTML/CSS
-        - [[Maija]] recommends: https://www.youtube.com/user/LearnWebCode
-
 ### Manuals
+- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - domains of computing and how they are connected
 - [FLOSS Manuals](http://write.flossmanuals.net/command-line/introduction/)
 - [FLOSS Manuals - command line](http://archive.flossmanuals.net/command-line/)
-- - [Tech Terms definitions](https://techterms.com/)
+- [Tech Terms definitions](https://techterms.com/)
+	- [ABI - Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)
+- [Computer Hope!](https://www.computerhope.com) - for all the things you don't understand!
 
 ### Courses
 - [Execute programme](https://www.executeprogram.com/) - uses [[Spaced Repitition]] to teach the tools and make them memorable. [[Meta-learning]]
@@ -80,3 +67,10 @@ Related:
 ### Models of Development
 - [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 - [[Microservices]]
+
+## Basics
+- [Logical operators](https://javascript.info/logical-operators)
+- Archictecure Basics
+	- Association, aggregation, composition
+- HTML/CSS
+	- [[Maija]] recommends: https://www.youtube.com/user/LearnWebCode
