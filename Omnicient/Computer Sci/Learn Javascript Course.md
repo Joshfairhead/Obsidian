@@ -1261,9 +1261,11 @@ const user = new User(20);
 
 
 ## SetTimeout
-- Calling other servers will result in delays, 
+- Calling other servers will result in delays, we need to account for these!
 ```javascript
 setTimeout(() => {
     console.log("One second has elapsed.");
 }, 1000);
 ```
+- What the `setTimeout` function does is that it **queues** the `callback` function that you specify in the future. It will wait the `milliseconds` that you specified. In this example, we specified 1000 milliseconds which is the equivalent of 1 second.
+- 
