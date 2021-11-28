@@ -28,3 +28,6 @@ Related: [[Game Theory]] [[Principals]]
 
 LessWrong.com
 SlateStarCodex.com
+
+Evidence based management
+https://cebma.org/
