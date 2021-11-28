@@ -1272,3 +1272,6 @@ setTimeout(() => {
 - An asynchronous callback is a callback that runs somewhere in the future.
 
 
+## Execution order
+- Your JavaScript code **always** runs top to bottom. However, some parts of the code might be queued for the future.
+- 
