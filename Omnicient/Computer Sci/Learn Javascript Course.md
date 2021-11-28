@@ -1261,3 +1261,9 @@ const user = new User(20);
 
 
 ## SetTimeout
+- Calling other servers will result in delays, 
+```javascript
+setTimeout(() => {
+    console.log("One second has elapsed.");
+}, 1000);
+```
