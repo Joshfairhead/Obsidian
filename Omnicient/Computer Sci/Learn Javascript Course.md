@@ -1260,3 +1260,4 @@ const user = new User(20);
 - The `#logAge` private method cannot be called from outside of the class. It can only be called from the inside. So, the `this.#logAge()` inside the constructor does work indeed but you will not be able to call `#logAge()` on an instance variable.
 
 
+## SetTimeout
