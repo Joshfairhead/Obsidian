@@ -1268,4 +1268,7 @@ setTimeout(() => {
 }, 1000);
 ```
 - What the `setTimeout` function does is that it **queues** the `callback` function that you specify in the future. It will wait the `milliseconds` that you specified. In this example, we specified 1000 milliseconds which is the equivalent of 1 second.
-- 
+- `setTimeout(callback, milliseconds)` is a JavaScript function that queues the `callback` into the future (depending on the `milliseconds` you specify).
+- An asynchronous callback is a callback that runs somewhere in the future.
+
+
