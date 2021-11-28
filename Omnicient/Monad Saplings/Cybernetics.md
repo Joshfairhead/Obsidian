@@ -16,8 +16,8 @@ Related: [[H3uni]] [[Capra Course]] [[E-systems]] [[Qual Systems]] [[Second Orde
     - ![](assets/1626444249_15.pdf)
 - [[Anthony Hodgeson]] Implications of Second-Order Cybernetics
     - ![](assets/1626444251_16.pdf)
-- [CCRU writings](https://libcom.org/files/%5BCcru,_Nick_Land%5D_Ccru_Writings_1997-2003(BookZZ.org).pdf)
 - [[Deleuze & Guattari]] [[Schizoanalysis]]
 
 #### Writing
+- [CCRU writings 1997-2003](https://libcom.org/files/%5BCcru,_Nick_Land%5D_Ccru_Writings_1997-2003(BookZZ.org).pdf)
 - [The Ghost Lemurs of Madagascar](https://sites.evergreen.edu/ftsm/wp-content/uploads/sites/307/2015/12/Burroughs-Ghost-Lemurs-of-Madagascar.pdf) [[CCRU]]
