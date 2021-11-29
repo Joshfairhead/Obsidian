@@ -1339,4 +1339,5 @@ When you create a promise, it will start in the `pending` state. When it has bee
 
 ### Visualizing the pending state
 - Assuming a function `wait(milliseconds)` that returns a promise. Let's try to console.log() the result of `wait(1000)`:
-- 
+
+### Resolving data
