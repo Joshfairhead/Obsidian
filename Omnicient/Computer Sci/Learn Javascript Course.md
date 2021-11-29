@@ -1361,3 +1361,13 @@ sumTemperatures(temperatures).then(value => {
 ```
 - This is called a promise _resolving data_. This means that the promise is giving us an answer after it has been completed. This will be especially important when we work with `fetch`.
 
+### Extracting value out of promise (common mistake)
+It's a common mistake to try and extract the `data` or `value` (or whatever the promise is resolving) outside of the promise as follows:
+```javascript
+/* ❌ this does NOT work as expected */
+const data = getWeatherIn("Amsterdam");
+
+console.log(data); // Promise <pending>
+```
+This is **not** possible. You **have to** add a `.then()` callback and you will _only_ be able to access the `data` inside the `.then` callback. This is because the promise callback will only run in the future (once the promise has been completed).
+
