@@ -1359,3 +1359,5 @@ sumTemperatures(temperatures).then(value => {
     console.log(value); // 18 (the sum of temperatures)
 });
 ```
+- This is called a promise _resolving data_. This means that the promise is giving us an answer after it has been completed. This will be especially important when we work with `fetch`.
+
