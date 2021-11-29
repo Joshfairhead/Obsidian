@@ -1318,3 +1318,4 @@ sumTemperatures(temperatures)
 ```
 - This is clearer because we don't have to rely on the order of the callbacks, instead, they are scheduled in the future with `.then()` and `.catch()` so one of them will run depending on the outcome of the promise.
 
+Don't rush into learning `async/await` yet because it's syntactic sugar on top of promises. You need to understand promises first, and then learn `async/await`.
