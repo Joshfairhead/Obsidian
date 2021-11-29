@@ -19,10 +19,7 @@ Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]] [[Forres
 2 / 3 / 4 / 5 / 6 / 7
 Essence / Character / Action / Significance / Coalescence / Generative power
 
-
-
 ### Example methodology
-
 We take the term "Riding a Bike" as our monadic field of interest. 
 Bike is the subject matter or content. Riding it is the context.
 Zoom in on the subject matter "Bike" and create a dyad.
