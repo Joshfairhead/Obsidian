@@ -1274,3 +1274,9 @@ setTimeout(() => {
 
 
 ## The callback pattern
+- Before we learn about this technique, please note that there's a better way of doing it using promises.
+```javascript
+welcomeUser("Sam", () => {
+    console.log("Done welcoming user");
+});
+```
