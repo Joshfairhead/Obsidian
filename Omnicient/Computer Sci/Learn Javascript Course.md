@@ -1293,3 +1293,28 @@ const welcomeUser = (name, callback) => {
 -   We're only learning about the callback pattern because we'd like to replace it with promises in the next chapter.
 -   The success callback is able to receive some `data`. For example, let's say there's an expensive calculation happening and you'd like to make it possible for the success callback to receive the answer of that calculation.
 -   One of the annoying things about the callback pattern is that the only differentiation between the success callback and the error callback is their order in the parameters. This is not very clear and can lead to confusion.
+
+## Promises
+It gets even better when you want to handle errors. Here's the before/after example:
+```javascript
+sumTemperatures(temperatures, value => {
+    console.log(value); // 18 (the sum of temperatures)
+}, reason => {
+    // this callback will run when there's an error
+    console.error(reason);
+});
+```
+
+And then refactored to Promises:
+```javascript
+sumTemperatures(temperatures)
+    .then(value => {
+        console.log(value); // 18 (the sum of temperatures)
+    })
+    .catch(reason => {
+        // this callback will run when there's an error
+        console.error(reason);
+    });
+```
+- This is clearer because we don't have to rely on the order of the callbacks, instead, they are scheduled in the future with `.then()` and `.catch()` so one of them will run depending on the outcome of the promise.
+
