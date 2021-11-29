@@ -1371,3 +1371,16 @@ console.log(data); // Promise <pending>
 ```
 This is **not** possible. You **have to** add a `.then()` callback and you will _only_ be able to access the `data` inside the `.then` callback. This is because the promise callback will only run in the future (once the promise has been completed).
 
+
+
+## .catch(callback)
+The `.catch(callback)` allows you to handle the `rejected` state of a promise. 
+```javascript
+getWeatherIn("Amsterdam")
+    .then(data => {
+        console.log(data);
+    })
+    .catch(error => {
+        console.error(error); // {error: "Connection issue"}
+    });
+```
