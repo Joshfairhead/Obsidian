@@ -1341,3 +1341,21 @@ When you create a promise, it will start in the `pending` state. When it has bee
 - Assuming a function `wait(milliseconds)` that returns a promise. Let's try to console.log() the result of `wait(1000)`:
 
 ### Resolving data
+One of the most useful features of promises is when they resolve with some data, an answer of some computation, or some values coming from an external service/API.
+```javascript
+const temperatures = [10, 5, 3];
+
+sumTemperatures(temperatures, value => {
+    console.log(value); // 18 (the sum of temperatures)
+});
+```
+The callback function receives a first argument (that we called `value`, but you can call it whatever you want). This argument represents the result of the computation made by `sumTemperatures`.
+
+The same example above can be re-written with promises (assuming we also rewrite the implementation of `sumTemperatures`):
+```javascript
+const temperatures = [10, 5, 3];
+
+sumTemperatures(temperatures).then(value => {
+    console.log(value); // 18 (the sum of temperatures)
+});
+```
