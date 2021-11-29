@@ -1323,3 +1323,8 @@ Don't rush into learning `async/await` yet because it's syntactic sugar on top o
 
 ## Introduction to promises
 - Promises is a JavaScript feature that allows us to schedule work in the future and then runs callbacks based on the outcome of the promise (whether it was successful or not).
+-   Promises are cleaner because callbacks are clearly marked as successful (with `.then()`) and erroneous (with `.catch()`).
+-   The `.then(callback)` schedules the `callback` into the future when the promise complete successfully (more on that in the next lesson).
+-   Your JavaScript code **always** runs top to bottom. However, some parts of the code might be queued for the future.
+-   When a function returns a promise, you can call `.then(callback)` on its result. The callback will be scheduled in the future when the promise completes successfully.
+-   The `.then()` has to be chained on the result of the function that returns a promise, so, you should not add a `;` in between these two.
