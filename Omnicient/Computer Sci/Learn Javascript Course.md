@@ -1372,7 +1372,6 @@ console.log(data); // Promise <pending>
 This is **not** possible. You **have to** add a `.then()` callback and you will _only_ be able to access the `data` inside the `.then` callback. This is because the promise callback will only run in the future (once the promise has been completed).
 
 
-
 ## .catch(callback)
 The `.catch(callback)` allows you to handle the `rejected` state of a promise. 
 ```javascript
@@ -1384,3 +1383,9 @@ getWeatherIn("Amsterdam")
         console.error(error); // {error: "Connection issue"}
     });
 ```
+
+
+## Promise.finally
+- The `try...catch` statement does **not** work with promises. That's because the promises are asynchronous meaning that they are happening at a later stage.
+- Also, you don't need `try...catch` because promises have `.then()` and `.catch()` that act similarly to the `try...catch` statement.
+- 
