@@ -1328,3 +1328,12 @@ Don't rush into learning `async/await` yet because it's syntactic sugar on top o
 -   Your JavaScript code **always** runs top to bottom. However, some parts of the code might be queued for the future.
 -   When a function returns a promise, you can call `.then(callback)` on its result. The callback will be scheduled in the future when the promise completes successfully.
 -   The `.then()` has to be chained on the result of the function that returns a promise, so, you should not add a `;` in between these two.
+
+## Promise states
+A promise can have 3 states:
+-   `pending`
+-   `fulfilled`
+-   `rejected`
+
+When you create a promise, it will start in the `pending` state. When it has been completed successfully, then it becomes in the `fulfilled` state. So, when the promise becomes `fulfilled`, the callback passed to `.then(callback)` will execute.
+
