@@ -1274,14 +1274,12 @@ setTimeout(() => {
 
 
 ## The callback pattern
-- Before we learn about this technique, please note that there's a better way of doing it using promises.
 ```javascript
 welcomeUser("Sam", () => {
     console.log("Done welcoming user");
 });
 ```
 - Note that the second parameter `() => {console.log("Done welcoming user")}` is a function definition.
-
 ```javascript
 const welcomeUser = (name, callback) => {
     setTimeout(() => {
@@ -1290,5 +1288,8 @@ const welcomeUser = (name, callback) => {
     }, 1000);
 }
 ```
-- The reason why callbacks exist and why it's possible in JavaScript to schedule work for the future is _performance_.
-- 
+-   The callback pattern is a programming pattern where you pass a function definition as a parameter to a function. That callback will then be automatically called once the function call has been completed successfully.
+-   We have callbacks (and later promises) as they allow the browser to continue responding to user input instead of blocking and waiting until a function has finished executing.
+-   We're only learning about the callback pattern because we'd like to replace it with promises in the next chapter.
+-   The success callback is able to receive some `data`. For example, let's say there's an expensive calculation happening and you'd like to make it possible for the success callback to receive the answer of that calculation.
+-   One of the annoying things about the callback pattern is that the only differentiation between the success callback and the error callback is their order in the parameters. This is not very clear and can lead to confusion.
