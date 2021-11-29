@@ -1329,7 +1329,7 @@ Don't rush into learning `async/await` yet because it's syntactic sugar on top o
 -   When a function returns a promise, you can call `.then(callback)` on its result. The callback will be scheduled in the future when the promise completes successfully.
 -   The `.then()` has to be chained on the result of the function that returns a promise, so, you should not add a `;` in between these two.
 
-## Promise states
+### Promise states
 A promise can have 3 states:
 -   `pending`
 -   `fulfilled`
@@ -1339,3 +1339,4 @@ When you create a promise, it will start in the `pending` state. When it has bee
 
 ### Visualizing the pending state
 - Assuming a function `wait(milliseconds)` that returns a promise. Let's try to console.log() the result of `wait(1000)`:
+- 
