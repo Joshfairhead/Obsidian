@@ -1388,4 +1388,33 @@ getWeatherIn("Amsterdam")
 ## Promise.finally
 - The `try...catch` statement does **not** work with promises. That's because the promises are asynchronous meaning that they are happening at a later stage.
 - Also, you don't need `try...catch` because promises have `.then()` and `.catch()` that act similarly to the `try...catch` statement.
+
+## Promise.finally()
+- We've learned about `.then(callback)` and `.catch(callback)` but there's one more which is `.finally(callback)`.  
+- The `.finally()` callback will execute whenever the promise's state changes from `pending` to either `fulfilled` or `rejected`
+```javascript
+getWeatherIn("Amsterdam")
+    .then(data => {
+        console.log(data);
+        console.log("Done fetching weather");
+    })
+    .catch(error => {
+        console.error(error);
+        console.log("Done fetching weather");
+    });
+```
+The above code logs `Done fetching weather` in both scenarios (success and error). We can refactor it to avoid duplication with `.finally()`:
+```javascript
+getWeatherIn("Amsterdam")
+    .then(data => {
+        console.log(data);
+    })
+    .catch(error => {
+        console.error(error);
+    })
+    .finally(() => {
+        console.log("Done fetching weather");
+    });
+```
+- This code does exactly the same thing as the one above but is more elegant as it avoids duplication. The `.finally(callback)` will execute after the `.then()` when the promise resolves successfully and after the `.catch()` when the promise rejects.
 - 
