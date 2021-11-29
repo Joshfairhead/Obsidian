@@ -1280,3 +1280,15 @@ welcomeUser("Sam", () => {
     console.log("Done welcoming user");
 });
 ```
+- Note that the second parameter `() => {console.log("Done welcoming user")}` is a function definition.
+
+```javascript
+const welcomeUser = (name, callback) => {
+    setTimeout(() => {
+        console.log(`Welcome ${name}`);
+        callback(); // call the success callback function
+    }, 1000);
+}
+```
+- The reason why callbacks exist and why it's possible in JavaScript to schedule work for the future is _performance_.
+- 
