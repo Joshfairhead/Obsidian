@@ -1,7 +1,7 @@
 ---
 Tags: [Primitives, Frameworks, Fundamentals]
 ---
-Related: [[Douglas Englebart]][[Ted Nelson]]
+Related: [[Douglas Englebart]] [[Ted Nelson]] [[Brain Computer Interface]] [[Intellignce Augmentation]]
 # Capabilities
 Capabilities are a security paradigm that is inverse to the permissions model. They are "bearer tokens" which grants holders certain abilities. A key to ones house is a good example, the owner holds the property rights but by passing the door key they can extend access to others. If they lend the only copy, they may end up locked outside and unable to enter. 
 
