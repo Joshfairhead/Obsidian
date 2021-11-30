@@ -1463,3 +1463,18 @@ const wait = milliseconds => {
     });
 }
 ```
+Notice how the `resolve()` method can receive an argument. This argument will then be available in the `.then(callback)`. So, the code above can be used as following:
+```javascript
+wait(2000).then(data => {
+    console.log(data); // 2 (seconds)
+});
+```
+You can, as usual, rename `data` into `seconds` or whatever variable name you want:
+```javascript
+wait(2000).then(seconds => {
+    console.log(seconds); // 2 (seconds)
+});
+```
+
+Calling `resolve()` with a certain value will make that value available in the `.then(callback)`.
+
