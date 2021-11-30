@@ -1449,3 +1449,17 @@ const waitOneSecond = () => {
 -   When implementing a function that returns a promise, you have to `return new Promise(() => {})`.
 -   The `() => {}` function inside the Promise constructor is called `executor`.
 -   The executor receives as the first argument the `resolve` function. You should call the `resolve()` function when the promise needs to move from `pending` to `fulfilled`.
+
+
+## Resolving data
+- Let's make our previous `wait()` function resolve with the number of **seconds** it waited (it still receives `milliseconds` but it resolves with the number of **seconds**):
+```javascript
+const wait = milliseconds => {
+    return new Promise((resolve) => {
+        setTimeout(() => {
+            const seconds = milliseconds / 1000;
+            resolve(seconds);
+        }, milliseconds);
+    });
+}
+```
