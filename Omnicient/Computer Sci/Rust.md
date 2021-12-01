@@ -13,6 +13,7 @@ Related: [[Computer Science]] [[Rust Constructs]]
 	- [Rustlings](https://github.com/rust-lang/rustlings) - Practical language introduction by fixing series of small problems
 	- [Tour of Rust](https://tourofrust.com/) - Interactive tour
 		- [Tour of Rust](https://tourofrust.com/TOC_en.html) - Table of contents
+	- [Rust in replit](https://www.freecodecamp.org/news/rust-in-replit/)
 	- [Half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - test your knowledge of Rust details
 	- [Learn Rust by writing a simple game | Opensource.com](https://opensource.com/article/20/12/learn-rust)
 	- [Learn Rust article](https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba)
