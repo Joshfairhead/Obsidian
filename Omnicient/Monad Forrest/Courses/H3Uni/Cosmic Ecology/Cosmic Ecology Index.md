@@ -14,6 +14,6 @@ Module 5: [[Trancending The Limits of Space Time]]
 Module 6: [[Reciprocal Maintenance and the Eight Cosmoses]]
 Module 7: [[The Nature and Condition of Humanity]]
 Module 8: [[Cosmogenesis and Intelligent Evolution]]
-[[An Evolutionary History of Humanity]]
+Module 9: [[An Evolutionary History of Humanity]]
 
 ## The Cosmos in Humanity
