@@ -18,5 +18,5 @@
 
 
 **Rope**
-- 
+- Saturday 11th December: Christmas bakery
 - Sunday 22nd May 2022: Tool concert
