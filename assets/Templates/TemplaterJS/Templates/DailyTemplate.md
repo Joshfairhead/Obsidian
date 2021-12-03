@@ -18,7 +18,5 @@
 
 
 **Rope**
-- 19:00; 24th November: Movement Class
-- 20:00; 25th November: [[Cosmogenesis and Intelligent Evolution]]
-- 20:00; 2nd December: [[An Evolutionary History of Humanity]]
+- 
 - Sunday 22nd May 2022: Tool concert

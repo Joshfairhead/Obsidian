@@ -1,5 +1,5 @@
 {
   "folder": "Immanent/DailyNotes",
   "autorun": true,
-  "template": "assets/TemplaterJS/Templates/DailyTemplate"
+  "template": "assets/Templates/TemplaterJS/Templates/DailyTemplate"
 }
