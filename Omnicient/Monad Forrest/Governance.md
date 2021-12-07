@@ -5,8 +5,9 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 
 # Governance
 
-- ### Read and curated by [[Josh]]
+- ### Read and curated:
     - [[Social Archetecture]] - Really good
+    - [Beyond the rules](https://provocations.darkmatterlabs.org/organising-beyondtherules-at-dark-matter-labs-e59e4f5dd32f?source=collection_home---2------4-----------------------) - Organising at Dark Matter labs
     - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - domains of decision making
     - [[Exit to Community]]
     - [[Micro Solidarity Framework]]
@@ -89,6 +90,7 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 
 ### Papers
 ![](assets/OnTheNatureOfHumanAssembly.pdf)
+![](assets/)
 
 ### Quotes
 ![[Ethics#^ec2e47]]
