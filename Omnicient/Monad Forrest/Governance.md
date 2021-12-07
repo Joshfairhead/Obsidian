@@ -90,7 +90,7 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 
 ### Papers
 ![](assets/OnTheNatureOfHumanAssembly.pdf)
-![](assets/)
+![](assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf)
 
 ### Quotes
 ![[Ethics#^ec2e47]]
