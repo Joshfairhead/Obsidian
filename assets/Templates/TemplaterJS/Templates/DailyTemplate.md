@@ -3,7 +3,7 @@
 
 
 ## Rituals
-- [ ] 1 x 10 [[Swings]] with 15lb [[Kettlebell]]
+- [ ] 1 x 10 [[Overhead Press]] with 15lb [[Kettlebell]]
 - [ ] [[Learn Javascript Course]] [flashcards](https://flash.learnjavascript.online/home)
 
 ## Day
@@ -18,5 +18,4 @@
 
 
 **Rope**
-- Saturday 11th December: Christmas bakery
 - Sunday 22nd May 2022: Tool concert
