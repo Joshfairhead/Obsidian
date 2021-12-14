@@ -12,7 +12,7 @@ Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]] [[Forres
 - [[Qualsystems L3]]
 - [[QualSystems L4]]
 - [[QualSystems L5]]
-- [[QualSystems L6]]
+- [[QualSystems L6]] - Enneagrams and cybernetic Kaballas
 - [[QualSystems L7]]
 
 ### Note on Scale
