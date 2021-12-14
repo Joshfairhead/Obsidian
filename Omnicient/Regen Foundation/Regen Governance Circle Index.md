@@ -7,7 +7,7 @@ Related: [[Governance]]
 ## Why
 - Governance is an organisational meta-function prefigured by initial conditions.
 - The shape an instantiation takes within an organisation or across a network depends upon the wholeness of individual participants and the frameworks in which they are embedded. 
-- 
+- The purpose of governance is thus the limiting and delimiting function of collective agency
 - 
 
  
