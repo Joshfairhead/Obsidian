@@ -13,13 +13,13 @@ Related: [[Governance]]
  
 ## How
 - Structures and processes
-	- Three horizons to articulate our present terrain and future destination (map)
-	- Circles and roles to coordinate shared responsibilities (vehicle)
-	- Workshops focused on ethics and noetic technology (compass)
-	- 
+	
+
 
 ## What 
-- Workshops and artefacts 
+- Three horizons to articulate our present terrain and future destination (map)
+- Workshops focused on ethics and noetic technology (compass)
+- Circles and roles to coordinate shared responsibilities and accounting for them (vehicle)
 
 
 
