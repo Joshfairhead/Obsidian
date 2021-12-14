@@ -5,11 +5,11 @@ Related: [[Governance]]
 # Regen Governance Circle Index
 
 ## Why
-- Values at the individual and collective level
-- Beingness / articulation
+- Articulating values at the individual and collective levels
+- Taking accountability
  
 ## How
-- Structures 
+- Structures and processes
 	- Roles
 	-  
 
