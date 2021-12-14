@@ -6,8 +6,8 @@ Related: [[Governance]]
 
 ## Why
 - Governance is an organisational meta-function prefigured by initial conditions.
-- The shape an instantiation takes within an organisation or across a network depends upon the wholeness of individual participants. Remarkable people = remarkable results. 
-- Wholeness refers to inner structure and alignment
+- The shape an instantiation takes within an organisation or across a network depends upon the wholeness of individual participants and the frameworks in which they are embedded. 
+- A framework limits or delimits p
 
  
 ## How
@@ -16,12 +16,11 @@ Related: [[Governance]]
 - Making sure we are equipped to deal with the terrain. 
 	- Maps, compasses, vehicle. 
 	- Coordination
-	
 
 
 ## What 
 - Three horizons to articulate our present terrain and future destination (map)
-- Workshops focused on ethics and noetic technology (compass)
+- Workshops focused on ethics and sense-making (compass)
 - Circles and roles to coordinate shared responsibilities and accounting for them (vehicle)
 
 
