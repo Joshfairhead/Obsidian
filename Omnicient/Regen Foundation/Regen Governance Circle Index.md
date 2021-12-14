@@ -5,11 +5,16 @@ Related: [[Governance]]
 # Regen Governance Circle Index
 
 ## Why
-TH
+- Values
+ 
+## How
+- Roles 
 
 ## What 
+- Workshops and artefacts 
 
-## How
+
+
 
 ### Timelines
 ### Artefacts
