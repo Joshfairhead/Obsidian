@@ -12,8 +12,8 @@ Related: [[Governance]]
 	- Coordination
  
 ## How
-- Meta process;
-	- Governance is an organisational meta-function arising out of 
+- Governance is an organisational meta-function that arises emergently from initial conditions.
+- 
 - Shared structures and processes
 	- 
 	
