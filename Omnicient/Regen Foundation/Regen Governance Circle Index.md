@@ -5,8 +5,10 @@ Related: [[Governance]]
 # Regen Governance Circle Index
 
 ## Why
-- Articulating values at the individual and collective levels
-- Taking accountability
+- Articulating values and ethics at the individual and collective levels
+- Taking accountability for ourselves and our decisions
+- Making sure we are equipped to deal with the terrain. 
+	- Maps, compasses, vehicle. 
  
 ## How
 - Structures and processes
