@@ -9,9 +9,11 @@ Related: [[Governance]]
 - Taking accountability for ourselves and our decisions
 - Making sure we are equipped to deal with the terrain. 
 	- Maps, compasses, vehicle. 
+	- Coordination
  
 ## How
 - Structures and processes
+	- Three horizons to articulate the present terrain and future 
 	- Roles
 	-  
 
