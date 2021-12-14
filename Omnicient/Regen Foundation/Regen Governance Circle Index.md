@@ -5,8 +5,7 @@ Related: [[Governance]]
 # Regen Governance Circle Index
 
 ## Why
-- Governance is an organisational meta-function prefigured by initial conditions.
-- The purpose of the Governace circle is to determine congruent processes and frameworks support the networks values of regeneration. 
+- Governance is an organisational meta-function prefigured by initial conditions. The purpose of the Governace circle is thus to determine processes and frameworks to support the networks values of regeneration in a congruent and embodied way. 
 - Any choice of governance framework impacts all future decisions of an organisation. 
 - In order to serve the networks very broad goals we can determine that any framework implemented needs to include a number of properties; integrity, flexibility, openness, etc.
 - 
