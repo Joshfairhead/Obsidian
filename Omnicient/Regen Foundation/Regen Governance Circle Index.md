@@ -7,7 +7,7 @@ Related: [[Governance]]
 ## Why
 - Governance is an organisational meta-function prefigured by initial conditions.
 - The shape an instantiation takes within an organisation or across a network depends upon the wholeness of individual participants. Remarkable people = remarkable results. 
-- Wholeness refers to 
+- Wholeness refers to inner structure and alignment
 
  
 ## How
