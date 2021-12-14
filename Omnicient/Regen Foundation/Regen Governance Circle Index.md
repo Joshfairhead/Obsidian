@@ -6,7 +6,7 @@ Related: [[Governance]]
 
 ## Why
 - Governance is an organisational meta-function prefigured by initial conditions.
-- 
+- The shape an organisational instantiation takes depends upon the wholeness of individuals 
 
  
 ## How
