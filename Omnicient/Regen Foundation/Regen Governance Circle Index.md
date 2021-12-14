@@ -8,7 +8,8 @@ Related: [[Governance]]
 - Governance is an organisational meta-function prefigured by initial conditions.
 - The purpose of the Governace circle is to determine congruent processes and frameworks support the networks values of regeneration. 
 - Any choice of governance framework impacts all future decisions of an organisation. 
-- In order to serve the networks very broad goals the choice of framework 
+- In order to serve the networks very broad goals we can determine that any framework implemented needs to include a number of properties; integrity, flexibility, openness, etc.
+- 
  
 ## How
 - Articulating values and ethics at the individual and collective levels
