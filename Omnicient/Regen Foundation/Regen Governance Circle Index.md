@@ -15,7 +15,7 @@ Related: [[Governance]]
 - Structures and processes
 	- Three horizons to articulate our present terrain and future destination (map)
 	- Circles and roles to coordinate shared responsibilities (vehicle)
-	- Technique and praxis 
+	- Noetic technology; workshops on (compass)
 	- 
 
 ## What 
