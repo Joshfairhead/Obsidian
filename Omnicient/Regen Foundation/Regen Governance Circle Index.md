@@ -13,9 +13,10 @@ Related: [[Governance]]
  
 ## How
 - Structures and processes
-	- Three horizons to articulate the present terrain and our future destination
-	- Circles and roles
-	-  
+	- Three horizons to articulate the present terrain and our future destination (map)
+	- Circles and roles to coordinate shared responsibilities
+	- 
+	- 
 
 ## What 
 - Workshops and artefacts 
