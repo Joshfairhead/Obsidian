@@ -13,8 +13,8 @@ Related: [[Governance]]
  
 ## How
 - Structures and processes
-	- Three horizons to articulate the present terrain and future 
-	- Roles
+	- Three horizons to articulate the present terrain and our future destination
+	- Circles and roles
 	-  
 
 ## What 
