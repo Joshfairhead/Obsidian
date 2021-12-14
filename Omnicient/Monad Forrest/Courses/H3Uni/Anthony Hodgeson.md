@@ -21,7 +21,7 @@ Related: [[H3uni]]
 - ![](assets/1626444208_2.pdf)
 
 #### The Praxis Learning Cycle
-- ![](assets/praxislearningh3.pdf)
+- ![](Praxis%20Learning%20Cycl.pdf)
 
 #### An Image of Global Integrity: The parameters of an enlightened global society
 - ![](assets/1626444209_3.pdf)
