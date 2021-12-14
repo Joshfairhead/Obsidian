@@ -5,17 +5,16 @@ Related: [[Governance]]
 # Regen Governance Circle Index
 
 ## Why
+- Governance is an organisational meta-function prefigured by initial conditions.
+- 
+
+ 
+## How
 - Articulating values and ethics at the individual and collective levels
 - Taking accountability for ourselves and our decisions
 - Making sure we are equipped to deal with the terrain. 
 	- Maps, compasses, vehicle. 
 	- Coordination
- 
-## How
-- Governance is an organisational meta-function that arises emergently from initial conditions.
-- Any particular instance of  
-- Shared structures and processes
-	- 
 	
 
 
