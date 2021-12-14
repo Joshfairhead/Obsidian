@@ -9,7 +9,7 @@ Related: [[Governance]]
 - The shape a network or organisation takes depends upon the wholeness of individual participants and the frameworks in which they are embedded. 
 - Any choice of framework impacts all future decisions and so individuals should be mindful of unintendend consequences when selecting them. 
 - The purpose of the Governace circle is to determine appropriate processes and frameworks while remaining in congruence with the networks values of regeneration. 
-- The frameworks chosen 
+- The principals of regeneration are autopoietic; 
 
  
 ## How
