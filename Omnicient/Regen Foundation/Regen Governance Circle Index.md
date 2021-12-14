@@ -8,7 +8,8 @@ Related: [[Governance]]
 - Governance is an organisational meta-function prefigured by initial conditions.
 - The shape a network or organisation takes depends upon the wholeness of individual participants and the frameworks in which they are embedded. 
 - Any choice of framework impacts all future decisions and so we should be mindful of unintendend consequences. 
-- The purpose of a Governace circle is thus to determine and implement the processes and frameworks with the least constraints while remaining in congruence with the networks values of regeneration. This is necessary for organisational adaptability, which is directly correlate to thrivability. 
+- The purpose of a Governace circle is thus to limit unintended consequences 
+- (determine and implement the processes and frameworks with the least constraints while remaining in congruence with the networks values of regeneration. 
 
  
 ## How
@@ -20,6 +21,7 @@ Related: [[Governance]]
 
 
 ## What 
+- Aiming for 
 - Three horizons to articulate our present terrain and future destination (map)
 - Workshops focused on ethics and sense-making (compass)
 - Circles and roles to coordinate shared responsibilities and accounting for them (vehicle)
