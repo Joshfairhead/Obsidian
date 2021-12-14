@@ -7,9 +7,9 @@ Related: [[Governance]]
 ## Why
 - Governance is an organisational meta-function prefigured by initial conditions.
 - The shape a network or organisation takes depends upon the wholeness of individual participants and the frameworks in which they are embedded. 
-- Any choice of framework impacts all future decisions and so individuals should be mindful of unintendend consequences when selecting them. 
-- The purpose of the Governace circle is to determine appropriate processes and frameworks which are congruent and support the networks values of regeneration. 
 
+- The purpose of the Governace circle is to determine congruent processes and frameworks that support the networks values of regeneration. 
+- Any choice of framework impacts all future decisions and so individuals should be mindful of unintendend consequences when selecting them. 
  
 ## How
 - Articulating values and ethics at the individual and collective levels
