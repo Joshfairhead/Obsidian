@@ -12,7 +12,7 @@ Related: [[Governance]]
 	- Coordination
  
 ## How
-- Structures and processes
+- Shared structures and processes
 	
 
 
