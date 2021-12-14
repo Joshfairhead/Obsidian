@@ -13,7 +13,7 @@ Related: [[Governance]]
  
 ## How
 - Governance is an organisational meta-function that arises emergently from initial conditions.
-- 
+- Any particular instance of  
 - Shared structures and processes
 	- 
 	
