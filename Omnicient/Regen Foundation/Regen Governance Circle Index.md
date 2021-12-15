@@ -20,6 +20,11 @@ Related: [[Governance]]
 - Science. This term is often misconstrued to mean 'Baconian Science' which is a valid methodology for interpreting the objective and measurable world of stuff and things. However this form of science is reductive and doesn't take into account "other ways of knowing"; it is a particular methodology derrived from and constrained by metaphysical assumptions. So we must ask what kind of science is appropriate to the being-ness and will of the network? 
 
 
+- Extitutionally
+- Trust
+- 
+
+
 - Articulating values and ethics at the individual and collective levels
 - Taking accountability for ourselves and our decisions
 - Making sure we are equipped to deal with the terrain. 
