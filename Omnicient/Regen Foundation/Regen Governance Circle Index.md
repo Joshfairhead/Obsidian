@@ -17,9 +17,9 @@ Related: [[Governance]]
 - In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca or meta-framework that can integrate all perspectives and existing frameworks. 
  
 ## How
-- Science. This term is often misconstrued to mean 'Baconian Science' which is a valid methodology for interpreting the objective and measurable world of stuff and things. However this form of science is reductive and doesn't take into account "other ways of knowing"; it is a particular methodology derrived from and constrained by metaphysical assumptions. 
+- Science. This term is often misconstrued to mean 'Baconian Science' which is a valid methodology for interpreting the objective and observable world of stuff and things. However this form of science is reductive and doesn't take into account "other ways of knowing"; it is a particular methodology derrived from and constrained by metaphysical assumptions.  
+- If governance is a meta-function of an organisation 
 
-- 
 -  So we must ask what kind of science is appropriate to the being-ness and will of the network? 
 
 
