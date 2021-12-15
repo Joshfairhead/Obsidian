@@ -18,7 +18,7 @@ Related: [[Governance]]
  
 ## How
 - If governance is a meta-function of an organisation that determines processess and frameworks, we need to examine the meta-process by which selection itself is made.
-- For this a scientific method is needed, and at this level of abstraction 
+- For this a scientific method is needed. Due to the level of abstraction and our very broad requirements we can infer that we need 
 
 
 
