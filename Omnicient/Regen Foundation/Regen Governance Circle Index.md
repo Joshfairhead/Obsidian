@@ -17,7 +17,7 @@ Related: [[Governance]]
 - In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca or meta-framework that can integrate all perspectives and existing frameworks. 
  
 ## How
-- Science. This term is often misconstrued to mean 'Baconian Science' which is a valid methodology for interpreting the objective world of stuff and things. However this is not the only form of science 
+- Science. This term is often misconstrued to mean 'Baconian Science' which is a valid methodology for interpreting the objective and measurable world of stuff and things. However this form of science is reductive    
 
 
 - Articulating values and ethics at the individual and collective levels
