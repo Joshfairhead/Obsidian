@@ -18,7 +18,7 @@ Related: [[Governance]]
  
 ## How
 - Science. This term is often misconstrued to mean 'Baconian Science' which is a valid methodology for interpreting the objective and observable world of stuff and things. However this form of science is reductive and doesn't take into account "other ways of knowing"; it is a particular methodology derrived from and constrained by metaphysical assumptions.  
-- If governance is a meta-function of an organisation that determines processess and frameworks, the process that selects these must itself come under scrutiny and be widely adaptive. 
+- If governance is a meta-function of an organisation that determines processess and frameworks, the process by which it makes selections becomes an integral function. 
 
 -  So we must ask what kind of science is appropriate to the being-ness and will of the network? 
 
