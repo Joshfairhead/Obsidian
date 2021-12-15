@@ -19,18 +19,11 @@ Related: [[Governance]]
 ## How
 - If governance is a meta-function of an organisation for determining processes and framework, then we should examine the meta-process by which selection itself is made. 
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous) we should opt for second-order methodologies capable of integrating the variety of values and perspectives. 
-	- This document is an instance of fundemental triplication (why, how, what); a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct quality. In the realms of governence I consider the three terms to be democracy, meritocracy and consensus. 
-
-
-
-- Science. This term is often misconstrued to mean 'Baconian Science' which is a valid methodology for interpreting the objective and observable world of stuff and things. However this form of science is reductive and doesn't take into account "other ways of knowing"; it is a particular methodology derrived from and constrained by metaphysical assumptions.  
-
--  So we must ask what kind of science is appropriate to the being-ness and will of the network? 
-
+	- This document is an instance of fundemental triplication (why, how, what); a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct interrelated qualities. In the realms of governence I consider the three terms to be democracy, meritocracy and consensus. 
+- 
 
 - Extitutionally
 - Trust
-- 
 
 
 - Articulating values and ethics at the individual and collective levels
@@ -39,18 +32,6 @@ Related: [[Governance]]
 	- Maps, compasses, vehicle. 
 	- Coordination
 
-
-
-## Treasury
-
-Endaoment:
-https://regen.aneka.io/accounts/regen1wts9f35khx5r94p3rdwgk3evv0v06ewrfl90th
-
-
-Community Staking fund:
-https://regen.aneka.io/accounts/regen1xv7pkdjtumtvakyfgwc7daknzxrdk8yhh9kng7
-
-Osmosis LP staking pool:
 
 ## What 
 - Aiming for 
@@ -63,3 +44,15 @@ Osmosis LP staking pool:
 
 ### Timelines
 ### Artefacts
+
+
+## Treasury
+
+Endaoment:
+https://regen.aneka.io/accounts/regen1wts9f35khx5r94p3rdwgk3evv0v06ewrfl90th
+
+
+Community Staking fund:
+https://regen.aneka.io/accounts/regen1xv7pkdjtumtvakyfgwc7daknzxrdk8yhh9kng7
+
+Osmosis LP staking pool:
