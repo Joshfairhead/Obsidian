@@ -5,7 +5,7 @@ Related: [[Governance]]
 # Regen Governance Circle Index
 
 ## Why
-- Governance is an organisational meta-function prefigured by initial conditions. The purpose of the Governace circle is to determine meta-processes and frameworks that support the networks values of regeneration in a congruent and embodied way. 
+- Governance is an organisational meta-function prefigured by initial conditions. The purpose a Governace circle should be to determine the meta-processes and frameworks that support the networks values of regeneration in a congruent and embodied way. 
 - There are catches:
 	- Any choice of governance framework that gets implemented impacts all future decisions of an organisation. The precautionary principle applies; we should move slowly, plant things and foster the healthy growth of network constituients (the soil from which the network grows).
 	- All categories (frames) are exclusionary. In order to serve the networks very broad goals we can determine that any framework implemented needs to span a number of properties; integrity, flexibility, openness, etc. so as to include a plurality of values diverse enough for planetary regeneration. The following are values are taken from Notion:
@@ -18,7 +18,7 @@ Related: [[Governance]]
  
 ## How
 - Consent. This is implicitly a via negativa approach where options are regularly rejected. Tring not to be wrong is a significantly more effective heuristic than trying to be right. This is a good foundation to build upon further. 
-- If governance is an orginis meta-function of an organisation for determining processes and framework, then we should examine the meta-process by which selection itself is made. 
+- If governance is an orginisational meta-function for determining processes and frameworks, then we should examine the meta-process by which selection itself is made. 
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous) we need to opt for second-order methodologies capable of integrating the variety of values and perspectives. 
 	-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). In the realms of governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
 
