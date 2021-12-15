@@ -17,7 +17,7 @@ Related: [[Governance]]
 - In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca or meta-framework that can integrate all perspectives and existing frameworks. 
  
 ## How
-- If governance is a meta-function of an organisation that determines processess and frameworks, we need to examine the meta-process by which selection itself is made.
+- If governance is a meta-function of an organisation for determining processes and framework, then we should examine the meta-process by which selection itself is made. 
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing') we should opt for second-order methodologies which can integrate the variety of values and perspectives. 
 - 
 
