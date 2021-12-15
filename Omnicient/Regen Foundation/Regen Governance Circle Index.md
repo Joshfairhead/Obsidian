@@ -14,7 +14,7 @@ Related: [[Governance]]
 		- Collaboration
 		- Openness and transparency
 		- Continuous growth
-	- In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca. 
+- In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca that can frame any 
  
 ## How
 - 
