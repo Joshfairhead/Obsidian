@@ -19,7 +19,7 @@ Related: [[Governance]]
 ## How
 - If governance is a meta-function of an organisation for determining processes and framework, then we should examine the meta-process by which selection itself is made. 
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous) we should opt for second-order methodologies capable of integrating the variety of values and perspectives. 
-- As any initial framework set
+	- The framework used to draft 
 
 
 
