@@ -14,10 +14,10 @@ Related: [[Governance]]
 		- Collaboration
 		- Openness and transparency
 		- Continuous growth
-- In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca that can frame any 
+- In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca or meta-framework that can integrate all perspectives and existing frameworks. 
  
 ## How
-- 
+- At the 
 - Articulating values and ethics at the individual and collective levels
 - Taking accountability for ourselves and our decisions
 - Making sure we are equipped to deal with the terrain. 
