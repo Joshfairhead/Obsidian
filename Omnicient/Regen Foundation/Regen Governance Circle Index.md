@@ -9,6 +9,14 @@ Related: [[Governance]]
 - There are catches:
 	- Any choice of governance framework that gets implemented impacts all future decisions of an organisation. The precautionary principle applies. 
 	- In order to serve the networks very broad goals we can determine that any framework implemented needs to include a number of properties; integrity, flexibility, openness, etc. so as to include a plurality of values diverse enough for planetary regeneration. 
+		- Regeneration
+		- Inclusion
+
+> Collaboration
+
+> Openness and transparency.
+
+> Continuous growth
  
 ## How
 - Articulating values and ethics at the individual and collective levels
