@@ -8,12 +8,13 @@ Related: [[Governance]]
 - Governance is an organisational meta-function prefigured by initial conditions. The purpose of the Governace circle is to determine meta-processes and frameworks that support the networks values of regeneration in a congruent and embodied way. 
 - There are catches:
 	- Any choice of governance framework that gets implemented impacts all future decisions of an organisation. The precautionary principle applies; we should move slowly, plant things and foster healthy growth.
-	- All categories (frames) are exclusiona order to serve the networks very broad goals we can determine that any framework implemented needs to include a number of properties; integrity, flexibility, openness, etc. so as to include a plurality of values diverse enough for planetary regeneration:
+	- All categories (frames) are exclusionary. In order to serve the networks very broad goals we can determine that any framework implemented needs to span a number of properties; integrity, flexibility, openness, etc. so as to include a plurality of values diverse enough for planetary regeneration:
 		- Regeneration
 		- Inclusion
 		- Collaboration
 		- Openness and transparency
 		- Continuous growth
+	- In all actuality human variety and diversity is computaitonally irreducible. 
  
 ## How
 - 
