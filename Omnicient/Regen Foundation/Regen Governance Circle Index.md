@@ -19,7 +19,7 @@ Related: [[Governance]]
 ## How
 - If governance is a meta-function of an organisation for determining processes and framework, then we should examine the meta-process by which selection itself is made. 
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous) we should opt for second-order methodologies capable of integrating the variety of values and perspectives. 
-	- This document is an instance of fundemental triplication; a 
+	- This document is an instance of fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms. In the realms of governence I consider this 
 
 
 
