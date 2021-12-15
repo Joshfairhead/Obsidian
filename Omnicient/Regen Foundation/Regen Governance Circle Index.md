@@ -18,7 +18,7 @@ Related: [[Governance]]
  
 ## How
 - If governance is a meta-function of an organisation that determines processess and frameworks, we need to examine the meta-process by which selection itself is made.
-- For this a scientific method is n, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing') we can infer that a second-order science capable of holding multiple values and perspectives is required.
+- For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing') we should opt for a second-order science capable of holding the networks plurality of perspectives.
 - 
 
 
