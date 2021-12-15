@@ -28,7 +28,18 @@ Related: [[Governance]]
 
 
 
+## Treasury
 
+
+[](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577318000200)  
+
+[https://regen.aneka.io/accounts/regen1wts9f35khx5r94p3rdwgk3evv0v06ewrfl90th](https://regen.aneka.io/accounts/regen1wts9f35khx5r94p3rdwgk3evv0v06ewrfl90th)
+
+
+
+[3:08](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577325000400)
+
+[https://regen.aneka.io/accounts/regen1xv7pkdjtumtvakyfgwc7daknzxrdk8yhh9kng7](https://regen.aneka.io/accounts/regen1xv7pkdjtumtvakyfgwc7daknzxrdk8yhh9kng7)
 
 ## What 
 - Aiming for 
