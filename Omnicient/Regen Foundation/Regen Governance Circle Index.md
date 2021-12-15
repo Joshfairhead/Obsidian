@@ -27,6 +27,9 @@ Related: [[Governance]]
 	- Coordination
 
 
+
+
+
 ## What 
 - Aiming for 
 - Three horizons to articulate our present terrain and future destination (map)
