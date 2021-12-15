@@ -17,7 +17,7 @@ Related: [[Governance]]
 - In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca or meta-framework that can integrate all perspectives and existing frameworks. 
  
 ## How
-- Consent. This is implicitly a via negativa approach where options are regularly rejected. Tring not to be wrong is a significantly more effective heuristic than trying to be right. This is a good foundation to build upon further. 
+- Consent. This is implicitly a via negativa approach where options are regularly rejected. Trying not to be wrong is a significantly more effective heuristic than trying to be right and so co
 - If governance is an orginisational meta-function for determining processes and frameworks, then we should examine the meta-process by which selection itself is made. 
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous) we need to opt for second-order methodologies capable of integrating the variety of values and perspectives. 
 	-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). In the realms of governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
