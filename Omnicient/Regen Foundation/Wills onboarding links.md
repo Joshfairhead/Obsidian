@@ -62,20 +62,15 @@ Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After
 
 # [https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
 
-TL;DR: Regen Network Development, Inc. and Regen Foundation no longer have crossover in personnel. Since our inception, Regen Network has been committed to decentralization. Today marks an inflection point on this path. I have resigned from the Board of Directors at Regen Network Development, Inc. (“RND”) and Gregory Landua, CEO at RND, has resigned as […]
+- Will and Gregory resign form roles in eachothers domain. 
 
-Written by
-Will Szal
-Est. reading time
-2 minutes
-Sep 11th
+---
 
-[Haleversion](https://willszal.medium.com/haleversion-8e1eef968fd8)
+# [Haleversion](https://willszal.medium.com/haleversion-8e1eef968fd8)
 
 Somatic Economics
-Reading time
-6 min read
-Sep 25th, 2020 (260 kB)
+
+---
 
 
 [Regen Network Retrospective](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192)
