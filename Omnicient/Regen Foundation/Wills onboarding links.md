@@ -46,11 +46,11 @@ The first proposal concerns REGEN transfers (transfers within Regen Ledger). The
 
 # [Three month update on community staking DAO delegations](https://regen.foundation/three-month-update-community-staking-dao-delegations/)
 
-
+[Community discussion on the strategy](https://forum.regen.network/t/upgrading-the-community-staking-dao-allocation-delegation-strategy/247)
 
 ---
 
-[https://regen.foundation/welcoming-new-validators-into-the-expanded-set/](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
+# [https://regen.foundation/welcoming-new-validators-into-the-expanded-set/](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
 
 Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After opening up the question to community input, Regen Foundation will be expanding its delegation policy for the next 10mm REGEN delegated to include the 25 new validators in the set. On August 8th, Regen Ledger’s validator set was increased from 50 to 75, via governance vote […]
 
