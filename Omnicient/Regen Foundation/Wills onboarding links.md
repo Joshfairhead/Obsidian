@@ -83,7 +83,13 @@ Somatic Economics
 > This OKR process is now an integrated part of how we work as a team.
 >It shows up in our development of the core infrastructure which builds the foundation for all that we hope to achieve at Regen Network. Part of our process was being mentored by industry leaders to hone in on a single unified value proposition and laser focus. The outcome of this process was an embrace of the [open platform strateg](https://medium.com/@erik.huckle/platforms-vs-aggregators-in-the-war-for-quantum-computing-supremacy-a5166ba6e0ab)y to build network effect
 
-- OKR Quadrants suggestion: Important/Unurgent, Important/Urgent, Unimportant/Urgent, Un
+- OKR Quadrants suggestion: Important/Unurgent, Important/Urgent, Unimportant/Urgent, Unimportant/Unurgent
+
+> This strategy focuses on building a set of software development kits (SDKs), APIs and other tools for groups to use to achieve their ends. There is significant demand for these tools to be built and maintained as open source, and Regen Network signed a contract with the Interchain Foundation to focus on blockchain usability features related to key management which will make the Cosmos ecosystem one of the most user-friendly blockchains in the space.
+
+> a clear starting place of producing farmer-focused ecosystem services credits for the voluntary markets.
+
+
 
 ---
 
