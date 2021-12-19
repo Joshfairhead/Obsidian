@@ -6,38 +6,22 @@ Related:
 
 [https://regen.foundation/the-challenge-of-inclusive-community-governance/](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
 
-[The Challenge of Inclusive Community Governance - Regen Foundation](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
-
 Regen Foundation’s Delegation Strategy for Mainnet With Regen Ledger going live in a few days, we at Regen Foundation understand the gravity of the responsibility resting with our organization. We have been weighing a number of complex factors as part of preparing our delegations for mainnet.  The Community-First Principle As an entity with a charitable mission explicitly […]
 
 Written by
-
 Will Szal
-
 Est. reading time
-
 3 minutes
-
 Apr 13th
 
-[2:18](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577925001200)
-
 [https://regen.foundation/announcing-launch-of-regen-foundation/](https://regen.foundation/announcing-launch-of-regen-foundation/)
-
-![Regen Foundation](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fregen.foundation%2Fwp-content%2Fuploads%2F2018%2F10%2Fcropped-rf-logo_horizontal-black-1-180x180.png)Regen Foundation
-
-[Announcing Launch of Regen Foundation. - Regen Foundation](https://regen.foundation/announcing-launch-of-regen-foundation/)
 
 Regen Foundation Hires Founding Executive Director – Revathi Kollegala  The Regen Network ecosystem is maturing, recently marked by the launch of mainnet. Watch the replay of the launch party here if you weren’t able to tune into this historic event. The genesis of Regen Ledger also heralds the operational launch of Regen Foundation. Regen Foundation, […]
 
 Written by
-
 Rev Kollegala
-
 Est. reading time
-
 3 minutes
-
 Apr 19th
 
 [https://regen.foundation/announcing-launch-of-regen-foundation/](https://regen.foundation/announcing-launch-of-regen-foundation/ "Announcing Launch of Regen Foundation. - Regen Foundation")
