@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Wills onboarding links
 
-- [x] [The Challenge of Inclusive Community Governance](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
+# [The Challenge of Inclusive Community Governance](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
 
 Regen Foundation’s Delegation Strategy for Mainnet and considerations. 
 https://github.com/regen-foundation/policies/blob/main/treasury.pdf
@@ -12,9 +12,6 @@ https://github.com/regen-foundation/policies/blob/main/treasury.pdf
 
 --- 
 # [Announcing Launch of Regen Foundation](https://regen.foundation/announcing-launch-of-regen-foundation/)
-
-Regen Foundation Hires Founding Executive Director – Revathi Kollegala  The Regen Network ecosystem is maturing, recently marked by the launch of mainnet. Watch the replay of the launch party here if you weren’t able to tune into this historic event. The genesis of Regen Ledger also heralds the operational launch of Regen Foundation. Regen Foundation, […]
-
 > **Regen Foundation Board President Will Szal: **
 > _Regen Foundation’s first order of business will be to implement and iterate on our Community Staking DAOs architecture—a Proof-of-Stake variant that extends network governance to community members such as land stewards, landscapes, scientists, and developers. Between our Founding Executive Director, Revathi, and our Board—spanning the_ [_OpenTEAM_](https://openteam.community)_,_ [_Gnosis_](https://gnosis.io)_, and_ [_Buckminster Fuller Institute_](https://www.bfi.org) _communities—we’re off to a strong start._
 
@@ -30,6 +27,7 @@ Regen Foundation Hires Founding Executive Director – Revathi Kollegala  The R
 	- Regen Foundation helps facilitate and nurture the socio-technological infrastructure to ensure the future of Regen Network and Regen Ledger are decentralized and democratic. We envision convening the open source community and coordinating work on critical  elements of decentralized governance and computing in the domain of ecological regeneration.
 
 ---
+
 
 # [Attending to stake distribution and validator economics](https://regen.foundation/attending-to-stake-distribution-and-validator-economics/)
 
