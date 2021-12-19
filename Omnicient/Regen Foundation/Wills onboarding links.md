@@ -120,10 +120,9 @@ Conversing with a landscapes through our bodies
 > The ability to have a conversation with a place, with a landscape, is of fundamental importance to being human and to the earth
 
 # [Commons, DisCOs,](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
-Free, Fair and Alive
-Reading time
-8 min read
-Jan 27th, 2020 (622 kB)
+Free, Fair and Alive (book by David Bolliger)
+
+Inspired by Alexander’s approach of meticulous pattern documentation, Bollier and Helrich focused the core of the text on a pattern language of commoning.
 
 [Goethian Science](https://medium.com/regen-network/goethian-science-759c999d2d29)
 Beyond Impartial Observation, Into Developmental Relationship
