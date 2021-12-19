@@ -115,7 +115,7 @@ I can see the relationship here between Regens data marketplace strategy and the
 # [Biome Communion](https://willszal.medium.com/biome-communion-94814ac5bd21)
 Conversing with a landscapes through our bodies
 
-- References David Abram's 'the spell of the sensuous', a book that Ronens reading about our break from natural symbol systems (repto abstract symbol which change how we interact with the world. 
+- References David Abram's 'the spell of the sensuous', a book that Ronens reading about our break from natural symbol systems (representative concrete symbols) to abstract symbol systems which fundementally change how we interact with the world (due to the change of psyche/metaphysical constructs) 
 
 [Commons, DisCOs,](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
 Free, Fair and Alive
