@@ -24,35 +24,19 @@ Est. reading time
 3 minutes
 Apr 19th
 
-[https://regen.foundation/announcing-launch-of-regen-foundation/](https://regen.foundation/announcing-launch-of-regen-foundation/ "Announcing Launch of Regen Foundation. - Regen Foundation")
-
-[](https://regen.foundation/announcing-launch-of-regen-foundation/)
-
-[2:18](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577935001500)
+> Regen Foundation Board President Will Szal: 
+>
+> _Regen Foundation’s first order of business will be to implement and iterate on our Community Staking DAOs architecture—a Proof-of-Stake variant that extends network governance to community members such as land stewards, landscapes, scientists, and developers. Between our Founding Executive Director, Revathi, and our Board—spanning the_ [_OpenTEAM_](https://openteam.community)_,_ [_Gnosis_](https://gnosis.io)_, and_ [_Buckminster Fuller Institute_](https://www.bfi.org) _communities—we’re off to a strong start._
 
 [https://regen.foundation/attending-to-stake-distribution-and-validator-economics/](https://regen.foundation/attending-to-stake-distribution-and-validator-economics/)
-
-![Regen Foundation](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fregen.foundation%2Fwp-content%2Fuploads%2F2018%2F10%2Fcropped-rf-logo_horizontal-black-1-180x180.png)Regen Foundation
-
-[Attending to Stake Distribution and Validator Economics - Regen Foundation](https://regen.foundation/attending-to-stake-distribution-and-validator-economics/)
 
 Regen Foundation’s Delegation Strategy for the 30mm Community Staking DAO Allocation Context Leading up to the April 15th Mainnet Launch of Regen Ledger, we at Regen Foundation published our delegation strategy for the Foundation’s 5mm REGEN. Regen Foundation also stewards 30mm REGEN in an allocation focused on our Community Stake architecture. We’re working as quickly […]
 
 Written by
-
 Will Szal
-
 Est. reading time
-
 4 minutes
-
 May 12th
-
-[2:19](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577940001800)
-
-[https://regen.foundation/when-to-vote/](https://regen.foundation/when-to-vote/)
-
-![Regen Foundation](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fregen.foundation%2Fwp-content%2Fuploads%2F2018%2F10%2Fcropped-rf-logo_horizontal-black-1-180x180.png)Regen Foundation
 
 [When to Vote? - Regen Foundation](https://regen.foundation/when-to-vote/)
 
