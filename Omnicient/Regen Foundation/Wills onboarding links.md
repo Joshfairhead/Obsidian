@@ -73,7 +73,8 @@ Somatic Economics
 
 # [Regen Network Retrospective](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192)
 
-- Looking back on three years of building a regenerative future
+- Wills reflections on the Regen genesis story. Very informative about network constituents.
+- Link:  https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4
 
 
 ---
