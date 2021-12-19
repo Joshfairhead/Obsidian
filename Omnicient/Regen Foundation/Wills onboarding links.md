@@ -119,7 +119,7 @@ Conversing with a landscapes through our bodies
 
 > The ability to have a conversation with a place, with a landscape, is of fundamental importance to being human and to the earth
 
-[Commons, DisCOs,](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
+# [Commons, DisCOs,](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
 Free, Fair and Alive
 Reading time
 8 min read
