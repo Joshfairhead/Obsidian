@@ -57,3 +57,8 @@ Community Staking fund:
 https://regen.aneka.io/accounts/regen1xv7pkdjtumtvakyfgwc7daknzxrdk8yhh9kng7
 
 Osmosis LP staking pool:
+
+
+
+
+[[Wills onboarding links]]
