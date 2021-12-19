@@ -19,6 +19,7 @@ Related: [[Climate Justice]] [[Evidence based research]] [[Open Source]] [[Open 
 [FarmOS](https://farmos.org/) 
 
 #### Intelligence
+[Project Drawdown](https://www.drawdown.org/)
 [Climate Curious](wwwclimatecurious.com)
 [Shortfall](https://shortfall.blog/the-deep-optimism-manifesto-262f273c919d)
 [An Ontology-Based Knowledge Modelling for a Sustainability Assessment Domain](https://www.mdpi.com/2071-1050/10/2/300/htm)
