@@ -85,14 +85,14 @@ Somatic Economics
 
 ---
 
-[Mobilizing Community Co-Creation for Soil Health](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
+# [Mobilizing Community Co-Creation for Soil Health](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
 
-OpenTEAM & Regen Network
-Reading time
-3 min read
-Jun 23rd, 2020 (437 kB)
+> Many of these groups (including ourselves), have been collaborating for years already through a forum known as the [Gathering for Open Agricultural Technology](http://goatech.org).
+[[Roberto
 
-[Book Review: “The Carbon Farming Solution”](https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65)
+---
+
+# [Book Review: “The Carbon Farming Solution”](https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65)
 
 The definitive text on regenerative agriculture, by Eric Toensmeier
 Reading time
