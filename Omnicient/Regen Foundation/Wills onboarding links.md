@@ -109,7 +109,10 @@ Reading time
 Feb 6th, 2020 (503 kB)
 
 ---
-# https://erik-huckle.medium.com/platforms-vs-aggregators-in-the-war-for-quantum-computing-supremacy-a5166ba6e0ab
+# [Platforms vs Aggregators in the War for Quantum Computing Supremacy](https://erik-huckle.medium.com/platforms-vs-aggregators-in-the-war-for-quantum-computing-supremacy-a5166ba6e0ab)
+
+I can see the relationship here between Regens strategy and the discussion of market strategies outlined here. 
+
 
 
 [Biome Communion](https://willszal.medium.com/biome-communion-94814ac5bd21)
