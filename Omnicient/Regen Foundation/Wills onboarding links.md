@@ -43,92 +43,42 @@ May 12th
 Photo by stefan moertl on Unsplash Regen Ledger has begun the process of its first two network governance proposals. The first proposal concerns REGEN transfers (transfers within Regen Ledger). The second proposal concerns IBC transfers (transfers between Cosmos-based chains). At this inflection point in network maturity, it is worth reflecting on the culture and process […]
 
 Written by
-
 Will Szal
-
 Est. reading time
-
 2 minutes
-
 Jun 16th
 
-[https://regen.foundation/when-to-vote/](https://regen.foundation/when-to-vote/ "When to Vote? - Regen Foundation")
-
-[](https://regen.foundation/when-to-vote/)
-
-[2:19](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577944002100)
-
 [https://regen.foundation/three-month-update-community-staking-dao-delegations/](https://regen.foundation/three-month-update-community-staking-dao-delegations/)
-
-![Regen Foundation](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fregen.foundation%2Fwp-content%2Fuploads%2F2018%2F10%2Fcropped-rf-logo_horizontal-black-1-180x180.png)Regen Foundation
-
-[Three Month Update: Community Staking DAO Delegations - Regen Foundation](https://regen.foundation/three-month-update-community-staking-dao-delegations/)
 
 TL/DR: Regen Foundation will delay its August 5mm c-REGEN delegation from the Community Staking DAO allocation in order to allow adequate time for community governance to upgrade the delegation strategy in light of the expanded validator set. Project Update To recap: Regen Ledger, a Cosmos-based blockchain for ecological contracts, launched mainnet on April 15th of […]
 
 Written by
-
 Will Szal
-
 Est. reading time
-
 4 minutes
-
 Aug 5th
 
-[https://regen.foundation/three-month-update-community-staking-dao-delegations/](https://regen.foundation/three-month-update-community-staking-dao-delegations/ "Three Month Update: Community Staking DAO Delegations - Regen Foundation")
-
-[](https://regen.foundation/three-month-update-community-staking-dao-delegations/)
-
-[2:19](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577953002400)
 
 [https://regen.foundation/welcoming-new-validators-into-the-expanded-set/](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
-
-![Regen Foundation](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fregen.foundation%2Fwp-content%2Fuploads%2F2018%2F10%2Fcropped-rf-logo_horizontal-black-1-180x180.png)Regen Foundation
-
-[Welcoming New Validators into the Expanded Set - Regen Foundation](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
 
 Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After opening up the question to community input, Regen Foundation will be expanding its delegation policy for the next 10mm REGEN delegated to include the 25 new validators in the set. On August 8th, Regen Ledger’s validator set was increased from 50 to 75, via governance vote […]
 
 Written by
-
 Will Szal
-
 Est. reading time
-
 1 minute
-
 Sep 3rd
 
-[https://regen.foundation/welcoming-new-validators-into-the-expanded-set/](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/ "Welcoming New Validators into the Expanded Set - Regen Foundation")
-
-[](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
-
-[2:19](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577959002700)
-
 [https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
-
-![Regen Foundation](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fregen.foundation%2Fwp-content%2Fuploads%2F2018%2F10%2Fcropped-rf-logo_horizontal-black-1-180x180.png)Regen Foundation
-
-[Maturing Autonomy: Separation Between the Founding Legal Entities of Regen Network - Regen Foundation](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
 
 TL;DR: Regen Network Development, Inc. and Regen Foundation no longer have crossover in personnel. Since our inception, Regen Network has been committed to decentralization. Today marks an inflection point on this path. I have resigned from the Board of Directors at Regen Network Development, Inc. (“RND”) and Gregory Landua, CEO at RND, has resigned as […]
 
 Written by
-
 Will Szal
-
 Est. reading time
-
 2 minutes
-
 Sep 11th
 
-[https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/ "Maturing Autonomy: Separation Between the Founding Legal Entities of Regen Network - Regen Foundation")
-
-[](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
-
-[Will Szal](https://app.slack.com/team/U02HYQYCYRL)  [2:28 PM](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578532003000)  
 
 [https://willszal.medium.com/haleversion-8e1eef968fd8](https://willszal.medium.com/haleversion-8e1eef968fd8)
 
@@ -137,11 +87,8 @@ Sep 11th
 [Haleversion](https://willszal.medium.com/haleversion-8e1eef968fd8)
 
 Somatic Economics
-
 Reading time
-
 6 min read
-
 Sep 25th, 2020 (260 kB)
 
 [https://willszal.medium.com/haleversion-8e1eef968fd8](https://willszal.medium.com/haleversion-8e1eef968fd8 "Haleversion")
