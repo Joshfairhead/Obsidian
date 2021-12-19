@@ -75,11 +75,13 @@ Somatic Economics
 
 - Wills reflections on the Regen genesis story. Very informative about network constituents.
 - Regen is a founding member of OpenTEAM
-- Techstars acceleration in the Sustainability category: https://medium.com/regen-network/90-days-later-regen-network-has-been-accelerated-3ed0fb977050
 - How to choose a blockchain from Gregory: https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4
 
 
 ---
+# [Techstars acceleration in the Sustainability category](): https://medium.com/regen-network/90-days-later-regen-network-has-been-accelerated-3ed0fb977050
+	> This OKR process is now an integrated part of how we work as a team.
+	>It shows up in our development of the core infrastructure which builds the foundation for all that we hope to achieve at Regen Network. Part of our process was being mentored by industry leaders to hone in on a single unified value proposition and laser focus. The outcome of this process was an embrace of the [open platform strateg](https://medium.com/@erik.huckle/platforms-vs-aggregators-in-the-war-for-quantum-computing-supremacy-a5166ba6e0ab)y to build network effect
 
 [Mobilizing Community Co-Creation for Soil Health](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
 
