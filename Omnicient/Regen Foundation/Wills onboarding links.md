@@ -103,23 +103,19 @@ Share: [[Roberto]]
 
 # [Book Review: “The Carbon Farming Solution”](https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65)
 
-The definitive text on regenerative agriculture, by Eric Toensmeier
-Reading time
-3 min read
-Feb 6th, 2020 (503 kB)
+Review of a book on why carbon farming matters
 
 ---
 # [Platforms vs Aggregators in the War for Quantum Computing Supremacy](https://erik-huckle.medium.com/platforms-vs-aggregators-in-the-war-for-quantum-computing-supremacy-a5166ba6e0ab)
 
 I can see the relationship here between Regens data marketplace strategy and the discussion of platform strategies outlined in this article. 
 
+---
 
-
-[Biome Communion](https://willszal.medium.com/biome-communion-94814ac5bd21)
+# [Biome Communion](https://willszal.medium.com/biome-communion-94814ac5bd21)
 Conversing with a landscapes through our bodies
-Reading time
-5 min read
-Jan 25th, 2020 (98 kB)
+
+-
 
 [Commons, DisCOs,](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
 Free, Fair and Alive
