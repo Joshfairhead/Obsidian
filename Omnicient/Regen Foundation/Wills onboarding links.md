@@ -56,6 +56,8 @@ Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After
 
 > Regen Foundation is working to distribute 30+mm REGEN (~28% of the current token supply, held in [this](https://regen.aneka.io/accounts/regen1xv7pkdjtumtvakyfgwc7daknzxrdk8yhh9kng7) wallet) to [Community Staking DAOs](https://medium.com/regen-network/community-stake-governance-model-b949bcb1eca3). In the interim, the Foundation is delegating a portion of these tokens.
 
+> Currently allocations are determined by placing in the rankings (essentially a bell curve) and equalizing for commission (down to 3%). There is an interest in factoring in other metrics, such as reputation, or contributions to the Regen Network ecosystem—but it is also clear that these metrics will not be mature enough for these two rounds of delegations, and will rather be rolled into subsequent redelegations later on.
+
 ---
 
 # [https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
