@@ -122,115 +122,39 @@ Reading time
 8 min read
 Jan 27th, 2020 (622 kB)
 
-[https://medium.com/regen-network/commons-discos-3fb4c707f68b](https://medium.com/regen-network/commons-discos-3fb4c707f68b "Commons, DisCOs,")
-
-[](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
-
-[2:33](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578793005200)
-
-[https://medium.com/regen-network/goethian-science-759c999d2d29](https://medium.com/regen-network/goethian-science-759c999d2d29)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
-
 [Goethian Science](https://medium.com/regen-network/goethian-science-759c999d2d29)
-
 Beyond Impartial Observation, Into Developmental Relationship
-
 Reading time
-
 7 min read
-
 Jul 8th, 2019 (347 kB)
-
-[https://medium.com/regen-network/goethian-science-759c999d2d29](https://medium.com/regen-network/goethian-science-759c999d2d29 "Goethian Science")
-
-[](https://medium.com/regen-network/goethian-science-759c999d2d29)
-
-[2:33](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578800005500)
-
-[https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
 
 [Punished by Rewards](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
 
 What can the cryptocurrency space learn from the social sciences?
-
 Reading time
-
 3 min read
-
 May 15th, 2019 (21 kB)
 
-[https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e "Punished by Rewards")
-
-[](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
-
-[2:33](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578810005800)
-
-[https://medium.com/regen-network/bitcoin-91e18d7c8e70](https://medium.com/regen-network/bitcoin-91e18d7c8e70)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
-
 [Bitcoin](https://medium.com/regen-network/bitcoin-91e18d7c8e70)
-
 A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism” by David Golumbia.
 
 Reading time
-
 5 min read
-
 Feb 12th, 2019
-
-[https://medium.com/regen-network/bitcoin-91e18d7c8e70](https://medium.com/regen-network/bitcoin-91e18d7c8e70 "Bitcoin")
-
-[](https://medium.com/regen-network/bitcoin-91e18d7c8e70)
-
-[2:33](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578816006100)
-
-[https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
 
 [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
 
 A book review of “Climate: A New Story” by Charles Eisenstein
-
 Reading time
-
 7 min read
-
 Sep 9th, 2019 (562 kB)
-
-[https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c "Coming into Empathy with a Dying World")
-
-[](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
-
-[2:33](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578836006400)
-
-[https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311](https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311)
-
-![Regen Network](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fforum.regen.network%2Fuploads%2Fdefault%2Foptimized%2F1X%2Fb40172d34ecb2837b9dc2279d28fa8687a2a8cda_2_180x180.png)Regen Network
 
 [Delegation program for one node per validator only](https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311)
 
 Looking at how many $REGEN we would need to get back into the list of active validators we realized that the Ozone validator has two validation nodes (Ozone / StakeThat). [https://regen.aneka.io/validators/regenvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3uupmg2z](https://regen.aneka.io/validators/regenvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3uupmg2z) [https://regen.aneka.io/validators/regenvaloper12ftk2gst84zqn9ny2hcuyntuz4jfnxpnldef3u](https://regen.aneka.io/validators/regenvaloper12ftk2gst84zqn9ny2hcuyntuz4jfnxpnldef3u) These two nodes have a delegation from the foundation. If we could benefit from the delegation of one of these nodes, it would allow us to come back as...
 
 Reading time
-
-1 mins ![:clock2:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/1f551.png) 
-
-Likes
-
-6 ![:heart:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/2764-fe0f.png) 
-
-Oct 26th
-
-[2:34](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578846006700)
-
-[https://forum.regen.network/t/set-the-validator-minimum-commission-rate-to-5/316](https://forum.regen.network/t/set-the-validator-minimum-commission-rate-to-5/316)
-
-![Regen Network](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fforum.regen.network%2Fuploads%2Fdefault%2Foptimized%2F1X%2Fb40172d34ecb2837b9dc2279d28fa8687a2a8cda_2_180x180.png)Regen Network
+1 mins
 
 [Set the Validator Minimum Commission Rate to 5%?](https://forum.regen.network/t/set-the-validator-minimum-commission-rate-to-5/316)
 
