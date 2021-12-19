@@ -6,13 +6,9 @@ Related:
 
 - [ ] [The Challenge of Inclusive Community Governance](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
 
-Regen Foundation’s Delegation Strategy for Mainnet. 
+Regen Foundation’s Delegation Strategy for Mainnet and considerations. 
+https://github.com/regen-foundation/policies/blob/main/treasury.pdf
 
-Written by
-Will Szal
-Est. reading time 
-3 minutes
-Apr 13th
 
 --- 
 - [x] [Announcing Launch of Regen Foundation](https://regen.foundation/announcing-launch-of-regen-foundation/)
