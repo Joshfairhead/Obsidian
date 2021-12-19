@@ -56,7 +56,9 @@ Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After
 
 > Regen Foundation is working to distribute 30+mm REGEN (~28% of the current token supply, held in [this](https://regen.aneka.io/accounts/regen1xv7pkdjtumtvakyfgwc7daknzxrdk8yhh9kng7) wallet) to [Community Staking DAOs](https://medium.com/regen-network/community-stake-governance-model-b949bcb1eca3). In the interim, the Foundation is delegating a portion of these tokens.
 
-[https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
+---
+
+# [https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
 
 TL;DR: Regen Network Development, Inc. and Regen Foundation no longer have crossover in personnel. Since our inception, Regen Network has been committed to decentralization. Today marks an inflection point on this path. I have resigned from the Board of Directors at Regen Network Development, Inc. (“RND”) and Gregory Landua, CEO at RND, has resigned as […]
 
