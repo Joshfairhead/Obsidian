@@ -79,11 +79,6 @@ Est. reading time
 2 minutes
 Sep 11th
 
-
-[https://willszal.medium.com/haleversion-8e1eef968fd8](https://willszal.medium.com/haleversion-8e1eef968fd8)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
-
 [Haleversion](https://willszal.medium.com/haleversion-8e1eef968fd8)
 
 Somatic Economics
@@ -91,104 +86,40 @@ Reading time
 6 min read
 Sep 25th, 2020 (260 kB)
 
-[https://willszal.medium.com/haleversion-8e1eef968fd8](https://willszal.medium.com/haleversion-8e1eef968fd8 "Haleversion")
-
-[](https://willszal.medium.com/haleversion-8e1eef968fd8)
-
-[2:30](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578646003300)
-
-[https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
 
 [Regen Network Retrospective](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192)
 
 Looking back on three years of building a regenerative future
-
 Reading time
-
 6 min read
-
 Sep 2nd, 2020 (183 kB)
 
-[https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192 "Regen Network Retrospective")
-
-[](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192)
-
-[2:32](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578751004000)
-
-[https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
 
 [Mobilizing Community Co-Creation for Soil Health](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
 
 OpenTEAM & Regen Network
-
 Reading time
-
 3 min read
-
 Jun 23rd, 2020 (437 kB)
-
-[https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba "Mobilizing Community Co-Creation for Soil Health")
-
-[](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
-
-[2:32](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578776004300)
-
-[https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65](https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
 
 [Book Review: “The Carbon Farming Solution”](https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65)
 
 The definitive text on regenerative agriculture, by Eric Toensmeier
-
 Reading time
-
 3 min read
-
 Feb 6th, 2020 (503 kB)
 
-[https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65](https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65 "Book Review: “The Carbon Farming Solution”")
-
-[](https://medium.com/regen-network/book-review-the-carbon-farming-solution-be462a09ed65)
-
-[2:33](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578782004600)
-
-[https://willszal.medium.com/biome-communion-94814ac5bd21](https://willszal.medium.com/biome-communion-94814ac5bd21)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
 
 [Biome Communion](https://willszal.medium.com/biome-communion-94814ac5bd21)
-
 Conversing with a landscapes through our bodies
-
 Reading time
-
 5 min read
-
 Jan 25th, 2020 (98 kB)
 
-[https://willszal.medium.com/biome-communion-94814ac5bd21](https://willszal.medium.com/biome-communion-94814ac5bd21 "Biome Communion")
-
-[](https://willszal.medium.com/biome-communion-94814ac5bd21)
-
-[2:33](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639578788004900)
-
-[https://medium.com/regen-network/commons-discos-3fb4c707f68b](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
-
-![Medium](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F152%2F152%2F1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Medium
-
 [Commons, DisCOs,](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
-
 Free, Fair and Alive
-
 Reading time
-
 8 min read
-
 Jan 27th, 2020 (622 kB)
 
 [https://medium.com/regen-network/commons-discos-3fb4c707f68b](https://medium.com/regen-network/commons-discos-3fb4c707f68b "Commons, DisCOs,")
