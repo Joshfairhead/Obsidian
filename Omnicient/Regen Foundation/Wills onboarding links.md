@@ -36,6 +36,9 @@ Regen Foundation’s Delegation Strategy for the 30mm Community Staking DAO Allo
 ---
 
 # [When to Vote? - Regen Foundation](https://regen.foundation/when-to-vote/)
+Proposals: 
+- https://forum.regen.network/t/proposal-1-enable-regen-transfers/191
+- https://forum.regen.network/t/proposal-2-enable-ibc-transfers/192
 
 Photo by stefan moertl on Unsplash Regen Ledger has begun the process of its first two network governance proposals. The first proposal concerns REGEN transfers (transfers within Regen Ledger). The second proposal concerns IBC transfers (transfers between Cosmos-based chains). At this inflection point in network maturity, it is worth reflecting on the culture and process […]
 
