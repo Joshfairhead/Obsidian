@@ -66,20 +66,17 @@ Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After
 
 ---
 
-# [Haleversion](https://willszal.medium.com/haleversion-8e1eef968fd8)
-
+# [NOT WORKING: Haleversion](https://willszal.medium.com/haleversion-8e1eef968fd8)
 Somatic Economics
 
 ---
 
+# [Regen Network Retrospective](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192)
 
-[Regen Network Retrospective](https://medium.com/regen-network/regen-network-retrospective-3b18e06c1192)
+- Looking back on three years of building a regenerative future
 
-Looking back on three years of building a regenerative future
-Reading time
-6 min read
-Sep 2nd, 2020 (183 kB)
 
+---
 
 [Mobilizing Community Co-Creation for Soil Health](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
 
