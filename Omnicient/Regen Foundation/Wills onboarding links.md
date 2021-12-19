@@ -76,7 +76,7 @@ Somatic Economics
 - Wills reflections on the Regen genesis story. Very informative about network constituents.
 - Regen is a founding member of OpenTEAM
 - Techstars acceleration in the Sustainability category: https://medium.com/regen-network/90-days-later-regen-network-has-been-accelerated-3ed0fb977050
-- Link:  https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4
+- How to choose a blockchain from Gregory: https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4
 
 
 ---
