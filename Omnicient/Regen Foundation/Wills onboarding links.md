@@ -31,13 +31,7 @@ https://github.com/regen-foundation/policies/blob/main/treasury.pdf
 
 # [Attending to stake distribution and validator economics](https://regen.foundation/attending-to-stake-distribution-and-validator-economics/)
 
-Regen Foundation’s Delegation Strategy for the 30mm Community Staking DAO Allocation Context Leading up to the April 15th Mainnet Launch of Regen Ledger, we at Regen Foundation published our delegation strategy for the Foundation’s 5mm REGEN. Regen Foundation also stewards 30mm REGEN in an allocation focused on our Community Stake architecture. We’re working as quickly […]
-
-Written by
-Will Szal
-Est. reading time
-4 minutes
-May 12th
+Regen Foundation’s Delegation Strategy for the 30mm Community Staking DAO Allocation 
 
 ---
 
