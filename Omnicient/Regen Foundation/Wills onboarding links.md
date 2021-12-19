@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Wills onboarding links
 
-- [ ] [The Challenge of Inclusive Community Governance](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
+- [x] [The Challenge of Inclusive Community Governance](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
 
 Regen Foundation’s Delegation Strategy for Mainnet and considerations. 
 https://github.com/regen-foundation/policies/blob/main/treasury.pdf
@@ -15,25 +15,19 @@ https://github.com/regen-foundation/policies/blob/main/treasury.pdf
 
 Regen Foundation Hires Founding Executive Director – Revathi Kollegala  The Regen Network ecosystem is maturing, recently marked by the launch of mainnet. Watch the replay of the launch party here if you weren’t able to tune into this historic event. The genesis of Regen Ledger also heralds the operational launch of Regen Foundation. Regen Foundation, […]
 
-Written by
-Rev Kollegala
-Est. reading time
-3 minutes
-Apr 19th
-
-> Regen Foundation Board President Will Szal: 
->
+> **Regen Foundation Board President Will Szal: **
 > _Regen Foundation’s first order of business will be to implement and iterate on our Community Staking DAOs architecture—a Proof-of-Stake variant that extends network governance to community members such as land stewards, landscapes, scientists, and developers. Between our Founding Executive Director, Revathi, and our Board—spanning the_ [_OpenTEAM_](https://openteam.community)_,_ [_Gnosis_](https://gnosis.io)_, and_ [_Buckminster Fuller Institute_](https://www.bfi.org) _communities—we’re off to a strong start._
 
-### 1. Scientific Research and Inquiry
-- The Foundation aims to facilitate and nurture an open and collaborative process that supports the science needed for the Regen Network to produce scientifically robust, context specific protocols for the verification of ecological outcomes worldwide.
-- We are committed to open source and  believe that helping develop open and shared protocols are a key driver for the acceleration of planetary regeneration and a re-establishment of a healthy commons.
+## Pillars
+- ### 1. Scientific Research and Inquiry
+	- The Foundation aims to facilitate and nurture an open and collaborative process that supports the science needed for the Regen Network to produce scientifically robust, context specific protocols for the verification of ecological outcomes worldwide.
+	- We are committed to open source and  believe that helping develop open and shared protocols are a key driver for the acceleration of planetary regeneration and a re-establishment of a healthy commons.
 
-### 2. Education and Capacity Building
-Regen Foundation also aims to enable the global agricultural and technological communities to learn, understand, and co-create the educational network needed to make ecological agriculture accessible and make a larger climate impact. We aim to help the agricultural community have easy access to scientifically validated practices and processes leading to robust environmental resilience. 
+- ### 2. Education and Capacity Building
+	- Regen Foundation also aims to enable the global agricultural and technological communities to learn, understand, and co-create the educational network needed to make ecological agriculture accessible and make a larger climate impact. We aim to help the agricultural community have easy access to scientifically validated practices and processes leading to robust environmental resilience. 
 
-### 3. Technological Tools for the Commons
-Regen Foundation helps facilitate and nurture the socio-technological infrastructure to ensure the future of Regen Network and Regen Ledger are decentralized and democratic. We envision convening the open source community and coordinating work on critical  elements of decentralized governance and computing in the domain of ecological regeneration.
+- ### 3. Technological Tools for the Commons
+	- Regen Foundation helps facilitate and nurture the socio-technological infrastructure to ensure the future of Regen Network and Regen Ledger are decentralized and democratic. We envision convening the open source community and coordinating work on critical  elements of decentralized governance and computing in the domain of ecological regeneration.
 
 ---
 
