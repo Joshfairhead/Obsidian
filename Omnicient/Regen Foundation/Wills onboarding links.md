@@ -108,6 +108,9 @@ Reading time
 3 min read
 Feb 6th, 2020 (503 kB)
 
+---
+# https://erik-huckle.medium.com/platforms-vs-aggregators-in-the-war-for-quantum-computing-supremacy-a5166ba6e0ab
+
 
 [Biome Communion](https://willszal.medium.com/biome-communion-94814ac5bd21)
 Conversing with a landscapes through our bodies
