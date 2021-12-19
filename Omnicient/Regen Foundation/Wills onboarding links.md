@@ -4,11 +4,7 @@ Tags: []
 Related: 
 # Wills onboarding links
 
-[Will Szal](https://app.slack.com/team/U02HYQYCYRL)  [2:18 PM](https://regenfoundation.slack.com/archives/D02PWGPE7D5/p1639577921000900)  
-
 [https://regen.foundation/the-challenge-of-inclusive-community-governance/](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
-
-![Regen Foundation](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fregen.foundation%2Fwp-content%2Fuploads%2F2018%2F10%2Fcropped-rf-logo_horizontal-black-1-180x180.png)Regen Foundation
 
 [The Challenge of Inclusive Community Governance - Regen Foundation](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
 
