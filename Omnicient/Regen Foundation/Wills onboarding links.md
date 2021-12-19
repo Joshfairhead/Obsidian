@@ -6,11 +6,11 @@ Related:
 
 - [ ] [The Challenge of Inclusive Community Governance](https://regen.foundation/the-challenge-of-inclusive-community-governance/)
 
-Regen Foundation’s Delegation Strategy for Mainnet With Regen Ledger going live in a few days, we at Regen Foundation understand the gravity of the responsibility resting with our organization. We have been weighing a number of complex factors as part of preparing our delegations for mainnet.  The Community-First Principle As an entity with a charitable mission explicitly […]
+Regen Foundation’s Delegation Strategy for Mainnet. 
 
 Written by
 Will Szal
-Est. reading time
+Est. reading time 
 3 minutes
 Apr 13th
 
