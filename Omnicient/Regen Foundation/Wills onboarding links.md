@@ -88,7 +88,8 @@ Somatic Economics
 # [Mobilizing Community Co-Creation for Soil Health](https://medium.com/regen-network/mobilizing-community-co-creation-for-soil-health-61090e27c6ba)
 
 > Many of these groups (including ourselves), have been collaborating for years already through a forum known as the [Gathering for Open Agricultural Technology](http://goatech.org).
-[[Roberto
+
+Share: [[Roberto]]
 
 ---
 
