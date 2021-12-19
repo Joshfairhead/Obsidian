@@ -111,7 +111,7 @@ Feb 6th, 2020 (503 kB)
 ---
 # [Platforms vs Aggregators in the War for Quantum Computing Supremacy](https://erik-huckle.medium.com/platforms-vs-aggregators-in-the-war-for-quantum-computing-supremacy-a5166ba6e0ab)
 
-I can see the relationship here between Regens strategy and the discussion of market strategies outlined here. 
+I can see the relationship here between Regens data marketplace strategy and the discussion of platform strategies outlined in this article. 
 
 
 
