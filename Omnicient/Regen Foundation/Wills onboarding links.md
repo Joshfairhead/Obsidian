@@ -44,16 +44,11 @@ The first proposal concerns REGEN transfers (transfers within Regen Ledger). The
 
 ---
 
-[Three month update on community staking DAO a](https://regen.foundation/three-month-update-community-staking-dao-delegations/)
+# [Three month update on community staking DAO delegations](https://regen.foundation/three-month-update-community-staking-dao-delegations/)
 
-TL/DR: Regen Foundation will delay its August 5mm c-REGEN delegation from the Community Staking DAO allocation in order to allow adequate time for community governance to upgrade the delegation strategy in light of the expanded validator set. Project Update To recap: Regen Ledger, a Cosmos-based blockchain for ecological contracts, launched mainnet on April 15th of […]
 
-Written by
-Will Szal
-Est. reading time
-4 minutes
-Aug 5th
 
+---
 
 [https://regen.foundation/welcoming-new-validators-into-the-expanded-set/](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
 
