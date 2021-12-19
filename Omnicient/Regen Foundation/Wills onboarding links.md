@@ -11,7 +11,7 @@ https://github.com/regen-foundation/policies/blob/main/treasury.pdf
 
 
 --- 
-- [x] [Announcing Launch of Regen Foundation](https://regen.foundation/announcing-launch-of-regen-foundation/)
+# [Announcing Launch of Regen Foundation](https://regen.foundation/announcing-launch-of-regen-foundation/)
 
 Regen Foundation Hires Founding Executive Director – Revathi Kollegala  The Regen Network ecosystem is maturing, recently marked by the launch of mainnet. Watch the replay of the launch party here if you weren’t able to tune into this historic event. The genesis of Regen Ledger also heralds the operational launch of Regen Foundation. Regen Foundation, […]
 
@@ -31,7 +31,7 @@ Regen Foundation Hires Founding Executive Director – Revathi Kollegala  The R
 
 ---
 
-[https://regen.foundation/attending-to-stake-distribution-and-validator-economics/](https://regen.foundation/attending-to-stake-distribution-and-validator-economics/)
+# [Attending to stake distribution and validator economics](https://regen.foundation/attending-to-stake-distribution-and-validator-economics/)
 
 Regen Foundation’s Delegation Strategy for the 30mm Community Staking DAO Allocation Context Leading up to the April 15th Mainnet Launch of Regen Ledger, we at Regen Foundation published our delegation strategy for the Foundation’s 5mm REGEN. Regen Foundation also stewards 30mm REGEN in an allocation focused on our Community Stake architecture. We’re working as quickly […]
 
@@ -41,7 +41,9 @@ Est. reading time
 4 minutes
 May 12th
 
-[When to Vote? - Regen Foundation](https://regen.foundation/when-to-vote/)
+---
+
+# [When to Vote? - Regen Foundation](https://regen.foundation/when-to-vote/)
 
 Photo by stefan moertl on Unsplash Regen Ledger has begun the process of its first two network governance proposals. The first proposal concerns REGEN transfers (transfers within Regen Ledger). The second proposal concerns IBC transfers (transfers between Cosmos-based chains). At this inflection point in network maturity, it is worth reflecting on the culture and process […]
 
