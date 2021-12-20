@@ -159,7 +159,7 @@ A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism”
 
 # [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
 
-This post is about stillness and sitting. 
+This post is about stillness and sitting. Taking the time to sense into the totality of a big p.
 
 Mentions the word hyper object which links to the following page and review: https://www.librarything.com/work/14012021/reviews/143246421_289146203
 
@@ -167,9 +167,9 @@ Mentions the word hyper object which links to the following page and review: htt
 
 ---
 
-[Delegation program for one node per validator only](https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311)
+# [Delegation program for one node per validator only](https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311)
 
-Looking at how many $REGEN we would need to get back into the list of active validators we realized that the Ozone validator has two validation nodes (Ozone / StakeThat). [https://regen.aneka.io/validators/regenvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3uupmg2z](https://regen.aneka.io/validators/regenvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3uupmg2z) [https://regen.aneka.io/validators/regenvaloper12ftk2gst84zqn9ny2hcuyntuz4jfnxpnldef3u](https://regen.aneka.io/validators/regenvaloper12ftk2gst84zqn9ny2hcuyntuz4jfnxpnldef3u) These two nodes have a delegation from the foundation. If we could benefit from the delegation of one of these nodes, it would allow us to come back as...
+Looking at how many $REGEN we would need to get back into the list of active validators we realized that the Ozone validator has two validation nodes (Ozone / StakeThat). [Ozone](https://regen.aneka.io/validators/regenvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3uupmg2z) [StakeThat](https://regen.aneka.io/validators/regenvaloper12ftk2gst84zqn9ny2hcuyntuz4jfnxpnldef3u) These two nodes have a delegation from the foundation. If we could benefit from the delegation of one of these nodes, it would allow us to come back as...
 
 Reading time
 1 mins
