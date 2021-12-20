@@ -184,10 +184,8 @@ Hi Everyone, I’m Pete, I run the Regenerator Validator. I might be shooting my
 
 In discussion about the Cosmos Ecosystem Allocation discussion, the fact has arisen that Regen Network has a Community Pool that is continually growing via block rewards. @corlock has shared information about how to query the pool. This pool currently has a little over 2mm REGEN. So, what do we want to fund through grants? This is the forum to discuss!
 
-Reading time
-1 mins
-Sep 1st
-
+---
+ 
 [Cosmos Ecosystem Allocation](https://forum.regen.network/t/cosmos-ecosystem-allocation/259)
 
 Back in our whitepaper, we stated the 3mm REGEN (wallet address here) would be allocated for “airdrop or work-lock” to ATOM holders. Our intention here has always been to reinforce mutual value with the Cosmos community and fuel the vision of the internet of blockchains. Earlier this year, 200,984 REGEN of this allocation went into an airdrop, but the rest have been reserved in case the community feels there is a better way that these tokens could be used. The space has shifted a lot since 2018 ...
