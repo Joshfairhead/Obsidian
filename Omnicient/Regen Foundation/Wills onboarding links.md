@@ -151,6 +151,8 @@ A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism”
 
 > Recent events have shown repeatedly that we discount the power of engineers and/or ideologies to realize their political visions through software design at our peril.
 
+---
+
 # [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
 
 A book review of “Climate: A New Story” by Charles Eisenstein
