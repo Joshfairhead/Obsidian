@@ -32,10 +32,10 @@ Start a slack conversation to find time for initial gov circle three horizons
 
 
 ### Actions
-
-Work with Revathi and Will to schedule calls with stakeholders from RND:
--   Dan (Daniel Pittman) - Community Manager, RND
--   Gregory - CEO, RND
--   Sara Johnstone - COO, RND
--   Cory - Engineering Team, RND
--   Ryan - Developer Advocate(?), RND.
+- [ ] Accountability and responsibility
+- [ ] Work with Revathi and Will to schedule calls with stakeholders from RND:
+	-   Dan (Daniel Pittman) - Community Manager, RND
+	-   Gregory - CEO, RND
+	-   Sara Johnstone - COO, RND
+	-   Cory - Engineering Team, RND
+	-   Ryan - Developer Advocate(?), RND.
