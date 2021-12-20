@@ -35,10 +35,10 @@ Related:
 
 ---
 
-## Links
-- [[Wills onboarding links]]
-
-
-### Open questions
+## Open questions
 - What are Carol Sanfords 3 key principals?
 - What did we mean by formally creating a general circle?
+
+
+## Links / Resources
+- [[Wills onboarding links]]
