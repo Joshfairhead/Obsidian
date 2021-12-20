@@ -5,11 +5,10 @@ Related:
 # Revathi Call 20-12-21
 
 ### Looking forward
-There is a desire to move faster towards key goals, or perhaps for more transparency/visibility
-Accountability and responsibility, Roles are 
+There is a desire to move faster towards key goals, or perhaps for more transparency/visibility about the movement towards those goals. This naturally leads to questions around how metrics fit in? What kinds are ok? How should they be used? We 
 
 
-How do mettrics fit in? What kinds are ok?
+
 Strategy for Immediate things in January
 Ask Will about Carrol Sanfords 3
 Start curating resources around gov circle
