@@ -22,7 +22,7 @@ Related: [[Governance]]
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous perspectives) we need to opt for second-order methodologies capable of integrating a variety of pluralistic values.
 	-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). 
 		-  In the realms of governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
-		-  In the relms of identity (individual ); the terms function, being and will are good for articulating an individual
+		-  In the relms of identity (individual or collective I consider the terms to be function, being and will. This triad could be quite effective in the general circle. 
 
 
 
