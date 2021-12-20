@@ -5,7 +5,9 @@ Related:
 # Revathi Call 20-12-21
 
 ### Looking forward
-There is a desire to move faster towards key goals, or perhaps for more transparency/visibility about the movement towards those goals. This naturally leads to questions around how metrics fit in? What kinds are ok? How should they be used? 
+There is a desire to move faster towards key goals, or perhaps for more transparency/visibility about the movement towards those goals. This naturally leads to questions around how metrics fit in? What kinds are ok? How should they be used? How should they not be used? How do they relate with Alfie Kohen and 
+
+
 
 
 
