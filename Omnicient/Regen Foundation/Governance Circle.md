@@ -20,8 +20,9 @@ Related: [[Governance]]
 - Consent. This is implicitly a via negativa approach where options are regularly rejected. Trying not to be wrong is a significantly more effective heuristic than trying to be right. This is a good foundation to build upon further. 
 - If governance is an orginisational meta-function for determining processes and frameworks, then we should examine the meta-process by which selection itself is made. 
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous perspectives) we need to opt for second-order methodologies capable of integrating a variety of pluralistic values.
-	-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). In the realms of governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
--  
+	-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). 
+		-  In the realms of governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
+		-  In the relms of identity (individual ); the terms function, being and will are good for articulating an individual
 
 
 
