@@ -1,7 +1,7 @@
 ---
 Tags: [calls]
 ---
-Related: [[Regen Foundation Index]]
+Related: [[Regen Foundation Home]]
 # Revathi Call 20-12-21
 
 ### Looking forward
