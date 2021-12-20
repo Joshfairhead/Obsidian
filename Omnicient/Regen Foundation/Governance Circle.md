@@ -24,16 +24,13 @@ Related: [[Governance]]
 		-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). 
 			-  For articulating governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
 			-  For articulating an entity or identity (individual or collective) I consider the three terms to be function, being and will. This triad feels like it could be especially effective for articulating the purpose of the general circle in particular. 
-- 
-
+-
 
 
 
 - Articulating values and ethics at the individual and collective levels
 - Taking accountability for ourselves and our decisions
-- Making sure we are equipped to deal with the terrain. 
-	- Maps, compasses, vehicle. 
-	- Coordination
+
 
 
 ## What 
