@@ -131,7 +131,7 @@ Beyond Impartial Observation, Into Developmental Relationship
 
 > Through the process of beholding, we create our own prototype of the organism under study.
 
-This feels like a phemenonologist approach to 
+This feels like a phemenonologist approach to science that I can dig. The ontology posits relationship as primary which seems like a pretty good foundational assumption. 
 
 
 
