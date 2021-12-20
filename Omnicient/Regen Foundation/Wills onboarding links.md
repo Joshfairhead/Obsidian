@@ -133,6 +133,9 @@ Beyond Impartial Observation, Into Developmental Relationship
 
 This feels like a phemenonologist approach to science that I can dig. The ontology posits relationship as primary which seems like a pretty good foundational assumption. It is a sense based or emperical science, like that of John Bennet.
 
+> In his book, _Punished by Rewards,_ Alfie Kohn sketches out not only the inhumanity of instrumentalism in parenting, education, and business, but its utter failure to achieve its stated aim of improved performance.
+
+- I've read unconditional parenting by Alife. I get this view.
 
 
 [Punished by Rewards](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
