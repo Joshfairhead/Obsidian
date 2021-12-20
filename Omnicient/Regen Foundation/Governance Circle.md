@@ -22,8 +22,8 @@ Related: [[Governance]]
 - For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous perspectives) we need to opt for second-order methodologies capable of integrating a variety of pluralistic values.
 	-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). 
 		-  In the realms of governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
-		-  In the relms of identity (individual or collective I consider the terms to be function, being and will. This triad could be quite effective in the general circle. 
-
+		-  In the relms of identity (individual or collective) I consider the terms to be function, being and will. This triad could be quite effective for articulating the purpose of the general circle in particular. 
+- 
 
 
 - Extitutionally
@@ -36,7 +36,6 @@ Related: [[Governance]]
 
 
 ## What 
-- Aiming for 
 - Three horizons to articulate our present terrain and future destination (map)
 - Workshops focused on ethics and sense-making (compass)
 - Circles and roles to coordinate shared responsibilities and accounting for them (vehicle)
@@ -44,13 +43,13 @@ Related: [[Governance]]
 
 
 
+
+
 ### Timelines
 ### Artefacts
-
-
 ## Treasury
 
-Endaoment:
+EnDAOment:
 https://regen.aneka.io/accounts/regen1wts9f35khx5r94p3rdwgk3evv0v06ewrfl90th
 
 
