@@ -9,7 +9,7 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
     - [[Social Archetecture]] - Really good
     - [Beyond the rules](https://provocations.darkmatterlabs.org/organising-beyondtherules-at-dark-matter-labs-e59e4f5dd32f?source=collection_home---2------4-----------------------) - Organising at Dark Matter labs
     - [Manual of We](https://provocations.darkmatterlabs.org/dmls-manual-of-us-d41b1c235869) - Dark Matter labs attempt at collectivly articulating the organisation psyche~ see end questions. 
-    - How we hold eachother to account 
+    - [How we hold eachother to account in a self organising company](https://medium.com/the-caring-network-company/how-we-hold-each-other-accountable-a2700446113c)
     - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - domains of decision making
     - [[Exit to Community]]
     - [[Micro Solidarity Framework]]
