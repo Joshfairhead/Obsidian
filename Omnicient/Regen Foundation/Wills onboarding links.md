@@ -131,6 +131,9 @@ Beyond Impartial Observation, Into Developmental Relationship
 
 > Through the process of beholding, we create our own prototype of the organism under study.
 
+This feels like a phemenonologist approach to 
+
+
 
 [Punished by Rewards](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
 
