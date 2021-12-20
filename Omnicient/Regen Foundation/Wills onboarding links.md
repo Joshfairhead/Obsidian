@@ -149,11 +149,9 @@ What can the cryptocurrency space learn from the social sciences?... a lot
 # [Bitcoin](https://medium.com/regen-network/bitcoin-91e18d7c8e70)
 A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism” by David Golumbia.
 
-Reading time
-5 min read
-Feb 12th, 2019
+> Recent events have shown repeatedly that we discount the power of engineers and/or ideologies to realize their political visions through software design at our peril.
 
-[Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
+# [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
 
 A book review of “Climate: A New Story” by Charles Eisenstein
 Reading time
