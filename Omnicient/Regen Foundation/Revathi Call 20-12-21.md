@@ -9,7 +9,7 @@ There is a desire to move faster towards key goals which were previously unmet. 
 
 We discussed a need for strategy workshops in January along with the undertaking of these and the format. To help clarify and navigate uncertainties my proposal and offer is to run a three horizons workshop: https://resources.h3uni.org/tutorial/three-horizons/. This format seems appropriate for kick off sessions in the endaoment and governance ciricles, after which they can be supplemented with other methodologies (hexagon mapping etc.) 
 
-
+Clarity on team roles 
 
 
 
