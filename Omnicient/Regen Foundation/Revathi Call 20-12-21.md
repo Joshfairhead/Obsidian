@@ -1,7 +1,7 @@
 ---
-Tags: []
+Tags: [calls]
 ---
-Related: 
+Related: [[Regen Foundation Index]]
 # Revathi Call 20-12-21
 
 ### Looking forward
@@ -26,7 +26,7 @@ There was also mention of formally creating a general circle according to the no
 - [ ] Send Revathi a resource on accountability and responsibility
 - [ ] Send Revathi the links Will sent me with commentary 
 - [ ] Look through Endaoment section in preparation for roles and horizon mapping
-- [ ] Create a workshop invitation document containing the following
+- [ ] Create a workshop invitation document containing the following and find an approrpriate time between stakeholders
 	- What people should read beforehand
 	- Description of the framework
 	- What we want to do
