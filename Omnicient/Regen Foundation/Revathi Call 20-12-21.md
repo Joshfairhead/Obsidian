@@ -26,6 +26,11 @@ There was also mention of formally creating a general circle according to the no
 - [ ] Send Revathi a resource on accountability and responsibility
 - [ ] Send Revathi the links Will sent me with commentary 
 - [ ] Look through Endaoment section in preparation for roles and horizon mapping
+- [ ] Create a workshop invitation document containing the following
+	- What people should read beforehand
+	- Description of the framework
+	- What we want to do
+	- Length of time, follow up workshops etc.
 - [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
 	-   Dan (Daniel Pittman) - Community Manager, RND
 	-   Gregory - CEO, RND
@@ -35,13 +40,6 @@ There was also mention of formally creating a general circle according to the no
 
 
 --- 
-
-Endaoment -> where we are where we are going (3 horizons)
-- Sort out workshop as a lab
-- Description of the framework
-- What we want to do
-- What people should read beforehand
-- Length of time, follow up workshops etc.
 
 Endaoment -> team roles 
 Look through Endaoment section in preparation for roles and horizon mapping
