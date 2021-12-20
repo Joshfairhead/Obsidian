@@ -11,7 +11,7 @@ This naturally leads to questions around how metrics and goals fit within the or
 
 More concretely we discussed a desire for strategy workshops in January along with their structure and the format. To help clarify and navigate uncertainties my proposal and offer was to run a three horizons workshop: https://resources.h3uni.org/tutorial/three-horizons/ for the endaoment and governance circles to help kick things off. 
 
-Roles was a consideration point that ties into the above; having articulated our direction, the roles we need to fill should be more apparent. Fro
+Roles was a consideration point that ties into the above; having articulated a shared sense of direction, the respo we need to fill should become more apparent. We can then 
 
 There was also mention of formally creating a general circle according to the notes I made in call but I'm unsure what this means or if we discussed the matter further.
 
