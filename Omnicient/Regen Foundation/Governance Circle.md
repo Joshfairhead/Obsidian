@@ -29,7 +29,7 @@ Related: [[Governance]]
 - Three horizons to articulate our present terrain and future destination (map)
 - Workshops focused on ethics and sense-making (compass)
 - Circles and roles to coordinate shared responsibilities and accounting for them (vehicle)
-- Hyperstition, speculative realism, 
+- Hyperstition, speculative realism
 
 ### Timelines
 - Wednesday 5th January 14:00: Three Horizons workshop for EnDAOment Circle
