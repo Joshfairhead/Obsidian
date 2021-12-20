@@ -158,11 +158,7 @@ A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism”
 ---
 
 # [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
-
-A book review of “Climate: A New Story” by Charles Eisenstein
-Reading time
-7 min read
-Sep 9th, 2019 (562 kB)
+Mentions the word hyper object whi
 
 [Delegation program for one node per validator only](https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311)
 
