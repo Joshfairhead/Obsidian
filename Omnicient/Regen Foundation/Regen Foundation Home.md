@@ -42,3 +42,4 @@ Related:
 
 ## Links / Resources
 - [[Wills onboarding links]]
+- [[Treasury]]
