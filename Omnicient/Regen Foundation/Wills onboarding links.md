@@ -122,9 +122,11 @@ Conversing with a landscapes through our bodies
 # [Commons, DisCOs,](https://medium.com/regen-network/commons-discos-3fb4c707f68b)
 Free, Fair and Alive (book by David Bolliger)
 
-Inspired by Alexander’s approach of meticulous pattern documentation, Bollier and Helrich focused the core of the text on a pattern language of commoning.
+- Inspired by Alexander’s approach of meticulous pattern documentation, Bollier and Helrich focused the core of the text on a pattern language of commoning.
 
-[Goethian Science](https://medium.com/regen-network/goethian-science-759c999d2d29)
+---
+
+# [Goethian Science](https://medium.com/regen-network/goethian-science-759c999d2d29)
 Beyond Impartial Observation, Into Developmental Relationship
 Reading time
 7 min read
