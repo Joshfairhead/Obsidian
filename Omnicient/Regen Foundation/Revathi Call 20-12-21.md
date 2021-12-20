@@ -34,6 +34,8 @@ Look through Endaoment section in preparation for roles and horizon mapping
 Start a slack conversation to find time for initial gov circle three horizons
 
 
+### Open questions
+- What are Carol Sanfords 3 key principals?
 
 
 ### Actions
