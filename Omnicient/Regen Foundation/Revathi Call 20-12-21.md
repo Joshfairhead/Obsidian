@@ -7,7 +7,7 @@ Related:
 ### Looking forward
 There is a desire to move faster towards key goals which were previously unmet. I question if this is perhaps better thought of as more transparency/visibility about the movement towards those goals and the clarity of them? This naturally leads to questions around how metrics fit What kinds are ok? How should they be used? How should they not be used? How do they relate with Alfie Kohen and Carrol Sanfords research on rewards and feedback?
 
-In January we should setup and are scheduling a strategy workshop. Further to this thought we discussed the undertaking of these and the format. My offer is to use the three horizons framework to help navigate uncertainties in a specified domain. This is the framework along with articulations of its functional purpose: https://resources.h3uni.org/tutorial/three-horizons/
+We discussed a need for strategy workshops in January along with the undertaking of these and the format. To help clarify and navigate uncertainties my suggestion and intention  This is the framework along with articulations of its functional purpose: https://resources.h3uni.org/tutorial/three-horizons/
 
 
 
