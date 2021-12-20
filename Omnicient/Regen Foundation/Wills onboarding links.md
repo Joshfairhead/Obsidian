@@ -151,6 +151,10 @@ A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism”
 
 > Recent events have shown repeatedly that we discount the power of engineers and/or ideologies to realize their political visions through software design at our peril.
 
+> Are we subconsciously inheriting the conservative biases of our forefathers in economically liberal communities?
+
+... Yes IMHO; defi is proof that extractive zero-sum paradigms are inhereted. 
+
 ---
 
 # [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
