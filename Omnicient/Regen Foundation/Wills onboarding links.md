@@ -137,13 +137,12 @@ This feels like a phemenonologist approach to science that I can dig. The ontolo
 
 - I've read unconditional parenting by Alife. I get this view.
 
-
-[Punished by Rewards](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
+---
+# [Punished by Rewards](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
 
 What can the cryptocurrency space learn from the social sciences?
-Reading time
-3 min read
-May 15th, 2019 (21 kB)
+
+
 
 [Bitcoin](https://medium.com/regen-network/bitcoin-91e18d7c8e70)
 A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism” by David Golumbia.
