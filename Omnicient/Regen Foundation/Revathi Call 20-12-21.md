@@ -9,17 +9,7 @@ There is a desire to move faster towards key goals which were previously unmet. 
 
 We discussed a desire for strategy workshops in January along with their structure and the format. To help clarify and navigate uncertainties my proposal and offer was to run a three horizons workshop: https://resources.h3uni.org/tutorial/three-horizons/ for the endaoment and governance circles to help kick us off. 
 
-
-
-
-
-Strategy for Immediate things in January
-Ask Will about Carrol Sanfords 3
-Start curating resources around gov circle
-
-Formally creating a general circle
-Workshop for the governance and general circle
-Set up two dedicated sessions about [[Regen Governance Circle Index]]
+There was also mention of formally creating a general circle. 
 
 Endaoment -> where we are where we are going (3 horizons)
 - Sort out workshop as a lab
@@ -39,6 +29,7 @@ Start a slack conversation to find time for initial gov circle three horizons
 
 
 ### Actions
+- [ ] Start curating resources around gov circle (for the notion page?)
 - [ ] Send Revathi a resource on accountability and responsibility
 - [ ] Send Revathi the links Will sent me with commentary 
 - [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
