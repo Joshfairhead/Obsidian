@@ -31,11 +31,10 @@ Related: [[Governance]]
 - Circles and roles to coordinate shared responsibilities and accounting for them (vehicle)
 
 
-
-
-
-
 ### Timelines
+- Wednesday 5th January: EnDAOment Three 
+
+
 ### Artefacts
 
 
