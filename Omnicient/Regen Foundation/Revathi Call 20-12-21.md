@@ -5,8 +5,10 @@ Related:
 # Revathi Call 20-12-21
 
 ### Looking forward
-There is a desire to move faster towards key goals. 
-Accountability and responsibility
+There is a desire to move faster towards key goals, or perhaps for more transparency/visibility
+Accountability and responsibility, Roles are 
+
+
 How do mettrics fit in? What kinds are ok?
 Strategy for Immediate things in January
 Ask Will about Carrol Sanfords 3
@@ -32,7 +34,7 @@ Start a slack conversation to find time for initial gov circle three horizons
 
 
 ### Actions
-- [ ] Accountability and responsibility
+- [ ] Send Revathi a resource on accountability and responsibility
 - [ ] Work with Revathi and Will to schedule calls with stakeholders from RND:
 	-   Dan (Daniel Pittman) - Community Manager, RND
 	-   Gregory - CEO, RND
