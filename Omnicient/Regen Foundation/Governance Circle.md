@@ -17,8 +17,8 @@ Related: [[Governance]]
 - In all actuality human variety and diversity is 'computaitonally irreducible' and so any framework should be considered a descriptive (rather than prescriptive) language. We are thus trying to find a lingua franca or meta-framework that can integrate all perspectives and existing frameworks. 
  
 ## How
-- Trust. This is a fundemental form of social capital.
 - Consent. This is implicitly a via negativa approach where options are regularly rejected. Trying not to be wrong is a significantly more effective heuristic than trying to be right. This is a good foundation to build upon further. 
+- Trust. Consent relies on trust, which is a fundemental form of social capital. Trust can be considered in three modes; cognitive, affective and behavioural. 
 - If governance is an orginisational meta-function for determining processes and frameworks, then we should examine the meta-process by which selection itself is made. 
 	- For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous perspectives) we need to opt for second-order methodologies capable of integrating a variety of pluralistic values.
 		-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). 
