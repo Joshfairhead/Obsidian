@@ -180,7 +180,7 @@ Hi Everyone, I’m Pete, I run the Regenerator Validator. I might be shooting my
 
 ---
 
-[Community Grants](https://forum.regen.network/t/community-grants/267)
+# [Community Grants](https://forum.regen.network/t/community-grants/267)
 
 In discussion about the Cosmos Ecosystem Allocation discussion, the fact has arisen that Regen Network has a Community Pool that is continually growing via block rewards. @corlock has shared information about how to query the pool. This pool currently has a little over 2mm REGEN. So, what do we want to fund through grants? This is the forum to discuss!
 
