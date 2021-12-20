@@ -5,7 +5,7 @@ Related:
 # Revathi Call 20-12-21
 
 ### Looking forward
-There is a desire to move faster towards key goals, or perhaps for more transparency/visibility about the movement towards those goals. This naturally leads to questions around how metrics fit in? What kinds are ok? How should they be used? How should they not be used? How do they relate with Alfie Kohen and Carrol Sanfords research?
+There is a desire to move faster towards key goals which were previously unmet. I question if this is perhaps better thought of as more transparency/visibility about the movement towards those goals. This naturally leads to questions around how metrics fit in? What kinds are ok? How should they be used? How should they not be used? How do they relate with Alfie Kohen and Carrol Sanfords research?
 
 
 
