@@ -18,15 +18,17 @@ Related: [[Governance]]
  
 ## How
 - Consent. This is implicitly a via negativa approach where options are regularly rejected. Trying not to be wrong is a significantly more effective heuristic than trying to be right. This is a good foundation to build upon further. 
-- Trust. Consent relies on trust, which is a fundemental form of social capital. Trust can be considered in three modes; cognitive, affective and behavioural. 
+- Trust. Consent relies on trust, which is a fundemental form of social capital. Trust can be considered across three modes; cognitive, affective and behavioural. 
 - If governance is an orginisational meta-function for determining processes and frameworks, then we should examine the meta-process by which selection itself is made. 
 	- For this a scientific method is desirable, however due to the level of abstraction and our very broad requirements (capable of including 'other ways of knowing' and indigenous perspectives) we need to opt for second-order methodologies capable of integrating a variety of pluralistic values.
 		-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). 
 			-  For articulating governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
 			-  For articulating an entity or identity (individual or collective) I consider the three terms to be function, being and will. This triad feels like it could be especially effective for articulating the purpose of the general circle in particular. 
+- 
 
-- Extitutionally
-- Trust
+
+
+
 - Articulating values and ethics at the individual and collective levels
 - Taking accountability for ourselves and our decisions
 - Making sure we are equipped to deal with the terrain. 
