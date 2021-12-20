@@ -158,7 +158,14 @@ A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism”
 ---
 
 # [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
-Mentions the word hyper object whi
+
+This post is about stillness and sitting. 
+
+Mentions the word hyper object which links to the following page and review: https://www.librarything.com/work/14012021/reviews/143246421_289146203
+
+> For the extensiveness of the fields upon which Morton draws from, he's missing one vital perspective: that of J. G. Bennett on individuality. Bennett was a brilliant philosopher and spiritual explorer. His magnum opus, "The Dramatic Universe," outlines his theory of everything. He describes a twelve-fold map of energies and intelligences. A little ways above humans is a sphere called individuality, comprising entities like species, or even the biosphere. From Bennett's perspective, an individual person has no chance of accessing true autonomy or "individuality" in his language. This is only accessible on the scale of an entire race. In other words, we may fail on our own to truly understand and deal with global warming. But on the scales of communities and civilization as a whole, we actually do have this ability, and we will really need it! Morton references higher-dimensionality many times throughout the text, but his argument would be greatly enhanced by Bennett's material.
+
+---
 
 [Delegation program for one node per validator only](https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311)
 
