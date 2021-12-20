@@ -23,7 +23,7 @@ Related: [[Governance]]
 		-  For example, this document is an instance of such a method called fundemental triplication; a general law which states that any domain can be described necessarily and sufficiently in three terms of distinct but interrelated qualities (in this case: why, how, what). 
 			-  For articulating governence I consider the three terms to be democracy, meritocracy and consensus (which can be further triplicated or otherwise transformed). 
 			-  For articulating an identity (individual or collective) I consider the terms to be function, being and will. This triad feels like it could be quite effective for articulating the purpose of the general circle in particular. 
-- Trust. 
+- Trust. This is a fundemental form of social capital. Triplicating this domain as above we have cognitive, affective and behavioural trust
 
 - Extitutionally
 - Trust
