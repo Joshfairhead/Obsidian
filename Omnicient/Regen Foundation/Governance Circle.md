@@ -32,7 +32,10 @@ Related: [[Governance]]
 
 
 ### Timelines
-- Wednesday 5th January: EnDAOment Three 
+- Wednesday 5th January 14:00: Three Horizons workshop for EnDAOment Circle
+	- Length: 
+- DATE UNKNOWN: Three Horizons workshop for Governance Circle
+	- Length:
 
 
 ### Artefacts
