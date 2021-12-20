@@ -26,7 +26,7 @@ There was also mention of formally creating a general circle according to the no
 - [ ] Send Revathi a resource on accountability and responsibility
 - [ ] Send Revathi the links Will sent me with commentary 
 - [ ] Look through Endaoment section in preparation for roles and horizon mapping
-- [ ] Create a workshop invitation document containing the following and find an approrpriate time between stakeholders
+- [ ] Create a workshop invitation document containing the following and find an approrpriate time between stakeholders (via slack)
 	- What people should read beforehand
 	- Description of the framework
 	- What we want to do
@@ -37,11 +37,3 @@ There was also mention of formally creating a general circle according to the no
 	-   Sara Johnstone - COO, RND
 	-   Cory - Engineering Team, RND
 	-   Ryan - Developer Advocate(?), RND.
-
-
---- 
-
-Endaoment -> team roles 
-Look through Endaoment section in preparation for roles and horizon mapping
-
-Start a slack conversation to find time for initial gov circle three horizons
