@@ -128,9 +128,9 @@ Free, Fair and Alive (book by David Bolliger)
 
 # [Goethian Science](https://medium.com/regen-network/goethian-science-759c999d2d29)
 Beyond Impartial Observation, Into Developmental Relationship
-Reading time
-7 min read
-Jul 8th, 2019 (347 kB)
+
+> Through the process of beholding, we create our own prototype of the organism under study.
+
 
 [Punished by Rewards](https://medium.com/regen-network/punished-by-rewards-1a32ad1bc02e)
 
