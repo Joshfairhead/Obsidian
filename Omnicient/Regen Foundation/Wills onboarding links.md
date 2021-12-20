@@ -159,7 +159,7 @@ A Book Review of “The Politics of Bitcoin: Software as Right-Wing Extremism”
 
 # [Coming into Empathy with a Dying World](https://medium.com/regen-network/coming-into-empathy-with-a-dying-world-a81ca724c33c)
 
-This post is about stillness and sitting. Taking the time to sense into the totality of a big p.
+This post is about taking the time to sense into the totality of a big problem. There is an essence of sitting and stillness to the review. 
 
 Mentions the word hyper object which links to the following page and review: https://www.librarything.com/work/14012021/reviews/143246421_289146203
 
