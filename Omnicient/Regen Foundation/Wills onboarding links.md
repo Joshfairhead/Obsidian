@@ -186,7 +186,7 @@ In discussion about the Cosmos Ecosystem Allocation discussion, the fact has ari
 
 ---
  
-[Cosmos Ecosystem Allocation](https://forum.regen.network/t/cosmos-ecosystem-allocation/259)
+# [Cosmos Ecosystem Allocation](https://forum.regen.network/t/cosmos-ecosystem-allocation/259)
 
 Back in our whitepaper, we stated the 3mm REGEN (wallet address here) would be allocated for “airdrop or work-lock” to ATOM holders. Our intention here has always been to reinforce mutual value with the Cosmos community and fuel the vision of the internet of blockchains. Earlier this year, 200,984 REGEN of this allocation went into an airdrop, but the rest have been reserved in case the community feels there is a better way that these tokens could be used. The space has shifted a lot since 2018 ...
 
