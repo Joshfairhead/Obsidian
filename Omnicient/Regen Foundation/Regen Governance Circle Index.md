@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: [[Governance]]
-# Regen Governance Circle Index
+# Governance Circle
 
 ## Why
 - Governance is an organisational meta-function prefigured by initial conditions. The purpose a Governace circle should be to determine the meta-processes and frameworks that support the networks values of regeneration in a congruent and embodied way. 
