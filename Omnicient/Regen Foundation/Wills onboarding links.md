@@ -169,17 +169,16 @@ Mentions the word hyper object which links to the following page and review: htt
 
 # [Delegation program for one node per validator only](https://forum.regen.network/t/delegation-program-for-one-node-per-validator-only/311)
 
-Looking at how many $REGEN we would need to get back into the list of active validators we realized that the Ozone validator has two validation nodes (Ozone / StakeThat). [Ozone](https://regen.aneka.io/validators/regenvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3uupmg2z) [StakeThat](https://regen.aneka.io/validators/regenvaloper12ftk2gst84zqn9ny2hcuyntuz4jfnxpnldef3u) These two nodes have a delegation from the foundation. If we could benefit from the delegation of one of these nodes, it would allow us to come back as...
+Decision:
+> Looking at how many $REGEN we would need to get back into the list of active validators we realized that the Ozone validator has two validation nodes (Ozone / StakeThat). [Ozone](https://regen.aneka.io/validators/regenvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3uupmg2z) [StakeThat](https://regen.aneka.io/validators/regenvaloper12ftk2gst84zqn9ny2hcuyntuz4jfnxpnldef3u) These two nodes have a delegation from the foundation. If we could benefit from the delegation of one of these nodes, it would allow us to come back as...
 
-Reading time
-1 mins
+---
 
-[Set the Validator Minimum Commission Rate to 5%?](https://forum.regen.network/t/set-the-validator-minimum-commission-rate-to-5/316)
-
+# [Set the Validator Minimum Commission Rate to 5%?](https://forum.regen.network/t/set-the-validator-minimum-commission-rate-to-5/316)
+Meta:
 Hi Everyone, I’m Pete, I run the Regenerator Validator. I might be shooting myself in the foot (my Validator’s Commission Rate being set at 2%) but I feel for the benefit of the Network it’s worth having a minimum commission rate of 3-5%. This will help provide network stability and stop 0% validators driving commissions down. It also ensures Validators are earning enough to support secure and stable validation. My initial thought was that a rate of 3% would be a good starting point but afte...
 
-Reading time
-1 mins
+---
 
 [Community Grants](https://forum.regen.network/t/community-grants/267)
 
