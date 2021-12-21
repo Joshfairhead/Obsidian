@@ -54,8 +54,3 @@ within an organization. Inadequately defined domains typically lead to stakehold
 		– key responsibilities (any driver following directly from the domain’s primary driver)  
 		– dependencies and external constraints (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees’ autonomy
 		
-		
->Governance in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives. 
->
->Operations is doing the work and organizing day-to-day activities within  
-the constraints defined through governance.
