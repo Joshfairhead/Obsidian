@@ -16,3 +16,12 @@ Related:
 
 ### Governance Circle (will?)
 - To discern general organisational frameworks that maintain adaptive ability
+
+
+
+
+
+## Notes
+S3: 
+> A domain is a distinct area of influence, activity and decision making  
+within an organization. 
