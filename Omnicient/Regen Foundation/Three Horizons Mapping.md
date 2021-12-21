@@ -19,9 +19,9 @@ Related:
 **Dependencies and external constraints:**
 - Accountability to the mission circle and board of directors?
 
-### General Circle (being)
+### General Circle (function)
 **Primary Driver**
-- To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles.
+- To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles. Operations.
 
 **Secondary Drivers**
 - 
@@ -39,6 +39,12 @@ Related:
 
 
 ## Notes
+>Governance in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives. 
+>
+>Operations is doing the work and organizing day-to-day activities within  
+the constraints defined through governance.
+
+
 S3 Domains: 
 > A domain is a distinct area of influence, activity and decision making  
 within an organization. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy.
@@ -47,3 +53,9 @@ within an organization. Inadequately defined domains typically lead to stakehold
 	- the set of subdrivers the organization may benefit from addressing when responding to the domain’s primary driver, which include:  
 		– key responsibilities (any driver following directly from the domain’s primary driver)  
 		– dependencies and external constraints (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees’ autonomy
+		
+		
+>Governance in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives. 
+>
+>Operations is doing the work and organizing day-to-day activities within  
+the constraints defined through governance.
