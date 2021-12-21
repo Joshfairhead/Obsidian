@@ -8,19 +8,19 @@ Related:
 
 ## Preliminary definitions of scope for exploration:
 
-### Endaoment Circle (function?)
-Key responsibiltites:
-- To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to build relationships with these communtites. 
+### Governance Circle (will?)
+**Key responsibiltites:**
+- To discern general organisational frameworks that maintain adaptive ability  
 
 ### General Circle (being?)
 - To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles.
 
-### Governance Circle (will?)
-- To discern general organisational frameworks that maintain adaptive ability
+### Endaoment Circle (function?)
+**Key responsibiltites:**
+- To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to build relationships with these communtites. 
 
-Key Responsibilites
-Dependencies and external constraints
-
+**Dependencies and external constraints:**
+- ??
 
 
 
