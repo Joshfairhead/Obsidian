@@ -58,4 +58,8 @@ within an organization. Inadequately defined domains typically lead to stakehold
 		
 		
 Governance
-- Us and clarify
+- Team gainig clarity on domains and roles
+- The organisation and its incentives and rewards structure
+- The board
+
+Audience is the network, RND and the general ecosysetem
