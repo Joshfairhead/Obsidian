@@ -59,20 +59,20 @@ their domain.
 >
 > Governance decisions set constraints on activity and guide future decisions. They relate to matters like:  
 > - Work processes  
-- Policies and procedures about how people work together  
-- Organizational structure:  
-	– Distributing responsibilities and power to influence by designing domains and selecting people to account for them  
-	– Accounting for dependencies between teams  
-- Distribution of resources  
-- Strategy (for the whole organization, for a team, product or role),  
-- Priorities and objectives  
-- Consequential decisions about products, services, tools, technology,  
+> - Policies and procedures about how people work together  
+> - Organizational structure:  
+>	– Distributing responsibilities and power to influence by designing domains and selecting people to account for them  
+>	– Accounting for dependencies between teams  
+> - Distribution of resources  
+> - Strategy (for the whole organization, for a team, product or role),  
+> - Priorities and objectives  
+> - Consequential decisions about products, services, tools, technology,  
 security etc.  
 >
 >Depending on the context, a team might make governance decisions:  
-• in dedicated governance meetings that are scheduled on a regular  
+> - in dedicated governance meetings that are scheduled on a regular  
 basis  
-• on the fly, during the working day  
+> - on the fly, during the working day  
 • in a one-off meeting to deal with a specific topic  
 • in other types of meetings such as product meetings, planning meet-  
 ings or retrospectives, etc.  
