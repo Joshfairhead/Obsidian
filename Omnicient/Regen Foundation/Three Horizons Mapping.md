@@ -54,3 +54,8 @@ within an organization. Inadequately defined domains typically lead to stakehold
 		– key responsibilities (any driver following directly from the domain’s primary driver)  
 		– dependencies and external constraints (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees’ autonomy
 		
+		
+		
+		
+Governance
+- Us and clarify
