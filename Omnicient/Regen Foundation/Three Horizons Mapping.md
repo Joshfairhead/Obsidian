@@ -20,6 +20,7 @@ Related:
 - Accountability to the mission circle and board of directors?
 
 ### General Circle (function)
+(Re)
 **Primary Driver**
 - To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles. Operations.
 
