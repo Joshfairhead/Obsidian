@@ -57,7 +57,10 @@ within an organization. Inadequately defined domains typically lead to stakehold
 		– dependencies and external constraints (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees’ autonomy
 		
 		
-		
+
+
+
+
 		
 Governance
 - Team gainig clarity on domains and roles
@@ -65,3 +68,5 @@ Governance
 - The board, and new ways of working.
 
 Audience is the network, RND and the general ecosysetem
+
+Looking at org structures and 
