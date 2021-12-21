@@ -22,9 +22,15 @@ Related:
 
 
 ## Notes
-S3: 
+S3 Domains: 
 > A domain is a distinct area of influence, activity and decision making  
 within an organization. 
 
 > Inadequately defined domains typically lead to stakeholders having different  
 assumptions about areas of responsibility and autonomy.
+
+> The domain’s primary driver - the main driver the delegatee(s)  
+respond to: 
+	- the set of subdrivers the organization may benefit from addressing when responding to the domain’s primary driver, which include:  
+		– key responsibilities (any driver following directly from the domain’s primary driver)  
+		– dependencies and external constraints (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees’ autonomy
