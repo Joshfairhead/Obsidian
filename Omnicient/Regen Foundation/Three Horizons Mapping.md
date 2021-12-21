@@ -14,7 +14,7 @@ Related:
 	- Cultivating the growth of regenerative agriculture, holistic land management, and marine stewardship through the development of technological tools, scientific inquiry, and capacity building.
 
 **Dependencies and external constraints:**
-- Accountability 
+- Accountability to the Mission circle
 
 ### General Circle (being?)
 **Key responsibiltites:**
