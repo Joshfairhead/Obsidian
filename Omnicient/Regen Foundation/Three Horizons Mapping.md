@@ -10,7 +10,8 @@ Related:
 
 ### Governance Circle (will?)
 **Key responsibiltites:**
-- To discern general organisational frameworks that maintain adaptive ability  
+- To discern and develop organisational frameworks that vision focused:
+	- Cultivating the growth of regenerative agriculture, holistic land management, and marine stewardship through the development of technological tools, scientific inquiry, and capacity building.
 
 ### General Circle (being?)
 - To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles.
