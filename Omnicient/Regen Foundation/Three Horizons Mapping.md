@@ -15,4 +15,4 @@ Related:
 - To discern organisational needs, hopes, dreams and desires to inform its strategy and the formation of new circles.
 
 ### Governance Circle (will?)
-- To discern organisational frameworks that maintain 
+- To discern general organisational frameworks that maintain adaptive ability
