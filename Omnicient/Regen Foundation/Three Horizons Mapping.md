@@ -10,10 +10,14 @@ Related:
 
 ### Governance Circle (will?)
 **Key responsibiltites:**
-- To discern and develop organisational frameworks that vision focused:
+- To discern and develop organisational frameworks in line with the network vision:
 	- Cultivating the growth of regenerative agriculture, holistic land management, and marine stewardship through the development of technological tools, scientific inquiry, and capacity building.
 
+**Dependencies and external constraints:**
+- Accountability 
+
 ### General Circle (being?)
+**Key responsibiltites:**
 - To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles.
 
 ### Endaoment Circle (function?)
