@@ -25,3 +25,6 @@ Related:
 S3: 
 > A domain is a distinct area of influence, activity and decision making  
 within an organization. 
+
+> Inadequately defined domains typically lead to stakeholders having different  
+assumptions about areas of responsibility and autonomy.
