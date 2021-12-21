@@ -8,17 +8,26 @@ Related:
 
 ## Preliminary definitions of scope for exploration:
 
-### Governance Circle (will)
+### Governance Circle
 **Primary Driver**
 - To discern and develop organisational frameworks in line with the network vision:
 	- Cultivating the growth of regenerative agriculture, holistic land management, and marine stewardship through the development of technological tools, scientific inquiry, and capacity building.
 
+**Secondary Drivers**
+- 
+
 **Dependencies and external constraints:**
-- Accountability to the mission circle and board of directors
+- Accountability to the mission circle and board of directors?
 
 ### General Circle (being)
 **Primary Driver**
 - To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles.
+
+**Secondary Drivers**
+- 
+
+**Dependencies and external constraints:**
+- Accountability to the mission circle and board of directors?
 
 ### Endaoment Circle (function)
 **Primary Driver**
