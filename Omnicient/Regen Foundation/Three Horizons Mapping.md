@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: 
-# Three Horizons Mapping
+# Depreciated org exploration
 
 [Scoping](https://resources.h3uni.org/facilitation-guide/scoping/)
 
