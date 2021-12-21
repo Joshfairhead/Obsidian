@@ -43,3 +43,15 @@ Related:
 ## Links / Resources
 - [[Wills onboarding links]]
 - [[Treasury Wallets]]
+
+
+
+## Worknig notes	
+Governance
+- Team gainig clarity on domains and roles
+- The organisation and its incentives / rewards structure. Culture.
+- The board, and new ways of working.
+
+Audience is the network, RND and the general ecosysetem
+
+Looking at org structures and setting up circles
