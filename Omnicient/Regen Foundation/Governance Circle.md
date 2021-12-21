@@ -39,8 +39,7 @@ Related: [[Governance]]
 
 
 ### Artefacts
-
-
+- [ ] Invitation to 
 
 
 ## Links
