@@ -69,4 +69,4 @@ Governance
 
 Audience is the network, RND and the general ecosysetem
 
-Looking at org structures and 
+Looking at org structures and setting up circles
