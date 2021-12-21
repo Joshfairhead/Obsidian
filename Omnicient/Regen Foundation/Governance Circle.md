@@ -29,17 +29,15 @@ Related: [[Governance]]
 - Three horizons to articulate our present terrain and future destination (map)
 - Workshops focused on ethics and sense-making (compass)
 - Circles and roles to coordinate shared responsibilities and accounting for them (vehicle)
-- Hyperstition, speculative realism, shared dreams and desires
+
 
 ### Timelines
-- Wednesday 5th January 14:00: Three Horizons workshop for EnDAOment Circle
-	- Length: 
 - DATE UNKNOWN: Three Horizons workshop for Governance Circle
-	- Length:
+	- Length: 
 
 
 ### Artefacts
-- [ ] Invitation to 
+- [ ] Invitation to Governance Circle kick off
 
 
 ## Links
