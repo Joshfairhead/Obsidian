@@ -39,7 +39,8 @@ Related:
 
 ## Open questions
 - What are Carol Sanfords 3 key principals?
-- What did we mean by formally creating a general circle?
+	- https://www.youtube.com/watch?v=zLXX6VqWYTg
+	- Screengrab on desktop
 
 
 ## Links / Resources
