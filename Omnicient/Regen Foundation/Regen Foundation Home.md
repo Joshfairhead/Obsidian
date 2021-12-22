@@ -3,6 +3,8 @@ Tags: []
 ---
 Related: 
 # Regen Foundation Home
+- [[Org Chart]]
+
 
 ## Kanban
 
