@@ -4,7 +4,7 @@ Tags: [Frameworks, Principals, Heuristics, Esoteric]
 Related: [[Philosophy]] [[Logic]] [[Rhetoric]] [[Grammar]] [[Quadrivium]]
 
 # Trivium
-One of the best soruces on The Trivium, is the book by same name by [[Sister Miriam Joseph]].
+One of the best soruces on The Trivium, is the book by same name by [[Sister Miriam Joseph]]. 
 
 The Trivium consists of three liberal arts; [[Logic]] [[Grammar]] [[Rhetoric]]. These are tools that cannot be taken away from their practitioner, and are used to sharpen ones interior state. These tools are distinct from the [[Quadrivium]] which are also liberal arts, but used to deal with the material world. 
 
