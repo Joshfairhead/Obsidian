@@ -8,7 +8,7 @@ Related: [[Bayes]] [[Natural Language Processing]] [[Semantics]] [[Artificial In
 - [Pix2Pix](https://affinelayer.com/pixsrv/index.html)
 - https://genekogan.com/
 - [RunwayML](https://runwayml.com/)
-- [big list ]
+- [Big list of GANs](https://np.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
 #### Papers
 - [Information Economy Meta Language](https://pierrelevyblog.com/my-research-in-a-nutshell/) [[IEML]]
