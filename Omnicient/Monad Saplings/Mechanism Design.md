@@ -1,7 +1,7 @@
 ---
 Tags: [Primitives, Frameworks, Domains]
 ---
-Related: [[Games]] [[Game Theory]] [[Crypto Economic Primitives]] [[Omnicient/Monad Seeds/Economics]] [[Meta-learning]] [[Design]]
+Related: [[Omnicient/Monad Saplings/Games]] [[Game Theory]] [[Crypto Economic Primitives]] [[Omnicient/Monad Seeds/Economics]] [[Meta-learning]] [[Design]]
 # Mechanism Design
 #### References
 - Less Wrong - [Mechanism design](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf/p/xTvdaCwaeZnePMuX5#fn1)

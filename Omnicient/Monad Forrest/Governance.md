@@ -74,6 +74,7 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
                     - The invitation was “welcome to the community, jump in and contribute, find opportunities, get supported to do meaningful work” and I think it is maturing into “welcome to the community: find a dinner table you like, or start a new one”. The difference is subtle but represents a profound shift in expectations: the network does not provide support, you can only expect support once you’ve found your team.
         - [Change handbook methods](https://www.amazon.com/Change-Handbook-Methods-Shaping-Future-ebook/dp/B07NSPCYQ8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1611426128&sr=8-1) - interventions
 - ### Other references
+	- [Liberating structures](https://www.liberatingstructures.com/)
     - [[Democracy]]
     - [Deliberative Democracy](https://cdd.stanford.edu/)
         - https://en.wikipedia.org/wiki/Deliberative_opinion_poll

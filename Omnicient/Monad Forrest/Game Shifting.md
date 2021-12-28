@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Patterns, Tools]
 ---
-Related: [[Games]] [[Self-Organisation]] 
+Related: [[Omnicient/Monad Saplings/Games]] [[Self-Organisation]] 
 # GameShifting
 
 Game Shifting makes invisible social architectures visible to all members of a group so we can shift anything impeding the creative energy of the group.
