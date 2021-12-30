@@ -120,4 +120,4 @@ Causality (Subjective/Objective in anticident or consequent)
 
 ### Recommendations
 
-> harshcoThe best book I've read on metaphysics and ontology (what exists, and in what ways is it reasonable for us to look for meaning in what exists) is Ladyman & Ross, 'Every Thing Must Go'. It's quite philosophically technical but I'm not sure it's possible to engage with these issues without some technicality.
+> harshcopywriter - The best book I've read on metaphysics and ontology (what exists, and in what ways is it reasonable for us to look for meaning in what exists) is Ladyman & Ross, 'Every Thing Must Go'. It's quite philosophically technical but I'm not sure it's possible to engage with these issues without some technicality.
