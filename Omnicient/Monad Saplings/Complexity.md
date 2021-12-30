@@ -13,3 +13,4 @@ Related: [[Cybernetics]] [[Capra Course]] [[H3uni]] [[Second Order Science]]
     - ![](assets/1626444311_40.jpg)
 - Variety [[The Cybernetic Brain]] [[Andrew Pickering]] 
     - ![](assets/1626444313_41.pdf)
+## harshcopywriter > The two books I found most helpful in understanding complexity: J. Ladyman & K. Wiesner (2020) 'What is a complex system?' and C. Curtin & T. Allen (2018) 'Complex Ecology'.

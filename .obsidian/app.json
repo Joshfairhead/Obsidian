@@ -6,5 +6,7 @@
   "foldIndent": true,
   "showLineNumber": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Immanent/WorkBench"
+  "newFileFolderPath": "Immanent/WorkBench",
+  "legacyEditor": false,
+  "livePreview": true
 }
