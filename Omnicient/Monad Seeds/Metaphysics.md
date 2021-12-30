@@ -116,3 +116,8 @@ Causality (Subjective/Objective in anticident or consequent)
 > _In the context of metaphysics_, the transcendent modal concept will be the one which has a pattern of the structure of its relations which most closely match that of Axiom III.
 
 - [UVSM](http://web.archive.org/web/20160725173516/http://www.magic-flight.com/pub/uvsm_1/imc_01.htm) [[Enneagram]] [[Qual Systems]] [[Triads]]
+
+
+### Recommendations
+
+> harshcoThe best book I've read on metaphysics and ontology (what exists, and in what ways is it reasonable for us to look for meaning in what exists) is Ladyman & Ross, 'Every Thing Must Go'. It's quite philosophically technical but I'm not sure it's possible to engage with these issues without some technicality.
