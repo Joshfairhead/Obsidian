@@ -4,6 +4,12 @@ Tags: []
 Related: [[0x Salon]]
 # Memes Through the Ages
 
+#### Resoruces
+[Cybernteic perspective on memes](http://pespmc1.vub.ac.be/MEMLEX.html)
+
+
+### Notes
+
 Memes -> Propaganda -> Territorialisation
 
 Memes act an audience scoping function with modal attractors for:
