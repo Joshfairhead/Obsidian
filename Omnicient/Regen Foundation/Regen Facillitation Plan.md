@@ -6,7 +6,7 @@ Related:
 
 Scoping statement:
 - Revised mission and aim 
-
+- Auditing existing structures
 
 
 
