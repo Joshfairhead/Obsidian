@@ -7,6 +7,9 @@ Related:
 Scoping statement:
 - Revised mission and aim 
 - Auditing existing structures
+	- Role is the creative environment
+	- Domain is the transactional environment
+	- Network is the contextual/demographic environment
 
 
 
