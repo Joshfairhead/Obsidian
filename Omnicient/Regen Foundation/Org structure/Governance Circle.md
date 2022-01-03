@@ -4,13 +4,14 @@ Audience: RND, the Network and general ecosysetem.
 ### Will
 - To sense into and inhabit the networks values.
 - Facilitating the expression and articulation of implicit values.
-- Work with the [[General Circle]] to identify the team members to implement a distributed governance implementation plan and timelines.
 
 ### Function
-- To build capacity within the Foundation and amongst the Network (education).
 - Ensuring a just and equitable distribution of PoS rewards amongst validators
+- To build capacity within the Foundation and amongst the larger Network (education).
 - Increasing the clarity and resolution on domains and roles and integrating them:
 	- Auditing our [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles with review structures
+
+- Work with the [[General Circle]] to identify the team members to implement a distributed governance implementation plan and timelines.
 
 ### Being
 
