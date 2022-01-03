@@ -16,16 +16,9 @@
 | Austin | ??? |
 
 ## Will
-- To discern organisational needs by facillitating the flow of information between circles.
-- An implementation plan for the organization including: 
-	- Work with the [[General Circle]] to audit the existing team structure and co-develop department circles with review structures.
-	- Work with the General Circle to identify the team members to implement the plan and propose a timeline for the implementation.
-
-- Holding the general aim of the organisation:
+- Holding the general aims of the organisation:
 	- Coordinating the flow of information and domain clarity
-	- Supporting governance implementation
+	- Supporting governance implementations
 	- Supporting department sub-circles
 	- Handling undelegated work
-
-### General Circle 
 
