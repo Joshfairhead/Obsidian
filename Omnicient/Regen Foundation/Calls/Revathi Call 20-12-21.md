@@ -1,7 +1,7 @@
 ---
 Tags: [calls]
 ---
-Related: [[Regen Foundation Home]]
+Related: [[Foundation Home]]
 # Revathi Call 20-12-21
 
 ### Looking forward
@@ -22,7 +22,7 @@ There was also mention of formally creating a general circle according to the no
 
 
 ### Actions
-List duplicated to [[Regen Foundation Home]]
+List duplicated to [[Foundation Home]]
 - [ ] Start curating resources around gov circle (for the notion page?)
 - [ ] Send Revathi a resource on accountability and responsibility
 - [ ] Send Revathi the links Will sent me with commentary 

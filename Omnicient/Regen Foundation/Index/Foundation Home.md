@@ -3,10 +3,10 @@ Tags: []
 ---
 Related: 
 # Regen Foundation Home
-- [[Org Chart draft v1]]
+- [[Circles Index]]
 
 
-## Kanban
+## Personal Kanban
 
 ### Horizon 1
 - [x] Send Revathi a resource on accountability and responsibility
@@ -38,10 +38,6 @@ Related:
 ---
 
 ## Open questions
-- What are Carol Sanfords 3 key principals?
-	- https://www.youtube.com/watch?v=zLXX6VqWYTg
-	- Screengrab on desktop
-
 
 ## Links / Resources
 - [[Wills onboarding links]]
