@@ -11,18 +11,18 @@ To enhance resoloution of the network structure, our domains and roles.
 Collect and reconcile individual perspectives and deepen enquiry with liberating structures
 
 ## What?
-A working map of the terrain
+A working map of the terrain and how it may unfold across time
 - [[Org Structure Index]]
-- [[Org Chart draft v1]]
-- [[Org Chart v2]]
+
+
 
 ---
 
 Scoping statement:
 - [ ] Auditing existing structures
-	- Role is the creative environment
-	- Domain is the transactional environment
 	- Network is the contextual/demographic environment
+	- Domain is the transactional environment
+	- Role is the creative environment
 - [ ] Revised mission and aim
 
 
