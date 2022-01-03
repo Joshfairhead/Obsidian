@@ -12,7 +12,7 @@ Audience: RND, the Network and general ecosysetem.
 	- Working with the [[Board of Directors]] to develop novel and effective ways of working.
 	- Working with the [[General Circle]] to develop organisational culture while maintaining congruence around incentives, rewards, perks etc. 
 - Increasing resolution on domains and roles and helping to integrate them with review sttructures.
--  by Auditing the Foundations [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles/roles with review structures. [[Distributed Governance Implementation plan]]
+- Assisting the [[General Circle]] to audit the Foundations [[Org Structure]] and using these inputs to develop [[Distributed Governance Implementation plan]]
 
 ### Beings
 | Members | Role |
