@@ -12,7 +12,7 @@ Collect and reconcile individual perspectives and deepen enquiry with liberating
 
 ## What?
 A working map of the terrain
-- [[Org Structure]]
+- [[Org Structure Index]]
 - [[Org Chart draft v1]]
 - [[Org Chart v2]]
 

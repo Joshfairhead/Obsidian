@@ -3,7 +3,7 @@ Tags: []
 ---
 Related: 
 # Regen Foundation Home
-- [[Org Structure]]
+- [[Org Structure Index]]
 
 
 ## Personal Kanban
