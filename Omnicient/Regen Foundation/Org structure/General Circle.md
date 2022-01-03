@@ -17,8 +17,7 @@
 
 ## Will
 - To discern organisational needs by facillitating the flow of information between circles.
-
-- An implementation plan for the organization including
+- An implementation plan for the organization including: 
 	- Work with the [[Governance Circle]] to audit the existing team structure and co-develop department circles with review structures.
 	- Work with the General Circle to identify the team members to implement the plan and propose a timeline for the implementation.
 
