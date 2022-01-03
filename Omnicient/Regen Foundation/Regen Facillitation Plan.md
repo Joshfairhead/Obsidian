@@ -4,6 +4,10 @@ Tags: []
 Related: 
 # Regen Facillitation Plan
 
+## Why?
+To enhance resoloution of the netwe
+
+
 Scoping statement:
 - [ ] Auditing existing structures
 	- Role is the creative environment
