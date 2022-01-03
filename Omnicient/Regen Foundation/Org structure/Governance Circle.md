@@ -2,9 +2,9 @@
 Audience: RND, the Network and general ecosysetem.
 
 ### Function
-- To build capacity within the Foundation and Network ()
-- Increasing the clarity and resolution on domains and roles and integrating them:
-	- Auditing our [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles
+- Education within the Foundation and Network for the purposes of 'steering'
+	- Increasing the clarity and resolution on domains and roles and integrating them:
+		- Auditing our [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles
 
 ### Being
 - Facilitating the expression of values
