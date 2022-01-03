@@ -4,4 +4,5 @@ Tags: []
 Related: 
 # Org Index
 
-- ![[Mission Circle]]
+![[Mission Circle]]
+![[General Circle]]
