@@ -4,7 +4,10 @@ Tags: []
 Related: 
 # Protocol Governance Coordinator
 
+Scope: 
+
 The Protocol Governance Coordinator is crucial to the vision and mission of Regen Foundation to make the technology and processes behind the network governance inclusive and easily accessible. 
+
 - Work with validators, community members, our sister organization Regen Network. And other network participants to steward a network-sourced roadmap for the development of governance upgrades
 - Coordinate and support network governance proposals Determine, design and oversee governance tools designed to engage the underrepresented (such as Fish Vote in Uniswap) 
 - Onboard the community to the governance tools including onboarding them to the use of the governance module, the group modules, setting up and getting familiar with the Regen wallets. 
