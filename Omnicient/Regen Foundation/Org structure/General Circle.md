@@ -1,6 +1,11 @@
 # General Circle
 ## Function
-- Internally focused on the foundation and its operations.
+(Internally focused on the foundation)
+
+1. Structure and membership of a separate Board of Directors/[[Mission Circle]] and the General Circle. 
+	- Articulating a revised Mission and Aim for the organization
+	- Developing a detailed description of the roles and the domain of the [[Mission Circle]]
+	- Inform and provide inputs to operations and culture
 
 ## Being
 | Member | Role |
@@ -13,13 +18,8 @@
 ## Will
 - To discern organisational needs by facillitating the flow of information between circles.
 
-## Membership
 
 
-1. Structure and membership of a separate Board of Directors/[[Mission Circle]] and the General Circle. 
-	- Articulating a revised Mission and Aim for the organization
-	- Developing a detailed description of the roles and the domain of the [[Mission Circle]]
-	- Inform and provide inputs to operations and culture
 
 2.  An implementation plan for the organization including
 	- Work with the General Circle to audit the existing team structure and co-develop department circles with review structures.
