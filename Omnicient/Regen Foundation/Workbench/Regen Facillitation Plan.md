@@ -18,7 +18,6 @@ A working map of the terrain
 
 ---
 
-
 Scoping statement:
 - [ ] Auditing existing structures
 	- Role is the creative environment
@@ -27,14 +26,9 @@ Scoping statement:
 - [ ] Revised mission and aim
 
 
-Horizons:
 
-
-
----
-Raw material:
-- Implementation plan for the org
 
 
 ## Definition of Done / Outputs
-First draft of this document
+- First draft of this document
+- Implementation plan for the org
