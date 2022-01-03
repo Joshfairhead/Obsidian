@@ -21,5 +21,5 @@ Raw material:
 - Implementation plan for the org
 
 
-## Definition of Done
+## Definition of Done / Outputs
 First draft of this document
