@@ -1,4 +1,12 @@
 # General Circle
+
+## Will
+- Holding the general aims of the organisation:
+	- Coordinating the flow of information and domain/role clarity
+	- Supporting governance implementations
+	- Supporting department sub-circles
+	- Handling undelegated work
+
 ## Function
 (Internally focused on the foundation)
 
@@ -15,10 +23,6 @@
 | Gijs | Lead link to enDAOment circle |
 | Austin | ??? |
 
-## Will
-- Holding the general aims of the organisation:
-	- Coordinating the flow of information and domain clarity
-	- Supporting governance implementations
-	- Supporting department sub-circles
-	- Handling undelegated work
+##### Dependencies and external constraints:
+
 

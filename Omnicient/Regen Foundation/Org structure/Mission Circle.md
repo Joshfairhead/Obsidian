@@ -5,6 +5,8 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 ### Function
 Encapsulates the Board of directors who hold the Foundation to its mission.
 
+##### Dependencies and external constraints:
+
 ### Being
 | Board member | Role | 
 |---|---|

@@ -8,6 +8,8 @@
 - Outreach to aligned communities
 - Onboarding to community staking DAOs
 
+##### Dependencies and external constraints:
+
 ### Being
 | Member | Role |
 |---|---|

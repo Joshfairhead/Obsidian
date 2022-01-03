@@ -13,6 +13,8 @@ Audience: RND, the Network and general ecosysetem.
 - Increasing resolution on domains and roles and helping to integrate them:
 	- Auditing the Foundation [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles/roles with review structures. [[Distributed Governance Implementation plan]]
 
+##### Dependencies and external constraints:
+
 ### Being
 
 | Members | Role |

@@ -26,9 +26,6 @@ Scoping statement:
 - [ ] Revised mission and aim
 
 
-
-
-
 ## Definition of Done / Outputs
 - First draft of this document
 - Implementation plan for the org
