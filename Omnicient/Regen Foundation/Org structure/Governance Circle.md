@@ -11,11 +11,12 @@ Audience: RND, the Network and general ecosysetem.
 
 | Members | Role |
 |---|---|
-| Josh | Lead link for governance ci
+| Josh | Lead link for governance circle |
+| Revathi | Lead link for the general circle|
 
 - Facilitating the expression and articulation of values
 - Working with the board to develop new ways of working 
-- Working with the [[General Circle]] to develop organisational culture and maintain congruence around incentives, rewards and perks etc. 
+- Working with the [[General Circle]] to develop organisational culture while maintaining congruence around incentives, rewards and perks etc. 
 
 
 ### Will
