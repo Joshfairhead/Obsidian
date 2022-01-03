@@ -5,7 +5,7 @@ Related:
 # Regen Facillitation Plan
 
 ## Why?
-To enhance resoloution of the network structure, our domains and roles
+To enhance resoloution of the network structure, our domains and roles.
 
 ## How?
 Collect and reconcile individual perspectives and deepen enquiry with liberating structures
