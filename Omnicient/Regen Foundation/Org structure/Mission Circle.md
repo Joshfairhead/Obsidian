@@ -6,7 +6,7 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 [[Board of Directors]] hold the Foundation to its mission.
 
 ### What
-- 
+- Network protocols that incentivise actors
 
 | Member | Role | 
 |---|---|
