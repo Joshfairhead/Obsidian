@@ -12,6 +12,8 @@ Collect and reconcile individual perspectives and deepen enquiry with liberating
 
 ## What?
 A working map of the terrain
+- [[Org Chart v1]]
+- [[Org Chart v2]]
 
 ---
 
