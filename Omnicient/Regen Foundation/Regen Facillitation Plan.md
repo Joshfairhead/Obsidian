@@ -8,9 +8,12 @@ Related:
 To enhance resoloution of the network structure, our domains and roles
 
 ## How?
-Collect individual perspectives, and deepen enquiry
+Collect and reconcile individual perspectives and deepen enquiry with liberating structures
 
 ## What?
+A working map of the terrain
+
+---
 
 
 Scoping statement:
