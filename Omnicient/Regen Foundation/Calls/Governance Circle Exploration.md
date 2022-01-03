@@ -32,12 +32,12 @@ Related: [[Governance]]
 
 
 ### Timelines
-- DATE UNKNOWN: Three Horizons workshop for Governance Circle
-	- Length: 
+- Jan 5th 2022: Governance Fireside
+	- Length: 2hrs
 
 
 ### Artefacts
-- [ ] Invitation to Governance Circle kick off
+- [x] Invitation to Governance Circle kick off
 
 
 ## Links
