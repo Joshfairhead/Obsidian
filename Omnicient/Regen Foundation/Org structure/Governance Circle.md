@@ -5,6 +5,7 @@ Audience: RND, the Network and general ecosysetem.
 - To build capacity (education) within the Foundation and Network for the purposes of 'steering'
 	- Increasing the clarity and resolution on domains and roles and integrating them:
 		- Auditing our [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles
+- Validators
 
 ### Being
 - Facilitating the expression and articulation of values
@@ -13,5 +14,5 @@ Audience: RND, the Network and general ecosysetem.
 
 
 ### Will
-- To sense the networks wishes and 
+- To sense into the networks values and wishes
 
