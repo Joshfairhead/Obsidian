@@ -1,8 +1,4 @@
----
-Tags: []
----
-Related: 
-# Org Structure Index
+# Regen Org Structure Index
 
 ![[Mission Circle]]
 ![[General Circle]]
