@@ -2,10 +2,11 @@
 Audience: RND, the Network and general ecosysetem.
 
 ### Function
-- To build capacity (education) within the Foundation and external Network of agents for the purposes of 'steering' 
+- To build capacity within the Foundation and amongst the Network (education).
+- Ensuring a just and equitable distribution of PoS rewards amongst validators
 - Increasing the clarity and resolution on domains and roles and integrating them:
 	- Auditing our [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles with review structures
-- Validators
+
 
 ### Being
 - Facilitating the expression and articulation of values
@@ -15,6 +16,5 @@ Audience: RND, the Network and general ecosysetem.
 
 ### Will
 - To sense into and inhabit the networks values.
-- Ensuring just and equitable distribution of PoS rewards
 - Work with the [[General Circle]] to identify the team members to implement a distributed governance implementation plan and timelines.
 	
