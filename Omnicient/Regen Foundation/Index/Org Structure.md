@@ -5,7 +5,7 @@ Related:
 # Org Structure Index
 
 ![[Mission Circle]]
-![[General Circle]]
-![[Governance Circle]]
+![[Governance Circle]]![[General Circle]]
+
 ![[EnDAOment Circle]]
 ![[Marketing Circle]]
