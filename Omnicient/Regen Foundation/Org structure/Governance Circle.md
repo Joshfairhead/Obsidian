@@ -3,12 +3,13 @@ Audience: RND, the Network and general ecosysetem.
 
 ### Function
 Increasing the clarity and resolution on domains and roles and integrating them:
-- Auditing org structures and assisting the [[General Circle]] in setting up circles
-- Working with the board to develop new ways of working 
+- Auditing our [[Org Structure]] and assisting the [[General Circle]] in setting up and clarifying circles
+
 
 ### Being
-Holding the foundation to account 
-Congruence management around organisational culture, incentives, rewards and perks.
+- Holding the foundation to account 
+- Working with the board to develop new ways of working 
+- Congruence management around organisational culture, incentives, rewards and perks.
 
 
 ### Will

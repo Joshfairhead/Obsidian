@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: 
-# Org Index
+# Org Structure Index
 
 ![[Mission Circle]]
 ![[General Circle]]
