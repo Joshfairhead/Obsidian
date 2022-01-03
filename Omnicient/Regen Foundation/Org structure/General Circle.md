@@ -1,17 +1,20 @@
 # General Circle
-**For whom:**
+## Function
 - Internally focused on the foundation and its operations.
 
-**Primary Driver:**
-- To discern organisational needs and facillitate the flows of information between circles which inform its strategy and the formation of new domain specific circles. Internal operations for the foundation and daily execution.
-
-
+## Being
 | Member | Role |
 |---|---|
 | Revathi | Lead link to mission circle |
 | Josh | Lead link to governance circle |
 | Gijs | Lead link to enDAOment circle |
 | Austin | ??? |
+
+## Will
+- To discern organisational needs by facillitating the flow of information between circles.
+
+## Membership
+
 
 1. Structure and membership of a separate Board of Directors/[[Mission Circle]] and the General Circle. 
 	- Articulating a revised Mission and Aim for the organization
