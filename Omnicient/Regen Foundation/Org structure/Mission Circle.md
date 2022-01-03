@@ -5,8 +5,14 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 ### Function
 Encapsulates the [[Board of Directors]] who hold the Foundation to its mission.
 
-### Being
-![[Board of Directors]]
+### Beings
+| Member | Role | 
+|---|---|
+| Will Szal | Treasury/President |
+| Amanda Joy Ravenhill | |
+| Dorn Cox | |
+| Kei Kreutler | |
+
 
 
 

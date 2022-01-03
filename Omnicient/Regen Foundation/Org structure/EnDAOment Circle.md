@@ -8,9 +8,7 @@
 - Outreach to aligned communities
 - Onboarding to community staking DAOs
 
-##### Dependencies and external constraints:
-
-### Being
+### Beings
 | Member | Role |
 |---|---|
 | Gijs | Lead link for EnDAOment circle |

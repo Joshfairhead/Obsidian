@@ -15,14 +15,12 @@
 	- Developing a detailed description of the roles and the domain of the [[Mission Circle]]
 	- Inform and provide inputs to operations and culture
 
-## Being
+## Beings
 | Member | Role |
 |---|---|
 | Revathi | Lead link to mission circle |
 | Josh | Lead link to governance circle |
 | Gijs | Lead link to enDAOment circle |
 | Austin | ??? |
-
-##### Dependencies and external constraints:
 
 
