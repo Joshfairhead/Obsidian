@@ -6,6 +6,7 @@
 ### How
 - Outreach to potentially aligned communities
 - Discerning aligned communtities
+- Validating aligned communties
 
 ### What
 - Onboarding aligned communities to community staking DAOs

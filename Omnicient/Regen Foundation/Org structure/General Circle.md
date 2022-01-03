@@ -9,14 +9,14 @@
 ## How
 (Internally focused on the foundation)
 
-- Structure and membership of a separate Board of Directors/[[Mission Circle]] and the General Circle. 
+- Structure and membership of Board of Directors/[[Mission Circle]]  
 	- Articulating a revised Mission and Aim for the organization
 	- Developing a detailed description of the roles and the domain of the [[Mission Circle]]
 	- Inform and provide inputs to operations and culture
 
 ## What
-- Communication systems?
-- 
+- Communication systems
+
 
 | Member | Role |
 |---|---|
