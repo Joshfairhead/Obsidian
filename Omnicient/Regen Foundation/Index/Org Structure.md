@@ -11,8 +11,8 @@ Related:
 ![[Marketing Circle]]
 
 
-## Elements
-- Will
-- Function
-- Being
+## Additional Elements
 - Dependencies and external constraints
+- Where
+- When
+- For whom

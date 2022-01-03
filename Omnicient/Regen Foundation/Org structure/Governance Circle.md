@@ -15,7 +15,7 @@ Audience: RND, the Network and general ecosysetem.
 - Assisting the [[General Circle]] to audit the Foundations [[Org Structure]] and using these inputs to develop [[Distributed Governance Implementation plan]]
 	- Developing workshops to help increase resolution on domains/roles and helping to integrate them with review structures.
 	- Working with the [[General Circle]] to maintain and develop organisational culture while maintaining congruence around incentives, rewards, perks etc. 
-	- Working with the [[Mission Circle]] and Validators network to ensure network security 
+	- Working with the [[Mission Circle]] to grow the Validators network while ensuring stability and security through just and fair reward mechanisms
 
 ### Who
 | Members | Role |
