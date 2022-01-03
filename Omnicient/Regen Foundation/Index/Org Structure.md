@@ -9,3 +9,10 @@ Related:
 
 ![[EnDAOment Circle]]
 ![[Marketing Circle]]
+
+
+## Elements
+- Will
+- Function
+- Being
+- Dependencies and external constraints
