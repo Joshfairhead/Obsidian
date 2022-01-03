@@ -5,7 +5,12 @@ Related:
 # Regen Facillitation Plan
 
 ## Why?
-To enhance resoloution of the netwe
+To enhance resoloution of the network structure, our domains and roles
+
+## How?
+Collect individual perspectives, and deepen enquiry
+
+## What?
 
 
 Scoping statement:
