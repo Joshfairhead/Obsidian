@@ -3,7 +3,7 @@ Tags: []
 ---
 Related: 
 # Regen Foundation Home
-- [[Org Chart v1]]
+- [[Org Chart draft v1]]
 
 
 ## Kanban
@@ -12,7 +12,7 @@ Related:
 - [x] Send Revathi a resource on accountability and responsibility
 - [x] Send Revathi the links Will sent me with commentary
 - [x] Start to articulate the Why, How and What of the [Governance Circle](https://www.notion.so/Governance-Circle-579f67578f1d413ca7b667b824b3bf3b) [[Governance Circle Exploration]]
-- [ ] [Distributed Governance Implementation Plan.](https://www.notion.so/Distributed-Governance-Implementation-Plan-468f58bc74944aee9521be970ed0ed35) [[Org Chart v1]] [[Org Chart v2]]
+- [ ] [Distributed Governance Implementation Plan.](https://www.notion.so/Distributed-Governance-Implementation-Plan-468f58bc74944aee9521be970ed0ed35) [[Org Chart draft v1]] [[Org Chart v2]]
 	- [ ] Create the general structure of contents such as the milestones, timelines, etc. 
 - [x] Create a workshop invitation document containing the following and find an approrpriate time between stakeholders (via slack):
 	- What people should read beforehand

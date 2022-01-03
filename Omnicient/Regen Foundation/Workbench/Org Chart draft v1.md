@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: 
-# Org Chart v1
+# Org Chart Draft v1
 
 ## Governance Circle 
 (aka Mission Circle) [[Governance Circle Exploration]]
