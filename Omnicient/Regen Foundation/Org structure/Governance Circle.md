@@ -1,7 +1,7 @@
 # Governance Circle
 Audience: RND, the Network and general ecosysetem.
 
-### Will
+### Why
 - To sense into and inhabit the networks values.
 - Developing multi-scale nested network governance.
 - Facilitating the expression and articulation of implicit values.
