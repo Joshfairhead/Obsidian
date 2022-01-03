@@ -1,9 +1,10 @@
 # General Circle
-**For whom?**
-- Internally focused on the foundations operations
+**For whom:**
+- Internally focused on the foundation and its operations.
 
-**Primary Driver**
-- To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles. Internal operations for the foundation and day to day execution.
+**Primary Driver:**
+- To discern organisational needs and facillitate the flows of information between circles which inform its strategy and the formation of new domain specific circles. Internal operations for the foundation and daily execution.
+
 
 | Member | Role |
 |---|---|
