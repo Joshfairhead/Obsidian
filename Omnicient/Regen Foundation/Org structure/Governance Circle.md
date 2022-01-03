@@ -7,11 +7,12 @@ Increasing the clarity and resolution on domains and roles and integrating them:
 
 
 ### Being
-- Holding the foundation to account 
+- Facilitating the expression of values
 - Working with the board to develop new ways of working 
 - Congruence management around organisational culture, incentives, rewards and perks.
 
 
 ### Will
-
+- To build capacity within the Foundation (Governance = education) 
+- To sense the networks wishes and 
 
