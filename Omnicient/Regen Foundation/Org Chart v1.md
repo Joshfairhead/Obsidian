@@ -8,10 +8,10 @@ Related:
 (aka Mission Circle) [[Governance Circle Exploration]]
 - Encapsulates the Board of directors and holds the Foundation to its mission
 	- Board members:
-		- Treasury/President: Will Szal
-		- Amanda Joy Ravenhill
-		- Dorn Cox
-		- Kei Kreutler
+		- Will Szal - Treasury/President
+		- Amanda Joy Ravenhill - 
+		- Dorn Cox - 
+		- Kei Kreutler -
 
 ## Foundational services & Operations 
 (aka General Circle)
@@ -24,7 +24,7 @@ Related:
 	- Work with the General Circle to audit the existing team structure and co-develop department circles with review structures.
 	- Work with the General Circle to identify the team members to implement the plan and propose a timeline for the implementation.
 
-- Holding the general aim of the organisation
+- Holding the general aim of the organisation:
 	- Coordinating the flow of information and domain clarity
 	- Supporting governance implementation
 	- Supporting department sub-circles
