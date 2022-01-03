@@ -1,4 +1,10 @@
 # General Circle
+**For whom?**
+- Internally focused on the foundations operations
+
+**Primary Driver**
+- To discern organisational needs, hopes, dreams and desires which inform its strategy and the formation of new domain specific circles. Internal operations for the foundation and day to day execution.
+
 | Member | Role |
 |---|---|
 | Revathi | Lead link to mission circle |
@@ -20,3 +26,6 @@
 	- Supporting governance implementation
 	- Supporting department sub-circles
 	- Handling undelegated work
+
+### General Circle 
+
