@@ -5,21 +5,19 @@ Related:
 # Regen Facillitation Plan
 
 Scoping statement:
-- Revised mission and aim 
-- Auditing existing structures
+- [ ] Auditing existing structures
 	- Role is the creative environment
 	- Domain is the transactional environment
 	- Network is the contextual/demographic environment
-
+- [ ] Revised mission and aim
 
 
 
 ---
 Raw material:
 - Implementation plan for the org
-	- Audit existing structures, co-develop department circles and review structures
 
 
 
 ## Definition of Done
-First draft of thins document
+First draft of this document
