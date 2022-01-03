@@ -4,11 +4,13 @@
 - To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to build relationships with these communtites. 
 
 ### How
+- Outreach to potentially aligned communities
 - Discerning aligned communtities
-- Outreach to aligned communities
-- Onboarding to community staking DAOs
 
 ### What
+- Onboarding aligned communities to community staking DAOs
+
+
 | Member | Role |
 |---|---|
 | Gijs | Lead link for EnDAOment circle |

@@ -6,6 +6,8 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 [[Board of Directors]] hold the Foundation to its mission.
 
 ### What
+- 
+
 | Member | Role | 
 |---|---|
 | Will Szal | Treasury/President |
