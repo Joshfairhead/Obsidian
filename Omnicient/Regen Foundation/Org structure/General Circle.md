@@ -15,6 +15,9 @@
 	- Inform and provide inputs to operations and culture
 
 ## What
+- Communication systems?
+- 
+
 | Member | Role |
 |---|---|
 | Revathi | Lead link to mission circle |
