@@ -12,11 +12,13 @@ Scoping statement:
 - [ ] Revised mission and aim
 
 
+Horizons:
+
+
 
 ---
 Raw material:
 - Implementation plan for the org
-
 
 
 ## Definition of Done
