@@ -1,12 +1,12 @@
 # General Circle
 
-## Will
+## Why
 - Coordinating the flow of information and domain/role clarity
 - Supporting governance implementations
 - Supporting department sub-circles
 - Handling undelegated work
 
-## Function
+## How
 (Internally focused on the foundation)
 
 - Structure and membership of a separate Board of Directors/[[Mission Circle]] and the General Circle. 
@@ -14,7 +14,7 @@
 	- Developing a detailed description of the roles and the domain of the [[Mission Circle]]
 	- Inform and provide inputs to operations and culture
 
-## Beings
+## What
 | Member | Role |
 |---|---|
 | Revathi | Lead link to mission circle |

@@ -7,14 +7,14 @@ Audience: RND, the Network and general ecosysetem.
 - Facilitating the expression and articulation of implicit values.
 - Ensuring a just and equitable distribution of PoS rewards amongst validators.
 
-### Function
+### How
 - Education: to build capacity within the Foundation and amongst the larger Network.
 	- Working with the [[Board of Directors]] to develop novel and effective ways of working.
 	- Working with the [[General Circle]] to develop organisational culture while maintaining congruence around incentives, rewards, perks etc. 
 - Increasing resolution on domains and roles and helping to integrate them with review sttructures.
 - Assisting the [[General Circle]] to audit the Foundations [[Org Structure]] and using these inputs to develop [[Distributed Governance Implementation plan]]
 
-### Beings
+### What
 | Members | Role |
 |---|---|
 | Josh | Lead link for governance circle |
