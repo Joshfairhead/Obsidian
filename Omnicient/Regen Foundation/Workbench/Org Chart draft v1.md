@@ -3,6 +3,7 @@ Tags: []
 ---
 Related: 
 # Org Chart Draft v1
+**Depreciated**
 
 ## Governance Circle 
 (aka Mission Circle) [[Governance Circle Exploration]]
