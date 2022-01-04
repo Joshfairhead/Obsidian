@@ -1,7 +1,7 @@
 # General Circle
 
 ## Why
-- To coordinate the flow of information between domains and representatives
+- To coordinate the flow of information between roles and domains
 - Supporting governance implementations
 - Supporting departmental sub-circles and lead links
 - Handling undelegated work
