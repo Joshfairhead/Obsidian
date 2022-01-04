@@ -13,7 +13,7 @@ Questions to deepen inquiry.
 Collect and reconcile individual perspectives and deepen enquiry with liberating structures: 
 - 1-2-4-All session on individual roles (what I assume about my role, what others assume about my role)
 	- Prompt / structuring invitation:
-		- How do you currently percieve your roles and what opportunities are present? 
+		- Given your lived experience in the context of the network so far, what 
 - 1-2-4-All session on network structure (what I assume about the network, others perspectives)
 - 1-2-4-All session on domains (what I assume is needed to birdge the gap, others perspectives)
 
