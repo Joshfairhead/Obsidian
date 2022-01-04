@@ -12,9 +12,9 @@ Questions to deepen inquiry and clarity.
 
 Collect and reconcile individual perspectives and deepen enquiry with liberating structures: 
 - Roles (1-2-4-All)
-	- Given your lived experience within the network so far; what kinds of contributions would you like to make that feel meaningful by your own standards? 
+	- Given your lived experience within the network so far; what kinds of contributions do you see as needed and meaningful?  
 - Network structure (1-2-4-All) 
-	- What does the network structure look like through your eyes
+	- What does the network structure look like through your eyes 
 - 1-2-4-All session on domains (what I assume is needed to birdge the gap, others perspectives)
 
 ## What?
