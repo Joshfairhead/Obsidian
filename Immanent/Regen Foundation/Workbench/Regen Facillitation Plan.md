@@ -14,7 +14,7 @@ Questions that are structured to deepen collective inquiry and clarity.
 	- Given your lived experience within the network so far; what kinds of personal contributions do you see as meaningful and necessary? 
 	- What about collective contributions?
 - Network structure (1-2-4-All) 
-	- What are your beliefs about the larger network as a whole? How do you percieve it's 'north star'?
+	- What are your beliefs about the larger network as a whole? What d it's guiding 'north star'? 
 - Domains (1-2-4-All) 
 	- Given the articultions you've heard of our 'north star' and the contributions seen as n 
 
