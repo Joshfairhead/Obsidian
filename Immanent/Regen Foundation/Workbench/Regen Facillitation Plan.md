@@ -13,7 +13,7 @@ Questions that are structured to deepen collective inquiry and clarity.
 - Roles (1-2-4-All)
 	- Given your lived experience within the network so far; what kinds of contributions do you see as needed and meaningful? 
 - Network structure (1-2-4-All) 
-	- What are your beliefs about the larger network as a whole? What do you percieve as its vision and how  
+	- What are your beliefs about the larger network as a whole? How do you percieve it's 'north star'?
 - 1-2-4-All session on domains (what I assume is needed to birdge the gap, others perspectives)
 
 ## What?
