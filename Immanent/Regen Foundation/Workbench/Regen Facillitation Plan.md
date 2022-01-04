@@ -14,9 +14,9 @@ Questions that are structured to deepen collective inquiry and clarity.
 	- Given your lived experience within the network so far; what kinds of personal contributions do you see as meaningful and necessary? 
 	- What about collective contributions?
 - Network structure (1-2-4-All) 
-	- What do you percieve as the networks guiding 'north star'? Describe the nearby constelations 
+	- What do you percieve as the networks guiding 'north star'? Describe the constelations around it.
 - Domains (1-2-4-All) 
-	- Given the articultions you've heard of our 'north star' and the contributions seen as n 
+	- Given the articultions you've heard of our 'north star' and the contributions we find either intrinsically or extrinsically meaningful, 
 
 ## What?
 A working map of the terrain and how it may unfold across time
