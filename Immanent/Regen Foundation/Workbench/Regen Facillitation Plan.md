@@ -8,13 +8,13 @@ Related:
 To enhance resoloution of the network structure, our domains and roles.
 
 ## How?
-Questions to deepen inquiry and clarity. 
+Questions that are structured openly to deepen collective inquiry and clarity. 
 
 Collect and reconcile individual perspectives and deepen enquiry with liberating structures: 
 - Roles (1-2-4-All)
 	- Given your lived experience within the network so far; what kinds of regular contributions do you see as needed and meaningful?  
 - Network structure (1-2-4-All) 
-	- What 
+	- What are your beliefs about the larger network as a whole? What do you percieve as its vision and how  
 - 1-2-4-All session on domains (what I assume is needed to birdge the gap, others perspectives)
 
 ## What?
