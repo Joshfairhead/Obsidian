@@ -21,8 +21,9 @@ Questions that are structured to deepen collective inquiry and clarity.
 
 ## What?
 A working map of our terrain and how it may unfold across time
+- [[Workshop notes]]
 - [[Org Structure Index]]
-- [[]]
+
 
 
 ---
