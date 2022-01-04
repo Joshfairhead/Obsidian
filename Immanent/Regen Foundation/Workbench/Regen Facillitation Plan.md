@@ -8,7 +8,9 @@ Related:
 To enhance resoloution of the network structure, our domains and roles.
 
 ## How?
-Collect and reconcile individual perspectives and deepen enquiry with liberating structures
+Collect and reconcile individual perspectives and deepen enquiry with liberating structures. 
+- 1-2-4-All session on individual roles (what I assume about my role, what others assume about my role)
+- 1-2-4-All session on network structure (what I assume about the network, what 
 
 ## What?
 A working map of the terrain and how it may unfold across time
