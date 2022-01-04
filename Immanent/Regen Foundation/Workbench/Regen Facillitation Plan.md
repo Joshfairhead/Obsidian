@@ -15,7 +15,7 @@ Questions that are structured to deepen collective inquiry and clarity.
 - Network structure (1-2-4-All) 
 	- What are your beliefs about the larger network as a whole? How do you percieve it's 'north star'?
 - Domains (1-2-4-All) 
-	- Given the articultions of a 'north star' how do we move from a place of agency to 
+	- Given the articultions you've heard of our 'north star' how do we move from a place of agency to 
 
 ## What?
 A working map of the terrain and how it may unfold across time
