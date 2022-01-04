@@ -11,12 +11,12 @@ To enhance resoloution of the network structure, our domains and roles.
 Questions that are structured to deepen collective inquiry and clarity. 
 
 - Roles (1-2-4-All)
-	- Given your lived experience within the network so far; what kinds of personal contributions do you see as meaningful and necessary? 	
+	- Given your lived experience within the network so far; what kinds of personal contributions do you see as creative, meaningful and necessary? 	
 	- What about collective contributions? 
 - Network structure (1-2-4-All) 
 	- What do you percieve as the networks guiding 'north star'? Describe the constelations around it if you can.
 - Domains (1-2-4-All) 
-	- Given the contributions articulated as either intrinsically or extrinsically meaningful and the articultions our 'north star', what kinds of groupings are useful?
+	- Given the contributions articulated as either intrinsically or extrinsically meaningful and the articultions our 'north star' - what domains of activity do you see?
 
 ## What?
 A working map of the terrain and how it may unfold across time
