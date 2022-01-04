@@ -11,9 +11,5 @@ Related:
 - Now doing a consultancy as a web dev doing spatial and 3D design
 - EnDAOment and CSDAO, engaging communities and artefacts 
 - Interested in tech design, especially around ecology and politics
-- Interested in facillitation and matters of 
-
-Facillitation 
-consensus/consent
-hard/soft power
+- Interested in facillitation and matters of consensus/consent and hard/soft power
 
