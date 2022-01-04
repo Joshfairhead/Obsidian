@@ -11,10 +11,11 @@ To enhance resoloution of the network structure, our domains and roles.
 Questions that are structured to deepen collective inquiry and clarity. 
 
 - Roles (1-2-4-All)
-	- Given your lived experience within the network so far; what kinds of contributions do you see as needed and meaningful? 
+	- Given your lived experience within the network so far; what kinds of personal contributions do you see as needed and meaningful? What about collective contributions?
 - Network structure (1-2-4-All) 
 	- What are your beliefs about the larger network as a whole? How do you percieve it's 'north star'?
-- Domains (1-2-4-All) (what I assume is needed to birdge the gap, others perspectives)
+- Domains (1-2-4-All) 
+	- Given the articultat
 
 ## What?
 A working map of the terrain and how it may unfold across time
