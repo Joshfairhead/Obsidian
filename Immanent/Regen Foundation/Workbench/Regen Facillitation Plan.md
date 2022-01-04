@@ -14,14 +14,15 @@ Questions that are structured to deepen collective inquiry and clarity.
 	- Given your lived experience within the network so far; what kinds of personal contributions do you see as creative, meaningful and necessary? 	
 	- What about collective contributions? 
 - Network structure (1-2-4-All) 
-	- What do you percieve as the networks guiding 'north star'? Describe the nearest constelations What are its highest aspirations? 
+	- What do you percieve as the networks guiding 'north star'? If possible, try to describe the constelations of its highest aspirations.
 - Domains (1-2-4-All) 
 	- Given the contributions articulated as either intrinsically or extrinsically meaningful and the articultions our 'north star' - what domains of activity do you see?
 
-## What?
-A working map of the terrain and how it may unfold across time
-- [[Org Structure Index]]
 
+## What?
+A working map of our terrain and how it may unfold across time
+- [[Org Structure Index]]
+- 
 
 
 ---
