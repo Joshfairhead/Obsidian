@@ -20,7 +20,7 @@ Related:
 	- [ ] Create the general structure of contents such as the milestones, timelines, etc. 
 
 ### Horizon 2
-- [ ] Finish readin
+- [ ] Finish reading [[Wills onboarding links]]
 - [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
 	- [ ]   Cory - Engineering Team, RND
 	- [ ]   Gregory - CEO, RND
