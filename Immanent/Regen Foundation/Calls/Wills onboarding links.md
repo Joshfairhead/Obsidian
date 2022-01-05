@@ -178,6 +178,8 @@ Decision:
 Meta:
 Hi Everyone, I’m Pete, I run the Regenerator Validator. I might be shooting myself in the foot (my Validator’s Commission Rate being set at 2%) but I feel for the benefit of the Network it’s worth having a minimum commission rate of 3-5%. This will help provide network stability and stop 0% validators driving commissions down. It also ensures Validators are earning enough to support secure and stable validation. My initial thought was that a rate of 3% would be a good starting point but afte...
 
+
+
 ---
 
 # [Community Grants](https://forum.regen.network/t/community-grants/267)
