@@ -20,6 +20,7 @@ Related:
 	- [ ] Create the general structure of contents such as the milestones, timelines, etc. 
 
 ### Horizon 2
+- [ ] Finish readin
 - [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
 	- [ ]   Cory - Engineering Team, RND
 	- [ ]   Gregory - CEO, RND
@@ -28,7 +29,7 @@ Related:
 	- [ ]   Dan (Daniel Pittman) - Community Manager, RND
 - [ ] Read [articles of incorporation](https://github.com/regen-foundation/policies)
 	- [x] Bylaws
-	- [ ] Conflict of interest
+	- [x] Conflict of interest
 	- [ ] Financial
 	- [ ] Formation
 	- [ ] Ownership trading
