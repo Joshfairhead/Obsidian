@@ -30,7 +30,7 @@ Related:
 - [ ] Read [articles of incorporation](https://github.com/regen-foundation/policies)
 	- [x] Bylaws
 	- [x] Conflict of interest
-	- [ ] Financial
+	- [x] Financial
 	- [ ] Formation
 	- [ ] Ownership trading
 	- [ ] Treasury
