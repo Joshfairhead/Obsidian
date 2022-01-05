@@ -15,12 +15,6 @@ Roles was a consideration point that ties into the above; having articulated a s
 
 There was also mention of formally creating a general circle according to the notes I made in call but I'm unsure what this means or if we discussed the matter further.
 
-
-### Open questions
-- What are Carol Sanfords 3 key principals?
-- What did we mean by formally creating a general circle?
-
-
 ### Actions
 List duplicated to [[Foundation Home]]
 - [ ] Start curating resources around gov circle (for the notion page?)

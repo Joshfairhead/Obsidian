@@ -36,8 +36,8 @@ Related:
 
 ---
 ## Actions
-- [ ] Schedule regular buddy calls on Mondays
+- [x] Schedule regular buddy calls on Mondays ✅ 2022-01-05
 - [ ] Connect Josh with Cosmonauts that may want to hack for planet. SNI hackathon deadline on the 20th December.
-- [ ] Start to articulate the Why, How and What of the governance circle. General structure of contents such as a timeline of workshops and outputs 
+- [x] Start to articulate the Why, How and What of the governance circle. General structure of contents such as a timeline of workshops and outputs ✅ 2022-01-05
 - [ ] Get more information about the Regen Registry and the network health metrics. Will call?
 - [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the proceeses. Get a tour from someone?
