@@ -20,11 +20,11 @@ Related:
 	- What we want to do
 	- Length of time, follow up workshops etc.
 - [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
-	-   Dan (Daniel Pittman) - Community Manager, RND
-	-   Gregory - CEO, RND
-	-   Sara Johnstone - COO, RND
-	-   Cory - Engineering Team, RND
-	-   Ryan - Developer Advocate(?), RND.
+	- [ ]   Cory - Engineering Team, RND
+	- [ ]   Gregory - CEO, RND
+	- [ ]   Sara Johnstone - COO, RND
+	- [ ]   Ryan - Developer Advocate(?), RND.
+	- [ ]   Dan (Daniel Pittman) - Community Manager, RND
 
 
 ### Horizon 2
