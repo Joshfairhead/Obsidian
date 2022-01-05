@@ -32,7 +32,7 @@ Related:
 	- [x] Conflict of interest
 	- [x] Financial
 	- [x] Formation
-	- [ ] Ownership trading
+	- [x] Ownership trading
 	- [ ] Treasury
 - [ ] Look through Endaoment section in preparation for roles and horizon mapping
 - [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone?
