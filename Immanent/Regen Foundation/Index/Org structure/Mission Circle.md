@@ -11,7 +11,7 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 
 | Member | Role | 
 |---|---|
-| Will Szal | Treasury/President |
-| Amanda Joy Ravenhill | |
-| Dorn Cox | |
-| Kei Kreutler | |
+| Will Szal | Treasurer/President |
+| Amanda Joy Ravenhill | Vice President? |
+| Dorn Cox | Secretary? |
+| Kei Kreutler | Elected officer? |
