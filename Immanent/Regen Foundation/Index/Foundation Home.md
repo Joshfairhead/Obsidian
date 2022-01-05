@@ -31,7 +31,7 @@ Related:
 	- [x] Bylaws
 	- [x] Conflict of interest
 	- [x] Financial
-	- [ ] Formation
+	- [x] Formation
 	- [ ] Ownership trading
 	- [ ] Treasury
 - [ ] Look through Endaoment section in preparation for roles and horizon mapping
