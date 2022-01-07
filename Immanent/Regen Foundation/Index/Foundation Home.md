@@ -30,13 +30,13 @@ Related:
 	- [x] Ownership trading
 	- [x] Treasury
 - [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
-	- [ ]   Cory - Engineering Team, RND
+	- [x]   Cory - Engineering Team, RND
 	- [ ]   Gregory - CEO, RND
 	- [ ]   Sara Johnstone - COO, RND
 	- [ ]   Ryan - Developer Advocate(?), RND.
 	- [ ]   Dan (Daniel Pittman) - Community Manager, RND
 - [ ] Look through Endaoment section in preparation for roles and horizon mapping
-- [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone?
+- [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from Cory?
 	- [How to choose a blockchain](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
 	- Kepler Wallet install
 	- [Cosmos CLI](https://docs.cosmos.network/v0.44/modules/authz/05_client.html)
