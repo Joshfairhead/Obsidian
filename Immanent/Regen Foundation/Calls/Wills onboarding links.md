@@ -199,9 +199,9 @@ Conversation moved [here](https://commonwealth.im/osmosis/proposal/discussion/23
 
 Hello Regenerates, The Regen Network Development (RND) team is gearing up for the release of Regen Ledger v2.0, which will include the first version of the ecocredit module on Regen Mainnet. This first version of the ecocredit module will be permissioned, meaning only accounts approved through an on-chain governance process will have the authority to create credit classes. The list of approved credit class designers will be an on-chain parameter that will require a parameter change proposal in ...
 
-Reading time
-41 mins
-Aug 18th
+> All governance proposals should start with a forum post outlining the proposal that links to the accompanying documentation and that socializes commitment and understanding to work with the RND team. The forum post should receive general support from the community before being submitted as an on-chain governance proposal.
+
+
 
 [Community Staking Pool Delegation Policy](https://forum.regen.network/t/community-staking-pool-delegation-policy/171)
 
