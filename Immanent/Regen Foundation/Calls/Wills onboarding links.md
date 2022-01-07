@@ -217,5 +217,7 @@ Regen Foundation stewards 30mm REGEN that have been set aside for Community Stak
 >	 
 	 To turn our gaze to the validators: the high percent staked, the better off they are. Even with decreasing inflation rates, they still get to capture a set percentage of assets under management. So if we almost double the number of tokens staked, on average, their yields will almost double (and we do intend to delegate this stake as broadly as possible).
 
+^^ Lots of info/discussion on validator economics in this thread... 
+
 
 - [ ] [https://registry.regen.network](https://registry.regen.network)
