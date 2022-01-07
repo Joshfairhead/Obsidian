@@ -13,4 +13,5 @@
 - When
 - For whom
 
-
+## Other Links
+- [Regen Registry page](https://registry.regen.network)

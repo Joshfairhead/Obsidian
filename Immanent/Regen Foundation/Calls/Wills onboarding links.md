@@ -220,4 +220,4 @@ Regen Foundation stewards 30mm REGEN that have been set aside for Community Stak
 ^^ Lots of info/discussion on validator economics in this thread... 
 
 
-- [ ] [https://registry.regen.network](https://registry.regen.network)
+- [Regen Registry](https://registry.regen.network)
