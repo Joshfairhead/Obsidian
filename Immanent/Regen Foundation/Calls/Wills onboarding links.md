@@ -201,7 +201,9 @@ Hello Regenerates, The Regen Network Development (RND) team is gearing up for th
 
 > All governance proposals should start with a forum post outlining the proposal that links to the accompanying documentation and that socializes commitment and understanding to work with the RND team. The forum post should receive general support from the community before being submitted as an on-chain governance proposal.
 
-
+Also:
+- [Nature Based Solutions Framework Methodology](https://docs.google.com/document/d/1ccQRkhc5fDv1qTtlh7EEJ6eZsJ4IqtbU0Cwd_lwiI5A/edit#heading=h.5x0d5h95i329)
+- 
 
 [Community Staking Pool Delegation Policy](https://forum.regen.network/t/community-staking-pool-delegation-policy/171)
 
