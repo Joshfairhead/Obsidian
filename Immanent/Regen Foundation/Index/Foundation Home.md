@@ -39,6 +39,7 @@ Related:
 - [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone?
 	- [How to choose a blockchain](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
 	- Kepler Wallet install
+	- [Cosmos CLI](https://docs.cosmos.network/v0.44/modules/authz/05_client.html)
 
 ### Horizon 3
 - [ ] Start curating resources around gov circle (for the notion page?). See: [[Governance]]
