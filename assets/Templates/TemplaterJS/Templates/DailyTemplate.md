@@ -18,5 +18,5 @@
 
 
 **Rope**
-- Thursday 20th Jan 
-- Sunday 22nd May 2022: Tool concert
+- Thursday 20th January: Microsolidarity gathering
+- Sunday 22nd May: Tool concert
