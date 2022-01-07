@@ -204,9 +204,9 @@ Hello Regenerates, The Regen Network Development (RND) team is gearing up for th
 Also:
 - [Nature Based Solutions Framework Methodology](https://docs.google.com/document/d/1ccQRkhc5fDv1qTtlh7EEJ6eZsJ4IqtbU0Cwd_lwiI5A/edit#heading=h.5x0d5h95i329)
 - [Process for creating a methodology](https://regen-registry.s3.amazonaws.com/process-for-creating-a-methodology.pdf)
-- 
+- [Sam Bennetts response](https://forum.regen.network/t/proposal-4-signalling-proposal-permissioned-credit-class-designers-and-regen-ledger-v2-0-upgrade/251/15?u=joshafairhead)
 
-[Community Staking Pool Delegation Policy](https://forum.regen.network/t/community-staking-pool-delegation-policy/171)
+# [Community Staking Pool Delegation Policy](https://forum.regen.network/t/community-staking-pool-delegation-policy/171)
 
 Regen Foundation stewards 30mm REGEN that have been set aside for Community Staking DAOs (if you’d like to learn more about our variant on PoS, please read up here). We’d like to begin a strategy of staking these tokens, and are going to outline our strategy below. Please use the following two weeks as a public comment period before we implement. There are a number of factors that we’ve been weighing in considering how to approach this pool. Below I’ll go through, point by point, on a number o...
 
