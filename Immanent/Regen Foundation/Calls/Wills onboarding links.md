@@ -192,10 +192,6 @@ In discussion about the Cosmos Ecosystem Allocation discussion, the fact has ari
 
 Back in our whitepaper, we stated the 3mm REGEN (wallet address here) would be allocated for “airdrop or work-lock” to ATOM holders. Our intention here has always been to reinforce mutual value with the Cosmos community and fuel the vision of the internet of blockchains. Earlier this year, 200,984 REGEN of this allocation went into an airdrop, but the rest have been reserved in case the community feels there is a better way that these tokens could be used. The space has shifted a lot since 2018 ...
 
-Reading time
-5 mins 
-Aug 27th
-
 [Proposal #4 Signalling Proposal - Permissioned Credit Class Designers and Regen Ledger v2.0 Upgrade](https://forum.regen.network/t/proposal-4-signalling-proposal-permissioned-credit-class-designers-and-regen-ledger-v2-0-upgrade/251)
 
 Hello Regenerates, The Regen Network Development (RND) team is gearing up for the release of Regen Ledger v2.0, which will include the first version of the ecocredit module on Regen Mainnet. This first version of the ecocredit module will be permissioned, meaning only accounts approved through an on-chain governance process will have the authority to create credit classes. The list of approved credit class designers will be an on-chain parameter that will require a parameter change proposal in ...
