@@ -18,4 +18,5 @@
 
 
 **Rope**
+- Thursday 20th Jan 
 - Sunday 22nd May 2022: Tool concert
