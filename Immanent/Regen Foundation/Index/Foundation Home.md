@@ -21,13 +21,7 @@ Related:
 - [ ] Generate new keybase account and send details to Will
 
 ### Horizon 2
-- [ ] Finish reading [[Wills onboarding links]]
-- [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
-	- [ ]   Cory - Engineering Team, RND
-	- [ ]   Gregory - CEO, RND
-	- [ ]   Sara Johnstone - COO, RND
-	- [ ]   Ryan - Developer Advocate(?), RND.
-	- [ ]   Dan (Daniel Pittman) - Community Manager, RND
+- [x] Finish reading [[Wills onboarding links]]
 - [x] Read [articles of incorporation](https://github.com/regen-foundation/policies)
 	- [x] Bylaws
 	- [x] Conflict of interest
@@ -35,9 +29,16 @@ Related:
 	- [x] Formation
 	- [x] Ownership trading
 	- [x] Treasury
+- [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
+	- [ ]   Cory - Engineering Team, RND
+	- [ ]   Gregory - CEO, RND
+	- [ ]   Sara Johnstone - COO, RND
+	- [ ]   Ryan - Developer Advocate(?), RND.
+	- [ ]   Dan (Daniel Pittman) - Community Manager, RND
 - [ ] Look through Endaoment section in preparation for roles and horizon mapping
 - [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone?
-    -   [x] [https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
+	- [How to choose a blockchain](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
+	- Kepler Wallet install
 
 ### Horizon 3
 - [ ] Start curating resources around gov circle (for the notion page?). See: [[Governance]]
