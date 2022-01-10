@@ -50,7 +50,7 @@ The first proposal concerns REGEN transfers (transfers within Regen Ledger). The
 
 ---
 
-# [Welcoming new-validators-into-the-expanded-set/](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
+# [Welcoming new validators into the expanded set](https://regen.foundation/welcoming-new-validators-into-the-expanded-set/)
 
 Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After opening up the question to community input, Regen Foundation will be expanding its delegation policy for the next 10mm REGEN delegated to include the 25 new validators in the set. On August 8th, Regen Ledger’s validator set was increased from 50 to 75, via governance vote 
 
@@ -60,7 +60,7 @@ Upgrading the Community Staking DAO Allocation Delegation Strategy TL;DR—After
 
 ---
 
-# [https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
+# [Maturing autonomy, separation between the founding legal entities of regen network](https://regen.foundation/maturing-autonomy-separation-between-the-founding-legal-entities-of-regen-network/)
 
 - Will and Gregory resign form roles in eachothers domain. 
 
