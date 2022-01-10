@@ -1,5 +1,6 @@
-# Engineering
+# Engineering Team
 
 | Member | Role |
 |---|---|
-| Cory Levinson | 
+| Aaron | RND CTO |
+| Cory Levinson | Lead Engineer |
