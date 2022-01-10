@@ -2,4 +2,5 @@
 
 | Member | Role |
 |---|---|
-| Daniel Pittman | 
+| Daniel Pittman | Community Manager |
+| Ryan | Developer Advocate |
