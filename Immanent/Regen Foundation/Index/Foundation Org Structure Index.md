@@ -1,4 +1,4 @@
-# Regen Org Structure Index
+# Foundation Org Structure Index
 
 ![[Mission Circle]]
 ![[General Circle]]

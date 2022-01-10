@@ -40,7 +40,7 @@ A strategic roadmap of our terrain and a shared perception of how it may unfold 
 
 ![Roadmaps.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c69c2c35-facb-4f05-bfac-0a6c6feb88d0/Roadmaps.jpg)
 - [[Workshop notes]]
-- [[Org Structure Index]]
+- [[Foundation Org Structure Index]]
 
 
 
