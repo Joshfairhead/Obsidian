@@ -7,7 +7,7 @@ Related:
 
 ## Personal Kanban
 
-### Done
+### Horizon DONE
 - [x] Send Revathi a resource on accountability and responsibility
 - [x] Send Revathi the links Will sent me with commentary
 - [x] Start to articulate the Why, How and What of the [Governance Circle](https://www.notion.so/Governance-Circle-579f67578f1d413ca7b667b824b3bf3b) [[Governance Circle Exploration]]
@@ -31,7 +31,6 @@ Related:
 - [ ] Generate new keybase account and send details to Will
 
 ### Horizon 2
-
 - [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
 	- [x]   Cory - Engineering Team, RND
 	- [ ]   Gregory - CEO, RND
