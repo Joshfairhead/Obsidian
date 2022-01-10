@@ -22,7 +22,7 @@
 |---|---|
 | Revathi | Lead link to mission circle |
 | Josh | Lead link to governance circle |
-| Gijs | Lead link to enDAOment circle |
-| Austin | ??? |
+| Austin | Lead link to enDAOment circle - Global North |
+| Gijs | Lead link to enDAOment circle - Global south |
 
 
