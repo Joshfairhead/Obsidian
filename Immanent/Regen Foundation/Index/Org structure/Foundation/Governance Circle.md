@@ -24,6 +24,6 @@ Audience: RND, the Network and general ecosysetem.
 | Revathi | Lead link for the general circle|
 
 
-
-
+### Links
+- [Governance forum](https://forum.regen.network/c/governance-proposal/10)
 
