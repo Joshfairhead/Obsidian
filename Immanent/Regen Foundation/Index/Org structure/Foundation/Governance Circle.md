@@ -26,4 +26,4 @@ Audience: RND, the Network and general ecosysetem.
 
 ### Links
 - [Governance forum](https://forum.regen.network/c/governance-proposal/10)
-
+- [Lost/locked tokens adgenda](https://forum.regen.network/t/in-need-of-communities-assistance-tokens-lost-in-wallet-conversion/212/7)
