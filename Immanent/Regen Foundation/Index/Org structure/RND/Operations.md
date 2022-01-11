@@ -3,4 +3,4 @@
 | Member | Role |
 |---|---|
 | Sara Johnstone | COO |
-| Gregory | CEO |
+| Gregory Landua | CEO |
