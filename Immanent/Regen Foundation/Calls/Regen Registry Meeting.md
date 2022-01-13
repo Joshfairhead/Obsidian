@@ -61,4 +61,4 @@ Users that could benefit from knowlege on the mechanisims
 
 
 - Clear walkthroughs for onboarding
-- Some thoughts in the RND slack
+- Some thoughts in the RND slack to find 
