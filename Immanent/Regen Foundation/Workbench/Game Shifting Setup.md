@@ -38,7 +38,7 @@ Related:
 - Get focused
 - Get lively
 
-## Will / Structural aspects
+## Will 
 ### Divergence
 - Brainstorming
 - Gathering / Researching
