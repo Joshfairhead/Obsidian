@@ -58,3 +58,7 @@ History
 
 Users that could benefit from knowlege on the mechanisims 
 - How do crypto mechanisms meet the real world?
+
+
+- Clear walkthroughs for onboarding
+- Some thoughts in the RND slack
