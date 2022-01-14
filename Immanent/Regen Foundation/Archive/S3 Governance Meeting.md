@@ -35,7 +35,9 @@
 ## Time line
 ### Divergent period
 - Explore / Generate
-	- Involved discussion around the domains
+	- Involved discussion around the domains we see from our perspectives
+	- Mapping the large chunks; projects in the works that can be considered epics and the domains they might fall into
+	- 
 
 
 -   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
