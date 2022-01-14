@@ -36,7 +36,7 @@
 ### Divergent period
 - Explore / Generate
 	- Involved discussion around the projects that can be broadly be considered 'epics'.
-	- Mapping the large chunks; projects that can be considered epics and mapping them into the domains they might fall into.
+	- Mapping these large into domains and circles
 	- 
 
 
