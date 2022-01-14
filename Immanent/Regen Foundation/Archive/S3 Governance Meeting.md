@@ -1,4 +1,12 @@
-# Governance Meeting
+# Foundation Governance Meeting
+
+## Participants
+- Revs
+- Will
+- Austin
+- David (LOA)
+- 
+
 
 **Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
