@@ -25,12 +25,12 @@
 
 ### Intention
 - Divergent: reflection on the big picture
-- Convergent: decisions on doma
+- Convergent: loose consensus on the domains projects fit into and the roles we play
 
-### Talking
-- Breathe first, turns/circle or listening stick
+### Verbal interactions 
+- Listening stick
 
-### Bodies
+### Engagement level
 - Comfortable & relaxed with soft focus.
 
 ## Time line
