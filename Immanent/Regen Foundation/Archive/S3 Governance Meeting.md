@@ -13,6 +13,9 @@
 ## Game
 - Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
 
+## Note taker
+
+
 ---
 
 ## Content
@@ -35,7 +38,15 @@
 
 ## Time line
 ### Setup
-
+- Check-in
+	- Body
+	- Heart
+	- Mind
+- Gratitude
+- Administrative matters
+    -   check for consent to the last meeting’s minutes
+    -   agree on a date for the next meeting
+    -   check for any last-minute agenda items and for consent to the agenda
 
 ### Divergent period
 - Explore / Generate
@@ -44,13 +55,14 @@
 	- 
 
 
-### Convergent p
+### Convergent period
+- 
 
--   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
--   administrative matters
-    -   check for consent to the last meeting’s minutes
-    -   agree on a date for the next meeting
-    -   check for any last-minute agenda items and for consent to the agenda
+
+
+
+
+
 -   agenda items
 -   [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 -   closing: check in with each other before you leave the meeting
