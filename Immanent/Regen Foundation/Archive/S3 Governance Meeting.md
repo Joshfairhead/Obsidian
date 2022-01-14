@@ -5,9 +5,12 @@
 - Revs - Lead link
 - Austin - EnDAOment
 - David (LOA) - Marketing
+- George - Project MGMT
 
 ## Adgenda
-- Agreements around 'the meta'; whos doing what at the 'ep'
+- Agreements around 'the meta'; whos doing what at the 'epic level'.
+	- What is driving us? e.g. is marketing driving activities or are activities driving marketing?
+		- Theres probably syntropy between these elements - and probably other elements at play!
 
 **Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
