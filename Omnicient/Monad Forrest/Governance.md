@@ -4,7 +4,6 @@ Tags: [Patterns, Frameworks, Refactor, Index, Domains]
 Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 
 # Governance
-
 - ### Read and curated:
     - [[Social Archetecture]] - Really good
     - [Beyond the rules](https://provocations.darkmatterlabs.org/organising-beyondtherules-at-dark-matter-labs-e59e4f5dd32f?source=collection_home---2------4-----------------------) - Organising at Dark Matter labs
@@ -98,3 +97,4 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 ### Quotes
 ![[Ethics#^ec2e47]]
 ![[Ethics#^086b10]]
+> if 1% of the population controls most of the disposable wealth, what we call ‘the market’ reflects what they think is useful or important, not anybody else. [[David Graeber]]
