@@ -1,12 +1,13 @@
 # Foundation Governance Meeting
 
 ## Participants
-- Revs
-- Will
-- Austin
-- David (LOA)
-- 
+- Will - President
+- Revs - Lead link
+- Austin - EnDAOment
+- David (LOA) - Marketing
 
+## Adgenda
+- Agreements around 'the meta'; whos doing what at the 'ep'
 
 **Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
