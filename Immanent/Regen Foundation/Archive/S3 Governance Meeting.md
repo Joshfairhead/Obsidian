@@ -1,7 +1,7 @@
 # Foundation Governance Meeting
 
 ## Schedule
-90 mins Every 2-4 weeks.
+90 mins every 2-4 weeks.
 
 ## Participants
 - Will - President
