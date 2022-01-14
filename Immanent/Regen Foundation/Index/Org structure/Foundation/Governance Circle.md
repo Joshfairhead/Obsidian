@@ -28,4 +28,8 @@ Audience: RND, the Network and general ecosysetem.
 - [Governance forum](https://forum.regen.network/c/governance-proposal/10)
 - [Lost/locked tokens adgenda](https://forum.regen.network/t/in-need-of-communities-assistance-tokens-lost-in-wallet-conversion/212/7)
 
-## Questions
+## Open Questions
+- Are we in a growth phase?
+	- Should that growth be inner or outer facing at this present moment?
+		- Are activities driving marketing or is marketing driving activities?
+			- There is probably syntropy to be balanced here
