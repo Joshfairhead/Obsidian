@@ -10,22 +10,23 @@
 - David (LOA) - Marketing
 - George - Project MGMT
 
-## Adgenda
-- Agreements around 'the meta'; whos doing what at the 'epic level'.
-	- What is driving us? e.g. is marketing driving activities or are activities driving marketing?
-		- Theres probably syntropy between these elements - and probably other elements at play!
-	- What constraints we need to set on how and when will be done?
-
 ## Game
 - Usually facillitated in S3; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
 
 ---
 
 ## Content
-### From adgenda
+### From adgenda (seeking input)
+- Agreements around 'the meta'; whos doing what at the 'epic level'.
+	- What is driving us? e.g. is marketing driving activities or are activities driving marketing?
+		- Theres probably syntropy between these elements - and probably other elements at play!
+	- What constraints we need to set on how and when will be done?
 
+### Intention
 
-
+### Talking
+- Reflection
+	- 
 
 
 -   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
