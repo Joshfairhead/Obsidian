@@ -16,16 +16,8 @@
 		- Theres probably syntropy between these elements - and probably other elements at play!
 	- What constraints we need to set on how and when will be done?
 
-**Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
-
-A governance meeting is usually:
-
--   facilitated
--   prepared in advance
--   [timeboxed](https://patterns.sociocracy30.org/timebox-activities.html) for a duration of 90-120 minutes
--   scheduled every 2-4 weeks
-
-A typical governance meeting includes:
+## Game
+- Usually facillitated in S3; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? Link
 
 -   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
 -   administrative matters
