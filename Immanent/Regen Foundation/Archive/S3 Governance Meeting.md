@@ -27,8 +27,10 @@
 - Convergent: decisions
 
 ### Talking
-- Breathe first or listening st
-	- 
+- Breathe first or listening stick
+
+### Bodies
+- Comfortable & relaxed with soft focus
 
 
 -   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
