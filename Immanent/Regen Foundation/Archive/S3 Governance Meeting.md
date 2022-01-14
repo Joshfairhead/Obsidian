@@ -23,9 +23,11 @@
 	- What constraints we need to set on how and when will be done?
 
 ### Intention
+- Divergent: reflection
+- Convergent: decisions
 
 ### Talking
-- Reflection
+- Breathe first or listening st
 	- 
 
 
