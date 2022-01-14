@@ -1,5 +1,8 @@
 # Foundation Governance Meeting
 
+## Schedule
+90 mins Every 2-4 weeks.
+
 ## Participants
 - Will - President
 - Revs - Lead link
@@ -11,6 +14,7 @@
 - Agreements around 'the meta'; whos doing what at the 'epic level'.
 	- What is driving us? e.g. is marketing driving activities or are activities driving marketing?
 		- Theres probably syntropy between these elements - and probably other elements at play!
+	- What constraints we need to set on how and when will be done?
 
 **Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
