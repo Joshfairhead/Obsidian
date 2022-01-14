@@ -17,15 +17,15 @@
 
 ## Content
 ### From adgenda (seeking input)
-- Agreements around 'the meta'; whos doing what at the 'epic level'.
-	- What is driving us? e.g. is marketing driving activities or are activities driving marketing?
+- Grattitude: MMV - the marketing meta view; best high level vatage point so far!
+- Agreements around 'the meta'; whos doing what at the 'epic level' (and why!)
+	- What is driving us? e.g. is marketing driving operations or are operations driving marketing?
 		- Theres probably syntropy between these elements - and probably other elements at play!
-	- What constraints we need to set on how and when will be done?
+	- What constraints do we need to set on how and when will be done?
 
 ### Intention
-- Grattitude: MMV - the marketing
-- Divergent: reflection
-- Convergent: decisions
+- Divergent: reflection on the big picture
+- Convergent: decisions on doma
 
 ### Talking
 - Breathe first, turns/circle or listening stick
