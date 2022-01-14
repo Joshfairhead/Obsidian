@@ -11,7 +11,7 @@
 - George - Project MGMT
 
 ## Game
-- Usually facillitated in S3; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
+- Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
 
 ---
 
@@ -31,15 +31,20 @@
 - Listening stick
 
 ### Engagement level
-- Comfortable & relaxed with soft focus.
+- Poll the room with the intention of arriving to a relaxed atmosphere with soft focus.
 
 ## Time line
+### Setup
+
+
 ### Divergent period
 - Explore / Generate
 	- Involved discussion around the projects that can be broadly be considered 'epics'.
 	- Mapping these large into domains and circles
 	- 
 
+
+### Convergent p
 
 -   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
 -   administrative matters
