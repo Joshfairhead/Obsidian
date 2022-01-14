@@ -27,10 +27,14 @@
 - Convergent: decisions
 
 ### Talking
-- Breathe first or listening stick
+- Breathe first, turns/circle or listening stick
 
 ### Bodies
-- Comfortable & relaxed with soft focus
+- Comfortable & relaxed with soft focus.
+
+## Time line
+### Divergent period
+- 
 
 
 -   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
