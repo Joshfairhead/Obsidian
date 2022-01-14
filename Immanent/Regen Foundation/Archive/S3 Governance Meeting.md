@@ -34,7 +34,8 @@
 
 ## Time line
 ### Divergent period
-- 
+- Explore / Generate
+	- Involved discussion around the domains
 
 
 -   opening: [check in](https://patterns.sociocracy30.org/check-in.html) with each other and attune to the objective of the meeting
