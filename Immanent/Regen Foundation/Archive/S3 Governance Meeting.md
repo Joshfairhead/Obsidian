@@ -23,6 +23,7 @@
 	- What constraints we need to set on how and when will be done?
 
 ### Intention
+- Grattitude: MMV - the marketing
 - Divergent: reflection
 - Convergent: decisions
 
