@@ -98,3 +98,5 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 ![[Ethics#^ec2e47]]
 ![[Ethics#^086b10]]
 > if 1% of the population controls most of the disposable wealth, what we call ‘the market’ reflects what they think is useful or important, not anybody else. [[David Graeber]]
+
+> in our society, there seems a general rule that, the more obviously one's work benefits other people, the less one is likely to be paid for it. [[David Graeber]]
