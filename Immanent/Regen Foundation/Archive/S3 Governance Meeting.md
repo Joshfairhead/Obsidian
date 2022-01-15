@@ -3,6 +3,9 @@
 ## Schedule
 90 mins every 2-4 weeks.
 
+## Prep
+- Elect or find a note taker
+
 ## Participants
 - Will - President
 - Revs - Lead link
@@ -12,8 +15,6 @@
 
 ## Game
 - Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
-
-## Note taker
 
 
 ---
@@ -44,9 +45,10 @@
 	- Mind
 - Gratitude
 - Administrative matters
-    -   check for consent to the last meeting’s minutes
-    -   agree on a date for the next meeting
-    -   check for any last-minute agenda items and for consent to the agenda
+	- Elect note taker
+    - Check for consent to the last meeting’s minutes
+    - Agree on a date for the next meeting
+    - Check for any last-minute agenda items and for consent to the agenda
 
 ### Divergent period
 - Explore / Generate
