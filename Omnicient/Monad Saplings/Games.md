@@ -6,7 +6,7 @@ Related: [[Trust Games]]
 # Games Index
 
 #### [[Systems Thinking]]
-- [[Game Shifting]]
+- [[Omnicient/Monad Forrest/Game Shifting]]
 - [Systems thinking](https://www.albany.edu/cpr/gf/resources/Systems-Thinking-Exercises.htm)
     - http://www.exedes.com/Why-Do-Meetings-Start-Late.htm
     - http://www.exedes.com/Why-Do-Meetings-Start-Late.pdf

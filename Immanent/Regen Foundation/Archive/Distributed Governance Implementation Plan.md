@@ -20,13 +20,10 @@
 
 
 ## Game Transparency
-- Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, however its been integrated it into a Game Shifting recipie for future composability. 
+- Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, however its been integrated it into a Game Shifting recipie for live adaptability and future composability. 
 	- [[Game Shifting Elements]]
 
 ---
-
-
-### Content: From adgenda 
 
 ## Adgenda 
 - Grattitude for the MMV (Marketing Meta View :p) - best high level vatage point so far!
@@ -37,7 +34,7 @@
 - [[Regen Network Map]]
 
 ### Intention
-- Divergent segment: reflection on the big picture
+- Divergent segment: reflection on the big picture 
 - Convergent segment: loose consensus on the domains projects fit into and the roles we play
 
 ### Engagement level
