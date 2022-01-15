@@ -67,11 +67,11 @@
 - Time keeper senses the room an elects to move things on or keep an eye on the time for an appropriate moment 
 
 ### Emergent period (T/3mins)
-- Discussion around the nuance of these larger 'epics' and the flavour of the domain it might reside in.
+- Discussion around the nuance of these larger 'epics' around the liminal  domain it might reside in.
 - Time keeper senses the room an elects to move things on or keep an eye on the time for an appropriate moment 
 
 ### Convergent period (T/3mins)
-- Deciding on the domains which are accountable and responsible to eachother for particular 'epics'
+- Deciding which domains which are accountable and responsible to eachother on given 'epics'
 - [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 
 
