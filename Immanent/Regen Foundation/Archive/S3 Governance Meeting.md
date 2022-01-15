@@ -18,7 +18,6 @@
 - George - Project MGMT
 
 ## Game Transparency
-- Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should start to try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Elements]]
 - Transparency: Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, but integrating it into a Game Shifting recipie for future composability. 
 	- [[Game Shifting Elements]]
 
@@ -47,12 +46,12 @@
 ## Meeting Procession
 
 ### Setup (mins)
-- Check-in
-	- Body
-	- Heart
-	- Mind
 - Temprature check on engagement
 	- Response to the room (breathe, gratitude, get more excited)
+		- Check-in
+			- Body
+			- Heart
+			- Head
 - Administrative matters
 	- Elect note taker
     - Check for consent to the last meeting’s minutes
