@@ -32,6 +32,9 @@
 		- Theres probably syntropy between these elements - and probably other elements at play!
 	- What constraints do we need to set on how and when things will be done?
 - [[Regen Network Map]]
+- Other suggestions
+	- Short reports
+	- 
 
 ### Intention
 - Divergent segment: reflection on the big picture 
@@ -76,13 +79,12 @@ Element: Translate / Deepen / Determine
 Element: Select / Decide
 - Formalising the cross domain 'epics'. 
 - Determining the accountabilities/responsibilities of these epics in relation to domains
-- What constraints do we need to set on how and when things are done?
+- What constraints do we need to set around how and when things are done?
 - Reflect on interactions, celebrate successes and share suggestions for improvement
 - Closing check in on the felt sense of the gathering
 
 ### Post meeting 
 - Notes stored by elected note taker in Notion under the Governance Circle artefacts
-
 
 ---
 
