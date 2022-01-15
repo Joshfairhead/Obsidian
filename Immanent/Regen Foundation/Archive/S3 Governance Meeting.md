@@ -60,15 +60,16 @@
     - Check for any last-minute agenda items and for consent to the agenda
 - Check remaining time available note the rough time of a third and move to agenda items
 
-### Divergent period (1/3 mins)
+### Divergent period (T/3mins)
 - Explore / Generate
 	- Involved discussion around the projects that can be broadly be considered 'epics'.
 	- Mapping these large into domains and circles
 	- 
 
-### Emergent period
+### Emergent period (T/3mins)
 
-### Convergent period (mins)
+
+### Convergent period (T/3mins)
 - 
 
 
