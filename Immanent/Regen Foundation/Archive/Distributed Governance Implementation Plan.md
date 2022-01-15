@@ -6,9 +6,10 @@
 ## Prep
 - Find a note taker
 - Prepare adgenda 
-	- Send invitations and adgenda 
-	- Seek input in invitation
-- 
+	- Send adgenda and invite participants
+	- Call for input on adgenda items
+	- Call for note taker
+	- Call for time keeper
 
 ## Participants
 - Will - President
@@ -18,11 +19,12 @@
 - George - Project MGMT
 
 
+## Game Transparency
+- Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, however its been integrated it into a Game Shifting recipie for future composability. 
+	- [[Game Shifting Elements]]
+
 ---
 
-## Game Transparency
-- Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, however its integrated it into a Game Shifting recipie for future composability. 
-	- [[Game Shifting Elements]]
 
 ### Content: From adgenda 
 
