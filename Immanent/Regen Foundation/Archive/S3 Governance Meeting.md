@@ -19,16 +19,17 @@
 
 ## Game
 - Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
+- Transparency: Josh has framed the invitation
 
 ---
 
 ## Content
 ### From adgenda (seeking input)
-- Grattitude for the MMV (Marketing meta view); best high level vatage point so far!
+- Grattitude for the MMV (Marketing Meta View :p) - best high level vatage point so far!
 - Agreements around 'the meta'; whos doing what at the 'epic level' (and why!)
 	- What is driving us? e.g. is marketing driving operations or are operations driving marketing?
 		- Theres probably syntropy between these elements - and probably other elements at play!
-	- What constraints do we need to set on how and when will be done?
+	- What constraints do we need to set on how and when things will be done?
 
 ### Intention
 - Divergent: reflection on the big picture
