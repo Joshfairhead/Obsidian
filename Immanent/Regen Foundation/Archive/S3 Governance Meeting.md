@@ -33,8 +33,8 @@
 	- What constraints do we need to set on how and when things will be done?
 
 ### Intention
-- Divergent: reflection on the big picture
-- Convergent: loose consensus on the domains projects fit into and the roles we play
+- Divergent segment: reflection on the big picture
+- Convergent segment: loose consensus on the domains projects fit into and the roles we play
 
 ### Verbal interactions 
 - Listening stick
@@ -51,7 +51,9 @@
 	- Body
 	- Heart
 	- Mind
-- Gratitude
+- Engagement temprature check 
+	- Gratitudes if on the low end
+	- Breathing if on
 - Administrative matters
 	- Elect note taker
     - Check for consent to the last meeting’s minutes
