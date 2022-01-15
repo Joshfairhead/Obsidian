@@ -12,7 +12,7 @@ Audience: RND, the Network and general ecosysetem.
 - Working with the [[Board of Directors]] to develop novel and effective ways of working.
 
 ### What
-- Assisting the [[General Circle]] to audit the Foundations [[Foundation Org Structure Index]] and using these inputs to develop [[Distributed Governance Implementation plan]]
+- Assisting the [[General Circle]] to audit the Foundations [[Foundation Org Structure Index]] and using these inputs to develop [[Immanent/Regen Foundation/Workbench/Distributed Governance Implementation plan]]
 	- Developing workshops to help increase resolution on domains/roles and helping to integrate them with review structures.
 	- Working with the [[General Circle]] to maintain and develop organisational culture while maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc. 
 	- Working with the [[Mission Circle]] to grow the Validators network while ensuring stability and security through just and fair reward mechanisms
@@ -25,7 +25,7 @@ Audience: RND, the Network and general ecosysetem.
 
 
 ### Links
-- [[S3 Governance Meeting]]
+- [[Immanent/Regen Foundation/Archive/Distributed Governance Implementation Plan]]
 - [Governance forum](https://forum.regen.network/c/governance-proposal/10)
 - [Lost/locked tokens adgenda](https://forum.regen.network/t/in-need-of-communities-assistance-tokens-lost-in-wallet-conversion/212/7)
 

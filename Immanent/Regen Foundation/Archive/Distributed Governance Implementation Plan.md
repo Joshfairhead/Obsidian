@@ -1,4 +1,4 @@
-# Foundation Governance Meeting
+# Distributed Governance Implementation Plan
 
 ## Schedule
 90 mins every 2-4 weeks.
