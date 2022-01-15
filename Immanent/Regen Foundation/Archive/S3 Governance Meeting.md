@@ -57,6 +57,7 @@
     - Check for consent to the last meeting’s minutes
     - Agree on a date for the next meeting
     - Check for any last-minute agenda items and for consent to the agenda
+- Agenda items
 
 ### Divergent period (mins)
 - Explore / Generate
@@ -70,13 +71,13 @@
 
 
 ### Post meeting 
-- Note taker ensures  stored in Notion under Governance Circle artefacts
+- Notes stored in Notion under Governance Circle artefacts
 
 
 
 
 
--   agenda items
+---
 -   [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 -   closing: check in with each other before you leave the meeting
 
