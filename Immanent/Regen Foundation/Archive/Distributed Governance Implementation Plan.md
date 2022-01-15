@@ -64,12 +64,14 @@
 ### Divergent period (T/3mins)
 - Explore / Generate
 	- Involved discussion around the projects that can be broadly be considered 'epics'
-	- 
-- Time keeper senses the room an elects to move things on or keep an eye on the ti
+- Time keeper senses the room an elects to move things on or keep an eye on the time for an appropriate moment 
+
 ### Emergent period (T/3mins)
-- Mapping these larger 'epics' into domains and circles.
+- Discussion around the nuance of these larger 'epics' and the flavour of the domain it might reside in.
+- Time keeper senses the room an elects to move things on or keep an eye on the time for an appropriate moment 
 
 ### Convergent period (T/3mins)
+- 
 - [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 
 
