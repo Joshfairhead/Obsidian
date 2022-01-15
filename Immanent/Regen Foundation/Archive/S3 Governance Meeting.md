@@ -17,10 +17,9 @@
 - David (LOA) - Marketing
 - George - Project MGMT
 
-## Game
+## Game Transparency
 - Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
-- Transparency: Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' loosely outlined around the S3 format and Game Shifting formats. 
-
+- Transparency: Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' loosely outlined around the S3 format and Game Shifting formats. th change the microstructures that don't suit our needs
 ---
 
 ## Content
