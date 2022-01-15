@@ -19,7 +19,7 @@
 
 ## Game
 - Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
-- Transparency: Josh has framed the invitation
+- Transparency: Josh has framed the invitation and is 'hosting' the circle with 
 
 ---
 
