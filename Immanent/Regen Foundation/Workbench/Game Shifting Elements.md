@@ -1,8 +1,4 @@
----
-Tags: []
----
-Related: 
-# Game Shifting Setup
+# Game Shifting Elements
 
 
 ## Function
