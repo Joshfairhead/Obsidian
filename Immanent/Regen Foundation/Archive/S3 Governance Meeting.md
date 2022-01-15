@@ -69,6 +69,9 @@
 - 
 
 
+### Post meeting 
+- Note taker ensures  stored in Notion under Governance Circle artefacts
+
 
 
 
