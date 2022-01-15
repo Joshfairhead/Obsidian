@@ -45,8 +45,8 @@
 ----
 
 
-## Time line
-### Setup
+## In meeting time line / milestones
+### Setup (mins)
 - Check-in
 	- Body
 	- Heart
@@ -58,14 +58,14 @@
     - Agree on a date for the next meeting
     - Check for any last-minute agenda items and for consent to the agenda
 
-### Divergent period
+### Divergent period (mins)
 - Explore / Generate
 	- Involved discussion around the projects that can be broadly be considered 'epics'.
 	- Mapping these large into domains and circles
 	- 
 
 
-### Convergent period
+### Convergent period (mins)
 - 
 
 
