@@ -18,19 +18,22 @@
 - George - Project MGMT
 
 ## Game Transparency
-- Transparency: Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, but integrating it into a Game Shifting recipie for future composability. 
+- Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, however its integrated it into a Game Shifting recipie for future composability. 
 	- [[Game Shifting Elements]]
 
 
 ---
 ## Initialising elements (adaptable)
 
-### Adgenda 
+### Content:
+
+## Adgenda 
 - Grattitude for the MMV (Marketing Meta View :p) - best high level vatage point so far!
 - Agreements around 'the meta'; whos doing what at the 'epic level' (and why!)
 	- What is driving us? e.g. is marketing driving operations or are operations driving marketing?
 		- Theres probably syntropy between these elements - and probably other elements at play!
 	- What constraints do we need to set on how and when things will be done?
+
 
 ### Intention
 - Divergent segment: reflection on the big picture

@@ -1,4 +1,4 @@
-# Game Shifting Elements
+# Game Shifting
 This is typically on a board and drawn in funky ways. 
 Because I enjoy thinknig about classificatons and this is n an MD note, I've broken them down into a triple of function, being and will - this is a macro schema I placed on top of the elements and can be ignored. The bottom two levels of text size are all that matter on a game shifting board.
 
