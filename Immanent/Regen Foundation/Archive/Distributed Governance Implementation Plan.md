@@ -47,6 +47,7 @@
 ## Meeting Procession
 
 ### Setup (mins)
+- Elect time keeper
 - Temprature check on engagement
 	- Response to the room (breathe, gratitude, get more excited)
 		- Check-in
@@ -54,7 +55,7 @@
 			- Heart
 			- Head
 - Administrative matters
-	- Elect note taker
+	- Elect note taker (seperate to time keeper)
     - Check for consent to the last meeting’s minutes
     - Agree on a date for the next meeting
     - Check for any last-minute agenda items and for consent to the agenda
@@ -64,7 +65,7 @@
 - Explore / Generate
 	- Involved discussion around the projects that can be broadly be considered 'epics'
 	- 
-
+- Time keeper senses the room an elects to move things on or keep an eye on the ti
 ### Emergent period (T/3mins)
 - Mapping these larger 'epics' into domains and circles.
 
