@@ -34,7 +34,9 @@
 - [[Regen Network Map]]
 - Other suggestions
 	- Short reports
-	- 
+	- Review of agreements
+	- Selecting people for roles
+	- Designing domains 
 
 ### Intention
 - Divergent segment: reflection on the big picture 
