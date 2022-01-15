@@ -36,11 +36,11 @@
 - Divergent segment: reflection on the big picture
 - Convergent segment: loose consensus on the domains projects fit into and the roles we play
 
-### Verbal interactions 
-- Listening stick
-
 ### Engagement level
 - Temprature check with the intention of arriving to a relaxed atmosphere and soft focus.
+
+### Interaction patterns
+- Variable. See: [[Game Shifting Elements]]
 
 
 ----
@@ -73,7 +73,7 @@ Element: Translate / Deepen / Determine
 
 ### Convergent period (T/3mins)
 Element: Select / Decide
-- Formalising the cross domain accountablities and responsiblities on given 'epics' and 
+- Formalising the cross domain accountablities and responsiblities on given 'epics' and integrating them into 
 - [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 
 
