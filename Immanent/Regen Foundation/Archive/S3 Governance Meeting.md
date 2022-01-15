@@ -51,9 +51,9 @@
 	- Body
 	- Heart
 	- Mind
-- Engagement temprature check 
-	- Gratitudes if on the low end
-	- Breathing if on
+- Temprature check 
+	- Engagement
+	- 
 - Administrative matters
 	- Elect note taker
     - Check for consent to the last meeting’s minutes
