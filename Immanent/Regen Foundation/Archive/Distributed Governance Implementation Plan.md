@@ -73,9 +73,10 @@ Element: Translate / Deepen / Determine
 
 ### Convergent period (T/3mins)
 Element: Select / Decide
-- Formalising the cross domain accountablities and responsiblities on given 'epics' and integrating them into 
-- [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
-
+- Formalising the cross domain accountablities and responsiblities on given 'epics' and integrating them into
+- What constraints do we need to set on how and when things are done?
+- Reflect on interactions, celebrate successes and share suggestions for improvement
+- Closing che
 
 ### Post meeting 
 - Notes stored in Notion under Governance Circle artefacts
