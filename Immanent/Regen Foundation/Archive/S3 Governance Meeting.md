@@ -23,7 +23,7 @@
 
 
 ---
-## Content
+## Meta structure
 ### From adgenda (seeking input)
 - Grattitude for the MMV (Marketing Meta View :p) - best high level vatage point so far!
 - Agreements around 'the meta'; whos doing what at the 'epic level' (and why!)
