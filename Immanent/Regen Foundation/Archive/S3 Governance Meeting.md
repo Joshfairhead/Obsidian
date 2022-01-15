@@ -23,8 +23,9 @@
 
 
 ---
-## Meta structure
-### From adgenda (seeking input)
+## Initialising elements (adaptable)
+
+### Adgenda 
 - Grattitude for the MMV (Marketing Meta View :p) - best high level vatage point so far!
 - Agreements around 'the meta'; whos doing what at the 'epic level' (and why!)
 	- What is driving us? e.g. is marketing driving operations or are operations driving marketing?
@@ -57,7 +58,7 @@
     - Check for consent to the last meeting’s minutes
     - Agree on a date for the next meeting
     - Check for any last-minute agenda items and for consent to the agenda
-- Agenda items
+- Move to agenda items
 
 ### Divergent period (mins)
 - Explore / Generate
