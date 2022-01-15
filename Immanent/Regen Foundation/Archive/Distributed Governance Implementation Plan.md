@@ -71,7 +71,7 @@
 - Time keeper senses the room an elects to move things on or keep an eye on the time for an appropriate moment 
 
 ### Convergent period (T/3mins)
-- Taking resp
+- Domains that take responsibility held to account by 
 - [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 
 
