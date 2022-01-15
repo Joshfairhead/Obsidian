@@ -5,8 +5,9 @@
 
 ## Prep
 - Find a note taker
-- Read prepare adgenda
-
+- Prepare adgenda 
+	- Send invitations and adgenda 
+	- Seek input 
 ## Participants
 - Will - President
 - Revs - Lead link
