@@ -73,7 +73,7 @@ Element: Translate / Deepen / Determine
 
 ### Convergent period (T/3mins)
 Element: Select / Decide
-- Deciding the domains which are accountable and responsible to eachother on given 'epics'
+- Formalising the cross domain accountablities and responsiblities on given 'epics' and 
 - [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 
 
