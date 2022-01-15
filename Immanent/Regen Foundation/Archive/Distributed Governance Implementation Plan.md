@@ -62,16 +62,17 @@
 - Check remaining time available note the rough time of a third and move to agenda items
 
 ### Divergent period (T/3mins)
-- Element: Explore / Generate
-	- Involved discussion around the projects that can be broadly be considered 'epics'
+Element: Explore / Generate
+- Involved discussion around the projects that can be broadly be considered 'epics'
 - Time keeper senses the room an elects to move things on or keep an eye on the time for an appropriate moment 
 
 ### Emergent period (T/3mins)
 Element: Translate / Deepen 
-- Discussion around the nuance of these larger 'epics' around the liminal space between domain that it occupies.
+- Relaxed discussion around the nuance of these larger 'epics' around the liminal space it occupies between domains.
 - Time keeper senses the room an elects to move things on or keep an eye on the time for an appropriate moment 
 
 ### Convergent period (T/3mins)
+Element: Select / Decide
 - Deciding which domains which are accountable and responsible to eachother on given 'epics'
 - [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 
