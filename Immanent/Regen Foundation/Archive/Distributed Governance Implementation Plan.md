@@ -76,20 +76,13 @@ Element: Select / Decide
 - Formalising the cross domain accountablities and responsiblities on given 'epics' and integrating them into
 - What constraints do we need to set on how and when things are done?
 - Reflect on interactions, celebrate successes and share suggestions for improvement
-- Closing che
+- Closing check in on the felt sense of the gathering
 
 ### Post meeting 
-- Notes stored in Notion under Governance Circle artefacts
-
-
-
+- Notes stored by elected note taker in Notion under the Governance Circle artefacts
 
 
 ---
-
--   closing: check in with each other before you leave the meeting
-
-![Phases of a governance meeting](https://patterns.sociocracy30.org/img/meetings/governance-meeting.png)
 
 Typical agenda items include:
 
