@@ -4,7 +4,8 @@
 90 mins every 2-4 weeks.
 
 ## Prep
-- Elect or find a note taker
+- Find a note taker
+- Read prepare adgenda
 
 ## Participants
 - Will - President
