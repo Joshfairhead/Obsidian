@@ -21,8 +21,9 @@
 - Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Elements]]
 - Transparency: Josh has framed the invitation and is softly 'hosting' a participatory 'reality game' in the S3 format, but integrating it into a Game Shifting recipie for future composability. 
 	- [[Game Shifting Elements]]
----
 
+
+---
 ## Content
 ### From adgenda (seeking input)
 - Grattitude for the MMV (Marketing Meta View :p) - best high level vatage point so far!
@@ -43,9 +44,8 @@
 
 
 ----
+## Meeting Procession
 
-
-## In meeting time line / milestones
 ### Setup (mins)
 - Check-in
 	- Body
