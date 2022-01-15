@@ -1,6 +1,6 @@
 # Game Shifting Elements
 This is typically on a board and drawn in funky ways. 
-Because I enjoy thinknig about classificatons and this is n an MD note, I've broken them down into a triple - which is a semiotic pattern I see 
+Because I enjoy thinknig about classificatons and this is n an MD note, I've broken them down into a triple of function, being and will - this is a macro schema I placed on top of the elements and can be ignored. The bottom two levels of 
 
 ## Function
 ### Content
