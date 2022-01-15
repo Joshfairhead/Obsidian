@@ -58,14 +58,15 @@
     - Check for consent to the last meeting’s minutes
     - Agree on a date for the next meeting
     - Check for any last-minute agenda items and for consent to the agenda
-- Move to agenda items
+- Check remaining time available note the rough time of a third and move to agenda items
 
-### Divergent period (mins)
+### Divergent period (1/3 mins)
 - Explore / Generate
 	- Involved discussion around the projects that can be broadly be considered 'epics'.
 	- Mapping these large into domains and circles
 	- 
 
+### Emergent period
 
 ### Convergent period (mins)
 - 
