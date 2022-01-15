@@ -62,15 +62,14 @@
 
 ### Divergent period (T/3mins)
 - Explore / Generate
-	- Involved discussion around the projects that can be broadly be considered 'epics'.
-	- Mapping these large into domains and circles
+	- Involved discussion around the projects that can be broadly be considered 'epics'
 	- 
 
 ### Emergent period (T/3mins)
-
+- Mapping these larger 'epics' into domains and circles.
 
 ### Convergent period (T/3mins)
-- 
+- [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
 
 
 ### Post meeting 
@@ -81,7 +80,7 @@
 
 
 ---
--   [meeting evaluation](https://patterns.sociocracy30.org/evaluate-meetings.html): reflect on your interactions, celebrate successes and share suggestions for improvement
+
 -   closing: check in with each other before you leave the meeting
 
 ![Phases of a governance meeting](https://patterns.sociocracy30.org/img/meetings/governance-meeting.png)
