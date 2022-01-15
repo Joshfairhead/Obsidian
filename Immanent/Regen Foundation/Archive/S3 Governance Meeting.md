@@ -7,7 +7,9 @@
 - Find a note taker
 - Prepare adgenda 
 	- Send invitations and adgenda 
-	- Seek input 
+	- Seek input in invitation
+- 
+
 ## Participants
 - Will - President
 - Revs - Lead link
@@ -18,12 +20,11 @@
 ## Game
 - Usually facillitated in S3 style; but since we apparently have an abundance of skilled facillitators perhaps we should try game shifting? [Link](http://emergingleaderlabs.org/Gameshifting_Overview) [[Game Shifting Setup]]
 
-
 ---
 
 ## Content
 ### From adgenda (seeking input)
-- Grattitude: MMV - the marketing meta view; best high level vatage point so far!
+- Grattitude for the MMV (Marketing meta view); best high level vatage point so far!
 - Agreements around 'the meta'; whos doing what at the 'epic level' (and why!)
 	- What is driving us? e.g. is marketing driving operations or are operations driving marketing?
 		- Theres probably syntropy between these elements - and probably other elements at play!
@@ -37,7 +38,11 @@
 - Listening stick
 
 ### Engagement level
-- Poll the room with the intention of arriving to a relaxed atmosphere with soft focus.
+- Temprature check with the intention of arriving to a relaxed atmosphere and soft focus.
+
+
+----
+
 
 ## Time line
 ### Setup
