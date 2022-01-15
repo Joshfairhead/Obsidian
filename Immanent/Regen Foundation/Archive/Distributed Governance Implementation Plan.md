@@ -74,7 +74,8 @@ Element: Translate / Deepen / Determine
 
 ### Convergent period (T/3mins)
 Element: Select / Decide
-- Formalising the cross domain 'epics' and determining accountabilities/responsibilities
+- Formalising the cross domain 'epics'. 
+- Determining the accountabilities/responsibilities of these epics in relation to domains
 - What constraints do we need to set on how and when things are done?
 - Reflect on interactions, celebrate successes and share suggestions for improvement
 - Closing check in on the felt sense of the gathering
