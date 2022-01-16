@@ -9,6 +9,6 @@ Related: [[Trivium]] [[Qual Systems]] [[Microsolidarity]]
 #### Outline
 - **Monad**: Steering
 - **Dyad**: Commerce/Correspondence
-- **Triad**: Logic, Grammar, Rhetoric
+- **Triad**: Logic, Grammar, Rhetoric | Locutionary, Perlocutionary, Illocutionary
 - **Tetrad**:
 - **Pentad**: Affirmation, Accusation, Demonstration, Commiseration, Declaration
