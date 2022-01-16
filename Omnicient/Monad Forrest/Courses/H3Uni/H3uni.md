@@ -99,3 +99,49 @@ Related: [[Anthony Hodgeson]] [[Qual Systems]] [[Cosmic Ecology Index]] [[E-syst
 > My pleasure [@John Hicks](https://h3uni.slack.com/team/U01S1DSP18U) - I'm glad someones getting value out of this aside from myself. I've figured out that to create a semantic search engine I need to take a middle out approach. That is a reconciliation of top down metaphysical attractors, and bottom up linguistical approach. That is to say that QualSystems is a top down metaphysics that describes modalities, while the Trivium describes the use of language itself but not its orientation towards a given modality. i.e. the optative/hortatory modes of a language imply an asymmetry or contiguity between parties (speaking up to power). They are thus metaphysically of the passive/receptive/6/omnicient modality. Paired together, there is a vector that allows for a term to be interpreted 'correctly' - applied in reverse to an index of pages it seems possible to then surface a single result that would answer ones query.
 > 
 > Being a terrible mathematician, I wonder if the correct term for said attractors is Eigenvalue (one value??). I think [@Anthony H](https://h3uni.slack.com/team/U01SJSZB2V6) covered this somewhere before and my assumption is the hunch is correct. This ties into the Gurdjieff quote that "one must have a clear and definite aim"; in the present moment there is one thing guiding our actions (e.g. I'm looking for water - a near star). I believe he also says it should be in service to a greater aim which might be considered a metaphysical northstar (e.g. manifesting H3uni; without water to nourish us there isn't a hope of manifesting the north star as we would perish). This is a good example of what I mean in the above paragraph regarding the middle out approach; theres an attractor on the ground and there's an attractor in the ideal. Sure they might be "one values", but there are many "one values" around us and so we need to determine which ones we are actually paying attention to (directive agency) and how we move from the ground to the ideal (instrumental means).If anyone wants to practice this stuff with me, I'd be grateful to jam. I'm hoping to do a workshop on this stuff on the 22nd for a gathering myself and peers self-organise on Equinox -  for those that want to meet the extitutional collective in a deterritorialised space I'm happy to invite people to the server where we gather. Just pm here or e-mail and your welcome along. I'm also happy to give the game a go in the Lighthouse Lab at some point if that's interesting?
+
+> Hey Anthony,  
+> just an update that I'm starting to enjoy playing with pentads. I'm realising that its the first system which vertically integrates the lower order systems; for instance a triad of "Why, how, what" felt incomplete to me because I knew of the homeless "Where, when" inquiries (along with "for whom"). Now I see there's a decending 'higher nature' triad of "why, how, what' and a decending 'lower nature' triad of "what, where, when"
+I guess I'm still curious how 3/5 relate to the tetrad. I've some ideas of the qualshift between 3/4 but between 3/5 the relationship seems more apparent and obvious...  
+
+  
+
+You pushed back on the behaviourist triad of "Motivation, ability, prompt" previously as mechanical or 'lower natured'. I put this into a pentad and realised that "Values, Meaning, purpose" is perhaps its more romantic counter part - at least values and prompt seem like the same thing to me while meaning and purpose seem to be 'higher natured' flavours of ability/motivation.  
+
+  
+
+The latter described a little differently; values are semiotic prompts from which we discern meaning (semantics) that we compare against our motivations. If these are in alignment with our abilities, then our movement can serve towards a greater purpose.  
+
+- There's a triad that's hyparchically arising as I type this...  
+
+- 3) Semiotics, 6) Semantics, | 9) Pragmatics??? - What is the trancendental 9??? |  
+
+  
+
+I've also been playing with triads/pentads frame/organise a paper I was reading on speech acts... I guess pragmatics feels on point to me in that respect. With my loose understanding of the field I've borrowed/reframed/derived a triple of 3) locutionary, 6) illocutionary, 9) perlocutionary.  
+
+- My assumption is that the speech acts acts fall in the descending order of "Representatievs, expressives, directives, commissives and declarations" when put into a pentad - at least that's the frame Ive put around the terms.  
+
+- There seems to be a Hexad and Tetrad of pragmatics in the paper that I'm yet to properly decipher and sequence.  
+
+  
+
+Oh, another one I noticed; David Bollingers book on the commons "fair, free, alive" feels like it represents the lower nature of the commons. I've been assuming that "power" is that which is alive, vital and creative... so I glued the manifolds(?) together at their common term (alive) to see if it would produce the "creative commons"... there seems to be correspondence between them. Decending order: Creative, vital, alive, fair, free. Creative and free feel like higher/lower nature correspondence, and fair/vital also seem like a loose coupling.  
+
+  
+
+Closing the incoherent rambling; it would seem I'm in the associative mode of inquiry for these tools. Threeness is starting to feel like its in the perceptual mode with a slight leaning towards creative construction but nacent (I've come up with a few myself; algorithm, functions, objects - summarises a lot of computer science for example).  
+
+  
+
+So yeah that's my learning update that I thought I should feed back.  
+
+  
+
+My more personal/professional update is that things are feeling relatively fluid at the new gig - I feel like I'm noticing and responding to signals (learning in the world), expressing myself / producing subjectivity in new ways and being creatively productive as well (org structuring / producing other self-determined outputs). The waters are starting to feel warm so far and I'm finding the work meaningful and significant!  
+
+  
+
+With warmth,  
+
+j
