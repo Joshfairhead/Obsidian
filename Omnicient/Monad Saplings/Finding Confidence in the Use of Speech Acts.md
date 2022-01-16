@@ -11,4 +11,4 @@ Related: [[Trivium]] [[Qual Systems]] [[Microsolidarity]]
 - **Dyad**: Commerce/Correspondence
 - **Triad**: Logic, Grammar, Rhetoric | Locutionary, Perlocutionary, Illocutionary
 - **Tetrad**:
-- **Pentad**: Affirmation, Accusation, Demonstration, Commiseration, Declaration
+- **Pentad**: Affirmation, Accusation, Demonstration, Commiseration, Declaration | Representatives, Directives, Expressives, Commissives, Declarations
