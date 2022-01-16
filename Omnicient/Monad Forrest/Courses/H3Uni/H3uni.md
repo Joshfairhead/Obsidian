@@ -100,6 +100,8 @@ Related: [[Anthony Hodgeson]] [[Qual Systems]] [[Cosmic Ecology Index]] [[E-syst
 > 
 > Being a terrible mathematician, I wonder if the correct term for said attractors is Eigenvalue (one value??). I think [@Anthony H](https://h3uni.slack.com/team/U01SJSZB2V6) covered this somewhere before and my assumption is the hunch is correct. This ties into the Gurdjieff quote that "one must have a clear and definite aim"; in the present moment there is one thing guiding our actions (e.g. I'm looking for water - a near star). I believe he also says it should be in service to a greater aim which might be considered a metaphysical northstar (e.g. manifesting H3uni; without water to nourish us there isn't a hope of manifesting the north star as we would perish). This is a good example of what I mean in the above paragraph regarding the middle out approach; theres an attractor on the ground and there's an attractor in the ideal. Sure they might be "one values", but there are many "one values" around us and so we need to determine which ones we are actually paying attention to (directive agency) and how we move from the ground to the ideal (instrumental means).If anyone wants to practice this stuff with me, I'd be grateful to jam. I'm hoping to do a workshop on this stuff on the 22nd for a gathering myself and peers self-organise on Equinox -  for those that want to meet the extitutional collective in a deterritorialised space I'm happy to invite people to the server where we gather. Just pm here or e-mail and your welcome along. I'm also happy to give the game a go in the Lighthouse Lab at some point if that's interesting?
 
+
+Email
 > Hey Anthony,  
 > 
 > just an update that I'm starting to enjoy playing with pentads. I'm realising that its the first system which vertically integrates the lower order systems; for instance a triad of "Why, how, what" felt incomplete to me because I knew of the homeless "Where, when" inquiries (along with "for whom"). Now I see there's a decending 'higher nature' triad of "why, how, what' and a decending 'lower nature' triad of "what, where, when".
@@ -125,9 +127,6 @@ Related: [[Anthony Hodgeson]] [[Qual Systems]] [[Cosmic Ecology Index]] [[E-syst
 > So yeah that's my learning update that I thought I should feed back.  
 > 
 > My more personal/professional update is that things are feeling relatively fluid at the new gig - I feel like I'm noticing and responding to signals (learning in the world), expressing myself / producing subjectivity in new ways and being creatively productive as well (org structuring / producing other self-determined outputs). The waters are starting to feel warm so far and I'm finding the work meaningful and significant!  
-
-  
-
-With warmth,  
-
-j
+>
+> With warmth,  
+	j
