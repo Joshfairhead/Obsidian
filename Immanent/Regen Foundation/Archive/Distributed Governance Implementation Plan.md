@@ -1,4 +1,4 @@
-# Distributed Governance Implementation Plan
+## Network Structure Call
 
 ## Schedule
 90 mins every 2-4 weeks.
@@ -16,6 +16,7 @@
 - Revs - Lead link
 - Austin - EnDAOment
 - David (LOA) - Marketing
+- Sam - Registry
 - George - Project MGMT
 
 
