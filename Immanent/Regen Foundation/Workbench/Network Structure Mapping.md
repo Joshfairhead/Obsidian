@@ -1,4 +1,4 @@
-## Network Structure Call
+# Network Structure Mapping
 
 ## Schedule
 90 mins every 2-4 weeks.

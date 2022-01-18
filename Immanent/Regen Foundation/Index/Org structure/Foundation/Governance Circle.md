@@ -25,7 +25,7 @@ Audience: RND, the Network and general ecosysetem.
 
 
 ### Links
-- [[Immanent/Regen Foundation/Archive/Distributed Governance Implementation Plan]]
+- [[Network Structure Mapping]]
 - [Governance forum](https://forum.regen.network/c/governance-proposal/10)
 - [Lost/locked tokens adgenda](https://forum.regen.network/t/in-need-of-communities-assistance-tokens-lost-in-wallet-conversion/212/7)
 
