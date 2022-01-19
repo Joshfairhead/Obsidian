@@ -3,7 +3,7 @@
 ## Why
 ![](assets/FoundationalEcologySmall.jpg)
 - Ensuring the Foundations own existance and fostering the Networks essence
-- Facillita the flow of information between roles, domains and the network
+- Facillitating the flow of information between roles, domains and the network
 - Supporting governance implementations
 - Supporting departmental sub-circles and lead links
 - Preparation and handling undelegated work
