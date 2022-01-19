@@ -12,12 +12,16 @@
 - Onboarding aligned communities to community staking DAOs
 
 
+### Where / When
+Roundup: Bi-weekly community call
+
 ### Who 
 | Member | Role |
 |---|---|
-| Austin | Lead link for EnDAOment circle - Global North
-| Gijs | Lead link for EnDAOment circle - Global South|
-| Revathi | Lead link for General circle |
+| Austin | Lead link for [[EnDAOment circle]] - Global North
+| Gijs | Lead link for [[EnDAOment circle]] - Global South|
+| Revathi | Backlink for [[General circle]] |
+| Josh | Backlink for [[Governance Circle]] |
 
 ### Links:
 - [Onboarding Process Flow](https://app.mural.co/t/regenfoundation4191/m/regenfoundation4191/1635221428124/5b089549aaeb38ea7377719e50b6632f90fbb1f4?sender=u70ef79b0a9c38c2d8ebd9946)
