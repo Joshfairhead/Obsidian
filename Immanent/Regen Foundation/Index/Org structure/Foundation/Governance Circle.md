@@ -1,5 +1,4 @@
-# Governance Circle
-Audience: RND, the Network and general ecosysetem.
+# Governance/Ecosystem Circle
 
 ### Why
 - To sense into and inhabit the networks values.
@@ -27,8 +26,8 @@ Audience: RND, the Network and general ecosysetem.
 ### Who
 | Members | Role |
 |---|---|
-| Josh | Lead link for governance circle |
-| Revathi | Back link for the general circle |
+| Josh | Backlink for [[governance circle]] |
+| Revathi | Backlink for the [[general circle]] |
 | Austin / Gijs | Back link for enDAOment |
 | Emily | Back link for marketing |
 
