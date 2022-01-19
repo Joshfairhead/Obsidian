@@ -15,8 +15,9 @@
 	- Inform and provide inputs to operations and culture
 
 ## What
-- The creation of departmental sub-circles through governance 
-- Notion based project management; epics and tasks.
+- The creation of departmental sub-circles and assinage of roles through governance meetings based on Sociocratic practices.
+- Notion based project management; tasks and epics.
+- 
 
 
 | Member | Role |
