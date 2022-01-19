@@ -3,10 +3,9 @@ Audience: RND, the Network and general ecosysetem.
 
 ### Why
 - To sense into and inhabit the networks values.
-- Developing multi-scale nested network governance both internally and external.
-- Facilitating the expression and articulation of implicit values.
-- Ensuring a just and equitable distribution of PoS rewards amongst validators.
-
+- Developing multi-scale nested network governance within the ecosystem.
+	- Ensuring a just and equitable distribution of PoS rewards amongst validators.
+	- Connecting validators 
 ### How
 - 
 - Education: to build capacity within the Foundation and amongst the larger Network.
