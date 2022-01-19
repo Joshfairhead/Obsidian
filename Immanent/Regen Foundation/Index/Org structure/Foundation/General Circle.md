@@ -9,17 +9,16 @@
 - Preparation, package and handling of undelegated work
 
 ## How
-- Notion based project management; tasks and epics.
+- Notion based project management to coordinate tasks and epics.
+- Facillitating Sociocratic strategy and 
 	
-	
-
-	- Inform and provide inputs to operations and culture
+- Inform and provide inputs to operations and culture
 
 ## What
 - Articulating a revised Mission and Aim for the organization
 - Structure and membership of Board of Directors/[[Mission Circle]].
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
-- Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings 
+- Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
 
 
