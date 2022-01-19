@@ -8,11 +8,11 @@ Audience: RND, the Network and general ecosysetem.
 
 ### How
 - Holding the space between RND, Validators, enDAOed communities, the Regen Registry and land stewards.
-- Education: to build capacity within the Foundation and amongst the larger Network.
+- Building educational and ethical capacity within the larger Network.
 - Working with the [[Board of Directors]] to develop novel and effective ways of working.
 
 ### What
-- Assisting the [[General Circle]] to audit the Foundations [[Foundation Org Structure Index]] and using these inputs to develop [[Immanent/Regen Foundation/Workbench/Distributed Governance Implementation plan]]
+- Assisting the [[General Circle]] to audit the Network org structure and using these inputs to develop [[Distributed Governance Implementation plan]]
 	- Developing workshops to help increase resolution on domains/roles and helping to integrate them with review structures.
 	- Working with the [[General Circle]] to maintain and develop organisational culture while maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc. 
 	- Working with the [[Mission Circle]] to grow the Validators network while ensuring stability and security through just and fair reward mechanisms
