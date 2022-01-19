@@ -8,7 +8,8 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 
 ### What
 - [[Board of Directors]] holds the Foundation to its mission.
-- Growing the Regen consortium to a capacity so that the consortium effectivly steward its mission in adaptation to the 
+- Growing the Regen consortium for the effective stewardship of its mission.
+- Oversight of the Regen Foundations budgeting, activity and operations
 
 | Member | Role | 
 |---|---|
