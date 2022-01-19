@@ -17,6 +17,10 @@ Audience: RND, the Network and general ecosysetem.
 	- Working with the [[General Circle]] to maintain and develop organisational culture while maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc. 
 	- Working with the [[Mission Circle]] to grow the Validators network while ensuring stability and security through just and fair reward mechanisms
 
+### Where / When
+- Round up: bi-weekly community call 30min facillitated by the [[Governance Circle]]
+
+
 ### Who
 | Members | Role |
 |---|---|

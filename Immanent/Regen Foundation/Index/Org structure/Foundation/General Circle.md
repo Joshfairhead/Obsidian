@@ -31,5 +31,4 @@
 
 ## Where / When
 - Standups: daily 30min
-- Round up: bi-weekly community ca
-- Governance meetings 
+- Round up: bi-weekly community call 30min facillitated by the [[Governance Circle]]
