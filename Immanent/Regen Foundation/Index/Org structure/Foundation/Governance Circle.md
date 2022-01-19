@@ -3,7 +3,7 @@ Audience: RND, the Network and general ecosysetem.
 
 ### Why
 - To sense into and inhabit the networks values.
-- Developing multi-scale nested network governance.
+- Developing multi-scale nested network governance both internally and external.
 - Facilitating the expression and articulation of implicit values.
 - Ensuring a just and equitable distribution of PoS rewards amongst validators.
 
@@ -28,8 +28,8 @@ Audience: RND, the Network and general ecosysetem.
 |---|---|
 | Josh | Lead link for governance circle |
 | Revathi | Back link for the general circle |
+| Austin / Gijs | Back link for enDAOment |
 | Emily | Back link for marketing |
-| Austin / Gijs | Back link for 
 
 
 ### Links
