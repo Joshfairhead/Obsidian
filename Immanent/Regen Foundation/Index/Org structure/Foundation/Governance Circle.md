@@ -7,11 +7,14 @@ Audience: RND, the Network and general ecosysetem.
 	- Ensuring a just and equitable distribution of PoS rewards
 
 ### How
+- Working with the [[Board of Directors]]/[[General Circle]] to develop novel and effective ways of working.
 - Holding the space between RND, Validators, enDAOed communities, the Regen Registry and land stewards.
 - Building educational and ethical capacity within the larger Network.
-- Working with the [[Board of Directors]] to develop novel and effective ways of working.
+
 
 ### What
+- Community call presenting organisational/network roundup to the community
+- 
 - Assisting the [[General Circle]] to audit the Network organisation structure and using these inputs to develop a [[Distributed Governance Implementation plan]]
 	- Developing workshops to help increase resolution on domains/roles and helping to integrate them with review structures.
 	- Working with the [[General Circle]] to maintain and develop organisational culture while maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc. 
