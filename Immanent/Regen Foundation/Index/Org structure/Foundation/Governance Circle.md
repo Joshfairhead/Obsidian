@@ -8,6 +8,7 @@ Audience: RND, the Network and general ecosysetem.
 - Ensuring a just and equitable distribution of PoS rewards amongst validators.
 
 ### How
+- 
 - Education: to build capacity within the Foundation and amongst the larger Network.
 - Working with the [[Board of Directors]] to develop novel and effective ways of working.
 
@@ -19,14 +20,16 @@ Audience: RND, the Network and general ecosysetem.
 
 ### Where / When
 - Round up: bi-weekly community call presenting reports of the ([[General Circle]]) and other activity.
-- Governance: S3 meeting every 2-6 weeks.
+- Governance: S3 style meeting every 2-6 weeks.
 
 
 ### Who
 | Members | Role |
 |---|---|
 | Josh | Lead link for governance circle |
-| Revathi | Lead link for the general circle|
+| Revathi | Back link for the general circle |
+| Emily | Back link for marketing |
+| Austin / Gijs | Back link for 
 
 
 ### Links
