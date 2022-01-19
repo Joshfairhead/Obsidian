@@ -5,7 +5,7 @@
 - To coordinate the flow of information between roles, domains and the network
 - Supporting governance implementations
 - Supporting departmental sub-circles and lead links
-- Handling undelegated work
+- Preparation and handling undelegated work
 
 ## How
 (Internally focused on the foundation)
