@@ -4,7 +4,7 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 
 ### How
 - The creation and growth of multi-capital value in regenerative ecosystems
-- Groups of people maknig decisions about the parametrs stored on distributed ledger technology. 
+- Groups of people making decisions about parametrs and the rules about how those parameters are changed and upgraded, on distributed ledger technology.  
 - [[Board of Directors]] holds the Foundation to its mission.
 
 ### What
