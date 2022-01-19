@@ -3,7 +3,8 @@
 Cultivating the growth of regenerative agriculture, holistic land management, and marine stewardship through the development of technological tools, scientific inquiry, and capacity building.
 
 ### How
-- The creation and growth of multi-capital value in regenerative ecosystems, run on distributed ledger technology. People, paramaters and the changing of 
+- 
+- The creation and growth of multi-capital value in regenerative ecosystems running; self-governed on distributed ledger technology. 
 - [[Board of Directors]] holds the Foundation to its mission.
 
 ### What
