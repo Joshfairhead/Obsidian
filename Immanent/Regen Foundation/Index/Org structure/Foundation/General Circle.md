@@ -29,3 +29,7 @@
 | George | Operations Assistant |
 
 
+## Where / When
+- Standups: daily 30min
+- Round up: bi-weekly community ca
+- Governance meetings 
