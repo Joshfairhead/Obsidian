@@ -4,12 +4,11 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 
 ### How
 - The creation and growth of multi-capital value in regenerative ecosystems
-- Groups of people making decisions about parametrs and the rules about how those parameters are changed and upgraded, on distributed ledger technology.  
-- [[Board of Directors]] holds the Foundation to its mission.
+- Groups of people making decisions about parametrs and the rules about how those parameters are changed and upgraded on distributed ledger technology.  
 
 ### What
-- Growing the Regen consortium
-- Governing 
+- [[Board of Directors]] holds the Foundation to its mission.
+- Growing the Regen consortium to a capacity so that the consortium effectivly steward its mission in adaptation to the 
 
 | Member | Role | 
 |---|---|
