@@ -18,7 +18,8 @@ Audience: RND, the Network and general ecosysetem.
 	- Working with the [[Mission Circle]] to grow the Validators network while ensuring stability and security through just and fair reward mechanisms
 
 ### Where / When
-- Round up: bi-weekly community call 30min facillitated by the [[Governance Circle]]
+- Round up: bi-weekly community call presenting reports of the ([[General Circle]]) and other activity.
+- Governance: S3 meeting every 2-6 weeks.
 
 
 ### Who
@@ -32,9 +33,3 @@ Audience: RND, the Network and general ecosysetem.
 - [[Network Structure Mapping]]
 - [Governance forum](https://forum.regen.network/c/governance-proposal/10)
 - [Lost/locked tokens adgenda](https://forum.regen.network/t/in-need-of-communities-assistance-tokens-lost-in-wallet-conversion/212/7)
-
-## Open Questions
-- Are we in a growth phase?
-	- Should that growth be inner or outer facing at this present moment?
-		- Are activities driving marketing or is marketing driving activities?
-			- There is probably syntropy to be balanced here
