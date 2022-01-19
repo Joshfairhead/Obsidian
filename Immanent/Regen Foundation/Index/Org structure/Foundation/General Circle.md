@@ -17,9 +17,14 @@
 ## What
 - The creation of departmental sub-circles and assinage of roles through governance meetings based on Sociocratic practices.
 - Notion based project management; tasks and epics.
-- 
 
 
+## Where / When
+- Standups: daily 30min
+- Round up: bi-weekly community call 30min facillitated by the [[Governance Circle]]
+
+
+### Who 
 | Member | Role |
 |---|---|
 | Revathi | Back link to mission circle |
@@ -27,8 +32,3 @@
 | Austin | Lead link to enDAOment circle - Global North |
 | Gijs | Lead link to enDAOment circle - Global south |
 | George | Operations Assistant |
-
-
-## Where / When
-- Standups: daily 30min
-- Round up: bi-weekly community call 30min facillitated by the [[Governance Circle]]
