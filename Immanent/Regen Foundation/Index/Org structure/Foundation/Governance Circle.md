@@ -28,8 +28,8 @@
 |---|---|
 | Josh | Backlink for [[governance circle]] |
 | Revathi | Backlink for the [[general circle]] |
-| Austin / Gijs | Back link for enDAOment |
-| Emily | Back link for marketing |
+| Austin / Gijs | Backlink for [[enDAOment circle]] |
+| Emily | Backlink for marketing |
 
 
 ### Links

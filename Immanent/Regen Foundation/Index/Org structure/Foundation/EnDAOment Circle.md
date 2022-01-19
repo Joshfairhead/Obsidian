@@ -12,9 +12,11 @@
 - Onboarding aligned communities to community staking DAOs
 
 
+### Who 
 | Member | Role |
 |---|---|
-| Gijs | Lead link for EnDAOment circle |
+| Austin | Lead link for EnDAOment circle - Global North
+| Gijs | Lead link for EnDAOment circle - Global South|
 | Revathi | Lead link for General circle |
 
 ### Links:
