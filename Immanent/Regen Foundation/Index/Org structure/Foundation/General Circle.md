@@ -16,15 +16,15 @@
 	- Inform and provide inputs to operations and culture
 
 ## What
-- Notion based project management
-- 
+- Notion based project management; epics and tasks.
 
 
 | Member | Role |
 |---|---|
-| Revathi | Lead link to mission circle |
+| Revathi | Back link to mission circle |
 | Josh | Lead link to governance circle |
 | Austin | Lead link to enDAOment circle - Global North |
 | Gijs | Lead link to enDAOment circle - Global south |
+| George | Operations Assistant / project MGMT |
 
 
