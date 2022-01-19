@@ -1,7 +1,3 @@
----
-Tags: []
----
-Related: 
 # Science retreat
 Gregory in the commonts:
 So the basic question I’d love to hear opinions on are: do we have community governed curation tags?  Or force community governance over credit issuance itself?  OR BOTH?
