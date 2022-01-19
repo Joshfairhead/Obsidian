@@ -2,6 +2,7 @@
 
 ## Why
 - To coordinate the flow of information between roles, domains and the network
+![](assets/FoundationalEcology.jpg)
 - Supporting governance implementations
 - Supporting departmental sub-circles and lead links
 - Handling undelegated work
@@ -15,7 +16,8 @@
 	- Inform and provide inputs to operations and culture
 
 ## What
-- Communication systems
+- Notion based project management
+- 
 
 
 | Member | Role |
