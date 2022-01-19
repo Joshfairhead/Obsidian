@@ -7,22 +7,20 @@
 - Supporting governance implementations such as Sociocratic principals.
 - Supporting departmental sub-circles and lead links.
 - Preparation, package and handling of undelegated work
-
-## How
-- Notion based project management to coordinate tasks and epics.
-- Facillitating Sociocratic strategy and 
-	
 - Inform and provide inputs to operations and culture
 
-## What
+### How
+- Facillitating Sociocratic strategy and planning meetings.
+- Notion based project management to coordinate tasks and epics.
+
+### What
 - Articulating a revised Mission and Aim for the organization
 - Structure and membership of Board of Directors/[[Mission Circle]].
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
 - Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
 
-
-## Where / When
+### Where / When
 - Standups: daily 30min
 - Round up: bi-weekly community call 30min facillitated by the [[Governance Circle]]
 
