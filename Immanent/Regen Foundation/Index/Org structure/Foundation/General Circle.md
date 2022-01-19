@@ -2,6 +2,7 @@
 
 ## Why
 ![](assets/FoundationalEcologySmall.jpg)
+- Ensuring the Foundations existance and nurturing it's ability to grow the Networks essence
 - To coordinate the flow of information between roles, domains and the network
 - Supporting governance implementations
 - Supporting departmental sub-circles and lead links
