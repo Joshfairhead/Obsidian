@@ -3,16 +3,16 @@
 Cultivating the growth of regenerative agriculture, holistic land management, and marine stewardship through the development of technological tools, scientific inquiry, and capacity building.
 
 ### How
-- Growing the regen consortium
-- To create and grow multi-capital value in regenerative ecosystems
+- The creation and growth of multi-capital value in regenerative ecosystems
 - [[Board of Directors]] holds the Foundation to its mission.
 
 ### What
-- Network protocols that incentivise actors
+- Growing the Regen consortium
+- Governing 
 
 | Member | Role | 
 |---|---|
-| Will Szal | Treasurer/President |
+| Will Szal | Treasurer/President | (lead link to general circle?)
 | Amanda Joy Ravenhill | Vice President? |
 | Dorn Cox | Secretary? |
 | Kei Kreutler | Elected officer? |
