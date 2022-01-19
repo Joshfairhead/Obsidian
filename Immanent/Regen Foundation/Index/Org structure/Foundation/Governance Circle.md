@@ -16,8 +16,8 @@ Audience: RND, the Network and general ecosysetem.
 - Bi-weekly community call presenting organisational/network roundup to the community.
 - Working with the [[General Circle]] to maintain and develop organisational culture while maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc
 - Assisting the [[General Circle]] to audit the Network organisation structure and using these inputs to develop a [[Distributed Governance Implementation plan]]
-	- Facillitating workshops to help increase resolution on domains/roles and helping to integrate them with review structures.
-	- Working with the [[Mission Circle]] to grow the Validators network while ensuring stability and security through just and fair reward mechanisms
+- Facillitating meetings / workshops to help increase resolution on domains/roles and helping to integrate them with review structures.
+
 
 ### Where / When
 - Round up: bi-weekly community call presenting reports of the ([[General Circle]]) and other activity.
