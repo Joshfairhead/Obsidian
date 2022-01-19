@@ -9,12 +9,15 @@
 - Preparation, package and handling of undelegated work
 
 ## How
-- Structure and membership of Board of Directors/[[Mission Circle]]  
+
 	- Articulating a revised Mission and Aim for the organization
-	- Developing a detailed description of the roles and the domain of the [[Mission Circle]]
+
 	- Inform and provide inputs to operations and culture
 
 ## What
+- Structure and membership of Board of Directors/[[Mission Circle]]  
+- Developing a detailed description of the roles and the domain of the [[Mission Circle]]
+- Developing a detailed description regarding other domains
 - The creation of departmental sub-circles and assinage of roles through governance meetings based on Sociocratic practices.
 - Notion based project management; tasks and epics.
 
