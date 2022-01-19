@@ -2,7 +2,7 @@
 
 ## Why
 - To coordinate the flow of information between roles, domains and the network
-![](assets/FoundationalEcology.jpg)
+![](assets/FoundationalEcologySmall.jpg)
 - Supporting governance implementations
 - Supporting departmental sub-circles and lead links
 - Handling undelegated work
