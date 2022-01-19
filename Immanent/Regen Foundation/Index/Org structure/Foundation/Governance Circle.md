@@ -5,7 +5,7 @@ Audience: RND, the Network and general ecosysetem.
 - To sense into and inhabit the networks values.
 - Developing multi-scale nested network governance within the ecosystem.
 	- Ensuring a just and equitable distribution of PoS rewards amongst validators.
-	- Connecting validators 
+	- Connecting RND, Validators, enDAOed communities with the Regen 
 ### How
 - 
 - Education: to build capacity within the Foundation and amongst the larger Network.
