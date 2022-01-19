@@ -8,7 +8,7 @@ Audience: RND, the Network and general ecosysetem.
 
 ### How
 - Working with the [[Board of Directors]]/[[General Circle]] to develop novel and effective ways of working.
-- Holding the space and linking between RND, Validators, enDAOed communities, the Regen Registry and land stewards.
+- Holding the space and linking between RND/Cosmos, Validators, enDAOed communities, the Regen Registry and land stewards.
 - Building educational and ethical capacity within the larger Network.
 
 
