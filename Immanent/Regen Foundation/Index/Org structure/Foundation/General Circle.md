@@ -15,7 +15,7 @@
 
 ### What
 - Articulating a revised Mission and Aim for the organization
-- Structure and membership of Board of Directors/[[Mission Circle]].
+- Structure and membership of [[Board of Directors]]/[[Mission Circle]].
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
 - Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
@@ -28,8 +28,8 @@
 ### Who 
 | Member | Role |
 |---|---|
-| Revathi | Back link to mission circle |
-| Josh | Lead link to governance circle |
-| Austin | Lead link to enDAOment circle - Global North |
-| Gijs | Lead link to enDAOment circle - Global south |
+| Revathi | Lead link to [[mission circle]] |
+| Josh | Backlink to [[governance circle]] |
+| Austin | Backlink to [[enDAOment circle]] - Global North |
+| Gijs | Backlink to [[enDAOment circle]] - Global south |
 | George | Operations Assistant |

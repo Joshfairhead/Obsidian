@@ -11,6 +11,11 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 - Growing the Regen consortium for the effective stewardship of its mission.
 - Oversight of the Regen Foundations budgeting, activity and operations
 
+### Where / When
+
+
+### Who
+
 | Member | Role | 
 |---|---|
 | Will Szal | Treasurer/President (and lead link to the general circle?) | 
