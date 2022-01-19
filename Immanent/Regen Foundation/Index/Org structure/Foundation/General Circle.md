@@ -1,8 +1,8 @@
 # General Circle
 
 ## Why
-- To coordinate the flow of information between roles, domains and the network
 ![](assets/FoundationalEcologySmall.jpg)
+- To coordinate the flow of information between roles, domains and the network
 - Supporting governance implementations
 - Supporting departmental sub-circles and lead links
 - Handling undelegated work
@@ -16,6 +16,7 @@
 	- Inform and provide inputs to operations and culture
 
 ## What
+- The creation of sub circles
 - Notion based project management; epics and tasks.
 
 
@@ -25,6 +26,6 @@
 | Josh | Lead link to governance circle |
 | Austin | Lead link to enDAOment circle - Global North |
 | Gijs | Lead link to enDAOment circle - Global south |
-| George | Operations Assistant / project MGMT |
+| George | Operations Assistant |
 
 
