@@ -1,4 +1,4 @@
-# Governance/Ecosystem Circle
+# Network Governance Circle
 
 ### Why
 - To sense into and inhabit the networks values.
