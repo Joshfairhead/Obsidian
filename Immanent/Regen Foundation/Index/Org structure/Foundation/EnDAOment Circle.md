@@ -1,5 +1,5 @@
 # EnDAOment Circle
-DISCLAIMER: I dont feel comfortable articulating w
+DISCLAIMER: Nothing for us, without us. This page is a biased and bind perspective from one party and should be seen only as a potential prompt! 
 
 ### Why
 - To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to weave relationships between these communtites and our larger ecosystem (e.g. the registry).  
