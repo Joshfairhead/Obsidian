@@ -1,7 +1,8 @@
 # EnDAOment Circle
+DISCLAIMER: I dont feel comfortable articulating w
 
 ### Why
-- To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to build relationships with these communtites. 
+- To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to weave relationships between these communtites and our larger ecosystem (e.g. the registry).  
 
 ### How
 - Outreach to potentially aligned communities
@@ -10,7 +11,6 @@
 
 ### What
 - Onboarding aligned communities to community staking DAOs
-
 
 ### Where / When
 Roundup: Bi-weekly community call
