@@ -14,7 +14,7 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 - Oversight of the Regen Foundations budgeting, activity and operations
 
 ### Where / When
-
+- Board meeting
 
 ### Who
 
