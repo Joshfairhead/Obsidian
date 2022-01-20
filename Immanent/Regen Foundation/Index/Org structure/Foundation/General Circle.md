@@ -1,5 +1,6 @@
 # General Circle
 DISCLAIMER: This is a draft page. 
+Also see [[General Circle Draft]]
 
 ## Why
 ![](assets/FoundationalEcologySmall.jpg)
