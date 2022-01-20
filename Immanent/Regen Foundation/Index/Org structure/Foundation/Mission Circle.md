@@ -6,7 +6,8 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 
 ### How
 - The creation and growth of multi-capital value in regenerative ecosystems
-- Online voting
+- Transparency around legal and financial relationships
+- Quarterly remote meetings with online voting
 - Groups of people making decisions about parametrs and the rules about how those parameters are changed and upgraded on distributed ledger technology.  
 
 ### What
@@ -17,7 +18,8 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 
 ### Where / When
 - Quarterly remote meetings
-- Annual General Meeting hosted by the Regen Foundation
+- Annual General Meeting for the consortium hosted by the Regen Foundation
+- Special meetings called by any member
 
 ### Who
 
