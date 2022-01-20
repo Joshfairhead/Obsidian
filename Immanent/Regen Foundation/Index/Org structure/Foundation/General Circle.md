@@ -1,4 +1,5 @@
 # General Circle
+DISCLAIMER: This is a draft page. Nothing for us, without us.
 
 ## Why
 ![](assets/FoundationalEcologySmall.jpg)
