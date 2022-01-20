@@ -6,6 +6,7 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 
 ### How
 - The creation and growth of multi-capital value in regenerative ecosystems
+- Online voting
 - Groups of people making decisions about parametrs and the rules about how those parameters are changed and upgraded on distributed ledger technology.  
 
 ### What
@@ -15,7 +16,8 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 - Oversight of the Regen Foundations budgeting, activity and operations
 
 ### Where / When
-- Board meeting
+- Quarterly remote meetings
+- Annual General Meeting hosted by the Regen Foundation
 
 ### Who
 
