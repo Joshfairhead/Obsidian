@@ -1,7 +1,9 @@
 # EnDAOment Circle
-DISCLAIMER: This is a draft page. Nothing for us, without us. The How/What centres are particularly incomplete.
+DISCLAIMER: This is a draft page. The How/What centres are particularly incomplete.
 
 ### Why
+slack
+
 - To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to weave relationships between these communtites and our larger ecosystem (e.g. the registry).  
 
 ### How
