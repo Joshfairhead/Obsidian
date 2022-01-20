@@ -33,6 +33,6 @@
 
 
 ### Links
-- [[Network Structure Mapping]]
+- [[Gov Call draft]]
 - [Governance forum](https://forum.regen.network/c/governance-proposal/10)
 - [Lost/locked tokens adgenda](https://forum.regen.network/t/in-need-of-communities-assistance-tokens-lost-in-wallet-conversion/212/7)
