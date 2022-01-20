@@ -1,4 +1,4 @@
-# Regen Network Map
+# Regen Network Audit
 
 ![[Foundation Org Structure Index]]
 ![[Regen Registry Index]]

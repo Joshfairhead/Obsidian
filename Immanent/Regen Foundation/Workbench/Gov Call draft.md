@@ -32,7 +32,7 @@
 	- What is driving us? e.g. is marketing driving operations or are operations driving marketing?
 		- Theres probably syntropy between these elements - and probably other elements at play!
 	- What constraints do we need to set on how and when things will be done?
-- [[Regen Network Map]]
+- [[Regen Network Audit]]
 - Other suggestions
 	- Short reports
 	- Review of agreements
