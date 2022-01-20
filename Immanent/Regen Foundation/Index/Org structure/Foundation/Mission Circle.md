@@ -9,6 +9,7 @@ Cultivating the growth of regenerative agriculture, holistic land management, an
 - Groups of people making decisions about parametrs and the rules about how those parameters are changed and upgraded on distributed ledger technology.  
 
 ### What
+- [Bylaws](https://github.com/regen-foundation/policies/blob/main/by-laws.pdf)
 - [[Board of Directors]] holds the Foundation to its mission.
 - Growing the Regen consortium for the effective stewardship of its mission.
 - Oversight of the Regen Foundations budgeting, activity and operations
