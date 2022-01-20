@@ -1,5 +1,5 @@
 # Mission Circle
-DISCLAIMER: This is a draft page. Nothing for us, without us.
+DISCLAIMER: This is a draft page. 
 
 ### Why
 Cultivating the growth of regenerative agriculture, holistic land management, and marine stewardship through the development of technological tools, scientific inquiry, and capacity building.
