@@ -5,7 +5,9 @@ Related:
 # Distributed Governance Implementation plan
 
 ### For Whom?
-Foundation colleges and the wider ecosystem
+Foundation circles 
+- General Circle
+- EnDAOment
 
 
 ### Why?
