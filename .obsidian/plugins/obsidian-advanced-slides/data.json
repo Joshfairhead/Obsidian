@@ -2,7 +2,7 @@
   "port": "3000",
   "autoReload": true,
   "exportDirectory": "/export",
-  "enableChalkboard": true,
+  "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,
   "theme": "black",
