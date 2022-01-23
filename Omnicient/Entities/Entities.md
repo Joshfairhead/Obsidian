@@ -11,6 +11,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - [Warm Data Labs](https://batesoninstitute.org/warm-data-labs/)
 - [[Center for Collective Learning]]
 - [One World In Dialogue](https://oneworldindialogue.com/)
+- List of [the Liminal web](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)
 
 ## Collaborative Orgs
 - https://opencollective.com
