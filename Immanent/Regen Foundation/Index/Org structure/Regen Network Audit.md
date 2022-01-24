@@ -1,5 +1,5 @@
 # Regen Network Audit
-![](assetsNetworkEcology.jpg)
+![](assets/NetworkEcology.jpg)
 
 ![[Foundation Org Structure Index]]
 ![[Regen Registry Index]]
