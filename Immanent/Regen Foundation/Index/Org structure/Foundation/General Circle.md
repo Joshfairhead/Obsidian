@@ -13,7 +13,7 @@ Also see [[General Circle Draft]]
 
 ### How
 - Facillitating Sociocratic strategy and planning meetings.
-- Notion based project management to coordinate tasks and epics.
+- Notion based project management to centralise our coordination
 
 ### What
 - Articulating a revised Mission and Aim for the organization
