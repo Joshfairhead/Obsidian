@@ -12,7 +12,7 @@ Also see [[General Circle Draft]]
 - Inform and provide inputs to operations and culture
 
 ### How
-- Preferred theory(ies) of change
+- Integrated theories of change (S3, Theory of Constraints, Emergent)
 - Facillitating Sociocratic strategy and planning meetings.
 - Notion based project management for visibilty around our pipelines
 
