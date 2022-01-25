@@ -16,12 +16,12 @@ Also see [[General Circle Draft]]
 - Notion based project management used to measure our organisational velocity (and experiment!)
 
 ### What 
-- Formalising this  General circles domain 
+- Formalising this page as proposal through a Governance process.
 - Articulating a revised Mission and Aim for the organization.
 	- By when: 
 - Articulating the structure and membership of [[Board of Directors]]/[[Mission Circle]].
 	- By when:
-
+Articulating the structure of the 
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
 - Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
