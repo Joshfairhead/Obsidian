@@ -15,9 +15,11 @@ DISCLAIMER: This is a draft page.
 
 ### What
 - Community call presenting organisational/network roundup to the community.
-	- What: 
-	- When: 
-- Working with the [[General Circle]] to maintain and develop organisational culture while maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc
+	- What: Slides aggrigating information. Stake holders in the network as guests.
+	- When: Bi-weekly on Wednesdays
+- Working with the [[General Circle]] to maintain and develop organisational culture 
+	- What: Culture deck maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc.
+	- When:
 - Assisting the [[General Circle]] to audit the Network organisation structure and using these inputs to develop a [[Distributed Governance Implementation plan]]
 - Facillitating meetings / workshops to help increase resolution on domains/roles and helping to integrate them with review structures. 
 
