@@ -12,8 +12,9 @@ Also see [[General Circle Draft]]
 - Inform and provide inputs to operations and culture
 
 ### How
+- Preferred theory(ies) of change
 - Facillitating Sociocratic strategy and planning meetings.
-- Notion based project management to centralise our coordination
+- Notion based project management for visibilty around our pipelines
 
 ### What
 - Articulating a revised Mission and Aim for the organization
