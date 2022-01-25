@@ -16,8 +16,9 @@ Also see [[General Circle Draft]]
 	- Facillitating strategy and planning meetings (S3 or other).
 - Notion based project management for visibilty around our pipelines
 
-### What
-- Articulating a revised Mission and Aim for the organization
+### What 
+- Articulating a revised Mission and Aim for the organization.
+	- Measurable:
 - Structure and membership of [[Board of Directors]]/[[Mission Circle]].
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
 - Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
