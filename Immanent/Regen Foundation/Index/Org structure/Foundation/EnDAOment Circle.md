@@ -3,7 +3,7 @@ DISCLAIMER: This is a draft page. The How/What centres are particularly incomple
 
 ### Why
 - To ensure under represented communities have a voice in the Regen network through an equitable and just token distribution, and to weave relationships between these communtites and our larger ecosystem (e.g. the registry).  
-- ![](assets/EnDAOment.png)
+- ![](assets/FOAEnDAOment.png)
 
 ### How
 - Outreach to potentially aligned communities
