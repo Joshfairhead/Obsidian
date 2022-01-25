@@ -3,7 +3,7 @@ DISCLAIMER: This is a draft page.
 Also see [[General Circle Draft]]
 
 ## Why
-![](assets/Fo.jpg)
+![](assets/GeneralEcology.jpg)
 - Ensuring the Foundations survival and existance while fostering the Networks essence.
 - Facillitating the flow of information between roles, domains and the wider network.
 - Supporting governance implementations such as Sociocratic principals.
