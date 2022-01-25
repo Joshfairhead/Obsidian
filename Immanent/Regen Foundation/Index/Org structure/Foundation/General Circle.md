@@ -31,8 +31,8 @@ Also see [[General Circle Draft]]
 
 
 ### Where / When
-- Standups: daily 30min
-- Round up: bi-weekly community call 30min facillitated by the [[Governance Circle]]
+- Standups: Daily 30min
+- Round up: Bi-weekly community call 30min facillitated by the [[Governance Circle]]
 
 
 ### Who 
