@@ -4,6 +4,7 @@ Also see [[General Circle Draft]]
 ![](app://local/%2FUsers%2Fskynet2%2FDocuments%2FObsidian%2Fassets%2FGeneralEcology.jpg?1643133069214)
 
 ## Why
+- Facillitating [[Mission Circle]] mandates
 - Ensuring the Foundations survival and existance while fostering the Networks essence.
 - Facillitating the flow of information between roles, domains and the wider network.
 - Supporting governance implementations such as Sociocratic principals.

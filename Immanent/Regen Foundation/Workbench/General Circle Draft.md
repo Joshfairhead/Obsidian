@@ -1,15 +1,3 @@
-## Why?
-
--   To serve the will of the mission circle, representative of the larger community
-
-## What?
-
--   Operations that grow and support the foundation
--   Operations supporting communications across other circles
-    -   Fundraising / EnDAOment
-    -   Marketing / Ecosystem
-
-![FoundationalEcology.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b91a174a-aab7-40c4-9de9-e2d69d54bf55/FoundationalEcology.jpg)
 
 ## How?
 
