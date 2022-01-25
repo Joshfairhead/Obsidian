@@ -15,7 +15,7 @@ Also see [[General Circle Draft]]
 - Integrating theories of change (S3, Theory of Constraints, Emergent, Scenario Planning etc.)
 - Notion based project management used to measure our organisational velocity (and experiment!)
 
-### What 
+### What (Track with [[Notion]])
 - Articulating a revised Mission and Aim for the organization.
 	- What: Governance proposal
 	- Where: Governance meeting
@@ -25,7 +25,9 @@ Also see [[General Circle Draft]]
 	- Where: Governance meeting
 	- When: 
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
-- 
+	- What: Governance proposal
+	- Where: Governance meeting
+	- When: 
 - Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
 
