@@ -7,14 +7,14 @@ Also see [[General Circle Draft]]
 - Facillitating [[Mission Circle]] mandates
 - Ensuring the Foundations survival and existance while fostering the Networks essence.
 - Facillitating the flow of information between roles, domains and the wider network.
-- Supporting governance implementations such as Sociocratic principals.
-- Supporting the formation of departmental sub-circles and lead links.
 - Preparation, package and handling of undelegated work.
-- Inform and provide inputs to operations and culture.
 
 ### How
-- Integrating theories of change (S3, Theory of Constraints, Emergent, Scenario Planning etc.)
+- Integrating culturally aligned theories of change (S3, Theory of Constraints, Emergent, Scenario Planning etc.)
+	- Supporting governance implementations such as Sociocratic principals.
+	- Supporting the formation of departmental sub-circles and lead links.
 - Notion based project management used to measure our organisational velocity (and experiment!)
+- Project reviews and budgeting
 
 ### What (Track with [[Notion]])
 - Articulating a revised Mission and Aim for the organization.
