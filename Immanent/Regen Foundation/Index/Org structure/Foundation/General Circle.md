@@ -7,9 +7,9 @@ Also see [[General Circle Draft]]
 - Ensuring the Foundations survival and existance while fostering the Networks essence.
 - Facillitating the flow of information between roles, domains and the wider network.
 - Supporting governance implementations such as Sociocratic principals.
-- Supporting departmental sub-circles and lead links.
-- Preparation, package and handling of undelegated work
-- Inform and provide inputs to operations and culture
+- Supporting the formation of departmental sub-circles and lead links.
+- Preparation, package and handling of undelegated work.
+- Inform and provide inputs to operations and culture.
 
 ### How
 - Integrating theories of change (S3, Theory of Constraints, Emergent, Scenario Planning etc.)
@@ -19,9 +19,9 @@ Also see [[General Circle Draft]]
 ### What 
 - Articulating a revised Mission and Aim for the organization.
 	- By when: 
-- Structure and membership of [[Board of Directors]]/[[Mission Circle]].
+- Articulating the structure and membership of [[Board of Directors]]/[[Mission Circle]].
 	- By when:
-- Articulating a self-description of the 
+- Formalising the General circles damain 
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
 - Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
