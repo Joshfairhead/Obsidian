@@ -28,7 +28,6 @@ Also see [[General Circle Draft]]
 	- What: Governance proposal
 	- Where: Governance meeting
 	- When: 
-- Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
 
 ### Where / When
