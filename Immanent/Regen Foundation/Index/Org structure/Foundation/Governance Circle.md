@@ -23,7 +23,6 @@ DISCLAIMER: This is a draft page.
 - Assisting the [[General Circle]] to audit the Network organisation structure 
 	- What: [[Distributed Governance Implementation plan]]
 	- When: Governance meeting
-
 - Facillitating meetings / workshops to help increase resolution on domains/roles and helping to integrate them with review structures. 
 
 
