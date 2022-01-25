@@ -12,7 +12,7 @@ Also see [[General Circle Draft]]
 - Inform and provide inputs to operations and culture
 
 ### How
-- Integrating theories of change (S3, Theory of Constraints, Emergent, etc.)
+- Integrating theories of change (S3, Theory of Constraints, Emergent, Scenario Planning etc.)
 	- Facillitating strategy and planning meetings (S3 or other).
 - Notion based project management for visibilty around our pipelines
 
