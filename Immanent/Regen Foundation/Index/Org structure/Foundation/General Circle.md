@@ -17,12 +17,15 @@ Also see [[General Circle Draft]]
 
 ### What 
 - Articulating a revised Mission and Aim for the organization.
+	- What: Governance proposal
 	- Where: Governance meeting
 	- When: 
-- Articulating the structure, membership, roles of [[Board of Directors]]/[[Mission Circle]].
+- Articulating the structure, membership and roles of [[Board of Directors]]
+	- What: Governance proposal
 	- Where: Governance meeting
 	- When: 
 - Developing a detailed description of the roles and the domain of the [[Mission Circle]].
+- 
 - Developing detailed descriptions of other domains and assigning lead links using Sociocratic governance meetings.
 
 
