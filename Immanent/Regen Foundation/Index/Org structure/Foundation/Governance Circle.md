@@ -1,5 +1,6 @@
 # Governance Circle
 DISCLAIMER: This is a draft page.
+![](assets/GovernanceEcology.jpg)
 
 ### Why
 - To sense into and inhabit the networks values.
