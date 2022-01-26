@@ -33,7 +33,11 @@
 
 ---
 ## Stepping back a moment to ask for whom? why?
-- Participants within our network ecology
-- Growing the network ecology
+- Participants within our network ecology and synnergetic partnerships
+- To grow capacity at scale
+
+---
+## High level view of the network
+- This is just one perspective, 
 
 ![](assets/NetworkEcology.jpg)
