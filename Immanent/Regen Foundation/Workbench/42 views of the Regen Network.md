@@ -34,8 +34,8 @@
 - Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
 
 ---
-## For whom?
-- Network participants
+## Horizon one; For whom? Why?
+- 
 
 ---
 ## A Loose Frame; the relationships are the important part!
