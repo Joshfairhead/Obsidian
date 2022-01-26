@@ -84,4 +84,22 @@ Modeling the Organisation
 
 ---
 
+-   42 Community Funding Program [recipients](https://twitter.com/regen_network/status/1485643469351632899)
+    
+-   Permissioned credit classes [proposal](https://github.com/regen-network/governance/tree/main/proposals/2021-12-regen-registry-credit-class-creator) pending on chain governance vote
+    
+-   Developing ‘bottom up’ practice based methodologies
+    
 
+-   External registry participation is often limited to an ‘elite class’ of institutionalised actors who have the resources for strict compliance to international standards
+    
+
+-   This rules out a lot of place based regenerative practitioners that we don’t want to exclude
+    
+-   The registry is figuring out how to open these doors to participation without diluting quality. 
+    
+
+-   Designing the registry protocols
+    
+
+-   Slowly decentralising the registries curation mechanics from the science team to the ledger
