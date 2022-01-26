@@ -3,25 +3,23 @@
 
 
 ---
-## Horizon one
+## Horizon one (a)
 ![](assets/Hokusai/1GreatWave.jpg)
 ---
-## Horizon one 
+## Horizon one (b)
 ![](assets/Hokusai/2TagoBay.jpg)
 ---
-## Horizon two
+## Horizon two (a)
 ![](assets/Hokusai/3TheCoastOfSevenLeagesInKamakura.jpg)
 ---
-## Horizon two
+## Horizon two (b)
 ![](assets/Hokusai/4TheBackOfTheFujiFromTheMinobuRiver.jpg)
 ---
-## Horizon three
+## Horizon three (a)
 ![](assets/Hokusai/5ClimbingMtFuji.jpg)
+
 ---
-## Horizon three
-![](assets/Hokusai/6ThunderStormBeneathTheSummit.jpg)
----
-## Horizon three
+## Horizon three (b)
 ![](assets/Hokusai/6FineWindClearMorning.jpg)
 
 --- 
@@ -32,12 +30,12 @@
 - Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
 
 ---
-## Stepping back a moment; for whom? why?
-- To grow capacity at scale WITH our community, synnergetic partners and network participants
+## Stepping back a moment - for whom? why?
+- To grow capacity at scale WITH our community, synnergetic partners and network participants.
 
 ---
 ## High level view of the network
-- This is just one perspective that necessarily omits detail - is it sufficient?
+- The following image is just one perspective that necessarily omits detail - is it sufficient?
 
 ---
 
@@ -46,6 +44,6 @@
 
 ---
 
-## Lets map some horizons
+## Let jump into Miro to map some horizons
 
 Mural link: https://app.mural.co/invitation/mural/regenfoundation4191/1643197962725?sender=u70ef79b0a9c38c2d8ebd9946&key=0bcac129-1954-45ec-a7eb-b3a7a411a1cd
