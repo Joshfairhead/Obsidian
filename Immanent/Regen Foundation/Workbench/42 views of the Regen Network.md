@@ -32,10 +32,8 @@
 - Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
 
 ---
-## Stepping back a ## For Whom?
-- Ecosystem participants
-
----
-## A Loose Frame; the relationships are the important part!
+## Stepping back a moment to ask for whom? why?
+- Participants within our network ecology
+- Growing the network ecology
 
 ![](assets/NetworkEcology.jpg)
