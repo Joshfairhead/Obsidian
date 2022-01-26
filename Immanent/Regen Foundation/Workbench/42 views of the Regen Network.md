@@ -32,13 +32,15 @@
 - Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
 
 ---
-## Stepping back a moment to ask for whom? why?
-- Participants within our network ecology and synnergetic partnerships
-- To grow capacity at scale
+## Stepping back a moment; for whom? why?
+- To grow capacity at scale WITH our community, synnergetic partners and network participants
 
 ---
 ## High level view of the network
 - This is just one perspective that necessarily omits detail - is it sufficient?
+
+---
+
 
 ![](assets/NetworkEcology.jpg)
 
