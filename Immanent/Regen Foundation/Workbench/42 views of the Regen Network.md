@@ -21,6 +21,11 @@
 ## Horizon three (b)
 ![](assets/Hokusai/6FineWindClearMorning.jpg)
 ---
+## Pause for quiet reflection
+- Grounded in Horizon one what is present for you in your context? What are your constraints?
+- Looking ahead to the aspirational future of Horizon 3, what do you hope to achieve?
+- Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
+---
 ## Stepping back a moment - for whom? why?
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
 ---
