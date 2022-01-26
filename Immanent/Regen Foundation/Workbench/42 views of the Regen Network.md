@@ -31,7 +31,11 @@
 ## Pause for quiet reflection
 - Grounded in Horizon one what is present for you in your context? What are your constraints?
 - Looking ahead to the aspirational future of Horizon 3, what do you want to achieve?
-- Bridging the gap between them at Horizon 2, what transformation is necessary now
+- Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
+
+---
+## For whom?
+- Network participants
 
 ---
 ## A Loose Frame; the relationships are the important part!
