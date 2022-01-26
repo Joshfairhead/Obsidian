@@ -37,7 +37,7 @@ Mural link: https://app.mural.co/invitation/mural/regenfoundation4191/1643197962
 
 ---
 ## Input / Retrospective
-- What do we need? What do we want
+- What do we need? What do we want from this call? Whats important?
 - 
 
 
