@@ -1,8 +1,4 @@
 # 42 views of the Regen Network
---- 
-## A Loose Frame; the relationships are the important part!
-
-![](assets/NetworkEcology.jpg)
 
 ---
 ## Horizon one 
@@ -25,3 +21,12 @@
 ---
 ## Horizon three
 ![](assets/Hokusai/6FineWindClearMorning.jpg)
+
+--- 
+
+
+
+---
+## A Loose Frame; the relationships are the important part!
+
+![](assets/NetworkEcology.jpg)
