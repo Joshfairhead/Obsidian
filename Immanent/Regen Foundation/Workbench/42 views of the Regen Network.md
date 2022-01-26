@@ -5,7 +5,7 @@
 ## Structural overview
 
 ---
-## Horizon one 
+## Horizon one
 ![](assets/Hokusai/1GreatWave.jpg)
 ---
 ## Horizon one 
@@ -30,11 +30,11 @@
 
 ## Pause for quiet reflection
 - Grounded in Horizon one what is present for you in your context? What are your constraints?
-- Looking ahead to the aspirational future of Horizon 3, what do you want to achieve?
+- Looking ahead to the aspirational future of Horizon 3, what do you hope to achieve?
 - Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
 
 ---
-## Horizon one; For whom? Why?
+## Stepping back
 - 
 
 ---
