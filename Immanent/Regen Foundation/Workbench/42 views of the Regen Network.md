@@ -1,6 +1,10 @@
 # 42 views of the Regen Network
 
 ---
+
+## Structural overview
+
+---
 ## Horizon one 
 ![](assets/Hokusai/1GreatWave.jpg)
 ---
@@ -24,7 +28,9 @@
 
 --- 
 
-
+## Pause for reflection
+- Grounded in Horizon one what is present for you?
+- Looking ahead to the aspirational 
 
 ---
 ## A Loose Frame; the relationships are the important part!
