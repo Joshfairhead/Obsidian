@@ -23,7 +23,6 @@
 ![](assets/Hokusai/6FineWindClearMorning.jpg)
 
 --- 
-
 ## Pause for quiet reflection
 - Grounded in Horizon one what is present for you in your context? What are your constraints?
 - Looking ahead to the aspirational future of Horizon 3, what do you hope to achieve?
