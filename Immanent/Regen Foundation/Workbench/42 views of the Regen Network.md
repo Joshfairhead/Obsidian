@@ -1,6 +1,9 @@
 # 42 views of the Regen Network
 --- 
-## Who am I 
+## Context setting; for whom? why?
+- To grow capacity at scale WITH our community, synnergetic partners and network participants.
+- Who is at the table? Whos here?
+	- 
 
 ---
 ## Horizon one (a)
@@ -25,10 +28,6 @@
 - Grounded in Horizon one what is present for you in your context? What are your constraints?
 - Looking ahead to the aspirational future of Horizon 3, what do you hope to achieve?
 - Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
----
-## Stepping back a moment - for whom? why?
-- To grow capacity at scale WITH our community, synnergetic partners and network participants.
-- Who is at the table? Whos here?
 
 ---
 ## Let jump into Miro to map our horizons
