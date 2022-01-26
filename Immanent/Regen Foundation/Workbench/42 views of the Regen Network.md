@@ -58,4 +58,11 @@ Modeling the Organisation
 	- Soliciting ideas from the community regarding how to grant a pool of 2mm Regen
 		- No [constraints on the proposals](https://forum.regen.network/t/community-grants/267/2) (yet); it’s a search for the [novel and unexpected](https://forum.regen.network/t/community-pool-grant-ideas/294)
 - Staking Delegation Strategy (enDAOment funds)
-	- 
+	- In development; how should we redelegate the enDAOment pool that we currently steward?
+	- Currently the enDAOment pool is delegated to earn staking rewards, this avoids dilution.
+    - The enDAOment delegation is distributed across the ‘middle class’ of validators
+		- Reduces resource accumulation in the top percentile
+		- There is a 5% minimum commission to avoid a race to the bottom
+	- What metrics should we consider to ensure just distribution?
+		- Quantitative is easier to figure out but space is held for qualitative measures also!
+		- Opportunities for engagement?
