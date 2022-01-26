@@ -2,7 +2,8 @@
 --- 
 ## Context setting; for whom? why?
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
-- Transparency: Hi, I'm Josh - I'm the Regen Foundations ledger governance coordinator. I'm here in service to the community and want to facillitate and weave multi-scale nested govrnance. 
+- Transparency: Hi, I'm Josh - I'm the Regen Foundations ledger governance coordinator. I'm here in service to the community and want to facillitate and weave multi-scale embedded govrnance. 
+- This is a participatory session but I've set a frame and wish to take you on a journey
 ---
 ## Horizon one (a)
 ![](assets/Hokusai/1GreatWave.jpg)
