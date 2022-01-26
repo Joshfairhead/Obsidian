@@ -3,6 +3,7 @@
 ## Context setting; for whom? why?
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
 - Who is at the table? Whos here?
+	- Introductions from the team
 	- 
 
 ---
