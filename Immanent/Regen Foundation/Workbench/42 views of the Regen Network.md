@@ -38,7 +38,18 @@
 
 Mural link: https://app.mural.co/invitation/mural/regenfoundation4191/1643197962725?sender=u70ef79b0a9c38c2d8ebd9946&key=0bcac129-1954-45ec-a7eb-b3a7a411a1cd
 
-
 ---
-## Time permitting; some foundation updates
+## Time permitting... some updates!
+---
+## Foundation Updates
+Modeling the Organisation
+-   Why, how, what, where, when?
+-   Articulating domains of activity and making roles more explicit
+-   Practicing and developing our theories of change
+-   Constructing proposals for our governance processes
+-   Operational processes starting to congeal (pipelines, task mgmt)
+-   Marketing outreach and branding in the works (group identity)
 
+--- 
+
+## Ledger Updates
