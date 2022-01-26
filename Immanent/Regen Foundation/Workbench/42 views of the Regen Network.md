@@ -1,4 +1,4 @@
-# Views of a Journey to Fuji
+# 42 views of the Regen Network
 ---
 ## Horizon one 
 ![](assets/Hokusai/1GreatWave.jpg)
