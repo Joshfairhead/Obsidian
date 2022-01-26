@@ -1,4 +1,8 @@
 # 42 views of the Regen Network
+--- 
+
+![](assets/NetworkEcology.jpg)
+
 ---
 ## Horizon one 
 ![](assets/Hokusai/1GreatWave.jpg)
