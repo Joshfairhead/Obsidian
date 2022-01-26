@@ -57,3 +57,5 @@ Modeling the Organisation
 - Community Grants pool
 	- Soliciting ideas from the community regarding how to grant a pool of 2mm Regen
 		- No [constraints on the proposals](https://forum.regen.network/t/community-grants/267/2) (yet); it’s a search for the [novel and unexpected](https://forum.regen.network/t/community-pool-grant-ideas/294)
+- Staking Delegation Strategy (enDAOment funds)
+	- 
