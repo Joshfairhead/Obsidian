@@ -2,7 +2,7 @@
 --- 
 ## Context setting; for whom? why?
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
-
+-  Hi, I'm Josh - I'm here to facillitate ledger governance. I want to weave communities to form embedded multi-scale nested gov.
 ---
 ## Horizon one (a)
 ![](assets/Hokusai/1GreatWave.jpg)
