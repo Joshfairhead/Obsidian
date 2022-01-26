@@ -1,8 +1,6 @@
 # 42 views of the Regen Network
+--- 
 
----
-
-## Structural overview
 
 ---
 ## Horizon one
@@ -34,8 +32,8 @@
 - Bridging the gap between them at Horizon 2, what transformations are sufficient for now?
 
 ---
-## Stepping back
-- 
+## Stepping back a ## For Whom?
+- Ecosystem participants
 
 ---
 ## A Loose Frame; the relationships are the important part!
