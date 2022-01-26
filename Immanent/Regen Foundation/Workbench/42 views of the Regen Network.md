@@ -38,6 +38,12 @@
 
 ---
 ## High level view of the network
-- This is just one perspective, 
+- This is just one perspective that necessarily omits detail - is it sufficient?
 
 ![](assets/NetworkEcology.jpg)
+
+---
+
+## Lets map some horizons
+
+Mural link: https://app.mural.co/invitation/mural/regenfoundation4191/1643197962725?sender=u70ef79b0a9c38c2d8ebd9946&key=0bcac129-1954-45ec-a7eb-b3a7a411a1cd
