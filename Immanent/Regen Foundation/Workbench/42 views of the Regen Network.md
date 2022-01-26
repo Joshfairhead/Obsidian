@@ -68,34 +68,20 @@ Modeling the Organisation
 	- Opportunities for engagement?
 
 ---
-
--   Laymen language explainer in English and Spanish created (link to Canva [English](https://www.canva.com/design/DAEwD_9fm1o/rwOD-t1ayF1yv7muPPP6Fg/view?utm_content=DAEwD_9fm1o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) & [Spanish](https://www.canva.com/design/DAEx5Vr7u_A/NnZG5Zo-4bclqpggAcP96g/view?utm_content=DAEx5Vr7u_A&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu))
-    
--   Pipeline with over 70 organisations across categories, incl:
-    
-
--   Community Staking DAO candidates
-    
--   Potential program partners
-    
-
--   Seminar for land based groups in Asia & Africa scheduled for February 15th (link to participant intake [form](https://docs.google.com/forms/d/13sgxmQ_LqX1_no45v8MrNGGjIJF-HKW8_I0uQLLB430/edit?ts=61eeebc5))
-    
-
--   Other seminars for other time zones (eg Latin America) will be announced soon
-    
-
--   Onboarding support program proposal created, including
-    
-
--   Incubation and step-wise allocation of tokens
-    
--   Support for digital intermediaries to handhold communities not native to web3
-    
-
+## EnDAOment
 -   First staking wallets getting created and funds getting issued 
-    
+	- OpenTEAM
+    - Commons Stack
+-   Laymen language explainer in English and Spanish created (link to Canva [English](https://www.canva.com/design/DAEwD_9fm1o/rwOD-t1ayF1yv7muPPP6Fg/view?utm_content=DAEwD_9fm1o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) & [Spanish](https://www.canva.com/design/DAEx5Vr7u_A/NnZG5Zo-4bclqpggAcP96g/view?utm_content=DAEx5Vr7u_A&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu))
+-   Pipeline with over 70 organisations across categories, incl:
+	- Community Staking DAO candidates
+	- Potential program partners
+	- Seminar for land based groups in Asia & Africa scheduled for February 15th (link to participant intake [form](https://docs.google.com/forms/d/13sgxmQ_LqX1_no45v8MrNGGjIJF-HKW8_I0uQLLB430/edit?ts=61eeebc5))
+	- Other seminars for other time zones (eg Latin America) will be announced soon
+	- Onboarding support program proposal created, including:
+		- Incubation and step-wise allocation of tokens
+		- Support for digital intermediaries to handhold communities not native to web3
 
--   OpenTEAM
-    
--   Commons Stack
+---
+
+
