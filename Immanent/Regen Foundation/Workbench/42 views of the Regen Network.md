@@ -3,7 +3,7 @@
 ## Context setting; for whom? why?
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
 - Transparency: Hi, I'm Josh - I'm the Regen Foundations ledger governance coordinator. I'm here in service to the community and want to facillitate and weave multi-scale embedded govrnance. 
-- This is a participatory session but I've set a frame and wish to take you on a journey
+- This is a participatory session but I've set an initial frame and wish to take you on a journey.
 ---
 ## Horizon one (a)
 ![](assets/Hokusai/1GreatWave.jpg)
@@ -36,13 +36,9 @@ Mural link: https://app.mural.co/invitation/mural/regenfoundation4191/1643197962
 ---
 ## Input / Retrospective
 - What do we want from this call? What do we need? Whats important?
-- How do we want to do this call?
-- What do we want from this call?
+- How do we want to 'perform' this call? Do you want organisational updates?
+- What do else do you want from this call?
 - What timezones are people in?
-
-
-
-
 
 ---
 
