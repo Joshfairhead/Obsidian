@@ -4,6 +4,11 @@
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
 - Transparency: Hi, I'm Josh - I'm the Regen Foundations ledger governance coordinator. I'm here in service to the community and want to facillitate and weave multi-scale embedded govrnance. 
 - This is a participatory session but I've set an initial frame and wish to take you on a journey.
+
+---
+## Overview
+Before we begin, I want to give 
+
 ---
 ## Horizon one (a)
 ![](assets/Hokusai/1GreatWave.jpg)
@@ -41,8 +46,8 @@ Mural link: https://app.mural.co/invitation/mural/regenfoundation4191/1643197962
 - What timezones are people in?
 
 ---
-
-
+Blanko
+---
 
 ## Time permitting... some updates!
 ---
