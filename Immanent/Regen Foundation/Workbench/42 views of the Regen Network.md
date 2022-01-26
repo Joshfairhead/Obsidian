@@ -28,11 +28,8 @@
 ---
 ## Stepping back a moment - for whom? why?
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
----
-## High level view of the network
-- The following image is just one perspective that necessarily omits detail - is it sufficient?
----
-![](assets/NetworkEcology.jpg)
+- Who is at the table? Whos here?
+
 ---
 ## Let jump into Miro to map our horizons
 
