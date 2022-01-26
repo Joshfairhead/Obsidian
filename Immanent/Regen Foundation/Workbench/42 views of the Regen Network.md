@@ -2,9 +2,6 @@
 --- 
 ## Context setting; for whom? why?
 - To grow capacity at scale WITH our community, synnergetic partners and network participants.
-- Who is at the table? Whos here?
-	- Introductions from the team
-	- 
 
 ---
 ## Horizon one (a)
@@ -40,11 +37,13 @@ Mural link: https://app.mural.co/invitation/mural/regenfoundation4191/1643197962
 - What do we want from this call? What do we need? Whats important?
 - How do we want to do this call?
 - What do we want from this call?
-- Wh
+- What timezones are people in?
 
 
 
 
+
+---
 
 
 
