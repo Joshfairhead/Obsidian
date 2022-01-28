@@ -7,7 +7,6 @@
 - Quality time together
 - Blending with our community
 
-
 ## How?
 - Creating a culture deck?
 
@@ -26,12 +25,5 @@
 
 ## When?
 - From the first of April?
-
-
-
-
-
-
-## To Do:
 
 
