@@ -8,7 +8,7 @@ How?
 - 
 
 What?
-
+- Covid contingency planning
 
 Where?
 - Cusco, eco-lifestyle resort?
@@ -19,7 +19,7 @@ When?
 - From the first of April?
 
 
-- Covid contingency planning
+
 
 
 
