@@ -7,8 +7,9 @@
 - Quality time together
 - Blending with our community
 
+
 ## How?
-- 
+- Creating a culture deck?
 
 ## What?
 - Check-in on week structure with others and make a decision.
