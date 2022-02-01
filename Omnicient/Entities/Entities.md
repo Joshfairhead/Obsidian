@@ -21,6 +21,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - [[Enspiral]]
 
 ## Communities
+- https://www.transformationscommunity.org/art
 - https://feytopia.com/ - Primavera de Filippi and friends
 - [[Embassy Network]]
 - https://lifeitself.us/ - Found via [[Richard Bartlett]] 
@@ -80,4 +81,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - [Save the Oceans](https://heritage.aero/)
 
 
-##
+## Interesting projects
+- http://feral.earth/
+- http://www.digitalanimism.club/
+- https://www.sound-matters.com/
