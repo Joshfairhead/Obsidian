@@ -74,6 +74,8 @@ Tags: [Organisations, Networks, Index, Refactor]
 - [MoneyLab NL](https://www.notion.so/MoneyLab-NL-638390f71ce64f28bd7fb9fe585089d2)
 - [Jakubs notion](https://www.notion.so/1784ac5059024fb386df2ae136902aac)
 - [Citizen Cyber Lab - Citizen science](https://www.citizencyberlab.org/)
+- https://es2latam.vc4a.com/aprende/
+
 
 ## Charities
 - https://www.aidcoin.co
