@@ -31,3 +31,4 @@
 Tom Newmark in Costa Rica. Rat Park as well
 Finka Luna Nueva
 Meta structure to allow each person to step into facillitation
+Timezone considerations
