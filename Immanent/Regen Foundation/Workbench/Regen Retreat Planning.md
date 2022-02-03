@@ -29,4 +29,5 @@
 
 --- 
 Tom Newmark in Costa Rica. Rat Park as well
-Finka Luna N
+Finka Luna Nueva
+Meta structure to allow each person to step into facillitation
