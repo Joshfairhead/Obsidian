@@ -28,4 +28,4 @@
 
 
 --- 
-Tom Newmark in 
+Tom Newmark in Costa Rica. Rat Park as well
