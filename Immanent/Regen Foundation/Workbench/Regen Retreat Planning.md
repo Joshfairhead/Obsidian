@@ -41,7 +41,10 @@ Hey folks, thanks for your responses to the doodle.
 
 Myself, Will and Austin gathered yesterday to figure out how to best move forward. The three of us discussed if we should revert to March 10-11th as previously planned, due to the availability signals we've recieved so far. I'm sending you a calendar invite for those dates so you can tentativly block the time or signal inavailability by rejecting the invite. From there we'll regroup and make decisions; either confirming that the gathering will go ahead on those dates, or that we need to adapt once again. 
 
-Some have inquired into location as well. Three regions have been under consideration; Barbados, Cuzco and Costa Rica. Although there is some history and ties to the ground in Barbados it appears that the accomidation is booked out during the March dates so thats looking unlikely. Costa Rica and Cuzco are still living potentialities; we'll have more detalis on those as we recieve responses from the locations/entities contacted. Hopefully that will settle into place by the end of next week. 
+Some have inquired into location as well. Three regions have been under consideration; Barbados, Cuzco and Costa Rica. Although there is some history and ties to the ground in Barbados it appears that the accomodation is booked out during the March dates so thats looking unlikely. Costa Rica and Cuzco are still living potentialities; the visas for cuzco 
+we'll have more detalis on those as we recieve responses from the locations/entities contacted. 
 
+Hopefully that will settle into place by the end of next week. 
 
+Regarding visas for these locations it looks like Cuzco has a much quicker processing time
 
