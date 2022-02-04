@@ -34,3 +34,13 @@ Meta structure to allow each person to step into facillitation
 Timezone considerations
 Check covid stats/travel restrictions to help guide the choice of place
 Calandar invite to probe reactions
+
+---
+
+Hey folks, thanks for your responses to the doodle.  
+
+Myself, Will and Austin gathered yesterday to figure out how to best move forward. The three of us discussed if we should revert to March 10-11th as previously planned, due to availability signals. We'll have less time to shape and curate an experience but from the feedback received so far it seems like the practical choice. I'm sending you a calendar invite for those days so you can book the time or reject the offer; 
+
+  
+
+We are discussing locations as well. Barbados was one option that seems to have bee
