@@ -164,4 +164,6 @@ Peer review process in distributed systems - Identity, legitimacy and reputation
 - 
 
 ### Land Tenure
-- Urban ste
+- Urban stewardship; verifying in Cities
+- Good for loopnig in the hotter and more urban envirenments
+- SNI, Artist DAO 
