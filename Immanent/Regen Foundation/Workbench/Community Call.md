@@ -17,7 +17,12 @@
 
 ## What?
 - Introductions
-- Overview of the 
+- Overview of the board
+
+
+Ask the question
+Consideration for 5-10 min
+
 
 
 
