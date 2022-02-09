@@ -2,10 +2,14 @@
 
 ## Why?
 - Weaving community threads into a larger tapestry
-- Developing an interface between organisational domains "office hours"
+- Developing points of interaction / interfacing with eachother
+- Find the right 'crew'  
 
 ## How? 
-- Working groups 
+- Working groups around domains of concern
+	- Science team
+	- Endaoment
+	- 
 
 
 
