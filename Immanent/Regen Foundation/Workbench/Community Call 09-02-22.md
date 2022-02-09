@@ -32,6 +32,11 @@
 
 ---
 
+## Plenary 
+- Check in on reflections; is this going in a direction 
+
+---
+
 ## Continuation / Reflection
 - Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
 - [Discord calls](https://discord.gg/SJNayapCD9) (validators)
