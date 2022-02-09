@@ -73,3 +73,4 @@ Discovery space
 Metorship and buddy systems - 4th call coming in
 Materials, connecting with mentors
 Seminar for global south on the 15th
+Mindful of hours between timezones and support thats possible
