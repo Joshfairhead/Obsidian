@@ -2,7 +2,10 @@
 
 ## Why?
 - Weaving community threads into a larger tapestry
-- 
+- Developing an interface between organisational domains "office hours"
+
+## How? 
+- Working groups 
 
 
 
