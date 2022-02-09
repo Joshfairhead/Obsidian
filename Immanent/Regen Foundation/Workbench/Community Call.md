@@ -16,12 +16,13 @@
 		- Conversations that matter
 
 ## What?
+- Purpose of the call: Dir
 - Introductions
 - Points of interaction
 	- Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
-	- Discord calls (validators)
-	- Zoom calls (enDaoment / community)
-	- Common wealth (governance)
+	- [Discord calls](https://discord.gg/SJNayapCD9) (validators)
+	- Zoom calls (enDaoment / [community]([https://zoom.us/j/95994221562](https://zoom.us/j/95994221562)))
+	- [Common wealth](https://commonwealth.im/regen) (governance)
 - Recap on last calls board and synthesis
 	- [Raw data](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Regen%20Foundation/Archive/Community%20Call%20Retrospective.md)
 	- [Mural board](https://app.mural.co/t/regenfoundation4191/m/regenfoundation4191/1644406344123/acaaacaaef81d50a545be49cee0be5615464ff4a?sender=u70ef79b0a9c38c2d8ebd9946)
