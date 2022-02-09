@@ -33,12 +33,13 @@
 ---
 
 ## Plenary 
-- Check in on reflections; is this going in a direction 
+- Reflection on the direction of this call; are we on track for you?
+- Breakout rooms to socialise ()
 
 ---
 
 ## Continuation / Reflection
 - Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
-- [Discord calls](https://discord.gg/SJNayapCD9) (validators)
+- [Discord calls](https://discord.gg/SJNayapCD9) (validator calls)
 - Zoom calls (enDaoment / [community]([https://zoom.us/j/95994221562](https://zoom.us/j/95994221562)))
 - [Common wealth](https://commonwealth.im/regen) (governance)
