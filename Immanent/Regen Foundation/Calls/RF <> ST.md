@@ -153,5 +153,14 @@ Peer review process in distributed systems - Identity, legitimacy and reputation
 
 ---
 ### GBK 
-- Participatory verification methods and alternati for small holders
+- Hills as Poc
+- Participatory verification methods and alternative approaches for small holders
 - Women focused
+- Rebecca says theyre awesome
+- Lots of infrastructure
+- Fits well wethi environmental stewards framework
+	- Use case?
+- Global south, different from united states style framework
+- 
+
+### Land Tenure
