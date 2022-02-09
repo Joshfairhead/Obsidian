@@ -22,8 +22,7 @@
 ## Agenda
 - Team introductions / domain stewards
 - Breakout rooms for face time w/stewards
-- Participatory session for those unsure where they want to be / choose your own adventure
-- 
+- Participatory session for those unsure where they want to be / who to meet
 
 ---
 
