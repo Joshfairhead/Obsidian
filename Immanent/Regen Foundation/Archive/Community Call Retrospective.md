@@ -1,9 +1,9 @@
 # Community Call
 
 ## Horizon one
-- * One dimensional nature of Carbon as indicator of regenerative health
-- * discrepancy between land time and digital time
-- * Current crypto solutions are not intuitive to land stewards
+- One dimensional nature of Carbon as indicator of regenerative health
+- discrepancy between land time and digital time
+- Current crypto solutions are not intuitive to land stewards
 - H1 governments not utilising Blockchain data enough to identify and reward ecosystem services
 - Methods for people to track and get credit for the practice of their work not just the outcome
 - Lack of funds to sustain us doing this work

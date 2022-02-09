@@ -23,7 +23,8 @@
 	- Zoom calls (enDaoment / community)
 	- Common wealth (governance)
 - Recap on last calls board and synthesis
-	- [Raw data]()
+	- [Raw data](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Regen%20Foundation/Archive/Community%20Call%20Retrospective.md)
+	- Mural board
 
 
 Ask a key question (How do we work together?)
