@@ -9,13 +9,13 @@
 
 ## Recap
 - Last session we went on a journey to solicit input and start shaping this call into something useful.
-- This information has been clustered in Mural ready for synthesis and some sense making has also been done. 
+- This information has been clustered in Mural and some of us will go back there later.
 
 ---
 
 ## Purpose of this call
-- Helping you to find the right people to interact with as a directory service
-- Weaving a community tapestry for those that don't have a point of contact / domain of interest
+- Helping you to find the right ecosystem participants to interact with as a form of directory service
+- Weaving a community tapestry for those that don't have a specific point of contact or known domain of interest.
 
 ---
 
@@ -23,6 +23,7 @@
 - Team introductions / domain stewards
 - Breakout rooms for face time w/stewards
 - Participatory session for those unsure where they want to be / choose your own adventure
+- 
 
 ---
 
