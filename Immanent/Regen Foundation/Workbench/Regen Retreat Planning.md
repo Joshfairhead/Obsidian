@@ -51,6 +51,7 @@ j
 -----
 
 Mexico / Wahaca?
-Barbados
+Barbados - Will
 Dominican republic
-Peurto Rica ? 7 days quarrenten
+Peurto Rica ? 7 days quarrenten - Josh
+Reach out to Jillian (multiple calls) - Josh
