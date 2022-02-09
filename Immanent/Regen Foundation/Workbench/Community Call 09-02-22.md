@@ -2,8 +2,8 @@
 ---
 
 ## Introduction
-- Hi I'm Josh
-- For tranI'm the protocol governance coordinator at the Regen Foundation. My purpose here is to serve you the Regen community. My agenda is to facillitate multi-scale nested governance through working groups and participatory sessions. 
+- Hi, my name is Josh
+- For transparecy I'm the protocol governance coordinator at the Regen Foundation. My purpose here is to serve you the Regen community and thats also the mandate of my positions. My agenda here is to facillitate the growth of multi-scale nested governance through working groups and participatory sessions. 
 
 --- 
 
