@@ -48,3 +48,8 @@ In the meantime; please signal your availability for the March dates by respondi
 Warmest
 j
 
+-----
+
+Mexico / Wahaca?
+Barbados
+Dominican republic
