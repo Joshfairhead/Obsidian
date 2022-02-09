@@ -7,11 +7,13 @@
 
 ## How? 
 - Working groups around domains of concern
-	- Science team
-	- Endaoment
-	- 
-
-
+	- Organisational
+		- Science team
+		- Endaoment
+		- Validators
+	- Community
+		- Finding others / networking
+		- 
 
 
 
