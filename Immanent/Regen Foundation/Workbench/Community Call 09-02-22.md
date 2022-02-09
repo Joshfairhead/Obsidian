@@ -25,10 +25,13 @@
 - Participatory session for those unsure where they want to be / choose your own adventure
 
 ---
+
 ## Breakout rooms
-- Domain leads "office hours" / open space
+- Domain lead interaction; "office hours" / open space.
+- [Mural board play](https://app.mural.co/t/regenfoundation4191/m/regenfoundation4191/1644406344123/acaaacaaef81d50a545be49cee0be5615464ff4a?sender=u70ef79b0a9c38c2d8ebd9946)
 
 ---
+
 ## Continuation / Reflection
 - Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
 - [Discord calls](https://discord.gg/SJNayapCD9) (validators)

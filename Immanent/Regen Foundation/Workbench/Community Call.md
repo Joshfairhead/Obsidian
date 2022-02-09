@@ -35,7 +35,7 @@
 
 
 
-Ask a key question (How do we work together?)
+Asking the right question as a frame
 Consideration for 5-10 min
 Pick the top three most important (voting)
 Arranging hexagons
