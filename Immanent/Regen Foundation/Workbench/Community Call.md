@@ -17,6 +17,10 @@
 
 ## What?
 - Introductions
+- Points of interaction
+	- Hylo (working groups)
+	- Discord calls (validators)
+	- 
 - Overview of the board
 
 
