@@ -20,9 +20,10 @@
 - Overview of the board
 
 
-Ask the question
+Ask a key question (How do we work together?)
 Consideration for 5-10 min
-Pick the top three
+Pick the top three most important (voting)
+
 
 
 
