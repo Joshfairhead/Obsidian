@@ -3,8 +3,9 @@
 ---
 
 ## Introduction
-- Hi, my name is Josh
-- For transparecy I'm the protocol governance coordinator at the Regen Foundation. My purpose here is to serve you the Regen community and thats also the mandate of my positions. My agenda here is to facillitate the growth of multi-scale nested governance through working groups and participatory sessions. I want to help find you whatever is needed to move forward. 
+- Hi I'm Josh,
+- I'm the protocol governance coordinator at the Regen Foundation. My purpose here is to serve you the Regen community. My agenda here is to facillitate the growth of nested governance through working groups and participatory sessions. 
+- I want to help find you whatever is needed to move forward. 
 ---
 
 
@@ -47,6 +48,6 @@
 
 ## Continuation / Reflection
 - Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
-- [Discord calls](https://discord.gg/SJNayapCD9) - (validator calls)
+- [Discord link](https://discord.gg/SJNayapCD9) - (validator calls)
 - Zoom calls (enDaoment / [community]([https://zoom.us/j/95994221562](https://zoom.us/j/95994221562)))
 - [Common wealth](https://commonwealth.im/regen) (governance)
