@@ -13,7 +13,7 @@
 - This information has been clustered in Mural and some of us will go back there later.
 
 ---
---- 
+
 
 ## Purpose of this call
 - Helping you to find the right ecosystem participants to interact with as a form of directory service
@@ -47,6 +47,6 @@
 
 ## Continuation / Reflection
 - Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
-- [Discord calls](https://discord.gg/SJNayapCD9) (validator calls)
+- [Discord calls](https://discord.gg/SJNayapCD9) - (validator calls)
 - Zoom calls (enDaoment / [community]([https://zoom.us/j/95994221562](https://zoom.us/j/95994221562)))
 - [Common wealth](https://commonwealth.im/regen) (governance)
