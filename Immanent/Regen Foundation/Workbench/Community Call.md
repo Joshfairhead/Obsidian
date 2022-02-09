@@ -19,7 +19,7 @@
 - Introductions
 - Purpose of the call
 	- Finding the right people: directory service
-	- Weaving a community tapestry
+	- Weaving a community tapestry (plenary space)
 - Points of interaction
 	- Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
 	- [Discord calls](https://discord.gg/SJNayapCD9) (validators)
