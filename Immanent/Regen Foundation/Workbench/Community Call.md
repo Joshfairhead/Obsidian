@@ -39,8 +39,8 @@ Ask a key question (How do we work together?)
 Consideration for 5-10 min
 Pick the top three most important (voting)
 Arranging hexagons
-What story are the clusters telling?
-What are the strong relationships between clusters?
+What story are the clusters telling? What are the strong relationships between clusters? 
+Mapping the relationships
 Where are the strategic points of transformation?
 
 
