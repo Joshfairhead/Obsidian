@@ -6,14 +6,15 @@
 - Hi, my name is Josh
 - For transparecy I'm the protocol governance coordinator at the Regen Foundation. My purpose here is to serve you the Regen community and thats also the mandate of my positions. My agenda here is to facillitate the growth of multi-scale nested governance through working groups and participatory sessions. I want to help find you whatever is needed to move forward. 
 
-
 --- 
-
 ## Recap
 - Last session we went on a journey to solicit input and start shaping this call into something useful.
 - This information has been clustered in Mural and some of us will go back there later.
 
 ---
+
+
+--- 
 
 ## Purpose of this call
 - Helping you to find the right ecosystem participants to interact with as a form of directory service
