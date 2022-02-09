@@ -66,5 +66,7 @@ Participants showing up to the call can then jump in the appropriate break out r
 - Clear pathways to find/deepen support from the foundation and other domain representatives
 
 
+----
 
-
+Reflection space
+Discovery space
