@@ -18,7 +18,7 @@
 ## What?
 - Introductions
 - Points of interaction
-	- Hylo (working groups)
+	- Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
 	- Discord calls (validators)
 	- Zoom calls (enDaoment / community)
 	- Common wealth (governance)
