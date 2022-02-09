@@ -8,7 +8,8 @@
 --- 
 
 ## Introduction
-- Hi I'm Josh; I'm the protocol governance coordinator at the Regen Foundation. My purpose here and mandate is to serve YOU - the community.
+- Hi I'm Josh
+- I'm the protocol governance coordinator at the Regen Foundation. My purpose here and mandate is to serve you, the Regen community. My agenda is to facillitate multi-scale nested governance through 
 
 
 ## Purpose
