@@ -1,8 +1,12 @@
 # Community Call Proposal
 
-Hey Folks, 
+## Why?
+- Weaving community threads into a larger tapestry
+- 
 
-Thanks for showing up to our first community call on Wednesday 26th.
+
+
+
 
 
 
