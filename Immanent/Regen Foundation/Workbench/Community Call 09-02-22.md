@@ -20,5 +20,11 @@
 ---
 
 ## Agenda
--  Team introductions / domain stewards
+- Team introductions / domain stewards
+- Breakout rooms for face time w/stewards
+- Participatory session for those unsure
+
+
+---
+## Continuation
 - 
