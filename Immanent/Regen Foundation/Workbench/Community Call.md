@@ -2,8 +2,7 @@
 
 ## Why?
 - Weaving community threads into a larger tapestry
-- Developing points of interaction / interfacing with eachother
-- Find the right 'crew'  
+- Finding the right peo
 
 ## How? 
 - Working groups around domains of concern
@@ -25,11 +24,11 @@
 	- [Discord calls](https://discord.gg/SJNayapCD9) (validators)
 	- Zoom calls (enDaoment / [community]([https://zoom.us/j/95994221562](https://zoom.us/j/95994221562)))
 	- [Common wealth](https://commonwealth.im/regen) (governance)
+- Breakout rooms to organisational domains
 - Recap on last calls board and synthesis
 	- [Raw data](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Regen%20Foundation/Archive/Community%20Call%20Retrospective.md)
 	- [Mural board](https://app.mural.co/t/regenfoundation4191/m/regenfoundation4191/1644406344123/acaaacaaef81d50a545be49cee0be5615464ff4a?sender=u70ef79b0a9c38c2d8ebd9946)
-- News
-	- 
+
 
 
 
