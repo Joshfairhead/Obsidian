@@ -20,8 +20,10 @@
 - Points of interaction
 	- Hylo (working groups)
 	- Discord calls (validators)
-	- 
-- Overview of the board
+	- Zoom calls (enDaoment / community)
+	- Common wealth (governance)
+- Recap on last calls board and synthesis
+	- [Raw data]()
 
 
 Ask a key question (How do we work together?)
