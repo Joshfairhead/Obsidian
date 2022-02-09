@@ -53,3 +53,4 @@ j
 Mexico / Wahaca?
 Barbados
 Dominican republic
+Peurto Rica ? 7 days quarrenten
