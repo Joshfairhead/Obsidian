@@ -1,9 +1,11 @@
 # Welcome!
+
 ---
 
 ## Introduction
 - Hi, my name is Josh
 - For transparecy I'm the protocol governance coordinator at the Regen Foundation. My purpose here is to serve you the Regen community and thats also the mandate of my positions. My agenda here is to facillitate the growth of multi-scale nested governance through working groups and participatory sessions. I want to help find you whatever is needed to move forward. 
+
 
 --- 
 
@@ -34,7 +36,12 @@
 
 ## Plenary 
 - Reflection on the direction of this call; are we on track for you?
-- Breakout rooms to socialise ()
+- Breakout rooms to socialise (Optional prompt: what could be done better?)
+
+---
+
+## Feedback
+- Form to capture missing elements or after thoughts
 
 ---
 
