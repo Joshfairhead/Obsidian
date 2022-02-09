@@ -26,5 +26,8 @@
 
 
 ---
-## Continuation
-- 
+## Continuation / Reflection
+- Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
+- [Discord calls](https://discord.gg/SJNayapCD9) (validators)
+- Zoom calls (enDaoment / [community]([https://zoom.us/j/95994221562](https://zoom.us/j/95994221562)))
+- [Common wealth](https://commonwealth.im/regen) (governance)
