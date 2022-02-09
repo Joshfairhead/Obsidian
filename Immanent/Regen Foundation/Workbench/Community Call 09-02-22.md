@@ -13,6 +13,6 @@
 
 
 ## Purpose
-- Finding the right people: directory service
+- Helping you to find the right people to interact with as a directory service
 - Weaving a community tapestry
 - 
