@@ -150,3 +150,8 @@ Related:
 	- What are the peer review processes? 
 
 Peer review process in distributed systems - Identity, legitimacy and reputation.
+
+---
+### GBK 
+- Participatory verification methods and alternati for small holders
+- Women focused
