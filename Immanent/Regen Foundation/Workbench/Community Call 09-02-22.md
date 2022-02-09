@@ -48,6 +48,6 @@
 
 ## Continuation / Reflection
 - Hylo ([Environmental Stewards WGs](https://www.hylo.com/groups/enviro-stewardship-framework))
-- [Discord link](https://discord.gg/SJNayapCD9) - (validator calls)
+- [Discord link](https://discord.gg/SJNayapCD9) 
 - Zoom calls (enDaoment / [community]([https://zoom.us/j/95994221562](https://zoom.us/j/95994221562)))
 - [Common wealth](https://commonwealth.im/regen) (governance)
