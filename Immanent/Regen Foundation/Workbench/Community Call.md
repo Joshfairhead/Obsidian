@@ -22,7 +22,7 @@
 
 Ask the question
 Consideration for 5-10 min
-
+Pick the top three
 
 
 
