@@ -161,9 +161,18 @@ Peer review process in distributed systems - Identity, legitimacy and reputation
 - Fits well wethi environmental stewards framework
 	- Use case?
 - Global south, different from united states style framework
-- 
+
 
 ### Land Tenure
 - Urban stewardship; verifying in Cities
 - Good for loopnig in the hotter and more urban envirenments
-- SNI, Artist DAO 
+- SNI, Artist DAO etc as links
+
+## Damien Fuller
+- Mirco model agro forrestry in Bavaria
+- Ned is PoC there
+- Super small
+
+## Condesant
+- Distributed land tenure and verification
+- 
