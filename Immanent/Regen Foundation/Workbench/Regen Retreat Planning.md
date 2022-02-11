@@ -50,8 +50,8 @@ j
 
 -----
 
-Mexico / Wahaca?
+Mexico / Wahaca? - Austin
 Barbados - Will
 Dominican republic
-Peurto Rica ? 7 days quarrenten - Josh
+Look at Peurto Rica? 7 days quarrentene - Josh
 Reach out to Jillian (multiple calls) - Josh

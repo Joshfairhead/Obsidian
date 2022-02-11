@@ -42,9 +42,6 @@ What story are the clusters telling? What are the strong relationships between c
 Mapping the relationships
 Where are the strategic points of transformation?
 
-
-
-
 ---
 ### Driver
 How do we support the plurality of community needs given our limited capacity? 
