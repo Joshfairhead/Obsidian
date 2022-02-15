@@ -18,4 +18,7 @@ Marc
 - Smart agriculture in Cambodia. 9 species of cover crops with small holder networks. Seed mixes and no till machinery. Methodologies developed for EU on remote sensing, practice based, wet and dry to reduce methane and later quantifying the credits. Many partners to do this pilot in the next 4 years.
 
 Rupsi
-- KPI admission. Punjab. Sustainable agriculture and organic cotton. Reviving the value chain by getting local artisans to 
+- KPI admission. Punjab. Sustainable agriculture and organic cotton. Reviving the value chain by getting local artisans to make products with it. Mainly done by rural women; local crafts abandoned in the last 50 years due to other income necessities but has physical and mental health benefits 
+
+Aneel
+- Ground in gods kingdom?? Circular agriculture products
