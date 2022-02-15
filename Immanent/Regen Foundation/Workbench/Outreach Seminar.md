@@ -20,5 +20,5 @@ Marc
 Rupsi
 - KPI admission. Punjab. Sustainable agriculture and organic cotton. Reviving the value chain by getting local artisans to make products with it. Mainly done by rural women; local crafts abandoned in the last 50 years due to other income necessities but has physical and mental health benefits 
 
-Aneel
-- Ground in gods kingdom?? Circular agriculture products
+Aneel / Sarat
+- Ground in gods kingdom?? Circular agriculture products. 1400 tribal networks. Sustainable fibre; intrigued by the benchmark of traceability and transparency - current systems are not good. Hence interest in Regen. Bitcoin miner
