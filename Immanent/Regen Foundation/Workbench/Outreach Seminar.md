@@ -12,4 +12,4 @@ Kebede Ayele
 - Digital green ethioia. Working with farmers dependent on land and resources. Forrests in the south; farmers dependent on the forrest for lively hoods and protecting it. Partnering with 
 
 Tadesse
-- Enviroment and coffe forrest forum. Three programmes; forrest and biodiversity, food and agriculture, 
+- Enviroment and coffe forrest forum. Three programmes; forrest and biodiversity, food and agriculture, climate change and disaster risk. 
