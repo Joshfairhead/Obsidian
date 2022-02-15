@@ -25,4 +25,9 @@ Aneel / Sarat
 
 Sharada
 - Keystone. Technology and ecology, conservation. Works across the whole value chain; biodiversity, tools, PGS based organic agriculture. Lots of other stuff
-- Jyoti - director at keystone. Community wellbeing
+- Jyoti - director at keystone. Community wellbeing, native agriculture. 
+
+Sourabh
+- College of Rob siger; working with farmers and organisinng training. Cotton farming and kitchen gardeners 
+
+Raghav
