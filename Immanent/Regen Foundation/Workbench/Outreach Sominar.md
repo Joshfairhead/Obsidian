@@ -9,4 +9,7 @@ Vineet Singh
 - Farmstart / distant green. Distributed data exchange. Looking at how data value can be used by small holder farmers at the level of semi-organised groups. Extension of work thats matured around exchange workers. Fun stack = interoerable networks. 
 
 Kebede Ayele
-- Digital green ethioia. Working with farmers dependent on land and resources. 
+- Digital green ethioia. Working with farmers dependent on land and resources. Forrests in the south; farmers dependent on the forrest for lively hoods and protecting it. Partnering with 
+
+Tadesse
+- Enviroment and coffe forrest forum. Three programmes; forrest and biodiversity, food and agriculture, 
