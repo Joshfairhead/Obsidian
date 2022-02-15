@@ -31,3 +31,7 @@ Sourabh
 - College of Rob siger; working with farmers and organisinng training. Cotton farming and kitchen gardeners 
 
 Raghav
+- Greenhouse gas accounting. Helping orgs offset
+
+Shantanu
+- Working with the mainstream, living on a farm. Growing their own food and self sufficien
