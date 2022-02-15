@@ -34,4 +34,7 @@ Raghav
 - Greenhouse gas accounting. Helping orgs offset
 
 Shantanu
-- Working with the mainstream, living on a farm. Growing their own food and self sufficien
+- Working with the mainstream, living on a farm. Growing their own food and self sufficient, homeschooled children. Dreams of representing the consumer side of mainstream society. Curious about carbon credits
+
+Sidarth
+- Working with SEEDS, looking after a small org building resiliance 
