@@ -22,3 +22,7 @@ Rupsi
 
 Aneel / Sarat
 - Ground in gods kingdom?? Circular agriculture products. 1400 tribal networks. Sustainable fibre; intrigued by the benchmark of traceability and transparency - current systems are not good. Hence interest in Regen. Bitcoin miner
+
+Sharada
+- Keystone. Technology and ecology, conservation. Works across the whole value chain; biodiversity, tools, PGS based organic agriculture. Lots of other stuff
+- Jyoti - director at keystone. Community wellbeing
