@@ -15,4 +15,4 @@ Tadesse
 - Enviroment and coffe forrest forum. Three programmes; forrest and biodiversity, food and agriculture, climate change and disaster risk. 
 
 Marc
-- Smart agriculture. 9 species of cover crops with small holder networks. Seed mixes and no till machinery 
+- Smart agriculture. 9 species of cover crops with small holder networks. Seed mixes and no till machinery. Methodologies developed for EU on remote sensing, practice based 
