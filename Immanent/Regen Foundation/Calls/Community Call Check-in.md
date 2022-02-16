@@ -1,4 +1,4 @@
-# 
+# Community Call Check-in
 
 Eagerness to find fit
 Need to have more moving moments around regularity and expectations there
