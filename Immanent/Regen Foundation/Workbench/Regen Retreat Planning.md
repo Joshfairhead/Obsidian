@@ -54,4 +54,3 @@ Mexico / Wahaca? - Austin
 Barbados - Will
 Dominican republic
 Look at Peurto Rica? 7 days quarrentene - Josh
-Reach out to Jillian (multiple calls) - Josh
