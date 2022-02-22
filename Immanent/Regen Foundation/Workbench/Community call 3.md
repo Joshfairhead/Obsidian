@@ -28,6 +28,6 @@
 ---
 
 ## Existing proposals
-- Is Eventbrite a service we can use to create an events calandar with?
+- Is Eventbrite a suitable 
 - [Enabling 'baskets' on IBC]([https://commonwealth.im/regen/discussion/3842-software-upgrade-proposal-regen-ledger-v30](https://commonwealth.im/regen/discussion/3842-software-upgrade-proposal-regen-ledger-v30))
 - 
