@@ -1,6 +1,6 @@
-# Community Call
+# Community Call Kickoff Session Data
 
-## Horizon one
+## Horizon one (issues)
 - One dimensional nature of Carbon as indicator of regenerative health
 - discrepancy between land time and digital time
 - Current crypto solutions are not intuitive to land stewards
@@ -27,7 +27,7 @@
 - Takes some effort and knowledge to onboard to the system to create a methodology
 
 
-## Horizon two
+## Horizon two (change)
 - Community engagement around ethical tech standards
 - Mainstream awareness campaign of solutions beyond carbon
 - easy access to existing knowledge base of different regenerative practices
@@ -59,7 +59,7 @@
 	4. Financial models
 	5. Onboarding 
 
-## Horizon three
+## Horizon three (outcomes)
 - H3 - Breaking through the complexity and speculative reputation of of blockchain so that it can be trusted as a currency for ecosystem services
 - Empowered smallholders participating in eco-credit creation with minimal barriers
 - Including hyperlocal solutions into planetary governance
