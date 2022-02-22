@@ -23,5 +23,6 @@
 ---
 
 ## Breakout pollination
-- Building belonging
-- Small groups
+- Weaving culture and building belonging
+	- Small group interaction
+	- Dyads
