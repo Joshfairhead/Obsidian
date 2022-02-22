@@ -18,4 +18,10 @@
 
 
 ## This call's context
-- Governance and culture
+- Genesis story of where the network came from
+- Governance and culture discussion
+---
+
+## Breakout pollination
+- Building belonging
+- Small groups
