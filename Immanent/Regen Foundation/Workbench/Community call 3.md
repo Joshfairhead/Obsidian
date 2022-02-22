@@ -19,10 +19,10 @@
 
 ## This call's context
 - Genesis story of where the network came from
-- Governance and culture discussion
 ---
 
 ## Breakout pollination
 - Weaving culture and building belonging
+	- Dyadic interaction
 	- Small group interaction
-	- Dyads
+	- 
