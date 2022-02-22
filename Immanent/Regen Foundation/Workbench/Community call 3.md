@@ -15,5 +15,6 @@
 
 ## Summary
 - First session: Strategy work on macro goals
+	- Data available via Hylo
 - Second session: Resourcing via enDAOment
-- Third ses
+	- 
