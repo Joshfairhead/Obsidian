@@ -1,7 +1,6 @@
 # Reconciling the Campfire
-
---- 
-
+---
+ 
 ## Framing
 - Summary of previous calls
 - Context setting for this call
@@ -10,9 +9,9 @@
 - Existing proposals
 - Next steps
 
+
+
 --- 
-
-
 ## Summary
 - First session: Strategy work on macro goals
 - Second session: Resourcing via enDAOment
