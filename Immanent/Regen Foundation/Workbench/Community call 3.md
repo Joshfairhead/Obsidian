@@ -23,6 +23,10 @@
 
 ## Breakout pollination
 - Weaving culture and building belonging
-	- Dyadic interaction
+	- Dyadic interaction (meet someone new)
 	- Small group interaction
-	- 
+---
+
+## Existing proposals
+- 
+- Enabling 'baskets' on IBC
