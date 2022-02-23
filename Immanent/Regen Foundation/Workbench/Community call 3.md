@@ -40,4 +40,6 @@
 --- 
 
 ## Next Steps
-- 
+- Add to the Community Kanban
+- Strategy session prioritising cards on the Notion kanban
+
