@@ -1,4 +1,4 @@
-# Reconciling the Campfire
+# Campfire Culture
 ---
  
 ## Framing
@@ -37,7 +37,7 @@
 - Web3:4Life
 - Kulshan Carbon Trust
 - Validator distribution?
---- 
+---
 
 ## Next Steps
 - Add to the Community Kanban
