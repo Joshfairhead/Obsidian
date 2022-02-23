@@ -28,5 +28,10 @@
 ---
 
 ## Existing proposals
-- 
 - [Enabling 'baskets' on IBC]([https://commonwealth.im/regen/discussion/3842-software-upgrade-proposal-regen-ledger-v30](https://commonwealth.im/regen/discussion/3842-software-upgrade-proposal-regen-ledger-v30))
+---
+
+## Call for proposals
+- Web3:4Life
+- Kulshan Carbon Trust
+- Validator distribution
