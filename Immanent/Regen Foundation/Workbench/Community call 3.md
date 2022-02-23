@@ -30,4 +30,3 @@
 ## Existing proposals
 - 
 - [Enabling 'baskets' on IBC]([https://commonwealth.im/regen/discussion/3842-software-upgrade-proposal-regen-ledger-v30](https://commonwealth.im/regen/discussion/3842-software-upgrade-proposal-regen-ledger-v30))
-- Is Eventbrite or Dandilion earth a suitable events calandar to collectivly organise our bat signaling from?
