@@ -23,8 +23,8 @@
 
 ## Breakout pollination
 - Weaving culture and building belonging
-	- Dyadic interaction (meet someone new)
-	- Small group interaction
+	- Dyadic interaction (meet someone new) 5min
+	- Small group interaction 15min
 ---
 
 ## Existing proposals
