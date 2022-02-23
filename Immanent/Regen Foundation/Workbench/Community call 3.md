@@ -7,6 +7,7 @@
 - Genesis story of the network
 - Breakout pollination
 - Existing proposals
+- Call for proposals
 - Next steps
 ---
 
@@ -32,6 +33,9 @@
 ---
 
 ## Call for proposals
+[Notion page here](https://regenfoundation.notion.site/e1581a1d2d08427eb9a130d5a1448ac9?v=bb44ab23841d44cc851e795146fe77f7)
 - Web3:4Life
 - Kulshan Carbon Trust
 - Validator distribution
+--- 
+
