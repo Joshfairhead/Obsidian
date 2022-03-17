@@ -7,5 +7,4 @@ Thanks for your attendence at the team retreat. It was great to meet you all in 
 
 #### Reimbursement steps
 - Take a picture of the reciepts
-- Add the pictures to a folder
-- 
+- Attach them to an email
