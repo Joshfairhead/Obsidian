@@ -9,7 +9,7 @@ Thanks for your attendence at the team retreat. It was great to meet you all in 
 
 They also request you fill in the following form: https://docs.google.com/spreadsheets/d/18YZ9TMLiSI5UbtzMNxBguhlmDmwAV9eB/edit?usp=sharing&ouid=104916034209481578895&rtpof=true&sd=true
 
-Having addressed expenses, it would be great to know from folks in attendence what worked and what did not work? Just mail me directly on this thread 
+Having addressed expenses, it would be great to know from folks in attendence what worked and what did not work? Just mail me directly on this thread and I'll colate information.
 
 Once again, thank you for spending your most precious resource with us - your time!
 
