@@ -20,6 +20,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://www.openideo.com/
 - https://quirky.com/
 - [[Enspiral]]
+- [MetaIntegral](https://www.metaintegral.com/)
 
 ## Communities
 - https://www.transformationscommunity.org/art
