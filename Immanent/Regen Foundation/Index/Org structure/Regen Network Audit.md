@@ -6,7 +6,7 @@
 [Relationships mural](https://miro.com/app/board/uXjVOClQHU8=/)
 [Miro Dashboard](https://miro.com/app/board/uXjVOEW-RaE=/)
 [Registry Sync Notion](https://www.notion.so/regenfoundation/RF-Registry-Sync-2847bf42efb8497b8638b84d1ab454c3)
-
+[Registry Programme](https://docs.google.com/document/d/1n_U3IcGIg_OWjIJLKO8nvtqlbCaccl7sPihLqXYMEpQ/edit)
 
 ![[Foundation Org Structure Index]]
 ![[Regen Registry Index]]
