@@ -1,7 +1,7 @@
 ---
 Tags: [Artifacts, Designs, Deliverables]
 ---
-Related: [[Josh]] [[JoshFairhead]] [[Design]] [[Identity]] [[Identity Primers]] [[Identity Vault Stories]] [[Identiti]] [[Not-A-Bot]] [[ePassports]]
+Related: [[Josh]] [[JoshFairhead]] [[Omnicient/Monad Saplings/Design]] [[Identity]] [[Identity Primers]] [[Identity Vault Stories]] [[Identiti]] [[Not-A-Bot]] [[ePassports]]
 
 # NotABot
 

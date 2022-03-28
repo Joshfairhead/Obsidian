@@ -1,7 +1,7 @@
 ---
 Tags: [Esoteric, Domains, Patterns, Principals]
 ---
-Related: [[Design]] [[Writing]] 
+Related: [[Omnicient/Monad Saplings/Design]] [[Writing]] 
 # Meta-designers
 
 #### Articles

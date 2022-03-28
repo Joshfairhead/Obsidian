@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Tools, Primitives]
 ---
-Related: [[Design]]
+Related: [[Omnicient/Monad Saplings/Design]]
 
 # Utility First Design
 

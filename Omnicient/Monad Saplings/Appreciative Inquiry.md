@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Principals, Heuristics]
 ---
-Related: [[Design]]
+Related: [[Omnicient/Monad Saplings/Design]]
 
 # Appreciative Inquiry
 #### Ap-pre’ci-ate

@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Patterns, Domains]
 ---
-Related: [[Project Management]] [[Design]] [[Computer Science]] [[Test Driven Development]]
+Related: [[Project Management]] [[Omnicient/Monad Saplings/Design]] [[Computer Science]] [[Test Driven Development]]
 # Behavior Driven Development
 #### Overview
 BDD is a second-generation, outside-in, pull-based, multiple-stakeholder, multiple-scale, high-automation, agile methodology. It describes a cycle of interactions with well-defined outputs, resulting in the delivery of working, tested software that matters. 

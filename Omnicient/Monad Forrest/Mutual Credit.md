@@ -1,7 +1,7 @@
 ---
 Tags: [Artifacts, Designs, Patterns, Index]
 ---
-Related: [[Design]] [[Crypto Economic Primitives]]
+Related: [[Omnicient/Monad Saplings/Design]] [[Crypto Economic Primitives]]
 
 # Mutual Credit 
 

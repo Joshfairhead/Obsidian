@@ -1,7 +1,7 @@
 ---
 Tags: [Principals, Patterns, Psychology, Heuristics]
 ---
-Related: [[Design]] [[User Interface]] [[UX]]
+Related: [[Omnicient/Monad Saplings/Design]] [[User Interface]] [[UX]]
 
 # Gestalt General [[Principals]]
 #### Principle of Totality

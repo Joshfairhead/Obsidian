@@ -1,7 +1,7 @@
 ---
 Tags: [Domains]
 ---
-Related: [[User Interface]][[Design]]
+Related: [[User Interface]][[Omnicient/Monad Saplings/Design]]
 
 # User Experience
 - [UX Benchmark](https://baymard.com/ux-benchmark)

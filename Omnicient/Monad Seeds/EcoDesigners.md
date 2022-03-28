@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Patterns, Principals]
 ---
-Related: [[Climate]] [[Design]]
+Related: [[Climate]] [[Omnicient/Monad Saplings/Design]]
 # EcoDesigners
 
 - [[Michael Braungart]]

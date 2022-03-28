@@ -7,7 +7,7 @@ Related: [[H3uni]] [[Capra Course]] [[E-systems]] [[Qual Systems]] [[Second Orde
 # Cybernetics
 - [Overview](https://pangaro.com/definition-cybernetics.html) 
     - [Video](https://vimeo.com/41776276)
-- [Cybernetics and Service Craft](http://www.dubberly.com/articles/cybernetics-and-service-craft.html) [[Design]]
+- [Cybernetics and Service Craft](http://www.dubberly.com/articles/cybernetics-and-service-craft.html) [[Omnicient/Monad Saplings/Design]]
 - [Brief definition](https://whatis.techtarget.com/definition/cybernetics)
 - [The Cybernetic Brain](https://press.uchicago.edu/ucp/books/book/chicago/C/bo8169881.html) - [[Andrew Pickering]] [[The Cybernetic Brain]]
 

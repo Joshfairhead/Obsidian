@@ -1,7 +1,7 @@
 ---
 Tags: [Patterns, Domains]
 ---
-Related: [[Design]]
+Related: [[Omnicient/Monad Saplings/Design]]
 # Graphic Design
 
 ### Tools & Resources

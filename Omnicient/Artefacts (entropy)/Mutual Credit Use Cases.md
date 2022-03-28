@@ -1,7 +1,7 @@
 ---
 Tags: [Artifacts, Designs, Notes]
 ---
-Related: [[Mutual Credit Index]] [[Mutual Credit]] [[Design]] [[Crypto Economic Primitives]]
+Related: [[Mutual Credit Index]] [[Mutual Credit]] [[Omnicient/Monad Saplings/Design]] [[Crypto Economic Primitives]]
 
 # Mutual Credit Use Cases
 

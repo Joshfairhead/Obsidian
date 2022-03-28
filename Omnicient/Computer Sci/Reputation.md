@@ -23,7 +23,7 @@ Related: [[Crypto Economic Primitives]] [[Token Engineering]] [[Sacred Capital]]
 - Combinging Reputation and Recommendation algos http://folk.uio.no/josang/papers/JGPSX2013-MDAI.pdf
 - SybilShield: An Agent-Aided Social Network-Based Sybil Defense among Multiple Communities http://ualr.edu/computerscience/files/2014/01/Paper-6.pdf
 - A Measurement of Mixing [[Time]] in Social Networks https://pdfs.semanticscholar.org/d877/826ef2db3e7b3d955ca4b7265123be62154f.pdf
-- The [[Design]] of a reliable reputation system https://www.cs.ucsb.edu/~ravenben/publications/pdf/reputation-ecrj10.pdf
+- The [[Omnicient/Monad Saplings/Design]] of a reliable reputation system https://www.cs.ucsb.edu/~ravenben/publications/pdf/reputation-ecrj10.pdf
 - blockchain & reputation Human [[Trust]] Protocol https://www.hubtoken.org/images/hub-white-paper.pdf
 - Colony — reputation system computation on blockchian (interactive verification on chain) simple blog: https://blog.colony.io/the-colony-reputation-system-5616293c3949 white paper: https://colony.io/whitepaper.pdf
 - Open Reputation by Samuel M. Smith (now working on ai-reputation system w consensys - https://xaltry.com/) https://openreputation.net/open-reputation-low-level-whitepaper.pdf https://openreputation.net/open-reputation-high-level-whitepaper.pdf extras: https://github.com/SmithSamuelM/Papers/tree/master/whitepapers

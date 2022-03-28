@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Patterns, Principals, Domains]
 ---
-Related: [[Domain Driven Design]] [[Test Driven Development]] [[Behavior Driven Development]] [[UX]] [[User Interface]] [[Goal Directed Design]] [[Interaction Design]] [[Meta-designers]] [[Utility first design]] [[Speculative design]] [[Appreciative Inquiry]] [[Business Process Model and Notation]] [[Design]] [[Front End]] [[EcoDesigners]]
+Related: [[Domain Driven Design]] [[Test Driven Development]] [[Behavior Driven Development]] [[UX]] [[User Interface]] [[Goal Directed Design]] [[Interaction Design]] [[Meta-designers]] [[Utility first design]] [[Speculative design]] [[Appreciative Inquiry]] [[Business Process Model and Notation]] [[Omnicient/Monad Saplings/Design]] [[Front End]] [[EcoDesigners]]
 # Design Index
 
 #### Articles
@@ -13,4 +13,5 @@ Related: [[Domain Driven Design]] [[Test Driven Development]] [[Behavior Driven 
 #### Tools
 - [Adobe colour extractor](https://color.adobe.com/create/image)
 - [Tailwind pallet generator](https://javisperez.github.io/tailwindcolorshades/#/)
+
 

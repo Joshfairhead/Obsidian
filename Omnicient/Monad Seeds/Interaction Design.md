@@ -1,7 +1,7 @@
 ---
 Tags: [Domains, Frameworks, Principals]
 ---
-Related: [[Design]]
+Related: [[Omnicient/Monad Saplings/Design]]
 # Interaction Design
 
 Originated with Alan Cooper

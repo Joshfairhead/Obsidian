@@ -2,7 +2,7 @@
 ---
 Tags: [Patterns, Primitives, Designs, Artifacts,]
 ---
-Related: [[Design]] [[Computer Science]] [[Social Archetecture]] [[Liminal Village]]
+Related: [[Omnicient/Monad Saplings/Design]] [[Computer Science]] [[Social Archetecture]] [[Liminal Village]]
 
 # Proposals Mechanism
 

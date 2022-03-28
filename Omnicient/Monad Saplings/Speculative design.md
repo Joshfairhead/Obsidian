@@ -1,7 +1,7 @@
 ---
 Tags: [Domains]
 ---
-Related: [[Design]] [[Intelligence]]
+Related: [[Omnicient/Monad Saplings/Design]] [[Intelligence]]
 
 # Speculative Design
 

@@ -1,7 +1,7 @@
 ---
 Tags: [Domains]
 ---
-Related: [[UX]][[Design]]
+Related: [[UX]][[Omnicient/Monad Saplings/Design]]
 # User Interface
 ### [[Tools]]
 - UI Kit

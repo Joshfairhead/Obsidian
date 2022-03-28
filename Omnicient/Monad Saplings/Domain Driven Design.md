@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Patterns, Domains]
 ---
-Related: [[Design]]
+Related: [[Omnicient/Monad Saplings/Design]]
 # Domain Driven Design
 
 [Wiki](https://en.wikipedia.org/wiki/Domain-driven_design)

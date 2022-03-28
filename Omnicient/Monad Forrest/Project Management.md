@@ -1,7 +1,7 @@
 ---
 Tags: [Patterns, Frameworks, Domains, Index]
 ---
-Related: [[Design]] [[Social Archetecture]] [[Culture]] 
+Related: [[Omnicient/Monad Saplings/Design]] [[Social Archetecture]] [[Culture]] 
 # Project Management
 
 ### Domain Specific [[Trends]]
@@ -15,7 +15,7 @@ Related: [[Design]] [[Social Archetecture]] [[Culture]]
 [Sprint Planning](https://www.atlassian.com/agile/scrum/sprint-planning)
 [[Shape up]]
 
-##### [[Design]]
+##### [[Omnicient/Monad Saplings/Design]]
 [[Domain Driven Design]]
 [[UX]]
 

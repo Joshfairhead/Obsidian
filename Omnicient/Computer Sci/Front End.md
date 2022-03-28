@@ -1,12 +1,12 @@
 ---
 Tags: [Domains, Tools]
 ---
-Related: [[Computer Science]] [[Design]] [[Svelte]] [[Vue]] [[JavaScript]] [[Css]] [[Tailwind]]
+Related: [[Computer Science]] [[Omnicient/Monad Saplings/Design]] [[Svelte]] [[Vue]] [[JavaScript]] [[Css]] [[Tailwind]]
 # Front End
 Animations
 - https://animejs.com/
 
-#### CSS [[Design]] Tricks
+#### CSS [[Omnicient/Monad Saplings/Design]] Tricks
 - [CSS blend modes](https://css-tricks.com/basics-css-blend-modes/)
 - [MIX Blend Mode](https://css-tricks.com/almanac/properties/m/mix-blend-mode/)
 
