@@ -23,7 +23,8 @@ DISCLAIMER: This is a draft page.
 - Objective: Strengthen the validator community.
 	- Key Result: 1x proposal made and passed
 - Objective: Thought leadership
-	- key Result: 1x think pieces on a big topic
+	- Key Result: 1x think pieces on a big topic
+	- Key Result: 1x reflective piece on the journey
 
 ### Where / When
 - Governance: S3 style meeting every 2-6 weeks.
@@ -41,3 +42,9 @@ DISCLAIMER: This is a draft page.
 ### Links
 - [Governance forum](https://forum.regen.network/c/governance-proposal/10)
 	- [Lost/locked tokens](https://forum.regen.network/t/in-need-of-communities-assistance-tokens-lost-in-wallet-conversion/212/7)
+- [Ticas RND mural](https://app.mural.co/t/exploros/m/exploros/1633364795847/c36407b73c9dacb0dd2b7aeb16ca4f4c0f60b936?sender=ufffda73d413a59dfeb237815)
+- [Rebeccas Regen Ecosystem Mapping](https://app.mural.co/t/exploros/m/exploros/1642717606573/2550de9b7cf959fdb204a089129721e8713469df?fromVisitorModal=true&sender=u70ef79b0a9c38c2d8ebd9946)
+- [Relationships mural](https://miro.com/app/board/uXjVOClQHU8=/)
+- [Miro Dashboard](https://miro.com/app/board/uXjVOEW-RaE=/)
+- [Registry Sync Notion](https://www.notion.so/regenfoundation/RF-Registry-Sync-2847bf42efb8497b8638b84d1ab454c3)
+- [Registry Programme](https://docs.google.com/document/d/1n_U3IcGIg_OWjIJLKO8nvtqlbCaccl7sPihLqXYMEpQ/edit)
