@@ -50,9 +50,3 @@ DISCLAIMER: This is a draft page.
 - [Registry Programme](https://docs.google.com/document/d/1n_U3IcGIg_OWjIJLKO8nvtqlbCaccl7sPihLqXYMEpQ/edit)
 
 
-----
-Bio stuff:
-
-Revathi Kollegala is an ethical technologist with a focus on digital and social inclusion believing in the power of collective systems. She is passionate about sustainable living and draws on personal experiences of cross-cultural living to tackle the climate emergency while creating a more joyous and more equitable world.
-
-
