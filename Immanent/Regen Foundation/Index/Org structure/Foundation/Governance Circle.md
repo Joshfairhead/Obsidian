@@ -54,4 +54,4 @@ DISCLAIMER: This is a draft page.
 
 "Wisdom Council"
 
-Dear Regens, I wish to decend to the economic level to tend to the networks roots. I seek your advice on how to legitimatly hand over this evolving governance call to better stewards than myself - as a degen in these . 
+Dear Regens, I wish to decend to the economic level to tend to the networks roots. As a degen in these lands I consider myself to be an epistemic tresspasser amongst you. I seek your advice as to how this governance call should be handed off with care. 
