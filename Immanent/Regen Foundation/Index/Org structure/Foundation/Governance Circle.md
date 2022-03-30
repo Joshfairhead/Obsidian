@@ -53,3 +53,5 @@ DISCLAIMER: This is a draft page.
 
 
 "Wisdom Council"
+
+Dear Regens, I wish to decend to the economic level and drive  I seek your advice on how to legitimatly hand the community governance ca
