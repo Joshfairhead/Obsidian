@@ -21,8 +21,8 @@ DISCLAIMER: This is a draft page.
 	- Key Result: Onboarding the validator community. 
 	- key Result: Onboarding minority voices
 - Objective: Strengthen the validator community.
-	- Key Result: 1 proposal made and passed
-	- Key Result: 
+	- Key Result: 1x proposal made and passed
+	- Key Result: 2x stewards honoured with "key community member" badges
 - Objective: Ensuring network health at the economic layer
 	- Key Result: 
 
