@@ -56,6 +56,6 @@ DISCLAIMER: This is a draft page.
 
 Dear Regens, as a degen in these lands I consider myself to be an epistemic tresspasser amongst you. I seek your advice as to how this governance call should be handed off with care; advice for an advice process I suppose. 
 
-Can you help? It's imperative to me that we cultivate a viable off chain governance process but my personal skill set is best put to use driving technological evolution and economic activity. 
+Can you help? It's imperative to me that we cultivate a viable off chain governance process but my personal skill set is best put to use driving technological evolution and economic activity. My intention here is to become your digital intemediary between the ledger and land (assuming you wish for such)
 
-Consequentially I ask for your help and advice as to how I make this transition. 
+How should this transition occur? 
