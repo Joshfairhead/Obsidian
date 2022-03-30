@@ -16,8 +16,8 @@ DISCLAIMER: This is a draft page.
 
 
 ### What (Track in [[Notion]]?)
-- Objective: Autopoietic Community Governance calls that grow themselves and self sustain
-	- Key Result: Entities become double linked.
+- Objective: Autopoietic Community Governance calls that grow themselves and self sustain through Sociocratic double linking.
+	- Key Result: Buddy system 
 	- Key Result: Onboarding the validator community. 
 	- key Result: Onboarding minority voices
 - Objective: Linking the community with the foundation.
@@ -25,9 +25,7 @@ DISCLAIMER: This is a draft page.
 - Objective: Ensuring network health at the economic layer
 	- Key Result: 
 
-
 ### Where / When
-- Round up: bi-weekly community call presenting reports of the ([[General Circle]]) and other activity.
 - Governance: S3 style meeting every 2-6 weeks.
 
 
