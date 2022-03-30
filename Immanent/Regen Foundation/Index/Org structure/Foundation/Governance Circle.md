@@ -17,10 +17,10 @@ DISCLAIMER: This is a draft page.
 
 ### What (Track in [[Notion]]?)
 - Objective: Community Governance calls
-	- Key Result: Calls self-select and grow themselves; partnerships are formed.
+	- Sub-objective: Calls self-select and grow themselves; partnerships are formed.
+		- Key Result: Buddy systems introduced.  
 	- Key Result: Onboarding the validator community.
 	- Key Result: 
-	- When: Bi-weekly on Wednesdays
 - 
 - Assisting the [[General Circle]] to audit the Network organisation structure 
 	- What: [[Distributed Governance Implementation plan]]
