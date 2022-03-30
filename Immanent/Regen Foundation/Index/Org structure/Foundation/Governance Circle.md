@@ -54,4 +54,4 @@ DISCLAIMER: This is a draft page.
 
 "Wisdom Council"
 
-Dear Regens, I wish to decend to the economic level and drive  I seek your advice on how to legitimatly hand the community governance ca
+Dear Regens, I wish to decend to the economic level to tend to the networks roots. I seek your advice on how to legitimatly hand over this evolving governance call to better stewards than myself - as a degen in these . 
