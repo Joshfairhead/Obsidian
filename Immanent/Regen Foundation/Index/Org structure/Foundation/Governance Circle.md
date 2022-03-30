@@ -17,11 +17,11 @@ DISCLAIMER: This is a draft page.
 
 ### What (Track in [[Notion]]?)
 - Objective: Community Governance calls
-	- Key Result: Calls self-selectin
+	- Key Result: Calls self-select and grow themselves; partnerships are formed.
+	- Key Result: Onboarding the validator community.
+	- Key Result: 
 	- When: Bi-weekly on Wednesdays
-- Working with the [[General Circle]] to maintain and develop organisational culture.
-	- What: Culture deck maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc.
-	- When: Governance meeting
+- 
 - Assisting the [[General Circle]] to audit the Network organisation structure 
 	- What: [[Distributed Governance Implementation plan]]
 	- When: Governance meeting
