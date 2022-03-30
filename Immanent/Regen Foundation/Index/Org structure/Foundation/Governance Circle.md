@@ -48,3 +48,12 @@ DISCLAIMER: This is a draft page.
 - [Miro Dashboard](https://miro.com/app/board/uXjVOEW-RaE=/)
 - [Registry Sync Notion](https://www.notion.so/regenfoundation/RF-Registry-Sync-2847bf42efb8497b8638b84d1ab454c3)
 - [Registry Programme](https://docs.google.com/document/d/1n_U3IcGIg_OWjIJLKO8nvtqlbCaccl7sPihLqXYMEpQ/edit)
+
+
+----
+Bio stuff:
+
+Revathi Kollegala is an ethical technologist with a focus on digital and social inclusion believing in the power of collective systems. She is passionate about sustainable living and draws on personal experiences of cross-cultural living to tackle the climate emergency while creating a more joyous and more equitable world.
+
+
+Josh has
