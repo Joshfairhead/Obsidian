@@ -19,11 +19,11 @@ DISCLAIMER: This is a draft page.
 - Objective: Autopoietic Community Governance calls that grow themselves and self sustain through Sociocratic double linking.
 	- Key Result: 2x stewards honoured with "key contributor" badges
 	- Key Result: 2x fellows recognised and honoured with badges
+	- Key Result: 1x guild partnership in advisory role (moving to the organisational and ecosystem levels later)
 - Objective: Strengthen the validator community.
 	- Key Result: 1x proposal made and passed
-	- Key Result: 1x partnership
-	
-- Objective: 
+- Objective: Thought leadership
+	- key Result: 1x think pieces on a big topic
 
 ### Where / When
 - Governance: S3 style meeting every 2-6 weeks.
