@@ -17,10 +17,11 @@ DISCLAIMER: This is a draft page.
 
 ### What (Track in [[Notion]]?)
 - Objective: Autopoietic Community Governance calls that grow themselves and self sustain through Sociocratic double linking.
-	- Key Result: Community members contributing to a buddy system
-	- key Result: Onboarding minority voices (criterea?)
+	- Key Result: 2x stewards honoured with "key contributor" badges
+	- Key Result: 2x fellows recognised and honoured with badges
 - Objective: Strengthen the validator community.
 	- Key Result: 1x proposal made and passed
+	- Key Result: 1x partnership
 	
 - Objective: 
 
