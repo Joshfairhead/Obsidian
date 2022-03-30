@@ -15,9 +15,9 @@ DISCLAIMER: This is a draft page.
 - Peer sourced performance reviews
 
 
-### What (Track in [[Notion]])
-- Community call presenting organisational/network roundup to the community.
-	- What: Slides aggrigating information. Stake holders in the network as guests.
+### What (Track in [[Notion]]?)
+- Objective: Community Governance calls
+	- Key Result: Calls self-selectin
 	- When: Bi-weekly on Wednesdays
 - Working with the [[General Circle]] to maintain and develop organisational culture.
 	- What: Culture deck maintaining congruence around incentives, rewards, perks, health insurance, 'regeneration time' etc.
