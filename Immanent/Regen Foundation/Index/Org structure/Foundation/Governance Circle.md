@@ -50,3 +50,6 @@ DISCLAIMER: This is a draft page.
 - [Registry Programme](https://docs.google.com/document/d/1n_U3IcGIg_OWjIJLKO8nvtqlbCaccl7sPihLqXYMEpQ/edit)
 
 
+
+
+"Wisdom Council"
