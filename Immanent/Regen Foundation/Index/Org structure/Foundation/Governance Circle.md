@@ -56,4 +56,4 @@ Bio stuff:
 Revathi Kollegala is an ethical technologist with a focus on digital and social inclusion believing in the power of collective systems. She is passionate about sustainable living and draws on personal experiences of cross-cultural living to tackle the climate emergency while creating a more joyous and more equitable world.
 
 
-Josh is story still coming into existence. He has lived as a community creature as long as crypto has existed and has contributed to numerous projects in the space including a crypto charity thats already well known. He's spends
+Josh is story still coming into existence. He has lived as a community creature as long as crypto has existed and has contributed to numerous projects in the space including a crypto charity thats already well known. He is a lover of knowlege, wisdom and the wise; with hopes of eventually becoming such! 
