@@ -16,10 +16,9 @@ DISCLAIMER: This is a draft page.
 
 
 ### What (Track in [[Notion]]?)
-- Objective: Community Governance calls
-	- Sub-objective: Calls self-select and grow themselves; partnerships are formed.
-		- Key Result: Buddy systems introduced.  
-	- Key Result: Onboarding the validator community.
+- Objective: Autopoietic Community Governance calls that grow themselves and self sustain
+	- Key Result: Buddy systems introduced and interlinkages . Community entities working together through an advice process.
+	- Key Result: Onboarding the validator community
 	- Key Result: 
 - 
 - Assisting the [[General Circle]] to audit the Network organisation structure 
