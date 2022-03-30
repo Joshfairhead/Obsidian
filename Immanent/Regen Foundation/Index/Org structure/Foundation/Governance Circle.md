@@ -20,7 +20,8 @@ DISCLAIMER: This is a draft page.
 	- Key Result: Buddy system 
 	- Key Result: Onboarding the validator community. 
 	- key Result: Onboarding minority voices
-- Objective: Linking the community with the foundation.
+- Objective: Strengthen the validator community.
+	- Key Result: 1 proposal made and passed
 	- Key Result: 
 - Objective: Ensuring network health at the economic layer
 	- Key Result: 
