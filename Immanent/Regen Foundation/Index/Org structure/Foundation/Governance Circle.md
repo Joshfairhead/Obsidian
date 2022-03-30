@@ -54,6 +54,6 @@ DISCLAIMER: This is a draft page.
 
 "Wisdom Council"
 
-Dear Regens, as a degen in these lands I consider myself to be an epistemic tresspasser amongst you. I seek your advice as to how this governance call should be handed off with care; advice for the advice process I suppose. 
+Dear Regens, as a degen in these lands I consider myself to be an epistemic tresspasser amongst you. I seek your advice as to how this governance call should be handed off with care; advice for an advice process I suppose. 
 
-Can you help? It's imperative to me that we cultivate a thriving off chain governance process. I wish 
+Can you help? It's imperative to me that we cultivate a viable off chain governance process but my personal skill set is best put to use driving the technological community. 
