@@ -5,7 +5,8 @@ DISCLAIMER: This is a draft page.
 ### Why
 - To sense into and inhabit the networks values.
 - Facillitating multi-scale nested network governance within the ecosystem.
-	- Ensuring a just and equitable distribution of PoS rewards
+	- Ensuring a just and equitable distribution of PoS rewards by linking validators with registry participants
+	- Aiding the connection of on the ground communties and ecosystem participans to operations and scientific resources
 
 ### How
 - Working with the [[Board of Directors]]/[[General Circle]] to develop novel and effective ways of working.
