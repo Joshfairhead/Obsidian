@@ -54,9 +54,9 @@ DISCLAIMER: This is a draft page.
 
 "Wisdom Council"
 
-Dear Regens, as an epistemic tresspasser in these lands I- which is fine but I don't wish to impose. I seek your advice as to how this governance call can be handed off with care; I'm seeking advice for an advice process I suppose. Can you help? 
+Dear Regens, as a 'degen' in these lands I have to consider myself to be an epistemic tresspasser - which is fine but I don't wish to over impose. I seek your guidance as to how this governance call can be handed off to the community with care; advice for an advice process I suppose. Can you help? 
 
-For me it's imperative that we cultivate a viable and vital off chain governance process. However my personal skill set is probably best put to use driving technological evolution and economic activity. My intention as ledger governance coordinator is to become your digital intemediary between ledger activity and land (assuming this assistance is welcomed). 
+For me it's imperative that we cultivate a viable and vital off chain governance process connected with the real world. However my personal skill set is probably best put to use driving technological evolution and economic activity. My intention as ledger governance coordinator is to become your digital intemediary between the ledger and land (assuming this assistance is welcomed). 
 
 How can this transition occur? How can we double link these worlds? 
 
