@@ -20,8 +20,10 @@ DISCLAIMER: This is a draft page.
 	- Key Result: Entities become double linked.
 	- Key Result: Onboarding the validator community. 
 	- key Result: Onboarding minority voices
-- Objective: Linking the com
-- Facillitating meetings / workshops to help increase resolution on domains/roles and helping to integrate them with review structures. 
+- Objective: Linking the community with the foundation.
+	- Key Result: 
+- Objective: Ensuring network health at the economic layer
+	- Key Result: 
 
 
 ### Where / When
