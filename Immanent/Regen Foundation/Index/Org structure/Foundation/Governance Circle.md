@@ -17,13 +17,10 @@ DISCLAIMER: This is a draft page.
 
 ### What (Track in [[Notion]]?)
 - Objective: Autopoietic Community Governance calls that grow themselves and self sustain
-	- Key Result: Buddy systems introduced and interlinkages . Community entities working together through an advice process.
-	- Key Result: Onboarding the validator community
-	- Key Result: 
-- 
-- Assisting the [[General Circle]] to audit the Network organisation structure 
-	- What: [[Distributed Governance Implementation plan]]
-	- When: Governance meeting
+	- Key Result: Entities become double linked.
+	- Key Result: Onboarding the validator community. 
+	- key Result: Onboarding minority voices
+- Objective: Linking the com
 - Facillitating meetings / workshops to help increase resolution on domains/roles and helping to integrate them with review structures. 
 
 
