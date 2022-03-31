@@ -1,4 +1,5 @@
 # Governance Circle
+[[Distributed Governance Implementation Process]]
 DISCLAIMER: This is a draft page.
 ![](assets/GovernanceEcology.jpg)
 
