@@ -16,6 +16,10 @@ Tags: [Organisations, Networks, Index, Refactor]
 ## Climate
 - https://co2colonialism.org/
 - https://www.ienearth.org/
+- https://hylozoic.gitbook.io/hylo/about/product-journey
+
+## Regen potential partners
+- https://passage3d.com/ - Mataverse
 
 ## Collaborative Orgs
 - [Regeneration pollination](https://www.regenerationpollination.earth/)
