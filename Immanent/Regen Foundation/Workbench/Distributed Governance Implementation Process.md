@@ -22,9 +22,9 @@ What's really at play here is an emergent process and so to work with it we must
 If we are simply copying what has been it will continue indefinitly forever. If we want or need something new, such as our envisioned futures how do we do create them? Again we're back to process and methodology; deductive logic cannot serve us here as its complicated and we're working with adapting complexity or even chaos. Inductive logics such as 'systems thinking' are better but lack dicipline in their structure and sequence so theres often no clear direction - still, statistically speaking a wrong map is better than no map [cite source] . In order to succeed with our task of planetary regeneration then we must integrate both forms of reason and leverage abductive logic; looking to priors to make inferences forward. Walking backwards in the darkness one foot at a time. 
 
 ## How?
-Pragmatically though, let get into the weeds and endevour to continue the thought experiment in a practical context. How do we to get to our desired end state of planetary regeneration? Let's look at our priors in the Regen Ecosystem and try to figure out what has happened so that we may better infer pathways forward. 
+Pragmatically though, let get into the weeds and endevour to continue the thought experiment in a practical context. How do we to reach our desired end state of planetary regeneration? Let's look at priors in the Regen Ecosystem and try to figure out what has happened and better infer our pathways forward. 
 
-To start the process of planetary regeneration you need a vehicle of sorts; a soverign entity or perhaps republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. 
+To start the process of planetary regeneration you need a vehicle of sorts; a soverign entity or perhaps a semi-digital republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. A cause. 
 
 In Regens case an initial catalist might be considered the emergence of RND; the networks progenitors (though no doubt sowething came before). Essentially, RND came into being by working for Cosmos as a development shop; this brought in and sustianed the resources needed to build the Regen ledger.
 
