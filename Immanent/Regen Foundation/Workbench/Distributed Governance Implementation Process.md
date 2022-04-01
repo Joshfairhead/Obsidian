@@ -60,13 +60,13 @@ In a given moment we can divide our efforts across these three horizons (utility
 
 This is where resourcing comes in. We have a community pool, enDAOment allotments and a nacent venture fund. The community pool can be used to generate economic utility, the enDAOment pool to build network security through large scale participation and venture fund for social endevours. What does this look like over time? 
 
-As far as the networks priorities we need to compell digital activity first, generate longer term security second and incubate social endevours last. This is paradoxically backwards from our real priorities around social justice; will this breed inequity? Possibly. This is why the three threads need to be ran concurrently. 
+As far as the networks priorities we need to compell digital activity first, generate longer term security second and incubate social endevours last. This is paradoxically backwards from our real priorities of social justice; will this breed inequity? Possibly. The three threads thus need to be ran concurrently even if there is a an uneven distribution of capacity between the technical and non technical.
 
-Integrating the "what" and "how" we get the mission statement that:
+Integrating the "what", "how" and "why" we get a pretty concise mission statement:
 
 > The Regen protocol serves people and planet by harnessing markets, science and technology. 
 
-There is a reciprocol nature and pattern integrity between these components. At different moments in the networks evoloutiton our priorities need to shift between short term subsistance needs to longer term social impact. The goal posts are constantly moving and this has implications for the prioritisation of our distribution efforts. 
+There is a reciprocol nature and pattern integrity that coalesces these components. At different moments in the networks evoloutiton priorities need to shift between short term subsistance needs to longer term social impact. The goal posts are constantly moving and this has implications for the prioritisation of our distribution efforts. 
 
 
 
