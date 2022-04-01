@@ -32,9 +32,7 @@ For this ledger to exist though; an ecosystem of participants running nodes must
 
 To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by curating ecosystem participation and passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the ledgers capabilities and capacity for impact; distributing them in a just manner. Whats justice then? How does this apply to token distribution?
 
-Starting with the former we know that social systems are long tail distributions. The distribution of social justice will then have a short head and a long tail; roughly a 70/30 split. The tokens 
-
-Excellent, let's circle back to the notion of justice which if you trust Plato can be thought of as a distribution of privilage to inequity. Outliers on this spectrum in particular could use a hand up in the world as it can be pretty rough hanging onto the tail. 
+Starting with the former we know that social systems are long tail distributions. The distribution of social justice will then have a short head and a long tail; roughly a 70/30 split. Excellent, so let's circle back to the notion of justice; if you trust Plato justice can be thought of as the distribution of privilage to inequity. Outliers on this spectrum in particular could use a hand up in the world as it's extreamly demanding to hang onto the tail as extractive market mechanisms and structural violence takes you for a ride. 
 
 The paradox comes in thinking about impact; where should we place our efforts? In the long tail or the short head? Most commonly when thinking about non-living things like toaster sales the correct answer is the short head. HOWEVER we are not toasters; toasters are complicated and fragile. Instead we are complex adaptive systems to which the principle of hormeisis applies. In evolution adversity breeds resiliance so ask yourself where you find the most adversity; the long tail or the short head? 
 
