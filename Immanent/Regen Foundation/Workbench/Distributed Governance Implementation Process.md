@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Distributed Governance Implementation Plan
 
-This was the first double bind I was charged with when hired for my position at Regen Foundation as Ledger Governance Coordinator - in itself a title from the world of forms.. So what do these terms represent? 
+The first double bind I was tasked with when hired for my position at Regen Foundation was a distributed governance implementation plan. as Ledger Governance Coordinator; a title that can only exist in the world of forms! So what do these terms represent? 
 
 Take a deep breath; we're working in an industry thats never existed before so we're writing the narrative on the fly. It's the only way to do it! 
 
