@@ -46,10 +46,9 @@ Great, that's the static conceptual framework sorted out, but pragmatically ther
 
 Capabilities are the skills necessary for agents to interact such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary. Some English is probably enough, while legal status is binary.
 
-What's necessary and whats sufficient though? Pragmatically speaking this depends and changes based on a constantly changing context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. Do we have sufficient variety as an organisation for this to work? Whats baseline? What are the networks imperatives? Other that to be just with our resource  but for what purposes?
+What's necessary and whats sufficient though? Pragmatically speaking this depends and changes based on a constantly changing context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. Do we have sufficient variety as an organisation for this to work? Whats baseline? What are the networks imperatives? Other that to be just with our resource distribution what are the pragmatic pathways forward and what are the constraints?
 
-Systemic pressures and imperatives will require our just distribution to be strategic.
-While the network aims to regenerate planetary health it can't do so without subsistence; in that respect distributed ledger techology is quite alive. 
+Systemic pressures and imperatives will require our just distribution to be strategic and change over time. While the network aims to regenerate planetary health it can't do so without subsistence; in that respect distributed ledger techology is quite alive. 
 
 Ledgers need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants.
 
