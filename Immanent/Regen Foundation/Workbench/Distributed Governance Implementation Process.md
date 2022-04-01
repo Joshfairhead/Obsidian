@@ -17,9 +17,9 @@ The networks communication is immanently changing as the participants constantly
 
 Given that we know the network is a complex adaptive system then any plan or cannoical source of truth is a necessary myth; a speculation on the future which eventually brings itself into existence. Any attempt at such a plan can only be a representitive snapshot riddled with immediacy bias. Let's abandon the plan and update our thinking.
 
-What's really at play is a process and so to work with it we must call upon a method a consistent method can act as a stable baseline or measure. What's that look like though? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without such a method we have no baseline - just an arbitrary selection of ad hoc methods that may or may not work in a given context. Is there such an abstraction layer? Phew that's tough to answer but we need one if we are to integrate all voices and stakeholders. 
+What's really at play is a process and so to work with it we must call upon a method a consistent method can act as a stable baseline or measure. What's that look like though? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without such a method we have no baseline - just an arbitrary selection of ad hoc methods that may or may not work in a given context. Is there such an abstraction layer? Phew that's tough to answer but we need one if we are to integrate all voices and stakeholders. This all points to a real time process. Action learning. 
 
-This all points to a real time process. Action learning. We must to continuously look to our priors and infer safe pathways forward. 
+If we are simply copying what has been, it always will be so again were back to process and methodology. 
 
 Instantiated specifically, we are already using methods and processes but are these schemas of the world fitting? Deductive logic cannot work as its complicated and we're working with adaptive complexity. Inductive logics such as systems thinking is better but lacks structure, sequence and clear direction. We need to combine the two in order to leverage abductive logic as it's the only form of reasoning that can help us in our herculean task.
 
