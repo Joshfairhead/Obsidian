@@ -48,7 +48,7 @@ Grounding things to our current context; basic English is probably enough to int
 
 Pragmatically speaking qualitive prioritisation depends on a constantly shifting context in both organism/organisation and environment; one set of qualities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with meeting the outer world with grace. 
 
-Do we have sufficient internal variety as an organisation to cross all terrains and meet all agents? What are the imperatives at the network level that we must account for in our decision process? Other than a just distribution what are the practical constraints and pathways forward? Systemic pressures will require our distribution to be strategic in this way as to be of service the network must subsist.
+Do we have sufficient internal variety as an organisation to cross all the terrains we seek to cross in meeting all agents or is inclusivity an ideal? What are the imperatives at the network level that need accounting for in our decision process? Systemic pressures will require our distribution to be strategic in this way as to be of service the network must subsist. Other than a just distribution; what are the practical constraints and pathways forward? 
 
 In that respect ledgers are quite alive; they need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants and beyond. Where do we direct our attention at a given moment?
 
