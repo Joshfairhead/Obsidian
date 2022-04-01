@@ -50,8 +50,12 @@ While the network aims to regenerate planetary health it can't do so without sub
 
 Ledgers need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants.
 
-This means that in directing our efforts we need to consider 
+This means that in directing our efforts we need to consider people, planet and protocol at the macro level by harnessing markets, science, and technology. 
 
-Ok so were begining to see a pattern; people, planet, protocol - harnessing markets, science, and technology. 
+To discern the sequence of how we direct
 
+
+
+
+---
 The Regen protocol serves people and planet by harnessing markets, science and technology. 
