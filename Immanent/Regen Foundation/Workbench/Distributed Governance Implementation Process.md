@@ -19,9 +19,9 @@ So given that the network is a complex adaptive system thats always changing the
 
 Let's update our thinking; what we really need is a process or method that acts as a foundation and creates a stable baseline. What's that look like? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without this we have no baseline - just an arbitrary selection of methods that may or may not work in a given context. We need to think metaphysically.
 
-So the plans actually a metaphysical process? It really has to be if we're to integrate all voices and stakeholders. Since this process is already alive and happening in real time we need to look back to priors to infer our pathways forward. 
+So the plans actually a metaphysical process? It really has to be if we're to integrate all voices and stakeholders. Since this process is already alive and happening in real time we must to look back to priors to infer pathways forward. 
 
-How do we infer our way forward then? Again the methods and processes we are already using; we just have to check that our epistemology is appropriate to the task. Deductive logic will not work as its complicated and we're worknig with second order complexity. Inductive logics such as systems thinking is better but often lacks structure, sequence and clear direction - they are somewhat arbitrary. To reach our goal of Regeneration we need to combine the two and leverage abductive logic; it's the only form of reasoning that can help us. 
+Instantiated specifically, we are already using methods and processes but are these schemas of the world fitting? Deductive logic will not work as its complicated and we're worknig with second order complexity. Inductive logics such as systems thinking is better but often lacks structure, sequence and clear direction - they are somewhat arbitrary. To reach our goal of Regeneration we need to combine the two and leverage abductive logic; it's the only form of reasoning that can help us. 
 
 
 
