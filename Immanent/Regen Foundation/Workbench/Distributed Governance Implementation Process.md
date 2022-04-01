@@ -19,9 +19,7 @@ Given that we know the network is a complex adaptive system then any plan or can
 
 What's really at play is a process and so to work with it we must call upon a method a consistent method can act as a stable baseline or measure. What's that look like though? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without such a method we have no baseline - just an arbitrary selection of ad hoc methods that may or may not work in a given context. Is there such an abstraction layer? Phew that's tough to answer but we need one if we are to integrate all voices and stakeholders. This all points to a real time process. Action learning. 
 
-If we are simply copying what has been, it always will be so again were back to process and methodology. 
-
-Instantiated specifically, we are already using methods and processes but are these schemas of the world fitting? Deductive logic cannot work as its complicated and we're working with adaptive complexity. Inductive logics such as systems thinking is better but lacks structure, sequence and clear direction. We need to combine the two in order to leverage abductive logic as it's the only form of reasoning that can help us in our herculean task.
+If we are simply copying what has been it will will continue indefinitly. If we want or need something new, how do we do create that? Again we're back to process and methodology; deductive logic cannot work as its complicated and we're working with adaptive complexity. Inductive logics such as 'systems thinking' are better but lack metodstructure, sequence and clear direction. We need to combine the two in order to leverage abductive logic as it's the only form of reasoning that can help us in our herculean task.
 
 ## How?
 Pragmatically though, let get into the weeds and endevour to continue the thought experiment in a practical context. How do we to get to our desired end state of planetary regeneration? Let's look at the Regen Ecosystem and try to figure out what the exactly is happening in order to chart our path forward. 
