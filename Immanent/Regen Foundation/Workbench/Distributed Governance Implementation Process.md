@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Distributed Governance Implementation Plan
 
-The first double bind I was tasked with when hired for my position at Regen Foundation was a distributed governance implementation plan. The title of Ledger Governance Coordinator also being a double bind and so can only exist in the world of forms and ideas! So what do these words represent and how do we create them?
+Starting at Regen Foundation, the first (but not last) double bind I was tasked with was a distributed governance implementation plan. The title of Ledger Governance Coordinator also being a double bind and so can only exist in the world of forms and ideas! So what do these words represent and how do we create them?
 
 Take a deep breath; we're working in an industry thats never existed before so action must in large doses be about imagination and creativity; it's the only way to create the future we wish to see. 
 
@@ -60,11 +60,11 @@ As far as the networks priorities go we need to compell digital activity first; 
 
 Now it would seem that the three themes of utility, security and social impact need to run concurrently with special interest paid to the of onboarding stewards, underrepresentive demographics and utility; ideally all three integrated as practice based methodologies that generate eco credits. 
 
-Integrating the "what", "how" and "why" we get a pretty concise mission statement:
+Reflecting back on the "what", "how" and "why" we begin to coalese a mission statement:
 
 > The Regen protocol serves people and planet by harnessing markets, science and technology. 
 
-Do you notice a reciprocol nature and pattern integrity coalescing these components? 
+Do you notice a reciprocol nature and pattern integrity of these components? 
 
 ---
 
