@@ -28,7 +28,7 @@ To start the process of planetary regeneration you need a vehicle of sorts; a so
 
 In Regens case an initial catalist might be considered Gregories eight forms of capital or the emergence of RND who acted as the networks progenitors. From what I know RND came into being by working for Cosmos as a development hub; this brought in and sustianed resources needed to build the Regen ledger.
 
-For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications and outreach. With this validator network in place, we have data integrity is ensured thats all. Here you wust ask who are the validators in the set? What are their ethics and commitments? Gladly, those I've met all seem of good character and principal.  
+For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications, outreach and coordination. With this validator network in place we have data integrity is ensured thats all for now. Here we must ask who are the validators in the set? What are their ethics and commitments? Gladly, those who are not anonymous to me all seem of good character and principal.  
 
 To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by continuing to curate the validator ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? and how does this apply to token distribution?
 
