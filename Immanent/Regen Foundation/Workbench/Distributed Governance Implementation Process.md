@@ -11,9 +11,9 @@ Take a deep breath; we're working in an industry thats never existed before so a
 > Life's what happens when your busy making other plans ~John Lennon
 
 ## What?
-Lets get into it; what's the ask here? For the plan to be distributed it means that it's authorship need be distributed and that the participants must write it. 
+Lets get into it; what's the ask here? For the plan to be distributed it means that it's authorship need be distributed and the participants must necessarily write it. How does the community do that given it's alive and poly-centric? 
 
-How does the community do that given it's alive and poly-centric? Our direction is immanently changing as we are just another part of the living world; a realm thats communicating rapidly all the time. Did you know that every one of us emits a million biophotons a second with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic Serpent** (fact check the data is correct). 
+The networks communication is immanently changing as the participants constantly adapt to the living world; a realm thats communicating rapidly all the time. VaueDid you know that every one of us emits a million biophotons a second with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic Serpent** (fact check the data is correct). 
 
 So given that the network is a complex adaptive system thats always changing then any plan is simply a speculation on the future based on an uncertain snapshot thats riddled with immediacy bias... thats not going to work! 
 
