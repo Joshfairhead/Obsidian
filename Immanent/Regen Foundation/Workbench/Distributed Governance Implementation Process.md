@@ -70,5 +70,7 @@ Do you notice a reciprocol nature and pattern integrity in the relationship betw
 
 ---
 
-## Getting more specific
+## Organisational development
+
+
 
