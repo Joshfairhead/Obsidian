@@ -28,11 +28,11 @@ To start the process of planetary regeneration you need a vehicle of sorts; a so
 
 In Regens case an initial catalist might be considered the emergence of RND; the networks progenitors (though no doubt sowething came before). Essentially, RND came into being by working for Cosmos as a development shop; this brought in and sustianed the resources needed to build the Regen ledger.
 
-For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications and outreach. With this validator network in place, data integrity is ensured through the blockchain but thats all. Here you wust ask who are the validators in the set? What are their ethics and commitments? Whats their purpose here and hope to gain? For whom?
+For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications and outreach. With this validator network in place, data integrity is ensured through the blockchain but thats all. Here you wust ask who are the validators in the set? What are their ethics and commitments? Gladly, those I've met all seem of good character and principal.  
 
-To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by curating this ecosystem participation while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? and how does this apply to token distribution?
+To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by continuing to curate this ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? and how does this apply to token distribution?
 
-Starting with the former we know that social systems are long tail distributions. The social distribution of justice will have a short head and long tail; roughly a 70/30 split. 
+Starting with the former we know that social systems are long tail distributions. The social distribution of justice will consequentially have a short head and long tail; roughly a 70/30 split. 
 
 Excellent, let's circle back to the notion of justice; whats this? If you trust Plato justice can be thought of as the distribution of privilage and inequity. Outliers on this spectrum in particular could use a hand up in the world as it's extreamly demanding work to hang onto the long tail as extractive market mechanisms and structural violence takes you for a ride. 
 
