@@ -19,7 +19,7 @@ Given that we know the network is a complex adaptive system then any plan or can
 
 What's really at play is a process and so to work with it we must call upon a method a consistent method can act as a stable baseline or measure. What's that look like though? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without such a method we have no baseline - just an arbitrary selection of ad hoc methods that may or may not work in a given context. Is there such an abstraction layer? Phew that's tough to answer but we need one if we are to integrate all voices and stakeholders. 
 
-Since this process is already alive and happening in real time we must to look back to priors to infer pathways forward. 
+This all points to a real time process. Action learning. We must to continuously look to our priors and infer safe pathways forward. 
 
 Instantiated specifically, we are already using methods and processes but are these schemas of the world fitting? Deductive logic cannot work as its complicated and we're working with adaptive complexity. Inductive logics such as systems thinking is better but lacks structure, sequence and clear direction. We need to combine the two in order to leverage abductive logic as it's the only form of reasoning that can help us in our herculean task.
 
