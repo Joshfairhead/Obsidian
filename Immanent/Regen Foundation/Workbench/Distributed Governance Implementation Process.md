@@ -19,7 +19,7 @@ So given that the network is a complex adaptive system thats always changing the
 
 Let's update our thinking; what we really need is a process or method that acts as a foundation and creates a stable baseline. What's that look like? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without this we have no baseline - just an arbitrary selection of methods that may or may not work in a given context. We need to think metaphysically.
 
-So the plans actually a metaphysical process? It kind of has to be. 
+So the plans actually a metaphysical process? It kind of has to be if we're to integrate all voices and stakeholders. Since this process is already allive and happening in real time we need to look back to priors to infer our pathways forward.
 
 Well this again I don't know because its happening in real time and being only a part unable to see the macroscopic whole I'm blind. Even if I could examine whole with such a gods ee view; the living world is complex, emergent and even chaotic so I doubt it would make sense. There are infinite unknowns here so we're dealing with uncertainty, and due to this hazard agency can exist.
 
