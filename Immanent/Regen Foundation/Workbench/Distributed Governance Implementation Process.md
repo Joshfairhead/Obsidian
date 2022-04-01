@@ -46,11 +46,9 @@ Ok, that's the basic conceptual framework sorted out but there are other conside
 
 Capabilities are skills such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability which can be gradiated or binary. Grounding things to our current context; basic English is probably enough to interface with our team but legal status is a binary necessity for enDAOment. Can we scope the binaries? What's necessary and whats sufficient? What about candidate qualities or their properties? This is a more instrumental consideration but such pragmatics must be considered if we are to succeed in our task.  
 
-Pragmatically speaking qualitive prioritisation depends on a constantly shifting context in both organism/organisation and environment; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. 
+Pragmatically speaking qualitive prioritisation depends on a constantly shifting context in both organism/organisation and environment; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with meeting this outer world. 
 
-Do we have sufficient internal variety as an organisation to interface and interact? What are the imperatives at the network level? Other than just distribution what are the constraints and pathways forward? Systemic pressures will require our distribution to be strategic and change over time. 
-
-While the network aims to regenerate planetary health it can't do so without subsistence and in that respect distributed ledger techology is quite alive. 
+Do we have sufficient internal variety as an organisation to cross all terrains and meet all agents? What are the imperatives at the network level that we must account for in our decision process? Other than a just distribution what are the practical constraints and pathways forward? Systemic pressures will require our distribution to be strategic in this way as to be of service the network must subsist. In that respect they are quite alive.
 
 Ledgers need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants. Where do we direct our attention?
 
