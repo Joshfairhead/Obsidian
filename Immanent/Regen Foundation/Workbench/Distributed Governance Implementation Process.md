@@ -40,7 +40,7 @@ Should we put our eggs in the short head or the long tail? When thinking about n
 
 It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant, regenerative and anti-fragile world! 
 
-Great, so how does one consider the deployment of resources? That requires us to think about the variety matching between agents concerning their capabilities and capacity. Capabilities are the skills necessary for agents to interface; language, technology, knowlege etc. while capacities are the degree to which an agent is skilled in a given activity. 
+Great, that's conceptual prioritisation deployment sorted but pragmatically there are other considerations. Primarily we need to think about variety matching between agents with concern towards  capabilities and capacity. Capabilities are the skills necessary for agents to interface; language, technology, knowlege etc. while capacities are the degree to which an agent is skilled in a given activity. 
 
 What capabilities and capacities are needed? Pragmatically speaking this depends and changes; one set of capabilities this moment, others at a different degree of intensity the next. Our own resourcing and resourcefulness has a lot to do with it. Whats baseline? What are our imperatives? 
 
