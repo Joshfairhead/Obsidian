@@ -66,7 +66,9 @@ Integrating the "what", "how" and "why" we get a pretty concise mission statemen
 
 > The Regen protocol serves people and planet by harnessing markets, science and technology. 
 
-There is a reciprocol nature and pattern integrity that coalesces these components. At different moments in the networks evoloutiton priorities need to shift between short term subsistance needs to longer term social impact. The goal posts are constantly moving and this has implications for the prioritisation of our distribution efforts. 
+Do you notice a reciprocol nature and pattern integrity coalescing these components? 
+
+---
 
 
 
