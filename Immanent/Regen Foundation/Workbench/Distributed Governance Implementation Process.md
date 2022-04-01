@@ -56,7 +56,7 @@ While the network aims to regenerate planetary health it can't do so without sub
 
 Ledgers need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants. Where do we direct our attention?
 
-In a given moment we can divide our efforts across these three horizons (utility, security, social) in an adaptive way.  
+In a given moment we can divide our efforts across these three horizons (utility, security, social) in a dynamic and adaptive manner. Currently the network pressures are around utility, though mass adoption and multi-valent social currencies are still prio
 
 
 
