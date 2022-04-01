@@ -21,12 +21,7 @@ Let's update our thinking; what we really need is a process or method that acts 
 
 So the plans actually a metaphysical process? It really has to be if we're to integrate all voices and stakeholders. Since this process is already alive and happening in real time we must to look back to priors to infer pathways forward. 
 
-Instantiated specifically, we are already using methods and processes but are these schemas of the world fitting? Deductive logic will not work as its complicated and we're worknig with second order complexity. Inductive logics such as systems thinking is better but often lacks structure, sequence and clear direction - they are somewhat arbitrary. To reach our goal of Regeneration we need to combine the two and leverage abductive logic; it's the only form of reasoning that can help us. 
-
-
-
-
-Well this again I don't know because its happening in real time and being only a part unable to see the macroscopic whole I'm blind. Even if I could examine whole with such a gods ee view; the living world is complex, emergent and even chaotic so I doubt it would make sense. There are infinite unknowns here so we're dealing with uncertainty, and due to this hazard agency can exist.
+Instantiated specifically, we are already using methods and processes but are these schemas of the world fitting? Deductive logic cannot work as its complicated and we're working with adaptive complexity. Inductive logics such as systems thinking is better but lacks structure, sequence and clear direction. We need to combine the two in order to leverage abductive logic as it's the only form of reasoning that can help us in our herculean task.
 
 ## How?
 Pragmatically though, let endevour to continue the thought experiment and try to invisage how we to get to our desired end state of planetary regeneration. Thats our mission after all so let's look at the Regen Ecosystem and try to figure it out. 
