@@ -38,9 +38,9 @@ Excellent, let's circle back to the notion of justice; whats this? If you trust 
 
 So thats a just distribution covered; we know that the long tail is where the majority of our resources should go in order for it to be equitable. But an apparent paradox begins to present itself when considering network growth over time. As you'll hear from MacKenzie Scott and other Philantropists; diricting funds towards impact means making extreamly difficult decisions under uncertainty. Should we prioritise the short head or the long tail? 
 
-When thinking about non-living things like toaster sales the correct answer is to invest resources in the short head. However, humans are not toasters; toasters are complicated and fragile while humans are complex adaptive living beings. Humans on the other hand are the most advanced technology nature has ever produced (or third most advanced if you ask Arthur C. Clarke). 
+When thinking about non-living things like toaster sales the correct answer is to invest your resources in the short head. However, humans are not toasters; toasters are complicated and fragile while humans are complex adaptive living beings and this needs o be taken into account. We are the most advanced technology nature has ever produced (or third most advanced if you ask Arthur C. Clarke). 
 
-The principle of hormeisis applies to us, while in evoloutionary theory adversity breeds resiliance. So where do we see the most adversity - the long tail or the short head? It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant, regenerative and anti-fragile world! 
+The general principle of hormeisis applies; adversity under the right conditions breeds resiliance and flow. So where do we see the most adversity - the long tail or the short head? It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant, regenerative and anti-fragile world! 
 
 Ok, that's the basic conceptual framework sorted out but pragmatically speaking there are other considerations like network priorities over time. Here we need to start thinking about variety matching; interaction and interfacing between agents. How do we match capabilities and capacities?
 
