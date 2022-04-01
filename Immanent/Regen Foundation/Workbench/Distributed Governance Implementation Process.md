@@ -4,9 +4,9 @@ Tags: []
 Related: 
 # Distributed Governance Implementation Plan
 
-Wow, there are a whole lot of ways this one could go! This was the paradox I was charged with when hired for my position at Regen Foundation as Ledger Governance Coordinator. So what's do these terms represent? 
+This was the first double bind I was charged with when hired for my position at Regen Foundation as Ledger Governance Coordinator - in itself a title from the world of forms.. So what do these terms represent? 
 
-Take a deep breath, we're working in an industry thats never existed before so we're writing the narrative on the fly. It's the only way to do it! 
+Take a deep breath; we're working in an industry thats never existed before so we're writing the narrative on the fly. It's the only way to do it! 
 
 > Life's what happens when your busy making other plans ~John Lennon
 
