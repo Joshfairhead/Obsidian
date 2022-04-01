@@ -24,7 +24,7 @@ If we are simply copying what has been it will will continue indefinitly. If we 
 ## How?
 Pragmatically though, let get into the weeds and endevour to continue the thought experiment in a practical context. How do we to get to our desired end state of planetary regeneration? Let's look at our priors in the Regen Ecosystem and try to figure out what has happened so that we may better infer pathways forward. 
 
-To start the process of planetary regeneration you need a vehicle of sorts; perhaps a digital republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. 
+To start the process of planetary regeneration you need a vehicle of sorts; a soverign entity or perhaps republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. 
 
 In Regens case the initial catalist was the emergence of RND; the networks progenitors. Essentially, they worked for Cosmos as a development shop which brought in and sustianed the resources needed to build the Regen ledger.
 
