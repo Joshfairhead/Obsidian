@@ -42,7 +42,9 @@ The general principle of hormeisis applies; adversity under the right conditions
 
 Ok, that's the basic conceptual framework sorted out but there are other considerations to be figured out such as network priorities over time. Here we need to start thinking about variety matching; interaction and interfacing between agents. How do we match capabilities and capacities?
 
-For clarityapabilities are skills such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability which can be gradiated or binary. Grounding things to our current context; basic English is probably enough to interface with our team but legal status is a binary necessity for enDAOment. Can we scope the binaries? What's necessary and whats sufficient? What about candidate qualities or their properties? This is a more instrumental consideration but such pragmatics must be considered if we are to succeed in our task.  
+For clarity of nomenclature, capabilities are skills such as language, technical proficiency, knowlege, legal status and other 'super powers'. Capacities are then the degree to which an agent or organisation is skilled in a given capability - these can be gradiated or binary. 
+
+Grounding things to our current context; basic English is probably enough to interface with our team but legal status is a binary necessity for the enDAOment programme. We can scope the binaries as a minimum viable model? What's necessary and whats sufficient? What about candidate qualities or their properties? This is a more instrumental consideration but such pragmatics must be considered if we are to succeed in our task.  
 
 Pragmatically speaking qualitive prioritisation depends on a constantly shifting context in both organism/organisation and environment; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with meeting this outer world. 
 
