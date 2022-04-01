@@ -6,14 +6,14 @@ Related:
 
 The first double bind I was tasked with when hired for my position at Regen Foundation was a distributed governance implementation plan. The title of Ledger Governance Coordinator also being a double bind and so can only exist in the world of forms and ideas! So what do these words represent and how do we create them?
 
-Take a deep breath; we're working in an industry thats never existed before so action must in large doses be about imagination. It's the only way to create the future we wish to see. 
+Take a deep breath; we're working in an industry thats never existed before so action must in large doses be about imagination and creativity; it's the only way to create the future we wish to see. 
 
 > Life's what happens when your busy making other plans ~John Lennon
 
 ## What?
 Lets get into it; what's this plan? Well, for the plan to be distributed it means that it's authorship need be distributed and that the participants must write it. 
 
-How does the community do that given it's alive and poly-centric? The plans changing immanently as we are just another part of the living world; a realm thats communicating rapidly all the time; every one of us emits a million biophotons a second with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic serpent**. 
+How does the community do that given it's alive and poly-centric? Our direction is immanently changing as we are just another part of the living world; a realm thats communicating rapidly all the time. Did you know that every one of us emits a million biophotons a second with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic serpent**. 
 
 So given that the network is a complex adaptive system thats always changing then any plan is simply a speculation on the future based on an uncertain snapshot thats riddled with immediacy bias... thats not going to work! 
 
