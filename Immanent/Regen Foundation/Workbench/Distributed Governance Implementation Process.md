@@ -26,7 +26,7 @@ Instantiated specifically, we are already using methods and processes but are th
 ## How?
 Pragmatically though, let get down into the weeds and endevour to continue the thought experiment in a practical context. How do we to get to our desired end state of planetary regeneration? Let's look at the Regen Ecosystem and try to figure out what the exactly is happening in order to chart a path forward. 
 
-To start the process of
+To start the process of planetary regeneration you need a vehicle of sorts; perhaps a digital republic? Starting at ground zero then, viability depends on sufficient variety for something to catalyse. 
 
 
 For such an undertaking you need viability; this is the point where you must gather sufficient variety for something to come into being. In Regens case this probably coalesced in RND; they worked for Cosmos bringing in capital while building the Regen ledger in parallel.
