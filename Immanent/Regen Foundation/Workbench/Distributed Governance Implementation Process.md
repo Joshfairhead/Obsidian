@@ -34,9 +34,7 @@ To ensure the vision stays on course it's necessary to make contingency plans ag
 
 Starting with the former we know that social systems are long tail distributions. The distribution of social justice will then have a short head and a long tail; roughly a 70/30 split. Excellent, so let's circle back to the notion of justice; if you trust Plato justice can be thought of as the distribution of privilage to inequity. Outliers on this spectrum in particular could use a hand up in the world as it's extreamly demanding to hang onto the tail as extractive market mechanisms and structural violence takes you for a ride. 
 
-So thats a just distribution covered, we know that the long tail is where the majority of our resources should go in order for it to be equitable. But a paradox begins to present itself when considering impact and network growth. 
-
-We've established tho context of "for whom" but how do we do so effectivly? As you'll hear from MacKenzie Scott and other Philantropists; giving out funds means making extreamly difficult decisions under uncertainty. 
+So thats a just distribution covered, we know that the long tail is where the majority of our resources should go in order for it to be equitable. But a paradox begins to present itself when considering impact and network growth over time. As you'll hear from MacKenzie Scott and other Philantropists; giving out funds for this purpose means making extreamly difficult decisions under uncertainty. How should we prioritise our distribution efforts over time in orto be efficient and effective? 
 
 Prioritising impact, should our efforts be directed towards the long tail or the short head? When thinking about non-living things like toaster sales the correct answer is the short head. Humans are not toasters however; toasters are complicated and fragile while humans are complex and adaptive. The principle of hormeisis applies to us and in evoloutionary theory adversity breeds resiliance. To ensure impact we must ask ourselves where do we see the most adversity; the long tail or the short head? I think that one is apparent.
 
