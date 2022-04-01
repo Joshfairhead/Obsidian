@@ -48,7 +48,9 @@ Ok, that's the basic conceptual framework sorted out but pragmatically speaking 
 
 Capabilities are skills such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary. Grounding things to our current context; basic English is probably enough to get by while legal status is a binary necessity. Can we scope these? What's necessary and whats sufficient? 
 
-Pragmatically speaking this depends and changes based on a constantly changing context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. Do we have sufficient variety as an organisation for this to work? Whats baseline? What are the networks imperatives? Other that to be just with our resource distribution what are the pragmatic pathways forward and what are the constraints?
+Pragmatically speaking prioritisation depends on a constantly changing context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. 
+
+Do we have sufficient internal variety as an organisation to interface and interact? What are the imperatives at the network level? Other than just distribut with our resource distribution what are the pragmatic pathways forward and what are the constraints?
 
 Systemic pressures and imperatives will require our just distribution to be strategic and change over time. While the network aims to regenerate planetary health it can't do so without subsistence; in that respect distributed ledger techology is quite alive. 
 
