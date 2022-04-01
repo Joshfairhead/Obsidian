@@ -35,7 +35,7 @@ To ensure the vision stays on course it's necessary to make contingency plans ag
 Starting with the former we know that social systems are long tail distributions. The distribution of social justice will then have a short head and a long tail; roughly a 70/30 split. Excellent, so let's circle back to the notion of justice; if you trust Plato justice can be thought of as the distribution of privilage to inequity. Outliers on this spectrum in particular could use a hand up in the world as it's extreamly demanding to hang onto the tail as extractive market mechanisms and structural violence takes you for a ride. 
 
 
-So thats a just distribution covered. The paradox comes when thinking about impact; how should we prioritise our distribution efforts? As you'll find out from McKinsey Besos and Bill Gates
+So thats a just distribution covered. The paradox comes when thinking about impact; how should we prioritise our distribution efforts? As you'll hear from MacKenzie Scott, Bill Gates and other Philantropists; directing 
 
 In the long tail or the short head? Most commonly when thinking about non-living things like toaster sales the correct answer is the short head. HOWEVER we are not toasters; toasters are complicated and fragile. Instead we are complex adaptive systems to which the principle of hormeisis applies. In evolution adversity breeds resiliance so ask yourself where you find the most adversity; the long tail or the short head? 
 
