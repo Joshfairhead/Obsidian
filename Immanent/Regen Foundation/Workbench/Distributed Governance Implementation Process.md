@@ -15,9 +15,9 @@ Lets get straight into it; what's the plan?
 
 Well, for the plan to be distributed it means that it's authorship need be distributed and that the participants must write it. 
 
-How does the community do that if it's alive and poly-centric? It can't. The plans changing immanently as humans are just another part of the living world and this realm is rapidly communicating all the time; every one of us emits a million biophotons a second - with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic serpent**. Plans are snapshots
+How does the community do that if it's alive and poly-centric? It can't. The plans changing immanently as humans are just another part of the living world and this realm is rapidly communicating all the time; every one of us emits a million biophotons a second - with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic serpent**. So a distributed governance implementation plan is a speculation of the future based on an uncertain snapshot... thats not going to work.
 
-Right, so plan must be a living process. So what does a distributed governance implementation process look like? Well this again I don't know because its happening in real time; the living world is complex, emergent and even chaotic. Our external environment is consists of infinite unknowns; if hazard and contingency cease to exist, then so does agency. 
+Right, so plan must be a living process. So what does a distributed governance implementation process look like? Well this again I don't know because its happening in real time and being only a part unable to see the macroscopic whole I'm blind. Even if I could see the whole the living world is complex, emergent and even chaotic. Our external environment is consists of infinite unknowns; if hazard and contingency cease to exist, then so does agency. 
 
 ## How?
 Pragmatically though, let endevour to continue the thought experiment and try to invisage how we to get to our desired end state of planetary regeneration. Thats our mission after all so let's look at the Regen Ecosystem and try to figure it out. 
