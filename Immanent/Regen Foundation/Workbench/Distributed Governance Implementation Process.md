@@ -28,11 +28,11 @@ To start the process of planetary regeneration you need a vehicle of sorts; a so
 
 In Regens case an initial catalist might be considered Gregories eight forms of capital or the emergence of RND who acted as the networks progenitors. From what I know RND came into being by working for Cosmos as a development hub; this brought in and sustianed resources needed to build the Regen ledger.
 
-For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications, outreach and coordination. With this validator network in place we have data integrity is ensured thats all for now. Here we must ask who are the validators in the set? What are their ethics and commitments? Gladly, those who are not anonymous to me all seem of good character and principal.  
+For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications, outreach and coordination. With this validator network in place we have data integrity is ensured thats all for now. Here we must ask who are the validators in the set? What are their ethics and commitments? Gladly, those who are not anonymous to me all seem of strong principal and good character.  
 
-To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by continuing to curate the validator ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? and how does this apply to token distribution?
+To ensure the vision stays on course it's then necessary to make contingency plans against economic pressures by continuing to curate the ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. 
 
-Starting with the former we know that social systems are long tail distributions. The social distribution of justice will consequentially have a short head and long tail; roughly a 70/30 distribution. 
+Whats justice then? and how does this apply to token distribution? Starting with the former we are talking about a social system which is thus a long tail distribution. It so follows that the social distribution of justice will consequentially have a short head and long tail; roughly a 70/30 distribution of equity. 
 
 Excellent, let's circle back to the notion of justice; whats this? If you trust Plato justice can be interpreted to be the distribution of privilage to inequity. Outliers on the inequity end in particular could use a hand up in the world as it's extreamly demanding work to hang onto the long tail; extractive market mechanisms and structural violence inflicts a lot of damage here.
 
