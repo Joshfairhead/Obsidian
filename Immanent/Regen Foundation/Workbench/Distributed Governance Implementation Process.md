@@ -44,7 +44,7 @@ Ok, that's the basic conceptual framework sorted out but there are other conside
 
 For clarity of nomenclature, capabilities are skills such as language, technical proficiency, knowlege, legal status and other 'super powers'. Capacities are then the degree to which an agent or organisation is skilled in a given capability - these can be gradiated or binary. 
 
-Grounding things to our current context; basic English is probably enough to interface with our team but legal status is a binary necessity for the enDAOment programme. We can scope the binaries as a minimum viable model? What's necessary and whats sufficient? What about candidate qualities or their properties? This is a more instrumental consideration but such pragmatics must be considered if we are to succeed in our task.  
+Grounding things to our current context; basic English is probably enough to interface with our team but legal status is a binary property necessity for the enDAOment programme. We can easily scope these properties to form a minimum viable model. What about candidate capabilities, qualities and properties? What's necessary and whats sufficient?This is a more instrumental consideration but these pragmatics must be considered if the network as a whole is to succeed in its task.  
 
 Pragmatically speaking qualitive prioritisation depends on a constantly shifting context in both organism/organisation and environment; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with meeting this outer world. 
 
