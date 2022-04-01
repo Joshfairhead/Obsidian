@@ -58,7 +58,9 @@ This is where resourcing comes in. We have a community pool, enDAOment allotment
 
 As far as the network imperatives go we must continue to compell digital activity and network velocity; in parallel we need to generate longer term security with an eye to incubating social endevours such as methodology development and eco-credits. 
 
-If we follow a pathway in linear time across utilit, security and social  is paradoxically backwards from our real priorities of social justice; will this breed inequity? My thinking is so which is why I've spent the majority of my time on working off chain goverance first. We need an autonomous receptical of sufficient variety, complexity and maturity to govern itself and the eventually the network. Phew, thats an ask but its arising. 
+If we consider imperatives in linear time starting with utilitity, then security, then social we are paradoxically operating backwards from our priorities around social justice; will this breed inequity? My thinking is such. This is why I've spent the majority of my time as coordinator working off chain on goverance first. We need an autonomous receptical of sufficient variety, complexity and maturity to govern itself and the eventually the network. 
+
+Phew, thats an ask but its nearly coalesced into being. 
 
 Now it would seem that the three themes of utility, security and social impact need to run concurrently with special interest paid to the of onboarding stewards, underrepresentive demographics and utility; ideally all three integrated as practice based methodologies that generate eco credits. 
 
