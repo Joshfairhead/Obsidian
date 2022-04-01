@@ -46,9 +46,11 @@ What capabilities and capacities are necessary and sufficient though? Pragmatica
 
 ## Why?
 Systemic pressures and imperatives will require our just distribution to be strategic.
-While the network aims to regenerate planetary health it can't do so without subsistence; ledgers in that respect are quite alive. 
+While the network aims to regenerate planetary health it can't do so without subsistence; in that respect distributed ledger techology is quite alive. 
 
-They need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits. Following on from these needs is 'security' in the form of network effects and adoption. And finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics. 
+Ledgers need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants.
+
+This means that in directing our efforts we need to consider 
 
 Ok so were begining to see a pattern; people, planet, protocol - harnessing markets, science, and technology. 
 
