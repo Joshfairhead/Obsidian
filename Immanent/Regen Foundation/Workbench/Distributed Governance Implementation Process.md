@@ -26,11 +26,11 @@ Pragmatically though, let get into the weeds and endevour to continue the though
 
 To start the process of planetary regeneration you need a vehicle of sorts; a soverign entity or perhaps a semi-digital republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. A cause. 
 
-In Regens case an initial catalist might be considered the emergence of RND; the networks progenitors (though no doubt sowething came before). Essentially, RND came into being by working for Cosmos as a development shop; this brought in and sustianed the resources needed to build the Regen ledger.
+In Regens case an initial catalist might be considered Gregories eight forms of capital or the emergence of RND who acted as the networks progenitors. From what I know RND came into being by working for Cosmos as a development hub; this brought in and sustianed resources needed to build the Regen ledger.
 
-For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications and outreach. With this validator network in place, data integrity is ensured through the blockchain but thats all. Here you wust ask who are the validators in the set? What are their ethics and commitments? Gladly, those I've met all seem of good character and principal.  
+For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications and outreach. With this validator network in place, we have data integrity is ensured thats all. Here you wust ask who are the validators in the set? What are their ethics and commitments? Gladly, those I've met all seem of good character and principal.  
 
-To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by continuing to curate this ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? and how does this apply to token distribution?
+To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by continuing to curate the validator ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? and how does this apply to token distribution?
 
 Starting with the former we know that social systems are long tail distributions. The social distribution of justice will consequentially have a short head and long tail; roughly a 70/30 distribution. 
 
