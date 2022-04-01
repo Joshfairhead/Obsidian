@@ -60,16 +60,15 @@ In a given moment we can divide our efforts across these three horizons (utility
 
 This is where resourcing comes in. We have a community pool, enDAOment allotments and a nacent venture fund. The community pool can be used to generate economic utility, the enDAOment pool to build network security through large scale participation and venture fund for social endevours. What does this look like over time? 
 
-As far as the networks priorities we need to compell digital activity first, generate longer term security second and incubate social endevours last. This is paradoxically backwards from our real priorities around social justice; will this breed inequity? Possibly. This is why the three threads need to be ran in parallel
+As far as the networks priorities we need to compell digital activity first, generate longer term security second and incubate social endevours last. This is paradoxically backwards from our real priorities around social justice; will this breed inequity? Possibly. This is why the three threads need to be ran concurrently. 
 
+These activities cover the "what", but we have to ask
 
-
-
-
+> The Regen protocol serves people and planet by harnessing markets, science and technology. 
 
 ---
 This means that in directing our efforts we need to consider people, planet and protocol at the macro level by harnessing markets, science, and technology. There is a reciprocol nature and pattern integrity between these components. At different moments in the networks evoloutiton our priorities need to shift from short term subsistance needs to longer term social impact. This has implications for the prioritisation of our distribution efforts. 
 
 In this early stage of network growth we need to ensure network subsistance while looking ahead to future security and vitality. In that regard there are three peels 
 
-The Regen protocol serves people and planet by harnessing markets, science and technology. 
+
