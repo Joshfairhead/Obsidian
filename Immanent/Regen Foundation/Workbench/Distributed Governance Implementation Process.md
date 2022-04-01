@@ -52,9 +52,9 @@ Do we have sufficient internal variety as an organisation to cross all terrains 
 
 In that respect ledgers are quite alive; they need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants and beyond. Where do we direct our attention at a given moment?
 
- Well as mentioned it seems our efforts must be threefold (utility, security, social) and change in an adaptive dynamic manner. Currently in Regens the network pressures are around utility, though mass adoption and multi-valent social currencies are priorities that need to be tended to. 
+ Well as mentioned it seems our efforts must be threefold (utility, security, social) and change in an adaptive dynamic manner. Currently in Regens evolution the network pressures are probably around utility - though the seeds of mass adoption and multi-valent social currencies are priorities that must be seeded. 
 
-This is where resourcing comes in. We have a community pool, enDAOment allotments and a nacent venture fund. The community pool can be used to generate economic utility, the enDAOment pool to build network security through large scale participation and venture fund for social endevours. What does this look like over time? 
+This is where resourcing comes in. We have a community pool, enDAOment allotments and a nacent venture fund.  community pool can be used to generate economic utility, the enDAOment pool to build network security through large scale participation and venture fund for social endevours. What does this look like over time? 
 
 As far as the networks priorities we need to compell digital activity first, generate longer term security second and incubate social endevours last. This is paradoxically backwards from our real priorities of social justice; will this breed inequity? Possibly. The three threads thus need to be ran concurrently even if there is a an uneven distribution of capacity between the technical and non technical.
 
