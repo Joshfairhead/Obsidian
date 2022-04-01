@@ -32,9 +32,9 @@ For this ledger to exist though; an ecosystem of participants running nodes must
 
 To ensure the vision stays on course it's then necessary to make contingency plans against economic pressures by continuing to curate the ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. 
 
-Whats justice then? and how does this apply to token distribution? Starting with the former we are talking about a social system which is thus a long tail distribution. It so follows that the social distribution of justice will consequentially have a short head and long tail; roughly a 70/30 distribution of equity. 
+Whats justice then? and how does this apply to token distribution? Starting with the latter we are talking about a social system which are long tail distributions. It follows then that the an equitable distribution of tokens will have a short head and long tail; roughly a 70/30 distribution of equity. 
 
-Excellent, let's circle back to the notion of justice; whats this? If you trust Plato justice can be interpreted to be the distribution of privilage to inequity. Outliers on the inequity end in particular could use a hand up in the world as it's extreamly demanding work to hang onto the long tail; extractive market mechanisms and structural violence inflicts a lot of damage here.
+Excellent, let's circle back to the notion of justice; whats this? If you trust Plato, justice can be interpreted to be the distribution of privilage to inequity. Outliers on the inequity end in particular could use a hand up in the world as it's extreamly demanding work to hang onto the long tail; extractive market mechanisms and structural violence inflicts a lot of damage here.
 
 So thats a just distribution covered; we know that the long tail is where the majority of our resources should go in order for it to be equitable. But an apparent paradox begins to present itself when considering network growth over time. As you'll hear from MacKenzie Scott and other Philantropists; diricting funds towards impact means making extreamly difficult decisions under uncertainty. Should we prioritise the short head or the long tail? 
 
