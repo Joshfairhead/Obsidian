@@ -24,11 +24,13 @@ So the plans actually a metaphysical process? It really has to be if we're to in
 Instantiated specifically, we are already using methods and processes but are these schemas of the world fitting? Deductive logic cannot work as its complicated and we're working with adaptive complexity. Inductive logics such as systems thinking is better but lacks structure, sequence and clear direction. We need to combine the two in order to leverage abductive logic as it's the only form of reasoning that can help us in our herculean task.
 
 ## How?
-Pragmatically though, let get down into the weeds and endevour to continue the thought experiment in a practical context. How do we to get to our desired end state of planetary regeneration? Let's look at the Regen Ecosystem and try to figure out what the exactly is happening in order to chart a path forward. 
+Pragmatically though, let get into the weeds and endevour to continue the thought experiment in a practical context. How do we to get to our desired end state of planetary regeneration? Let's look at the Regen Ecosystem and try to figure out what the exactly is happening in order to chart our path forward. 
 
-To start the process of planetary regeneration you need a vehicle of sorts; perhaps a digital republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. In Regens case this would be the emergence of RND the networks progenitors. Essentially, they worked for Cosmos as a development shop which brought in and sustianed the resources needed to build the Regen ledger. 
+To start the process of planetary regeneration you need a vehicle of sorts; perhaps a digital republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. 
 
-For this ledger to exist though; an ecosystem of participants running nodes must again be gathered requiring further communications and outreach. With this validator network running data integrity is ensured through the blockchain but thats about all. Who are the validators in the set? What are their ethics and commitments? Whats their purpose here and hope to gain? For whom?
+In Regens case the initial catalist was the emergence of RND; the networks progenitors. Essentially, they worked for Cosmos as a development shop which brought in and sustianed the resources needed to build the Regen ledger.
+
+For this ledger to exist though; an ecosystem of participants running nodes must also be gathered requiring further communications and outreach. With this validator network in place data integrity is ensured through the blockchain but thats about all. Who are the validators in the set? What are their ethics and commitments? Whats their purpose here and hope to gain? For whom?
 
 To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by curating ecosystem participation and passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? How does this apply to token distribution?
 
@@ -44,7 +46,6 @@ Great, that's conceptual prioritisation deployment sorted but pragmatically ther
 
 What capabilities and capacities are necessary and sufficient though? Pragmatically speaking this depends and changes based on a moving context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness has a lot to do with it. Whats baseline? What are the networks imperatives? We are giving out resources but for what purposes?
 
-## Why?
 Systemic pressures and imperatives will require our just distribution to be strategic.
 While the network aims to regenerate planetary health it can't do so without subsistence; in that respect distributed ledger techology is quite alive. 
 
