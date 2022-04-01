@@ -40,11 +40,11 @@ So thats a just distribution covered; we know that the long tail is where the ma
 
 When thinking about non-living things like toaster sales the correct answer is to invest your resources in the short head. However, humans are not toasters; toasters are complicated and fragile while humans are complex adaptive living beings and this needs o be taken into account. We are the most advanced technology nature has ever produced (or third most advanced if you ask Arthur C. Clarke). 
 
-The general principle of hormeisis applies; adversity under the right conditions breeds resiliance and flow. So where do we see the most adversity - the long tail or the short head? It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant, regenerative and anti-fragile world! 
+The general principle of hormeisis applies; adversity under the right conditions breeds resiliance and flow. So where do we see the most adversity - the long tail or the short head? It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant and regenerative world! 
 
-Ok, that's the basic conceptual framework sorted out but pragmatically speaking there are other considerations like network priorities over time. Here we need to start thinking about variety matching; interaction and interfacing between agents. How do we match capabilities and capacities?
+Ok, that's the basic conceptual framework sorted out but there are other considerations to be figured out such as network priorities over time. Here we need to start thinking about variety matching; interaction and interfacing between agents. How do we match capabilities and capacities?
 
-Capabilities are skills such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary. Grounding things to our current context; basic English is probably enough to get by while legal status is a binary necessity. Can we scope these? What's necessary and whats sufficient? 
+Capabilities are skills such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability which can be gradiated or binary. Grounding things to our current context; basic English is probably enough to interface with our team but legal status is a binary necessity for enDAOment. Can we scope the binaries? What's necessary and whats sufficient? What about candi
 
 Pragmatically speaking prioritisation depends on a constantly changing context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. 
 
