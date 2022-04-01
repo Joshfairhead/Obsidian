@@ -44,9 +44,9 @@ When thinking about non-living things like toaster sales the correct answer is t
 
 The principle of hormeisis applies to us, while in evoloutionary theory adversity breeds resiliance. So where do we see the most adversity - the long tail or the short head? It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant, regenerative and anti-fragile world! 
 
-Ok, that's the basic conceptual framework sorted out but pragmatically speaking there are other considerations like network priorities over time. How should we prioritise our efforts over time in order to be both efficient and effective? Here we need to think about variety matching annd interfacing between agents with our concerns directed towards shared capabilities and capacities. 
+Ok, that's the basic conceptual framework sorted out but pragmatically speaking there are other considerations like network priorities over time. Here we need to start thinking about variety matching; interaction and interfacing between agents. How do we match capabilities and capacities?
 
-Capabilities are the skills necessary for agents to interact such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary. Some English is probably enough, while legal status is binary.
+Capabilities are the skills necessary for actors to interact such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary. Some English is probably enough, while legal status is binary.
 
 What's necessary and whats sufficient though? Pragmatically speaking this depends and changes based on a constantly changing context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. Do we have sufficient variety as an organisation for this to work? Whats baseline? What are the networks imperatives? Other that to be just with our resource distribution what are the pragmatic pathways forward and what are the constraints?
 
