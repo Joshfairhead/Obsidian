@@ -28,9 +28,9 @@ Pragmatically though, let get down into the weeds and endevour to continue the t
 
 To start the process of planetary regeneration you need a vehicle of sorts; perhaps a digital republic? Starting at ground zero; viability depends on a sufficient variety of participants for something to catalyse. In Regens case this would be the emergence of RND the networks progenitors. Essentially, they worked for Cosmos as a development shop which brought in and sustianed the resources needed to build the Regen ledger. 
 
-For this distributed ledger to exist; a community of participants running nodes must be gathered and this requires communications and outreach. With a validator network running you are assured of data integrity but thats all.
+For this ledger to exist though; an ecosystem of participants running nodes must again be gathered requiring further communications and outreach. With this validator network running data integrity is ensured through the blockchain but thats about all. Who are 
 
-To ensure vision integrity, it's necessary to make contingency plans against economic pressures by passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow capabilities and capacity; distributing them in a just manner. 
+To ensure the integrity of the vision integrity, it's necessary to make contingency plans against economic pressures by passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow capabilities and capacity; distributing them in a just manner. 
 
 So whats a just distribution? Whats justice? Crikey these are big ones. 
 
