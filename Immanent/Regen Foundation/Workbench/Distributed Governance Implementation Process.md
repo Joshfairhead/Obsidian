@@ -36,9 +36,9 @@ Starting with the former we know that social systems are long tail distributions
 
 So thats a just distribution covered, we know that the long tail is where the majority of our resources should go in order for it to be equitable. But a paradox begins to present itself when considering impact and network growth. 
 
-How should we prioritise our distribution efforts? We know "for whom" but how do we do so effectivly? As you'll hear from MacKenzie Scott and other Philantropists; giving out funds means making really, really difficult decisions under uncertainty around prioritisation. We now know what to do; so the question becomes how to do it? Should we initially prioritise the long tail or the short head? 
+How should we prioritise our distribution efforts? We know "for whom" but how do we do so effectivly? As you'll hear from MacKenzie Scott and other Philantropists; giving out funds means making extreamly difficult decisions under uncertainty. 
 
-When thinking about non-living things like toaster sales the correct answer is the short head. HOWEVER humans are not toasters; toasters are complicated and fragile while humans are complex and adaptive. The principle of hormeisis applies; in evoloutionary theory adversity breeds resiliance so we must ask ourselves where do we see the most adversity; the long tail or the short head? I think that one is apparent.
+Prioritising impact, should our efforts be directed towards the long tail or the short head? When thinking about non-living things like toaster sales the correct answer is the short head. Humans are not toasters however; toasters are complicated and fragile while humans are complex and adaptive. The principle of hormeisis applies to us; in evoloutionary theory adversity breeds resiliance so we must ask ourselves where do we see the most adversity; the long tail or the short head? I think that one is apparent.
 
 Looking back to our question on just distribution its now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant and thus regenerative world! 
 
