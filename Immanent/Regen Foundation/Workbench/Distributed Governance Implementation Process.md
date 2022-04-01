@@ -15,9 +15,9 @@ Lets get into it; what's the ask here? For the plan to be distributed it means t
 
 The networks communication is immanently changing as the participants constantly adapt to the living world; a realm thats communicating rapidly all the time. Vaues and information are everywhere so how do you find significance in the noise? Did you know that every one of us emits a million biophotons a second with the perceptivity of a candle light two miles in the distance but with the intensity of a lazerbeam? ~**Cosmic Serpent** (fact check the data is correct). 
 
-Given that the network is such a complex adaptive system then any plan or cannoical source of truth is a necessary myth; a speculation on the future which eventually brings itself into existence. This is whats happening at Regen. Attempt at such a plan can only be a representitive snapshot riddled with immediacy bia!
+Given that the network is a complex adaptive system then any plan or cannoical source of truth is a necessary myth; a speculation on the future which eventually brings itself into existence. This is whats happening at Regen. Attempt at such a plan can only be a representitive snapshot riddled with immediacy bias!
 
-Let's abandon that and update our thinking; what we really need is a process or method that acts as a foundation and creates a stable baseline. What's that look like? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without this we have no baseline - just an arbitrary selection of methods that may or may not work in a given context. We need to think metaphysically.
+Let's abandon the plan and update our thinking; what's really at play is a process and so to work with it we must call upon a method. that acts as a foundation and creates a stable baseline. What's that look like? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without this we have no baseline - just an arbitrary selection of methods that may or may not work in a given context. We need to think metaphysically.
 
 So the plans actually a metaphysical process? It really has to be if we're to integrate all voices and stakeholders. Since this process is already alive and happening in real time we must to look back to priors to infer pathways forward. 
 
