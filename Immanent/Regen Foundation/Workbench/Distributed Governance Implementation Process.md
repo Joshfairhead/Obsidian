@@ -32,11 +32,11 @@ For this ledger to exist though; an ecosystem of participants running nodes must
 
 To ensure the vision stays on course it's necessary to make contingency plans against economic pressures by continuing to curate this ecosystem while passing over vision stewardship to a non-profit. In Regens case the foundation stewards 30% of the ledgers tokens in order to grow the capabilities and capacity towards impact by distributing them in a just manner. Whats justice then? and how does this apply to token distribution?
 
-Starting with the former we know that social systems are long tail distributions. The social distribution of justice will consequentially have a short head and long tail; roughly a 70/30 split. 
+Starting with the former we know that social systems are long tail distributions. The social distribution of justice will consequentially have a short head and long tail; roughly a 70/30 distribution. 
 
-Excellent, let's circle back to the notion of justice; whats this? If you trust Plato justice can be thought of as the distribution of privilage and inequity. Outliers on this spectrum in particular could use a hand up in the world as it's extreamly demanding work to hang onto the long tail as extractive market mechanisms and structural violence takes you for a ride. 
+Excellent, let's circle back to the notion of justice; whats this? If you trust Plato justice can be interpreted to be the distribution of privilage to inequity. Outliers on the inequity end in particular could use a hand up in the world as it's extreamly demanding work to hang onto the long tail; extractive market mechanisms and structural violence inflicts a lot of damage here.
 
-So thats a just distribution covered; we know that the long tail is where the majority of our resources should go in order for it to be equitable. But an apparent paradox begins to present itself when considering impact and network growth over time. As you'll hear from MacKenzie Scott and other Philantropists; diricting funds towards impact means making extreamly difficult decisions under uncertainty. Should we prioritise the short head or the long tail? 
+So thats a just distribution covered; we know that the long tail is where the majority of our resources should go in order for it to be equitable. But an apparent paradox begins to present itself when considering network growth over time. As you'll hear from MacKenzie Scott and other Philantropists; diricting funds towards impact means making extreamly difficult decisions under uncertainty. Should we prioritise the short head or the long tail? 
 
 When thinking about non-living things like toaster sales the correct answer is to invest resources in the short head. However, humans are not toasters; toasters are complicated and fragile while humans are complex adaptive living beings. Humans on the other hand are the most advanced technology nature has ever produced (or third most advanced if you ask Arthur C. Clarke). 
 
