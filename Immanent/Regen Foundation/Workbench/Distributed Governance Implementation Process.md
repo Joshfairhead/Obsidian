@@ -21,7 +21,7 @@ Let's update our thinking; what we really need is a process or method that acts 
 
 So the plans actually a metaphysical process? It kind of has to be if we're to integrate all voices and stakeholders. Since this process is already alive and happening in real time we need to look back to priors to infer our pathways forward. 
 
-Get concrete. How do we infer our way forward? Again the methods and processes we are already using; we just have to check that our epistemology is appropriate to the task. Deductive logic will not work as its complicated and we're worknig with second order complexity. Inductive logics are maybe a little better but it lacks clear direction and is somewhat arbitrary. 
+Get concrete. How do we infer our way forward? Again the methods and processes we are already using; we just have to check that our epistemology is appropriate to the task. Deductive logic will not work as its complicated and we're worknig with second order complexity. Inductive logics are better but they lack clear direction and are somewhat arbitrary. This leaves abductive logic as the only suitable map or methodology towards reaching our goal of Regeneartion. 
 
 Well this again I don't know because its happening in real time and being only a part unable to see the macroscopic whole I'm blind. Even if I could examine whole with such a gods ee view; the living world is complex, emergent and even chaotic so I doubt it would make sense. There are infinite unknowns here so we're dealing with uncertainty, and due to this hazard agency can exist.
 
