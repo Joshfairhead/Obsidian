@@ -52,7 +52,9 @@ Pragmatically speaking prioritisation depends on a constantly changing context; 
 
 Do we have sufficient internal variety as an organisation to interface and interact? What are the imperatives at the network level? Other than just distribution what are the constraints and pathways forward? Systemic pressures will require our distribution to be strategic and change over time. 
 
-While the network aims to regenerate planetary health it can't do so without subsistence and in that respect distributed ledger techology is quite alive. Ledgers need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants.
+While the network aims to regenerate planetary health it can't do so without subsistence and in that respect distributed ledger techology is quite alive. 
+
+Ledgers need 'food' in the form of utility such as apps that create transaction velocity; art, NFTs and EcoCredits and so forth. Following on from these needs is 'security' in the form of network effects and mass adoption. Finally they need 'socialisation' in the form of community currencies and mutual credit to create positive sum dynamics between participants. Where do we direct our attention?
 
 This means that in directing our efforts we need to consider people, planet and protocol at the macro level by harnessing markets, science, and technology. There is a reciprocol nature and pattern integrity between these components. At different moments in the networks evoloutiton our priorities need to shift from short term subsistance needs to longer term social impact. This has implications for the prioritisation of our distribution efforts. 
 
