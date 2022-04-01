@@ -6,14 +6,14 @@ Related:
 
 Starting at Regen Foundation, the first of many double binds I've been tasked with was the creation of a distributed governance implementation plan. The title of Ledger Governance Coordinator also being another catch 22 that can only exist in the worlds of form and ideas! So what do these words represent and what have the conjured?
 
-Take a deep breath; we're working in an industry thats never existed before so we must take action with imagination, drama and creativity; it's the only way to create the future we wish to see. 
+Take a deep breath; we're working in an industry thats never existed before so we must take action with imagination, drama and creativity; it's the only way to create the future we are collectivly envisioning. 
 
 > Life's what happens when your busy making other plans ~John Lennon
 
 ## What?
-Lets get into it; what's the ask here? For the plan to be distributed it means that it's authorship need be distributed and the participants must necessarily write it. How does the community do that given it's alive and poly-centric? 
+Lets get into it; what's the ask behind the question here? For the plan to be distributed it means that it's authorship need be distributed and so the participants must necessarily write it. How does the community do that given it's already alive and poly-centric? 
 
-The networks communication is immanently changing as the participants constantly adapt to the living world; a realm thats communicating rapidly all the time. Vaues and information are everywhere so how do you find significance in the noise? Did you know that every one of us emits a million biophotons a second with the perceptivity of a candle light two miles in the distance but with the intensity of a lazerbeam? ~**Cosmic Serpent** (fact check the data is correct). 
+The networks communication changes immanently as participants constantly adapt to the living world; a realm thats communicating rapidly all the time. Vaues and information are everywhere so how do you find significance in the noise? Did you know that every one of us emits a million biophotons a second with the perceptivity of a candle light two miles in the distance but with the intensity of a lazerbeam? ~**Cosmic Serpent** (fact check the data is correct). 
 
 Given that we know the network is a complex adaptive system then any plan or cannoical source of truth is a necessary myth; a speculation on the future which eventually brings itself into existence. Any attempt at such a plan can only be a representitive snapshot riddled with immediacy bias. Let's abandon the plan and update our thinking.
 
