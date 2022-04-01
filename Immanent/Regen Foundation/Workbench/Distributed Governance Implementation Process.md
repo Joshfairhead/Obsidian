@@ -4,9 +4,9 @@ Tags: []
 Related: 
 # Distributed Governance Implementation Plan
 
-Starting at Regen Foundation, the first (but not last) double bind I was tasked with was a distributed governance implementation plan. The title of Ledger Governance Coordinator also being a double bind and so can only exist in the world of forms and ideas! So what do these words represent and how do we create them?
+Starting at Regen Foundation, the first of many double binds I've been tasked with was the creation of a distributed governance implementation plan. The title of Ledger Governance Coordinator also being another catch 22 that can only exist in the worlds of form and ideas! So what do these words represent and what have the conjured?
 
-Take a deep breath; we're working in an industry thats never existed before so action must in large doses be about imagination and creativity; it's the only way to create the future we wish to see. 
+Take a deep breath; we're working in an industry thats never existed before so we must take action with imagination, drama and creativity; it's the only way to create the future we wish to see. 
 
 > Life's what happens when your busy making other plans ~John Lennon
 
