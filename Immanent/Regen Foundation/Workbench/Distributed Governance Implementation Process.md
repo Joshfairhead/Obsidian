@@ -11,11 +11,9 @@ Take a deep breath, we're working in an industry thats never existed before so w
 > Life's what happens when your busy making other plans ~John Lennon
 
 ## What?
-Lets get straight into it; what's the plan? 
+Lets get into it; what's this plan? Well, for the plan to be distributed it means that it's authorship need be distributed and that the participants must write it. 
 
-Well, for the plan to be distributed it means that it's authorship need be distributed and that the participants must write it. 
-
-How does the community do that if it's alive and poly-centric? It can't. The plans changing immanently as humans are just another part of the living world and this realm is rapidly communicating all the time; every one of us emits a million biophotons a second - with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic serpent**. So a distributed governance implementation plan is a speculation of the future based on an uncertain snapshot... thats not going to work.
+How does the community do that given it's alive and poly-centric? The plans changing immanently as we are just another part of the living world; a realm thats communicating all the time; every one of us emits a million biophotons a second - with the strength of a candle light two miles in the distance and the intensity of a lazerbeam ~**Cosmic serpent**. So a distributed governance implementation plan is a speculation of the future based on an uncertain snapshot... thats not going to work.
 
 Right, so plan must be a living process. So what does a distributed governance implementation process look like? Well this again I don't know because its happening in real time and being only a part unable to see the macroscopic whole I'm blind. Even if I could examine whole with such a gods ee view; the living world is complex, emergent and even chaotic so I doubt it would make sense. There are infinite unknowns here so we're dealing with uncertainty, and due to this hazard agency can exist.
 
