@@ -56,9 +56,9 @@ In that respect ledgers are quite alive; they need 'food' in the form of utility
 
 This is where resourcing comes in. We have a community pool, enDAOment allotments and a nacent venture fund. One might consider the community pool resources for generating economic utility, the enDAOment pool to build network security through large scale participation and the nacent venture fund for social impact endevours. What does this look like over time? 
 
-As far as the networks priorities go we need to compell digital activity first; generate longer term security second and incubate social endevours last. This is paradoxically backwards from our real priorities of social justice; will this breed inequity? My thinking is so which is why I've spent the majority of my time on working off chain goverance first. We need an autonomous receptical of sufficient variety, complexity and maturity to govern itself and the eventually the network. Phew, thats an ask.
+As far as the networks priorities go we need to compell digital activity first; generate longer term security second and incubate social endevours last. This is paradoxically backwards from our real priorities of social justice; will this breed inequity? My thinking is so which is why I've spent the majority of my time on working off chain goverance first. We need an autonomous receptical of sufficient variety, complexity and maturity to govern itself and the eventually the network. Phew, thats an ask but its arising. 
 
-The three threads thus need to be ran concurrently even if there is a an uneven distribution of capacity between the technical and non technical.
+Now it would seem that the three themes of utility, security and social impact need to run concurrently with special interest  even if there is a an uneven distribution of capacity between the technical and non technical.
 
 Integrating the "what", "how" and "why" we get a pretty concise mission statement:
 
