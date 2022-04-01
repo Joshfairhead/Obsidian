@@ -52,7 +52,7 @@ Ledgers need 'food' in the form of utility such as apps that create transaction 
 
 This means that in directing our efforts we need to consider people, planet and protocol at the macro level by harnessing markets, science, and technology. There is a reciprocol nature and pattern integrity between these components. At different moments in the networks evoloutiton our priorities need to shift from short term subsistance needs to longer term social impact. This has implications for the prioritisation of our distribution efforts. 
 
-In this early stage of network growth we need to ensure network subsistance needs while looking ahead to the future. This is what the 
+In this early stage of network growth we need to ensure network subsistance while looking ahead to future security and vitality. In that regard there are three peels 
 
 
 ---
