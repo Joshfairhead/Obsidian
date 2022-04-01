@@ -44,9 +44,9 @@ When thinking about non-living things like toaster sales the correct answer is t
 
 Great, that's the static conceptual framework sorted out, but pragmatically there are other considerations like the time dimension. How should we prioritise our efforts over time in order to be both efficient and effective? Here we need to think about variety matching annd interfacing between agents with our concerns directed towards shared capabilities and capacities. 
 
-Capabilities are the skills necessary for agents to interact such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary.
+Capabilities are the skills necessary for agents to interact such as language, technical proficiency, knowlege, legal status and other dynamic properties. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary. Some English is probably enough, while legal status is binary.
 
-What capabilities and capacities are necessary and sufficient though? Pragmatically speaking this depends and changes based on a moving context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness has a lot to do with it. Whats baseline? What are the networks imperatives? We are giving out resources but for what purposes?
+What's necessary and whats sufficient though? Pragmatically speaking this depends and changes based on a constantly changing context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness will have a lot to do with it. Do we have sufficient variety as an organisation for this to work? Whats baseline? What are the networks imperatives? Other that to be just with our resource  but for what purposes?
 
 Systemic pressures and imperatives will require our just distribution to be strategic.
 While the network aims to regenerate planetary health it can't do so without subsistence; in that respect distributed ledger techology is quite alive. 
