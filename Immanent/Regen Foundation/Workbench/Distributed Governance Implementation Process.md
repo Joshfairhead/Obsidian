@@ -36,10 +36,9 @@ Starting with the former we know that social systems are long tail distributions
 
 So thats a just distribution covered, we know that the long tail is where the majority of our resources should go in order for it to be equitable. But a paradox begins to present itself when considering impact and network growth over time. As you'll hear from MacKenzie Scott and other Philantropists; giving out funds for this purpose means making extreamly difficult decisions under uncertainty. How should we prioritise our distribution efforts over time in order to be both efficient and effective? 
 
+Should we put our eggs in the short head or the long tail? When thinking about non-living things like toaster sales the correct answer is the short head. Humans are not toasters however; toasters are complicated and fragile while we are complex and adaptive beings. We are the most advanced technology nature has ever produced (or third most advanced ~Arthur C Clarke); the principle of hormeisis applies to us and in evoloutionary theory its said that adversity breeds resiliance. So where do we see the most adversity; the long tail or the short head? I think that one is pretty apparent.
 
-Should we put our eggs in the short head or the long tail? When thinking about non-living things like toaster sales the correct answer is the short head. Humans are not toasters however; toasters are complicated and fragile while we are complex and adaptive beings. The most advanced technology nature has ever produced (bar perhaps the dolThe principle of hormeisis applies to us and in evoloutionary theory adversity breeds resiliance. To ensure impact we must ask ourselves where do we see the most adversity; the long tail or the short head? I think that one is apparent.
-
-Looking back to our inquiry on just distributions its now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant and thus regenerative world! 
+It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant, regenerative and anti-fragile world! 
 
 Great, so how does one consider the deployment of resources? That requires us to think about the variety matching between agents concerning their capabilities and capacity. Capabilities are the skills necessary for agents to interface; language, technology, knowlege etc. while capacities are the degree to which an agent is skilled in a given activity. 
 
