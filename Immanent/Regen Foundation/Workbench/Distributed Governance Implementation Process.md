@@ -4,14 +4,18 @@ Tags: []
 Related: 
 # Distributed Governance Implementation Plan
 
-Wow, there are a whole lot of ways this one could go! This was the paradox I was charged with when hired for my position at Regen Foundation as Ledger Governance Coordinator. So what's it and what do these terms represent? Take a deep breath, we're working in an industry thats never existed before so we're writing the narrative on the fly. It's the only way to do it! 
+Wow, there are a whole lot of ways this one could go! This was the paradox I was charged with when hired for my position at Regen Foundation as Ledger Governance Coordinator. So what's do these terms represent? 
+
+Take a deep breath, we're working in an industry thats never existed before so we're writing the narrative on the fly. It's the only way to do it! 
 
 > Life's what happens when your busy making other plans ~John Lennon
 
 ## What?
-Lets get into it; what's the plan? 
+Lets get straight into it; what's the plan? 
 
-Well, for the plan to be distributed it means that it's authorship need be distributed, the participants must write it. How does the community do that if it's living and distributed? It can't. The plans alive and changing immanently; humans are just a part of the living world and the living world is rapidly communicating all the time. Every one of us emits a million biophotons a second - with the strength of a candle light two miles in the distance and the intensity of a lazerbeam. **Cosmic serpent**
+Well, for the plan to be distributed it means that it's authorship need be distributed and that the participants must write it. 
+
+How does the community do that if it's alive and poly-centric? It can't. The plans changing immanently; humans are just a part of the living world and the living world is rapidly communicating all the time a plan can act as a sapshot but thats . Every one of us emits a million biophotons a second - with the strength of a candle light two miles in the distance and the intensity of a lazerbeam. **Cosmic serpent**
 
 Right, so plan must be a living process. So what does a distributed governance implementation process look like? Well this again I don't know because its happening in real time; the living world is complex, emergent and even chaotic. Our external environment is consists of infinite unknowns; if hazard and contingency cease to exist, then so does agency. 
 
