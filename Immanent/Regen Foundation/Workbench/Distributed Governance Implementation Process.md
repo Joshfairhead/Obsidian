@@ -13,9 +13,9 @@ Take a deep breath; we're working in an industry thats never existed before so a
 ## What?
 Lets get into it; what's the ask here? For the plan to be distributed it means that it's authorship need be distributed and the participants must necessarily write it. How does the community do that given it's alive and poly-centric? 
 
-The networks communication is immanently changing as the participants constantly adapt to the living world; a realm thats communicating rapidly all the time. Vaues and information is everywhere how do you find significance through the noise? Did you know that every one of us emits a million biophotons a second with the perceptivity of a candle light two miles in the distance but with the intensity of a lazerbeam ~**Cosmic Serpent** (fact check the data is correct). 
+The networks communication is immanently changing as the participants constantly adapt to the living world; a realm thats communicating rapidly all the time. Vaues and information are everywhere so how do you find significance in the noise? Did you know that every one of us emits a million biophotons a second with the perceptivity of a candle light two miles in the distance but with the intensity of a lazerbeam ~**Cosmic Serpent** (fact check the data is correct). 
 
-Given that the network is a complex adaptive system thats always changing any cannoical source of truth is a currently myth. organisational plan is simply a speculation on the future based on an uncertain snapshot thats riddled with immediacy bias... thats not going to work! 
+Given that the network is a complex adaptive system thats always changing any plan or cannoical source of truth is a necessary myth; a speculation on the future which brings itself into existence. Any attempt at such a plan would in itself be based on an uncertain snapshot riddled with immediacy bias... thats not going to work! 
 
 Let's update our thinking; what we really need is a process or method that acts as a foundation and creates a stable baseline. What's that look like? We need a keystone methodology that is global in scope but can be applied to specific instances and scenarios; without this we have no baseline - just an arbitrary selection of methods that may or may not work in a given context. We need to think metaphysically.
 
