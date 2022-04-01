@@ -40,9 +40,9 @@ Should we put our eggs in the short head or the long tail? When thinking about n
 
 It's now clear that favouring the disadvantaged is not only the just and ethical thing to do but also the pragmatic pathway forward to building a more resiliant, regenerative and anti-fragile world! 
 
-Great, that's conceptual prioritisation deployment sorted but pragmatically there are other considerations. Primarily we need to think about variety matching between agents with concern directed towards shared capabilities and capacities; Capabilities are the skills necessary for agents to interface such as language, technical proficiency, ways of knowing, legal status etc. Capacities are then the degree to which an agent is skilled in a given capability - it can be a gr 
+Great, that's conceptual prioritisation deployment sorted but pragmatically there are other considerations. Primarily we need to think about variety matching between agents with concern directed towards shared capabilities and capacities; Capabilities are the skills necessary for agents to interface such as language, technical proficiency, ways of knowing, legal status etc. Capacities are then the degree to which an agent is skilled in a given capability - these can be gradiated or binary.
 
-What capabilities and capacities are needed? Pragmatically speaking this depends and changes; one set of capabilities this moment, others at a different degree of intensity the next. Our own resourcing and resourcefulness has a lot to do with it. Whats baseline? What are our imperatives? 
+What capabilities and capacities are necessary and sufficient though? Pragmatically speaking this depends and changes based on a moving context; one set of capabilities this moment, others with a different degree of intensity the next. Internal resourcing and resourcefulness has a lot to do with it. Whats baseline? What are the networks imperatives? We are giving out resources but for what purpose
 
 ## Why?
 Systemic pressures and imperatives will require our just distribution to be strategic.
