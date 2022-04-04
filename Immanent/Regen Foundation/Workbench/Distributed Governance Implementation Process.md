@@ -84,7 +84,10 @@ For example, if your a precariot you may have to give up farming and move to the
 
 This is where education comes in - and when I say education I don't mean the beauracratic indoctrination that you see in schools these days. That doesn't work.  
 
-So what does education represent? First and foremost I'd suggest it's applied practice of engagement with a context. This implies that "how" is more important than "what" and indeed a focus on the "what" is where modern education has gone off the rails. If we dig into the "how" we need a very general methodology that allows for s
+So what does education represent? First and foremost I'd suggest it's applied practice of engagement with a context. This implies that "how" is more important than "what" and indeed a focus on the "what" is where modern education has gone off the rails. If we dig into the "how" we need a very general methodology that allows for specific instantiations.
+
+
+
 
 
 
