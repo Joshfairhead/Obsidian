@@ -80,7 +80,9 @@ Do you notice a reciprocol nature and pattern integrity in the relationship betw
 
 ## Organisational development
 
-Having covered the high level movements of the whole on a macro-economic level, we might choose to examine the parts from which its composed; these are individuals, groups and organisations. From this perspective we can begin to consider structural integrity; market forces can easily become overwhelming and 
+Having covered the high level movements of the whole on a macro-economic level, we might choose to examine the parts from which its composed; these are individuals, groups and organisations. From this perspective we can begin to consider structural integrity; market forces can easily become overwhelming and necessitate undesirable pathways. 
+
+For example, if your a precariot you may have to give up farming and move to the city to make ends meet. If your a small group or organisation you can become subject to hostile take overs from larger players or just
 
 
 
