@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Distributed Governance Implementation Plan
 
-Starting at Regen Foundation, the first of many double binds I've been tasked with was the creation of a distributed governance implementation plan. The title of Ledger Governance Coordinator also being another catch 22 that can only exist in the worlds of form and ideas! So what do these words represent and what have the conjured?
+Starting at Regen Foundation the first of many double binds landing on my plate was the creation of a distributed governance implementation plan. The job title of Ledger Governance Coordinator being another Catch 22 that can only exist in the worlds of form and ideas! So what do these words represent?
 
 Take a deep breath; we're working in an industry thats never existed before so we must take action with imagination, drama and creativity; it's the only way to create the future we are collectivly envisioning. 
 
@@ -87,8 +87,9 @@ This is where education comes in - and when I say education I don't mean the bea
 So what does education represent? First and foremost its real world practice; like the small
 
 
-----
 
+
+----
 There are frameworks here for determining organisational maturity. Elinor Ostrom and Sue Crawford suggested:
 > that institutions are comprised of individual behavioral directives and, further, that these directives typically convey common types of information; such as, an action; an actor associated with this action; whether this action is required, allowed, or forbidden; the temporal, spatial, and procedural parameters of the action, and; rewards or sanctions for performing or failing to perform the action as prescribed
 
