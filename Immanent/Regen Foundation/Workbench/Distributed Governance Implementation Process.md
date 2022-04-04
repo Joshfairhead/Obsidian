@@ -60,7 +60,7 @@ As far as the network imperatives go we must continue to compell digital activit
 
 If we consider imperatives in linear time starting with utilitity, then security, then social we are paradoxically operating backwards from our priorities around social justice; will this breed inequity? My thinking is such. This is why I've spent the majority of my time as coordinator working off chain on goverance first. We need an autonomous receptical of sufficient variety, complexity and maturity to govern itself and the eventually the network. 
 
-Phew, thats an ask but its nearly coalesced into being. Special interest will continously need to be paid towards the of onboarding of stewards, underrepresented demographics and network utility; ideally all three should be integrated through practice based methodologies and the subsequent generation of eco credits. 
+Phew, thats an ask but its nearly coalesced into being. Special interest will continously need to be paid towards the of onboarding of stewards, underrepresented demographics and network utility; ideally all three should be integrated through practice based methodologies and the subsequent generation of eco credits. This is where Regens science team comes int
 
 Reflecting back on the "what", "how" and "why" we begin to see a mission statement:
 
@@ -72,5 +72,6 @@ Do you notice a reciprocol nature and pattern integrity in the relationship betw
 
 ## Organisational development
 
+We've diverged a little and gotten hung up on 
 
 
