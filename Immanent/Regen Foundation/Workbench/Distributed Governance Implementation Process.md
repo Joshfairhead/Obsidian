@@ -68,7 +68,7 @@ How do we open this market up? By enabling them to create their own credit class
 
 However, opening the latter pathway for small holders brings with it a set of challenges around registry quality and curation. If anyone can create a class, how do we verify its integrity? This gets into the realm of peer review and attestations, even then its unlikely the credit will meet the rigerous criterea of large scale purchasers like Microsoft. A blockchain however is an open market with its own long tail and so consumers may wish to purchase these practice based credit in order to support local agriculture. The speculative nature of these currencies will also attract traders. Uh oh.
 
-How do we avoid bad money driving out the good money? This is an important question; if the debasement of curreny can bring down the Roman Empire, it can bring down a blockchain. We need to be verrrry careful here and ask what forms of currency can be used to purchase EcoCredits? Necessarily these need to be non-speculative in nature and tied to real world values. Since pretty much all currency is fiat thats hard. But actually its not; there are credits tied to real assets already in our ecosystem. Tucan just launched a carbon credit tied to the Verra registry for example; this is a non-speculative currency but we'll need moar! 
+How do we avoid bad money driving out the good money? This is an important question; if the debasement of curreny can bring down the Roman Empire, it can bring down a blockchain. We need to be verrrry careful here and ask what forms of currency can be used to purchase EcoCredits? Necessarily these need to be non-speculative in nature and tied to real world values. Since pretty much all currency and crypto currency is fiat that might sound pretty difficult hard. But actually its not; there are credits tied to real assets already in our ecosystem. Tucan just launched a carbon credit tied to the Verra registry for example; this is a non-speculative currency but we'll need moar! 
 
 Taking all this as a whole and reflecting back on the "what", "how" and "why" we begin to see a mission statement:
 
@@ -84,9 +84,9 @@ Having covered the high level movements of the whole on a macro-economic level, 
 
 For example, if your a precariot you may have to give up farming and move to the city to make ends meet. If your a small group or organisation you can become subject to hostile take overs from larger players or vulture capitalists. If we want our ecosystem to become anti-fragile, how do we build a constituency resiliant enough to to meet these challenges?
 
-This is where education comes in - and when I say education I don't mean the beauracratic indoctrination that you see in schools these days. That doesn't work. 
+This is where education comes in - and when I say education I don't mean the beauracratic indoctrination that you see in schools these days. That doesn't work.  
 
-
+So what does education represent? First and foremost its real world practice; like the small
 
 
 ----
