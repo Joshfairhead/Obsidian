@@ -84,14 +84,12 @@ For example, if your a precariot you may have to give up farming and move to the
 
 This is where education comes in - and when I say education I don't mean the beauracratic indoctrination that you see in schools these days. That doesn't work.  
 
-So what does education represent? First and foremost its real world practice; like the small
+So what does education represent? First and foremost to me it's an applied practice; like our marginalised land stewards. 
 
 
 
-
-----
+%%
 There are frameworks here for determining organisational maturity. Elinor Ostrom and Sue Crawford suggested:
 > that institutions are comprised of individual behavioral directives and, further, that these directives typically convey common types of information; such as, an action; an actor associated with this action; whether this action is required, allowed, or forbidden; the temporal, spatial, and procedural parameters of the action, and; rewards or sanctions for performing or failing to perform the action as prescribed
 
-
-
+%%
