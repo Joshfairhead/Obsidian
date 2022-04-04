@@ -62,7 +62,7 @@ If we consider imperatives in linear time starting with utilitity, then security
 
 Phew, thats an ask but its nearly coalesced into being. Special interest will continously need to be paid towards the of onboarding of stewards, underrepresented demographics and network utility; ideally all three should be integrated through practice based methodologies and the subsequent generation of eco credits. This is where Regens science team and registry of practice based methodologies come into play. 
 
-To bootstrap a registry it needs to be taken seriously, so we must onboard proven methodologies with sufficient scientific rigor first. Existen
+To bootstrap a registry it needs to be taken seriously, so we must onboard proven methodologies with sufficient scientific rigor first. Existence. Once the platform is functioning and has curated selection of methods with large degrees of prestige we can start loosening the criterea
 
 
 Reflecting back on the "what", "how" and "why" we begin to see a mission statement:
