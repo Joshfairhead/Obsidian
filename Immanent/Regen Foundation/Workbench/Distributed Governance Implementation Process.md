@@ -80,6 +80,6 @@ Do you notice a reciprocol nature and pattern integrity in the relationship betw
 
 ## Organisational development
 
-We've diverged a little and gotten hung up on 
+Having covered the high level movements of the whole on a macro-economic level, we might choose to examine the parts from which its composed. 
 
 
