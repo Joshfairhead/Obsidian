@@ -84,8 +84,7 @@ For example, if your a precariot you may have to give up farming and move to the
 
 This is where education comes in - and when I say education I don't mean the beauracratic indoctrination that you see in schools these days. That doesn't work.  
 
-So what does education represent? First and foremost I'd suggest it's applied practice of engagement with a context. This feels true at both individual and collective levels. On the individual level there is the Trivium and Quadrivium 
-
+So what does education represent? First and foremost I'd suggest it's applied practice of engagement with a context. This implies that "how" is more important than "what" and indeed a focus on the "what" is where modern education has gone off the rails. If we ask about "how" we can see there
 
 One of way of assessing organisational maturity is Elinor Ostroms 'institutional grammar' where she and Sue Crawford suggested:
 
