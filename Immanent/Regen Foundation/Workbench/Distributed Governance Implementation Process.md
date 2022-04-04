@@ -84,7 +84,12 @@ Having covered the high level movements of the whole on a macro-economic level, 
 
 For example, if your a precariot you may have to give up farming and move to the city to make ends meet. If your a small group or organisation you can become subject to hostile take overs from larger players or vulture capitalists. If we want our ecosystem to become anti-fragile, how do we build a constituency resiliant enough to to meet these challenges?
 
-This is where education comes in. 
+This is where education comes in - and when I say education I don't mean the beauracratic indoctrination that you see in schools these days. That doesn't work. 
+
+
+
+
+----
 
 There are frameworks here for determining organisational maturity. Elinor Ostrom and Sue Crawford suggested:
 > that institutions are comprised of individual behavioral directives and, further, that these directives typically convey common types of information; such as, an action; an actor associated with this action; whether this action is required, allowed, or forbidden; the temporal, spatial, and procedural parameters of the action, and; rewards or sanctions for performing or failing to perform the action as prescribed
