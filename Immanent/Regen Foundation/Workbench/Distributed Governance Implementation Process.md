@@ -80,6 +80,7 @@ Do you notice a reciprocol nature and pattern integrity in the relationship betw
 
 ## Organisational development
 
-Having covered the high level movements of the whole on a macro-economic level, we might choose to examine the parts from which its composed. These are individuals, groups and organisations. From these perspectives we can begin to consider structural integrity. 
+Having covered the high level movements of the whole on a macro-economic level, we might choose to examine the parts from which its composed; these are individuals, groups and organisations. From this perspective we can begin to consider structural integrity; market forces can easily become overwhelming and 
+
 
 
