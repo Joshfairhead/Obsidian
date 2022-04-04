@@ -66,7 +66,7 @@ To bootstrap a registry it needs to be taken seriously, so we must onboard prove
 
 How do we open this market up? By enabling them to create their own credit classes based on local practices. The least speculative path to adoption would be to follow the institutional model by practicing a given methodology, making projections about its outcome and taking measurements along the way. This is high overhead, uncertain and probably far too much of a burden for many small holders to engage with. The more speculative path is growing a practice by submitting a plan, issuing credits and then continue doing the work to deliver value. These forms of credit are essentially speculative but is a fastest way to bootstrap a new credit class from the bottom up. The two pathways are not mutually exclusive and the latter can feed into the former.
 
-However, opening the latter pathway for small holders brings with it a set of challenges around registry quality and curation. If anyone can create a class, how do we verify its integrity? This gets into the realm of peer review and attestations. Even then its unlikely the credit will meet the rigerous criterea of large scale purchasers like Microsoft; how does the registry 
+However, opening the latter pathway for small holders brings with it a set of challenges around registry quality and curation. If anyone can create a class, how do we verify its integrity? This gets into the realm of peer review and attestations, even then its unlikely the credit will meet the rigerous criterea of large scale purchasers like Microsoft. They will continue to want credits that meet their bottom line. With that acknowleged we can consider other purchasers; 
 
 
 
