@@ -84,7 +84,7 @@ For example, if your a precariot you may have to give up farming and move to the
 
 This is where education comes in - and when I say education I don't mean the beauracratic indoctrination that you see in schools these days. That doesn't work.  
 
-So what does education represent? First and foremost I'd suggest it's applied practice of engagement with a context. This feels true at both individual and collective levels. 
+So what does education represent? First and foremost I'd suggest it's applied practice of engagement with a context. This feels true at both individual and collective levels. One of the frameworks for assessing organisational maturity is Elinor Ostroms 
 
 
 
