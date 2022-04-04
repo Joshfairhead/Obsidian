@@ -64,7 +64,7 @@ Phew, thats an ask but its nearly coalesced into being. Special interest will co
 
 To bootstrap a registry it needs to be taken seriously, so we must onboard proven methodologies with sufficient scientific rigor first. Existence. Once the platform is functioning and has curated selection of methods with large degrees of prestige we can start loosening our criterea to include less western ways of thinking. After all most of the work being done globally will be done by the long tail; local practices. These smaller enterprises are often excluded from systemic participation due to the high bars of instutitional criterea and under resourcing. 
 
-How do we open this market up? By enabling them to create their own credit classes based on local practices. The easiest path to adoption would be to follow the institutional model by practicing a given methodology, making projections about its outcome and taking measurements along the way. This is high overhead, uncertain and probably too much of a burden for many small holders to engage with. The other road is growing 
+How do we open this market up? By enabling them to create their own credit classes based on local practices. The easiest path to adoption would be to follow the institutional model by practicing a given methodology, making projections about its outcome and taking measurements along the way. This is high overhead, uncertain and probably too much of a burden for many small holders to engage with. The easire path is growing a practice; submitting a plan, issuing credits and then doing the work to deliver value. 
 
 
 Reflecting back on the "what", "how" and "why" we begin to see a mission statement:
