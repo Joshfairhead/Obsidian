@@ -90,6 +90,7 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 	- [Reos Partners](https://reospartners.com/stretch-collaboration-a-course-offered-online-2020/)
     - [MIT Presencing institute](https://www.presencing.org/resource/tools)
     - [DWeb principals](https://getdweb.net/principles/) - Related sources/manifestos at the bottom
+    - Enspiral; [better work together](https://www.betterworktogether.co/)
 
 ### Papers
 ![](assets/OnTheNatureOfHumanAssembly.pdf)
