@@ -17,6 +17,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://co2colonialism.org/
 - https://www.ienearth.org/
 - https://hylozoic.gitbook.io/hylo/about/product-journey
+- https://smartcommoditygroup.com/
 
 ## Regen potential partners
 - https://passage3d.com/ - Mataverse
