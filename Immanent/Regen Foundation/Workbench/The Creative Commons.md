@@ -1,6 +1,6 @@
 # Regenerative Governance and the Creative Commons
 
-There's an abundence of commons literatue but one particular title called Fair, Free, Alive stands out to me. I feel that this triple adequitly describes the internal significance or content of 'the commons' pretty sufficiently, but the external context that enables such activity remains a little opaque. I'm going to suggest that we zoom out a little further and look at terms alive, vital, creative.
+There's an abundence of commons literatue but one title in particular called Fair, Free, Alive stands out to me. I feel that this triple adequitly describes the internal significance or content of 'the commons' pretty sufficiently, but the external context that enabled by such activity remains perhaps warrents discussin. I'm going to suggest that we investigate the overlapping terms of alive, vital, creative.
 
 Here's a diagram I made integrating the terms for illiustrive purposes (add pentad image):
 - Creative
