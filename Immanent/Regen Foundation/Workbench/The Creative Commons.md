@@ -1,8 +1,8 @@
 # Regenerative Governance and the Creative Commons
 
-Have you read David Bollingers book on commoning? Its called Fair, Free, Alive. I feel that this triple adequitly describes the internal significance or content of 'the commons' pretty sufficiently, but the external context that enables such activity remains a little opaque. I'm going to suggest that we zoom out a little further and look at terms alive, vital, creative.
+There's an abundence of commons  called Fair, Free, Alive. I feel that this triple adequitly describes the internal significance or content of 'the commons' pretty sufficiently, but the external context that enables such activity remains a little opaque. I'm going to suggest that we zoom out a little further and look at terms alive, vital, creative.
 
-Here's a diagram I made integrating the terms for illiustrive purposes:
+Here's a diagram I made integrating the terms for illiustrive purposes (add pentad image):
 - Creative
 - Free
 - Alive
