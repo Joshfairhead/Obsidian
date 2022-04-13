@@ -24,7 +24,7 @@ Note: it makes sense to start measuring engagement rate and turn out on commonwe
 - Nominees are socialised with the existing community via a pollination event and relationships form. 
 - Once these relationships are mature EnDAOment candidates are selected
 
-Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers.
+Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record number of candidates selected and check it matches our distribution criterea.It seems reasonable to meas
 
 ## Integrated Onboarding Process
 
