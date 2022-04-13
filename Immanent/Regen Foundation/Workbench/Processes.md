@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Processes
 
-## Integrated Proposal Process:
+## Proposal Process:
 - A call for participation occurs on a community platform (of any variety)
 - A date and location for public sense making is shared with interested parties (callers discretion)
 - A sense making session then occurs publicaly via community platform with a foundation representation present (e.g. Discord or Twitter Space)
@@ -15,7 +15,7 @@ Related:
 
 Note: it makes sense to start measuring engagement rate and turn out on commonwealth. Before proposal discussion length shortened participation was higher. Current measure is now 63%~ 
 
-## Integrated enDAOment Process:
+## EnDAOment Process:
 - A call for participation occurs on a community platform (of any variety)
 - A date and location for the lab is shared with interested parties (callers discretion)
 - A labs session occurs on zoom and is recorded (put on youtube) by foundation representative
@@ -24,11 +24,9 @@ Note: it makes sense to start measuring engagement rate and turn out on commonwe
 - Nominees are socialised with the existing community via a pollination event and relationships form. 
 - Once these relationships are mature EnDAOment candidates are selected
 
-Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record number of candidates selected and check it matches our distribution criterea.It seems reasonable to meas
+Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record number of candidates selected and check it matches our distribution criterea.It seems reasonable to measure funds distributed
 
-## Integrated Onboarding Process
-
-
-## Integrated Advice Process
-## Integrated Partnership Process
+## Onboarding Process
+## Advice Process
+## Partnership Process
 ...
