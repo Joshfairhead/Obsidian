@@ -22,6 +22,10 @@ Tags: [Organisations, Networks, Index, Refactor]
 ## Regen potential partners
 - https://passage3d.com/ - Mataverse
 
+## Current Regen Partners
+- https://fibershed.org/affiliate-directory/
+- https://www.glynwood.org/
+
 ## Collaborative Orgs
 - [Regeneration pollination](https://www.regenerationpollination.earth/)
 - https://opencollective.com
