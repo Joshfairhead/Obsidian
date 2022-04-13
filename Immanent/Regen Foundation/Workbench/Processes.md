@@ -16,9 +16,9 @@ Related:
 ## Integrated enDAOment Process:
 - A call for participation occurs on a community platform (of any variety)
 - A date and location for the lab is shared with interested parties (callers discretion)
-- A labs session occurs on zoom and is recorded (put on youtube)
-- The labs goal is for parties to discover synnergy and continue working together; directing attention whereever possible towards high impact sysetmic leverage points with epistemic transparency (e.g. value chain based on metastudy X).
-- As relational capacity grows amongst labs participants, foundation representatives nominate enDAOment candidates based on established criterea.
+- A labs session occurs on zoom and is recorded (put on youtube) by foundation representative
+- During the lab parties find synnergy and continue working together. 
+- As labs mature into relationships enDAOment candidates are nominated foundation representatives nominatebased on established criterea.
 - These candidate nominations are socialised with the existing community via pollination events
 - EnDAOment candidates are selected
 - Celebration and start of next cycle
