@@ -18,8 +18,11 @@ Related:
 - A date and location for the lab is shared with interested parties (callers discretion)
 - A labs session occurs on zoom and is recorded (put on youtube)
 - The aim of the lab is for parties to discover synnergy and continue working together 
-- As relational capacity grows amongst labs participants, foundation representatives nominate enDAOment candidates based on a set of criterea.
-- These nominations are socialised with the existing community
+- As relational capacity grows amongst labs participants, foundation representatives nominate enDAOment candidates based on established criterea.
+- These candidate nominations are socialised with the existing community via pollination events
+- EnDAOment candidates are selected
+- Celebration and start of next cycle
+- Note
 
 ## Integrated Advice Process
 ## Integrated Partnership Process
