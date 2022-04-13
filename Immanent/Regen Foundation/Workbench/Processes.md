@@ -18,11 +18,11 @@ Related:
 - A date and location for the lab is shared with interested parties (callers discretion)
 - A labs session occurs on zoom and is recorded (put on youtube) by foundation representative
 - During the lab parties find synnergy and continue working together. 
-- As labs mature into relationships enDAOment candidates are nominated foundation representatives nominatebased on established criterea.
-- These candidate nominations are socialised with the existing community via pollination events
-- EnDAOment candidates are selected
-- Celebration and start of next cycle
-Note: it makes sense to nominate capacity builders/stewards first in this process as they act as amplifiers.
+- As labs mature into relationships enDAOment candidates are nominated by foundation representatives based on established criterea (just distributions).
+- Nominees are socialised with the existing community via a pollination event and relationships form. 
+- Once these relationships are mature EnDAOment candidates are selected
+
+Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers.
 
 ## Integrated Onboarding Process
 
