@@ -18,8 +18,7 @@ Related:
 - A date and location for the lab is shared with interested parties (callers discretion)
 - A labs session occurs on zoom and is recorded (put on youtube)
 - The aim of the lab is for parties to discover synnergy and continue working together towards eventual endaoment. 
-- They might thus target a proposal for essential relationship forming activities. 
-- As the relationships grow 
+- Relationships mature and candidates are selected by foundation representatives for enDAOment
 
 ## Integrated Advice Process
 ## Integrated Partnership Process
