@@ -14,9 +14,10 @@ Related:
 - Proposal passes or fails based on validator discresion
 
 ## Integrated Labs Process:
-- A call for participation occurs on a community platform
+- A call for participation occurs on a community platform (of any variety)
 - A date and location for the lab is shared with interested parties (callers discretion)
-- A labs session occurs on a zoom call and is recorded (put on youtu)
+- A labs session occurs on zoom and is recorded (put on youtube)
+- The aim is for parties to find synnergy continue working together should 
 
 ## Integrated Advice Process
 ## Integrated Partnership Process
