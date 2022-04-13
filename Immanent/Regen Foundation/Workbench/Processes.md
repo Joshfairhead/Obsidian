@@ -17,8 +17,8 @@ Related:
 - A call for participation occurs on a community platform (of any variety)
 - A date and location for the lab is shared with interested parties (callers discretion)
 - A labs session occurs on zoom and is recorded (put on youtube)
-- The aim of the lab is for parties to discover synnergy and continue working together towards eventual endaoment. 
-- As relationships grow towards maturity enDAOment candidates are nominated by foundation representatives based on a set of criterea.
+- The aim of the lab is for parties to discover synnergy and continue working together 
+- As relational capacity grows amongst labs participants, foundation representatives nominate enDAOment candidates based on a set of criterea.
 - These nominations are socialised with the existing community
 
 ## Integrated Advice Process
