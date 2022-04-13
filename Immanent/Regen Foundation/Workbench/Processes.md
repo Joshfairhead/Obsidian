@@ -22,7 +22,10 @@ Related:
 - These candidate nominations are socialised with the existing community via pollination events
 - EnDAOment candidates are selected
 - Celebration and start of next cycle
-- Note
+Note: it makes sense to nominate capacity builders/stewards first in this process as they act as amplifiers.
+
+## Integrated Onboarding Process
+
 
 ## Integrated Advice Process
 ## Integrated Partnership Process
