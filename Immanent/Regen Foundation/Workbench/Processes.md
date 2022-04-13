@@ -13,11 +13,12 @@ Related:
 - The proposal is then polished with foundation representative sign off and then put to an on chain vote; should mention various criterea (team, resources, capabilities, talents etc.)
 - Proposal passes or fails based on validator discresion
 
-## Integrated Labs Process:
+## Integrated enDAOment Process:
 - A call for participation occurs on a community platform (of any variety)
 - A date and location for the lab is shared with interested parties (callers discretion)
 - A labs session occurs on zoom and is recorded (put on youtube)
-- The aim is for parties to find synnergy continue working together should 
+- The labs aim is for parties to discover synnergy and continue working together towards endaoment. A foundation representative might kick things off but this
+-  
 
 ## Integrated Advice Process
 ## Integrated Partnership Process
