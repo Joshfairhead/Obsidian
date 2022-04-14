@@ -28,9 +28,10 @@ Note: it makes sense to nominate capacity builders/stewards early in this proces
 
 ## Onboarding Process
 - A desire to participate in emitted on a community platform or other channels
-- Community member is connected with others in the ecosysetem
-- An orientation process occurs in a public space (office hours, community campfire)
-- 
+- Community member is connected with a point of contact in the ecosysetem
+- An orientation process occurs through socialisation in a public space (office hours, community campfire)
+- During this orientation the new participant meets others working on projects
+- The new partici
 
 
 ## Advice Process
