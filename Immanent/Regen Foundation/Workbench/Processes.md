@@ -3,6 +3,7 @@ Tags: []
 ---
 Related: 
 # Processes
+We are seeking to optimise a [[Gini coefficient]]
 
 ## Proposal Process:
 - A call for participation occurs on a community platform (of any variety)
