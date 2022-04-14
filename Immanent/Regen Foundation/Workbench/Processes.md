@@ -29,7 +29,8 @@ Note: it makes sense to nominate capacity builders/stewards early in this proces
 ## Onboarding Process
 - A desire to participate in emitted on a community platform or other channels
 - Community member is connected with others in the ecosysetem
-- Ot
+- An orientation process occurs in a public space (office hours, community campfire)
+- 
 
 
 ## Advice Process
