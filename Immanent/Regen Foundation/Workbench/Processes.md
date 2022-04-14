@@ -27,6 +27,9 @@ Note: it makes sense to start measuring engagement rate and turn out on commonwe
 Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record number of candidates selected and check it matches our distribution criterea.It seems reasonable to measure funds distributed
 
 ## Onboarding Process
+- A call for onboarding occurs 
+
+
 ## Advice Process
 ## Partnership Process
 ...
