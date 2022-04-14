@@ -13,7 +13,7 @@ Related:
 - The proposal is then polished with foundation representative sign off and then put to an on chain vote; should mention various criterea (team, resources, capabilities, talents etc.)
 - Proposal passes or fails based on validator discresion
 
-Note: it makes sense to measure voting turn out on commonwealth. Before proposal discussion length shortened participation was higher. Current measure is  63%~ 
+Note: it makes sense to measure discussion time and voting turn out on commonwealth. Before proposal discussion length shortened participation was higher. Current measure is  63%~ 
 
 ## EnDAOment Process:
 - A call for participation occurs on a community platform (of any variety)
