@@ -13,7 +13,7 @@ Related:
 - The proposal is then polished with foundation representative sign off and then put to an on chain vote; should mention various criterea (team, resources, capabilities, talents etc.)
 - Proposal passes or fails based on validator discresion
 
-Note: it makes sense to start measuring engagement rate and turn out on commonwealth. Before proposal discussion length shortened participation was higher. Current measure is now 63%~ 
+Note: it makes sense to measure voting turn out on commonwealth. Before proposal discussion length shortened participation was higher. Current measure is  63%~ 
 
 ## EnDAOment Process:
 - A call for participation occurs on a community platform (of any variety)
@@ -36,7 +36,7 @@ Note: it makes sense to nominate capacity builders/stewards early in this proces
 - Work is finalised
 - New member is onboarded
 
-Note: measures should include community members that initiate onboarding, the number of finalised artefacts and drop off rate
+Note: measures should include community members that initiate onboarding, the number of finalised artefacts and the drop off rate.
 
 
 ## Advice Process
