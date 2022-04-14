@@ -24,14 +24,19 @@ Note: it makes sense to start measuring engagement rate and turn out on commonwe
 - Nominees are socialised with the existing community via a pollination event and relationships form. 
 - Once these relationships are mature EnDAOment candidates are selected
 
-Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record number of candidates selected and check it matches our distribution criterea.It seems reasonable to measure funds distributed
+Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record the number of candidates selected and check it matches our distribution criterea. It seems prudent to measure funds distributed
 
 ## Onboarding Process
 - A desire to participate in emitted on a community platform or other channels
 - Community member is connected with a point of contact in the ecosysetem
 - An orientation process occurs through socialisation in a public space (office hours, community campfire)
 - During this orientation the new participant meets others working on projects
-- The new partici
+- The new participant finds a project to work on
+- When work is near completion they socialise it with other teams
+- Work is finalised
+- New member is onboarded
+
+Note: measures should include community members that initiate onboarding, the number of finalised artefacts and drop off rate
 
 
 ## Advice Process
