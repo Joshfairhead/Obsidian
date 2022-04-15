@@ -1,9 +1,7 @@
 ---
-Tags: []
+Tags: [domains]
 ---
-Related: 
-# Ledger Governance
-
+Related: [[Regen]]
 # Ledger Governance
 
 ## Areas of Responsibility
