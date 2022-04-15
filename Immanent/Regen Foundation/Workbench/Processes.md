@@ -5,7 +5,28 @@ Related:
 # Processes
 We are seeking to optimise a [[Gini coefficient]]
 
-## Proposal Process:
+## Open community Onboarding Process
+- A desire to participate in emitted on a community platform or other channels
+- Community member is connected with a point of contact in the ecosysetem
+- An orientation process occurs through socialisation in a public space (office hours, community campfire)
+- During this orientation the new participant meets others working on projects
+- The new participant finds a project to work on
+- When work is near completion they socialise it with other teams
+- Work is finalised
+- New member is onboarded
+
+Note: measures should include community members that initiate onboarding, the number of finalised artefacts and the drop off rate.
+
+## Hiring Process
+- A call for new hires is put out articulating foundation needs/wants
+- Candidates contact the foundation (with/without information) and a date/time/location for further interaction is set.
+- Sense making about mutual fit/potential niches occurs through a an informal coffee chat
+- Further introductions occur within a larger group container to find a buddy and scope out a piece of work
+- Work occurs with buddy
+- Work is socialised with the larger group asd assessed
+- Decision to hire or not is made by consensus
+
+## Community Pool Proposal Process:
 - A call for participation occurs on a community platform (of any variety)
 - A date and location for public sense making is shared with interested parties (callers discretion)
 - A sense making session then occurs publicaly via community platform with a foundation representation present (e.g. Discord or Twitter Space)
@@ -23,31 +44,12 @@ Note: it makes sense to measure discussion time and voting turn out on commonwea
 - During the lab parties find synnergy and continue working together. 
 - As labs mature into relationships enDAOment candidates are nominated by foundation representatives based on established criterea (just distributions).
 - Nominees are socialised with the existing community via a pollination event and relationships form. 
-- Once these relationships are mature EnDAOment candidates are selected
+- Once these relationships are mature EnDAOment candidates are selected by consensus votes
 
 Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record the number of candidates selected and check it matches our distribution criterea. It seems prudent to measure funds distributed
 
-## Hiring Process
-- A call for new hires is put out articulating foundation needs/wants
-- Candidates contact the foundation (with/without information) and a date/time/location for further interaction is set.
-- Sense making about mutual fit/potential niches occurs through a an informal coffee chat
-- Further introductions occur within a larger group container to find a buddy and scope out a piece of work
-- Work occurs with buddy
-- Work is socialised with the larger group asd assessed
-- Decision to hire or not is made by consensus
+## Partnership Process (Consortium Building)
 
-## Community Onboarding Process
-- A desire to participate in emitted on a community platform or other channels
-- Community member is connected with a point of contact in the ecosysetem
-- An orientation process occurs through socialisation in a public space (office hours, community campfire)
-- During this orientation the new participant meets others working on projects
-- The new participant finds a project to work on
-- When work is near completion they socialise it with other teams
-- Work is finalised
-- New member is onboarded
-
-Note: measures should include community members that initiate onboarding, the number of finalised artefacts and the drop off rate.
 
 
 ## Advice Process
-## Partnership Process (Consortium Building)
