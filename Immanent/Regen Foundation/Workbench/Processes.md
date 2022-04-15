@@ -33,8 +33,8 @@ Note: it makes sense to nominate capacity builders/stewards early in this proces
 - Sense making about mutual fit/potential niches occurs through a an informal coffee chat
 - Further introductions occur within a larger group container to find a buddy and scope out a piece of work
 - Work occurs with buddy
-- Work is socialised with the larger group
-- Work is completed
+- Work is socialised with the larger group asd assessed
+- Decision to hire or not is made by consensus
 
 ## Community Onboarding Process
 - A desire to participate in emitted on a community platform or other channels
