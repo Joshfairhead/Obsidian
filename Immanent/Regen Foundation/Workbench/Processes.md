@@ -27,6 +27,9 @@ Note: it makes sense to measure discussion time and voting turn out on commonwea
 
 Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record the number of candidates selected and check it matches our distribution criterea. It seems prudent to measure funds distributed
 
+## Hiring Process
+
+
 ## Onboarding Process
 - A desire to participate in emitted on a community platform or other channels
 - Community member is connected with a point of contact in the ecosysetem
@@ -41,5 +44,4 @@ Note: measures should include community members that initiate onboarding, the nu
 
 
 ## Advice Process
-## Partnership Process
-...
+## Partnership Process (Consortium Building)
