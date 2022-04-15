@@ -29,7 +29,7 @@ Note: it makes sense to nominate capacity builders/stewards early in this proces
 
 ## Hiring Process
 - A call for new hires is put out articulating foundation needs/wants
-- A new hire contacts foundation and initial shared conection is established 
+- Candidates contact the foundation, initial conection is established and a date for interaction is set
 - 
 
 ## Onboarding Process
