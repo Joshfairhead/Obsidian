@@ -48,7 +48,9 @@ Note: it makes sense to measure discussion time and voting turn out on commonwea
 
 Note: it makes sense to nominate capacity builders/stewards early in this process as they will act as amplifiers. It also seems reasonable to record the number of candidates selected and check it matches our distribution criterea. It seems prudent to measure funds distributed
 
-## Partnership Process (Consortium Building)
+## Partnership Process
+- A call to participation / invitation is made 
+- 
 
 
 
