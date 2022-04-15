@@ -29,8 +29,8 @@ Note: it makes sense to nominate capacity builders/stewards early in this proces
 
 ## Hiring Process
 - A call for new hires is put out articulating foundation needs/wants
-- Candidates contact the foundation, initial conection is established and a date for interaction is set
-- 
+- Candidates contact the foundation (with/without information) and a date/time/location for further interaction is set.
+- "coffee chat" and sense mak
 
 ## Onboarding Process
 - A desire to participate in emitted on a community platform or other channels
