@@ -26,7 +26,7 @@
 - Monad saplings (medium notes on a domain)
 - Manad seeds (small notes on a domain)
 
-**Trancendental is for evergreen notes, it has the following folders:**
+**Trancendental is for evergreen content, it has the following folders:**
 - Evergreen forrest (completed work that won't age)
 - Evergreen saplings (maturing work that won't age)
 - Evergreen seeds (the start of work that wont age)
@@ -36,6 +36,10 @@ Inside the DailyNotes folder I have two notes:
 - Buffer (chunks of things I can fill time with, tasks I dont wan't distracting me)
 
 Templates for DailyNotes can be found in the assets folder. If were talking about theory of constraints, the daily note acts as the rope.
+
+### How to use:
+- Download Obsidian or other graph explorer that recognises markdown
+- Download 
 
 ### Conclusion
 Now you know the structure of my digital brain. May it's memes spread. 
