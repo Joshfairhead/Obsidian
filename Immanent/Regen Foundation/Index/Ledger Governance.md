@@ -6,6 +6,7 @@ Related: [[Regen]]
 
 ## Areas of Responsibility
 These are spheres of activity with a standard to be maintained over time
+
 - Working with Cory, Ryan and Rebecca on Ledger Governance/Registry design space
 - Communicate key ledger updates to stakeholders via open and participatory spaces 
 	- Measurement of Community call participation
@@ -24,6 +25,7 @@ These are spheres of activity with a standard to be maintained over time
 
 ## Projects
 Projects are a sequence of tasks with a deadline:
+
 - Proposal 18: Locked tokens recovery (Deadline: ledger 4.0 update)
 - Community onboarding
 	- Nish (Deadline: open)
@@ -35,7 +37,8 @@ Projects are a sequence of tasks with a deadline:
 - Onboarding the community to Hylo (Deadline: Dependent on foundation reps)
 
 ## Resources
-Topic or themes of ongoing interest
+Topic or themes of ongoing interest:
+- Modular design
 - [Knowlege Commons / PKMS / Data vault](https://github.com/Joshfairhead/Obsidian)
 - Poly-centric goverance and education
 - Governance modeling and simulations (CadCad/Statebox)
