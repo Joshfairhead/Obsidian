@@ -23,6 +23,7 @@ These are spheres of activity with a standard to be maintained over time
 
 ## Projects
 Projects are a sequence of tasks with a deadline:
+- Working with Cory, Ryan and Rebecca on Ledger Governance design space
 - Proposal 18: Locked tokens recovery (Deadline: ledger 4.0 update)
 - Community onboarding
 	- Nish (Deadline: open)
@@ -40,3 +41,6 @@ Topic or themes of ongoing interest
 - Governance modeling and simulations (CadCad/Statebox)
 - Project management
 - Process design
+
+----
+
