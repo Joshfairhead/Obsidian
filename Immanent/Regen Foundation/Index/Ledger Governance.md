@@ -38,7 +38,7 @@ Projects are a sequence of tasks with a deadline:
 
 ## Resources
 Topic or themes of ongoing interest:
-- Modular design
+	- Modular design
 - [Knowlege Commons / PKMS / Data vault](https://github.com/Joshfairhead/Obsidian)
 - Poly-centric goverance and education
 - Governance modeling and simulations (CadCad/Statebox)
