@@ -6,6 +6,7 @@ Related: [[Regen]]
 
 ## Areas of Responsibility
 These are spheres of activity with a standard to be maintained over time
+- Working with Cory, Ryan and Rebecca on Ledger Governance/Registry design space
 - Communicate key ledger updates to stakeholders via open and participatory spaces 
 	- Measurement of Community call participation
 	- Measurement of Youtube activity and engagement
@@ -23,7 +24,6 @@ These are spheres of activity with a standard to be maintained over time
 
 ## Projects
 Projects are a sequence of tasks with a deadline:
-- Working with Cory, Ryan and Rebecca on Ledger Governance design space
 - Proposal 18: Locked tokens recovery (Deadline: ledger 4.0 update)
 - Community onboarding
 	- Nish (Deadline: open)
