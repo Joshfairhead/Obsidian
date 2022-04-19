@@ -21,3 +21,8 @@ Related: [[Identity]] [[Identity Primers]] [[Trends]] [[Computer Science]] [[Cry
     - [The Good, Bad and Ugly of SSI](https://blockchain.tno.nl/blog/self-sovereign-identity-the-good-the-bad-and-the-ugly/)
     - [Palantir and Gaia-X](https://medium.com/palantir/palantir-and-gaia-x-85ab9845144d) - may contain nuggets
     - [What is digital identity management?](https://www.archents.com/post/what-is-digital-identity-management) - metrics and insights, good references for grants 
+
+## Identity protocols
+- Perspectivism
+- AD4M
+- [IDX](https://idx.xyz/)
