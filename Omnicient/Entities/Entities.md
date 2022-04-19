@@ -21,6 +21,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 
 ## Regen potential partners
 - https://passage3d.com/ - Mataverse
+- https://www.designscience.studio/regenerarising
 
 ## Current Regen Partners
 - https://fibershed.org/affiliate-directory/
