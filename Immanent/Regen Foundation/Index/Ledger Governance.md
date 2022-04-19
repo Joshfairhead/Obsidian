@@ -18,6 +18,7 @@ These are spheres of activity with a standard to be maintained over time
 	- Measurement of proposal throughput
 	- Aiding communtiy members form and socialise proposals
 	- Community driven roadmap/kanban
+	- Measurement of new community members that are land stewards
 - Identify/design new tools to support community growth; determine, design and oversee the implementation of governance tools intended to engage the under represented.
 - Coordinating decisions between domains of ledger, marketing, operations, endaoment, registry; e.g. tooling
 - Personal partnerships with stewards & guilds.
