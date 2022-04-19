@@ -8,6 +8,7 @@ Related: [[Regen]]
 These are spheres of activity with a standard to be maintained over time
 
 - Working with Cory, Ryan and Rebecca on Ledger Governance/Registry design space
+	- Bringing in voices from the community 
 - Communicate key ledger updates to stakeholders via open and participatory spaces 
 	- Measurement of Community call participation
 	- Measurement of Youtube activity and engagement
