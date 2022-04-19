@@ -18,5 +18,5 @@
 
 
 **Rope**
-- Thursday 20th January: Microsolidarity gathering
 - Sunday 22nd May: Tool concert
+- June 1-15th
