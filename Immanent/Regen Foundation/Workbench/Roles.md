@@ -102,3 +102,5 @@ Topic or themes of ongoing interest:
 
 
 ---
+Austin:
+As part of each enDAOment sprint each new community needs to set up a pristine wallet for the locked token transfer. This educational support  and communication , including how setup, delegatation and voting seems to me to fall within governance coordinator position as it is the essential capacities necessary for formal governance participation
