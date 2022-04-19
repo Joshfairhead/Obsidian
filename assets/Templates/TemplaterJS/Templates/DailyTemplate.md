@@ -3,12 +3,11 @@
 
 
 ## Rituals
-- [ ] 1 x 10 [[Overhead Press]] with 15lb [[Kettlebell]]
+- [ ] Morning sitting
 - [ ] [[Learn Javascript Course]] [flashcards](https://flash.learnjavascript.online/home)
 
 ## Day
 **Content**
-- [ ] [[Learn Javascript Course]]
 
 
 **Context**
@@ -19,4 +18,4 @@
 
 **Rope**
 - Sunday 22nd May: Tool concert
-- June 1-15th
+- Wednesday 1-15th June: Darren and Marretta wedding retreat in Barcelona
