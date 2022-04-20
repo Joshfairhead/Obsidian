@@ -5,26 +5,9 @@ Related:
 # Processes
 We are seeking to optimise a [[Gini coefficient]]
 
-## Open community Onboarding Process
-- A desire to participate in emitted on a community platform or other channels
-- Community member is connected with a point of contact in the ecosysetem
-- An orientation process occurs through socialisation in a public space (office hours, community campfire)
-- During this orientation the new participant meets others working on projects
-- The new participant finds a project to work on
-- When work is near completion they socialise it with other teams
-- Work is finalised
-- New member is onboarded
 
-Note: measures should include community members that initiate onboarding, the number of finalised artefacts and the drop off rate.
 
-## Hiring Process
-- A call for new hires is put out articulating foundation needs/wants
-- Candidates contact the foundation (with/without information) and a date/time/location for further interaction is set.
-- Sense making about mutual fit/potential niches occurs through a an informal coffee chat
-- Further introductions occur within a larger group container to find a buddy and scope out a piece of work
-- Work occurs with buddy
-- Work is socialised with the larger group asd assessed
-- Decision to hire or not is made by consensus
+
 
 ## Community Pool Proposal Process:
 - A call for participation occurs on a community platform (of any variety)
