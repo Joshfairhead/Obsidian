@@ -18,4 +18,5 @@
 
 **Rope**
 - Sunday 22nd May: Tool concert
+- Friday 6t
 - Wednesday 1-15th June: Darren and Marretta wedding retreat in Barcelona
