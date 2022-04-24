@@ -7,4 +7,4 @@ Related: [[Dąbrowski]] [[Meta-learning]] [[Bias]] [[Predictive Bias]] [[Bicamer
 - [Poly vagal theory](https://en.wikipedia.org/wiki/Polyvagal_theory)
     - ![](assets/1626444335_45.jpg)
 
-Investigate your darkside
+[Investigate your darkside](https://www.youtube.com/watch?v=hgFX-ZsOscc) - Peterson and Robert Greene; power, psycopathy and the harsh real world. 
