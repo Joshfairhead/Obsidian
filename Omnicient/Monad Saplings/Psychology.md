@@ -7,3 +7,4 @@ Related: [[Dąbrowski]] [[Meta-learning]] [[Bias]] [[Predictive Bias]] [[Bicamer
 - [Poly vagal theory](https://en.wikipedia.org/wiki/Polyvagal_theory)
     - ![](assets/1626444335_45.jpg)
 
+Investigate your darkside
