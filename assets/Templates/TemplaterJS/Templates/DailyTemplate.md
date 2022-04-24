@@ -7,8 +7,9 @@
 - [ ] [[Learn Javascript Course]] [flashcards](https://flash.learnjavascript.online/home)
 
 ## Day
-**Content**
+**Work Content**
 
+**Personal Content**
 
 **Context**
 
@@ -18,5 +19,5 @@
 
 **Rope**
 - Sunday 22nd May: Tool concert
-- Friday 6t
+- Friday 6-11th: Mother visiting
 - Wednesday 1-15th June: Darren and Marretta wedding retreat in Barcelona
