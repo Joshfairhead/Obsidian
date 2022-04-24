@@ -13,3 +13,5 @@ AKA [[Ethics]]
 - [Backward chaining](https://en.wikipedia.org/wiki/Backward_chaining)
 - [[Consent Decision Making]]
 - [[Democracy]]
+- [Decision Science](https://cuttingthroughthenoise.net/what-is-decision-science)
+	- https://decisionsciences.org/
