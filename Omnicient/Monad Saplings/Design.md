@@ -7,6 +7,7 @@ Related: [[Domain Driven Design]] [[Test Driven Development]] [[Behavior Driven 
 #### Articles
 - [Cybernetics and Service Craft](http://www.dubberly.com/articles/cybernetics-and-service-craft.html)
 - [Design with intent](http://designwithintent.co.uk/introduction-to-the-design-with-intent-toolkit/) (Ticas)
+- [Design for hopeful futures](https://www.decentralising.digital/2021/06/30/long-read-design-for-hopeful-futures/) (Revs)
    
 #### Branding
 - [Agency in the Wild - branding sprint](https://miro.com/miroverse/category/miro-experts/brand-sprint/)
