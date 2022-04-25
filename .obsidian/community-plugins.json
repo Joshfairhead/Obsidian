@@ -6,5 +6,6 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "sliding-panes-obsidian",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "dataview"
 ]
