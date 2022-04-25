@@ -43,7 +43,7 @@ Four types of proposal:
 
 
 
-Registry
+## Registry Participa
 - [[Decentralised goverance introduction]]
 - [[Decentralised registry programme overview]]
 - [[Governance of the registry itself]]
