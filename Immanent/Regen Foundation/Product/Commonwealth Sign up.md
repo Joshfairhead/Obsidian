@@ -3,7 +3,7 @@
 - Discussions live on commonwealth.im/regen so go there as first stop.
 - Clicking the `Log in` button in the top right of the screen to get started.
 - You are then presented with a number of options; Email, Github, Discord & Wallet.
-- While you can technically log-in with any of these options, you can't do much without a wallet address so its best to just select the wallet option. You can associate other profiles later if you choose. 
+- While you can technically log-in with any of these options but you can't do much without a wallet address so its best to choose the wallet option. You can associate other profiles later if you like. 
 - Assuming you have Keplr installed and then select the wallet option you'll be able to Keplr in the drop down menu. 
 - Upon doing so Commonwealth will ask you to select an address; it's likely you only have one at this stage so select it.
 - This will open your wallet and ask you to sign a transaction of 0 $REGEN, worth $0. 
