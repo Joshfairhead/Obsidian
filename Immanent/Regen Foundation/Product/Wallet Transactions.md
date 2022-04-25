@@ -1,5 +1,4 @@
 ### Wallet Transactions
-Steps for use:
 - In the top right of your Chrome browser beside the address bar you'll find an icon that looks like a puzzle piece; click it to see your Chrome extensions.
 - A menu will appear and at the bottom is "Keplr", click it to open your wallet.
 - Type your password into Keplr and click "unlock"
