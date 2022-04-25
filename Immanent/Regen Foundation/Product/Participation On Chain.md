@@ -40,3 +40,10 @@ Four types of proposal:
 - Paramater change proposal
 - Software upgrade proposal
 - Community spend proposal
+
+
+
+Registry
+- [[Decentralised goverance introduction]]
+- [[Decentralised registry programme overview]]
+- [[Governance of the registry itself]]
