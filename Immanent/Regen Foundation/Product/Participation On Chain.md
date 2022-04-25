@@ -42,8 +42,7 @@ Four types of proposal:
 - Community spend proposal
 
 
-
-## Registry Participa
+## Registry Participation
 - [[Decentralised goverance introduction]]
 - [[Decentralised registry programme overview]]
 - [[Governance of the registry itself]]
