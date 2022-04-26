@@ -20,20 +20,12 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 - Wallet Transactions
 - Commonwealth sign up
 - Commonwealth discussion
-- Commonwealth proposals
+- Commonwealth text proposals
+- Commonwealth community spend proposal
 - Token voting
 
 ---
-### ![[Wallet Setup]]
----
-### ![[Wallet Transactions]]
----
-### ![[Commonwealth Sign up]]
----
-
-### ![[Commonwealth Discussion]]
-### ![[Commonwealth Proposals]] 
-### ![[Commonwealth Community Spend Proposal]]
+### ![[Wallet Setup]]### ![[Wallet Transactions]]### ![[Commonwealth Sign up]]### ![[Commonwealth Discussion]]### ![[Commonwealth Proposals]] ### ![[Commonwealth Community Spend Proposal]]
 
 
 
