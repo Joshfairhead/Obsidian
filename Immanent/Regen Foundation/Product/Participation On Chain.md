@@ -31,8 +31,16 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 ### ![[Commonwealth Sign up]]
 ---
 
-### [[Commonwealth Discussion]]
-### [[Commonwealth Proposals]] 
+### ![[Commonwealth Discussion]]
+### ![[Commonwealth Proposals]] 
+### ![[Commonwealth Community Spend Proposal]]
+
+
+
+
+
+
+%% 
 ### [[Commonwealth Voting]]
 ### [[Staking Wallet Setup]]
 
@@ -52,3 +60,4 @@ Four types of CLI proposal:
 ### Ledger Docs
 - Eco credit module
 - Data module
+%%
