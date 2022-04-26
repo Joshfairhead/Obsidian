@@ -25,15 +25,10 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 - Token voting
 
 ---
-### ![[Wallet Setup]]### ![[Wallet Transactions]]### ![[Commonwealth Sign up]]### ![[Commonwealth Discussion]]### ![[Commonwealth Proposals]] ### ![[Commonwealth Community Spend Proposal]]
+### ![[Wallet Setup]]### ![[Wallet Transactions]]### ![[Commonwealth Sign up]]### ![[Commonwealth Discussion]]### ![[Commonwealth Proposals]] ### ![[Commonwealth Community Spend Proposal]]### ![[Commonwealth Voting]]
 
 
-
-
-
-
-%% 
-### [[Commonwealth Voting]]
+%%
 ### [[Staking Wallet Setup]]
 
 Four types of CLI proposal:  
