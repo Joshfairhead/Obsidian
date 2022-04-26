@@ -15,6 +15,9 @@ Related:
 - [Cosmos Multi-sig wallets](https://docs.cosmos.network/v0.42/run-node/txs.html)
 
 
+## Other links
+- [Use cases by Ned](https://docs.google.com/document/d/11-VY5uFvaCGjVvvI_UcPIoo-hGxmWnji-ttYszcvnnA/edit)
+
 
 
 
