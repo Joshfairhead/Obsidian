@@ -33,13 +33,14 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 
 ### [[Commonwealth Discussion]]
 ### [[Commonwealth Proposals]] 
-Four types of proposal:  
+### [[Commonwealth Voting]]
+### [[Staking Wallet Setup]]
+
+Four types of CLI proposal:  
 - Simple text proposal
 - Paramater change proposal
 - Software upgrade proposal
 - Community spend proposal
-### [[Commonwealth Voting]]
-### [[Staking Wallet Setup]]
 
 
 ## Registry Participation
