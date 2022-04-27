@@ -16,7 +16,7 @@ To participate in onchain governance, participants first need REGEN tokens. Ther
 Assuming you wish to participate in this digital ecosystem, how do you do so? 
 
 ### Commonwealth Pathways
-- Wallet Onboarding
+- Wallet Setup
 - Wallet Transactions
 - Commonwealth sign up
 - Commonwealth discussion
