@@ -28,7 +28,7 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 ### ![[Wallet Setup]]### ![[Wallet Transactions]]### ![[Commonwealth Sign up]]### ![[Commonwealth Discussion]]### ![[Commonwealth Proposals]] ### ![[Commonwealth Community Spend Proposal]]### ![[Commonwealth Voting]]
 ### ![[Staking Wallet Setup]]
 ## Command Line Interface Proposals
-A Command Line Interface (CLI) is a 
+The Command Line Interface (CLI) is a tool that allows users to access all the back end functions of a given application; in our case the 'application' is the Regen
 
 
 Four types of CLI proposal:  
