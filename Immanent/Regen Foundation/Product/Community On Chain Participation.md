@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: 
-# Participation On Chain
+# Community On Chain Participation
 Technologically speaking, the Regen Network is a blockchain ledger. The integrity of data stored on the ledger is secured by agents known as 'validators'. Validators are technology stewards who maintain the distributed leder infrastructure by running the Regen Ledger software (and maintianing a consensus mechanism) in order to secure the network at a fundemental level. 
 
 The `consensus mechanism` used on Regen Network is known as `delegated Proof of Stake`. `Proof of stake` means that anyone acting as a validator `stakes` or risks their tokens in order to secure the ledger. If a validator acts dishonestly by modifying their account of events they will be automatically penalised and loose their tokens. There is thus an economic incentive for validators to act honestly. Token holders can then either 'vote' or 'delegate' their tokens to validators in order to earn rewards. 
@@ -26,27 +26,3 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 
 ---
 ### ![[Wallet Setup]]### ![[Wallet Transactions]]### ![[Commonwealth Sign up]]### ![[Commonwealth Discussion]]### ![[Commonwealth Proposals]] ### ![[Commonwealth Community Spend Proposal]]### ![[Commonwealth Voting]]
-### ![[Staking Wallet Setup]]
-## Command Line Interface Proposals
-The Command Line Interface (CLI) is a tool that allows users to access all the back end functions of a given application; in our case the 'application' is the Regen Ledger. We will look at the proposal functionality.
-
-Four types of CLI proposal:  
-- Simple text proposal
-- Paramater change proposal
-- Software upgrade proposal
-- Community spend proposal
-
-### ![[Simple Text Proposal]]
-### ![[Paramater Change Proposal]]
-### ![[Software Upgrage Proposal]]
-### ![[Community Spend Proposal]]
-## Registry Participation
-- [[Decentralised goverance introduction]]
-- [[Decentralised registry programme overview]]
-- [[Governance of the registry itself]]
-
-
-### Ledger Docs
-- Eco credit module
-- Data module
-%%
