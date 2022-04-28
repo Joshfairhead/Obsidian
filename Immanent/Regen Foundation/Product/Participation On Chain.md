@@ -36,8 +36,10 @@ Four types of CLI proposal:
 - Software upgrade proposal
 - Community spend proposal
 
-
-
+### ![[Simple Text Proposal]]
+### ![[Paramater Change Proposal]]
+### ![[Software Upgrage Proposal]]
+### ![[Community Spend Proposal]]
 ## Registry Participation
 - [[Decentralised goverance introduction]]
 - [[Decentralised registry programme overview]]
