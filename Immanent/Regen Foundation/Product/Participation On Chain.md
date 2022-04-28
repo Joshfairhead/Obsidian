@@ -28,14 +28,14 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 ### ![[Wallet Setup]]### ![[Wallet Transactions]]### ![[Commonwealth Sign up]]### ![[Commonwealth Discussion]]### ![[Commonwealth Proposals]] ### ![[Commonwealth Community Spend Proposal]]### ![[Commonwealth Voting]]
 ### ![[Staking Wallet Setup]]
 ## Command Line Interface Proposals
-The Command Line Interface (CLI) is a tool that allows users to access all the back end functions of a given application; in our case the 'application' is the Regen
-
+The Command Line Interface (CLI) is a tool that allows users to access all the back end functions of a given application; in our case the 'application' is the Regen Ledger. We will look at the proposal functionality.
 
 Four types of CLI proposal:  
 - Simple text proposal
 - Paramater change proposal
 - Software upgrade proposal
 - Community spend proposal
+
 
 
 ## Registry Participation
