@@ -26,10 +26,10 @@ Assuming you wish to participate in this digital ecosystem, how do you do so?
 
 ---
 ### ![[Wallet Setup]]### ![[Wallet Transactions]]### ![[Commonwealth Sign up]]### ![[Commonwealth Discussion]]### ![[Commonwealth Proposals]] ### ![[Commonwealth Community Spend Proposal]]### ![[Commonwealth Voting]]
+### ![[Staking Wallet Setup]]
+## Command Line Interface Proposals
+A Command Line Interface (CLI) is a 
 
-
-%%
-### [[Staking Wallet Setup]]
 
 Four types of CLI proposal:  
 - Simple text proposal
