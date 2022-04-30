@@ -18,6 +18,9 @@
 
 
 **Rope**
-- Sunday 22nd May: Tool concert
-- Friday 6-11th: Mother visiting
+- Thursday 12th May: PCR Test / Tool Check-in
+- Friday 13th May: Flight and Airbnb booking
+- Sunday 15th May: Tool concert
+- Monday 16th May: Flight
+- Friday 6-11th May: Mother visiting
 - Wednesday 1-15th June: Darren and Marretta wedding retreat in Barcelona
