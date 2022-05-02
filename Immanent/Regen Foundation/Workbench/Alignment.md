@@ -18,3 +18,6 @@ Sending small alloctaions to individuals shouldn't be a regulatory issue but lar
 
 We would need a concrete number on the allocation size to move forward with these ideas. Austin and Will are probably the directive agencies for this. 
 
+---
+
+Tomorrow is the first validator ecosystem resiliance twitter space; the aim here is an educated voting constituency as they sign off on network/community pool spends. W
