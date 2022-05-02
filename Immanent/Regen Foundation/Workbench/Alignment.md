@@ -20,14 +20,17 @@ We would need a concrete number on the allocation size to move forward with thes
 
 TL;DR
 
-Josh does community DAO onboarding once ledger 4 is r
-Austin determins the allocation
+Josh does community DAO onboarding once ledger 4 is released.
+Austin determins the allocation.
+Gijs would work with the IST community and capture issues 
 
 ---
 
 ### Twitter Space / IST Community Call
 
 Tomorrow is the first validator ecosystem resiliance twitter space; the aim here is an educated voting constituency as they sign off on network/community pool spends. Ideally a 'shark tank' style event would be cool to engage validators and get their input on community spend proposals but they will need incentivisation to keep participating. The recent RFP response around our delegation strategy allocated 10% for qualitive assessment led by the foundation/RND. This could incentivise regular participation in the Twitter space and attendence be a metric; eventually this could germinate into a buddy system that addresses bioregionalism as the call is currently setup directly after the IST Community call. This could be a good sequence to follow on further iterations.
+
+Gijs would handle the IST CC and test out wallet onboarding 
 
 ---
 
