@@ -46,3 +46,5 @@ W34L has become a guild of methodology developers and ontological designers whic
 Non-Natives guides to data module and groups
 Verification
 Create credit class, then what?
+Gijs to collect user stories in Notion
+Rebecca to collect discord threads and conversations in Notion
