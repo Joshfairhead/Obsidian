@@ -2,7 +2,7 @@
 Tags: []
 ---
 Related: 
-# Alignment
+# Alignment Memo 
 ### ET Community Call and csDAOs
 This note seeks to integrate the various moving pieces in the Regen ecosystem pertaining to Foundation activities. It's not complete but paints a picture of what might be for the benefit of Will and Austin. It includes discussion from the alignment session with Revs and Gijs.
 
@@ -40,7 +40,7 @@ These spaces can further tie into the newsletter. Segmentation is needed still s
 ---
 
 ### Registry
-the Registry is a pretty key product in the Regen ecosystem; perhaps even the wider purpose of enDAOment depending on perspective. Currently the Registry is thinking about the Data and Groups modulse as well as workflows and feedback loops. 
+The Registry is a pretty key product in the Regen ecosystem; perhaps even the wider purpose of enDAOment depending on perspective. Currently the Registry is thinking about the Data and Groups modulse as well as workflows and feedback loops. 
 - Foundation collects user stories (Gijs)
 - Registry collects use cases from discord threads and conversations (Rebecca)
 - Ledger gets informed (Josh) and helps translate with Tica for educational purposes
