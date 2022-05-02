@@ -50,3 +50,5 @@ Gijs to collect user stories in Notion
 Rebecca to collect discord threads and conversations in Notion
 
 Science team as education, LOA as marketing
+
+https://www.notion.so/regenfoundation/Ledger-Gov-RND-RF-775fd85e0b4a4e38b60eec2607ed6953
