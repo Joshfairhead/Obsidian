@@ -16,3 +16,5 @@ This csDAO would perhaps be a multi-sig, with Ledger 4.0 bringing the groups mod
 
 Sending small alloctaions to individuals shouldn't be a regulatory issue but larger csDAOs would face such uncertainties, especially in India. The foundation could theoretically manage the fiducary duty for the csDAO for now and outsource this responsibility to other platforms in the future (e.g. 2030.io, Coinbase or Open Collective).
 
+We would need a concrete number on the allocation size to move forward with these ideas. Austin and Will are probably the directive agencies for this. 
+
