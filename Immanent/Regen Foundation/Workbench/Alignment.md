@@ -20,6 +20,4 @@ We would need a concrete number on the allocation size to move forward with thes
 
 ---
 
-Tomorrow is the first validator ecosystem resiliance twitter space; the aim here is an educated voting constituency as they sign off on network/community pool spends. Ideally a 'shark tank' style event would be cool to engage validators with community spend proposals.
-
-The recent RFP response around our delegation strategy allocated 10% for qualitive assessment led by the foundation/RND. This could incentivise regular participation in the Twitter space as without inc
+Tomorrow is the first validator ecosystem resiliance twitter space; the aim here is an educated voting constituency as they sign off on network/community pool spends. Ideally a 'shark tank' style event would be cool to engage validators and get their input on community spend proposals but they will need incentivisation to keep participating. The recent RFP response around our delegation strategy allocated 10% for qualitive assessment led by the foundation/RND. This could incentivise regular participation in the Twitter space as without inc
