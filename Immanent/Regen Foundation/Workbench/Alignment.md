@@ -42,6 +42,8 @@ These spaces can further tie into the newsletter. Segmentation is needed still s
 ### Registry
 the Registry is a pretty key product in the Regen ecosystem; perhaps even the wider purpose of enDAOment depending on perspective. Currently the Registry is thinking about the Data and Groups modulse as well as workflows and feedback loops. 
 
+Assuming that Gijs can collect userstories from stewards and organisations he's working with we can use this to inform the registry
+
 
 
 W34L has become a guild of methodology developers and ontological designers which ties in well to the science teams needs. 
