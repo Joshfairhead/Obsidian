@@ -49,3 +49,4 @@ Create credit class, then what?
 Gijs to collect user stories in Notion
 Rebecca to collect discord threads and conversations in Notion
 
+Science team as education, LOA as marketing
