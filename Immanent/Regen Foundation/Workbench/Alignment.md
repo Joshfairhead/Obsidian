@@ -46,8 +46,8 @@ the Registry is a pretty key product in the Regen ecosystem; perhaps even the wi
 - Ledger gets informed (Josh) and helps translate with Tica for educational purposes
 - LOA does the marketing
 
-Non-natives guide to the data and groups modules. Aka Verification and Governance.
-- 
+Product wise we talked about a non-natives guide to the data and groups modules; aka Verification and Governance chapters of the Re
+
 
 
 W34L has become a guild of methodology developers and ontological designers which ties in well to the science teams needs. 
