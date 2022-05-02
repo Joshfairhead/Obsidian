@@ -41,8 +41,9 @@ These spaces can further tie into the newsletter. Segmentation is needed still s
 
 ### Registry
 the Registry is a pretty key product in the Regen ecosystem; perhaps even the wider purpose of enDAOment depending on perspective. Currently the Registry is thinking about the Data and Groups modulse as well as workflows and feedback loops. 
-- Foundation collects user stories
-- Registry collects use cases
+- Foundation collects user stories (Gijs)
+- Registry collects use cases from discord threads and conversations (Rebecca)
+- Ledger gets informed (Josh) 
 
 
 
