@@ -22,7 +22,7 @@ TL;DR
 
 Josh does community DAO onboarding once ledger 4 is released.
 Austin determins the allocation.
-Gijs would work with the IST community to do user testing (recieve tokens to a wallet and upscale from there)
+Gijs would work with the IST community to do user testing (recieve tokens to a wallet and upscaling from there)
 
 ---
 
@@ -30,10 +30,13 @@ Gijs would work with the IST community to do user testing (recieve tokens to a w
 
 Tomorrow is the first validator ecosystem resiliance twitter space; the aim here is an educated voting constituency as they sign off on network/community pool spends. Ideally a 'shark tank' style event would be cool to engage validators and get their input on community spend proposals but they will need incentivisation to keep participating. The recent RFP response around our delegation strategy allocated 10% for qualitive assessment led by the foundation/RND. This could incentivise regular participation in the Twitter space and attendence be a metric; eventually this could germinate into a buddy system that addresses bioregionalism as the call is currently setup directly after the IST Community call. This could be a good sequence to follow on further iterations.
 
-Gijs would handle the IST CC and test out wallet onboarding 
 
 ---
 
 ### Newsletter
 
 These spaces can further tie into the newsletter. Segmentation is needed still so that we're speaking to specific audiences. Josh would handle the tech community and help translate for Gijs who would ensure suitability for land stewards. 
+
+---
+
+### Regis
