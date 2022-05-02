@@ -42,5 +42,7 @@ These spaces can further tie into the newsletter. Segmentation is needed still s
 ### Registry
 W34L has become a guild of methodology developers and ontological designers which ties in well to the science teams needs. 
 
+
+Non-Natives guides to data module and groups
 Verification
 Create credit class, then what?
