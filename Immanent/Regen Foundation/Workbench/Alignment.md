@@ -36,4 +36,4 @@ Gijs would handle the IST CC and test out wallet onboarding
 
 ### Newsletter
 
-These spaces can further tie into the newsletter. Segmentation is needed still so that we're speaking to specific audiences. Josh would handle the tech community and help translate for Gijs who would ensure suitability for land steward
+These spaces can further tie into the newsletter. Segmentation is needed still so that we're speaking to specific audiences. Josh would handle the tech community and help translate for Gijs who would ensure suitability for land stewards. 
