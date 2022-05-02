@@ -22,7 +22,7 @@ TL;DR
 
 Josh does community DAO onboarding once ledger 4 is released.
 Austin determins the allocation.
-Gijs would work with the IST community and capture issues 
+Gijs would work with the IST community to do user testing (recieve tokens to a wallet and upscale from there)
 
 ---
 
@@ -36,4 +36,4 @@ Gijs would handle the IST CC and test out wallet onboarding
 
 ### Newsletter
 
-These spaces can further tie into the newsletter. 
+These spaces can further tie into the newsletter. Segmentation is needed still so that we're speaking to specific audiences. Josh would handle the tech community and help translate for Gijs who would ensure suitability for land steward
