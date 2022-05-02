@@ -43,19 +43,19 @@ These spaces can further tie into the newsletter. Segmentation is needed still s
 the Registry is a pretty key product in the Regen ecosystem; perhaps even the wider purpose of enDAOment depending on perspective. Currently the Registry is thinking about the Data and Groups modulse as well as workflows and feedback loops. 
 - Foundation collects user stories (Gijs)
 - Registry collects use cases from discord threads and conversations (Rebecca)
-- Ledger gets informed (Josh) 
+- Ledger gets informed (Josh) and helps translate with Tica for educational purposes
+- LOA does the marketing
+
+Non-natives guide to the data and groups module. 
 
 
 
 W34L has become a guild of methodology developers and ontological designers which ties in well to the science teams needs. 
 
 
-Non-Natives guides to data module and groups
+
 Verification
 Create credit class, then what?
-Gijs to collect user stories in Notion
-Rebecca to collect discord threads and conversations in Notion
 
-Science team as education, LOA as marketing
 
 https://www.notion.so/regenfoundation/Ledger-Gov-RND-RF-775fd85e0b4a4e38b60eec2607ed6953
