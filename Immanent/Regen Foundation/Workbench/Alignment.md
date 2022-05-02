@@ -14,4 +14,5 @@ Austin suggested an inclination towards enDAOing participants from this call dur
 
 This csDAO would perhaps be a multi-sig, with Ledger 4.0 bringing the groups module and authz feature online we could onboard both groups into seperate DAOs and use authz to sign the multi-sigs wallet transactions (e.g. allocate and approve spends).
 
-Sending small alloctaions to individuals shouldn't be a regulatory issue but larger csDAOs would face such uncertainties. 
+Sending small alloctaions to individuals shouldn't be a regulatory issue but larger csDAOs would face such uncertainties, especially in India. The foundation could theoretically manage the fiducary duty for the csDAO for now and outsource this responsibility to other platforms in the future (e.g. 2030.io, Coinbase or Open Collective).
+
