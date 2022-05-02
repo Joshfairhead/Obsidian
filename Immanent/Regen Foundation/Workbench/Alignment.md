@@ -3,7 +3,7 @@ Tags: []
 ---
 Related: 
 # Alignment
-
+### ET Community Call and csDAOs
 This note seeks to integrate the various moving pieces in the Regen ecosystem pertaining to Foundation activities. It's not complete but paints a picture of what might be for the benefit of Will and Austin. It includes discussion from the alignment session with Revs and Gijs.
 
 Starting at the top we have a ET community call from which we can imagine a speculative future. This 'proposal' is offered in the spirit of feedforward. 
@@ -18,7 +18,19 @@ Sending small alloctaions to individuals shouldn't be a regulatory issue but lar
 
 We would need a concrete number on the allocation size to move forward with these ideas. Austin and Will are probably the directive agencies for this. 
 
+TL;DR
+
+Josh does community DAO onboarding once ledger 4 is r
+Austin determins the allocation
+
 ---
+
+### Twitter Space / IST Community Call
 
 Tomorrow is the first validator ecosystem resiliance twitter space; the aim here is an educated voting constituency as they sign off on network/community pool spends. Ideally a 'shark tank' style event would be cool to engage validators and get their input on community spend proposals but they will need incentivisation to keep participating. The recent RFP response around our delegation strategy allocated 10% for qualitive assessment led by the foundation/RND. This could incentivise regular participation in the Twitter space and attendence be a metric; eventually this could germinate into a buddy system that addresses bioregionalism as the call is currently setup directly after the IST Community call. This could be a good sequence to follow on further iterations.
 
+---
+
+### Newsletter
+
+These spaces can further tie into the newsletter. 
