@@ -46,16 +46,11 @@ the Registry is a pretty key product in the Regen ecosystem; perhaps even the wi
 - Ledger gets informed (Josh) and helps translate with Tica for educational purposes
 - LOA does the marketing
 
-Non-natives guide to the data and groups module. 
-
+Non-natives guide to the data and groups modules. Aka Verification and Governance.
+- 
 
 
 W34L has become a guild of methodology developers and ontological designers which ties in well to the science teams needs. 
-
-
-
-Verification
-Create credit class, then what?
 
 
 https://www.notion.so/regenfoundation/Ledger-Gov-RND-RF-775fd85e0b4a4e38b60eec2607ed6953
