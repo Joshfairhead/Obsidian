@@ -16,7 +16,13 @@
 	- Ledger; Validator Twitter Spaces
 
 **Secondary activities**
-
+- Team calls
+	- Environmental Stewardship calls (RND)
+	- Groups module calls (RND)
+	- Data module calls (RND)
+	- Digital Identity calls (OpenTEAM)
+	- Peer Learning
+	- Others likely to emerge
 
 
 
