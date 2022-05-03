@@ -7,12 +7,12 @@
 
 **Primary activities:**
 - Documentation in the three primary domains. Scope:
-	- Registry Guide (Tica) 
+	- Scope: Registry Guide (Tica) 
 		- Deliverables/Milestones:
 			- Decentralised goverance introduction
 			- Decentralised registry programme overview
 			- Governance of the registry itself
-	- Wallet Onboarding (Gijs)
+	- Scope: Wallet Onboarding / User testing (Gijs)
 		- Deliverables/Milestones:
 			- Wallet setup
 			- Wallet transactions
@@ -22,12 +22,13 @@
 			- Commonwealth community spend proposals
 			- Staking wallet setup
 			- dPOS / Consensus mechanism explanation
-	- Ledger docs (Ryan)
-		- Installing Regen binary
-		- CLI text proposal
-		- CLI community spend proposal
-		- CLI paramater change proposal
-		- CLI software upgrade proposal
+	- Scope: Ledger docs and Tutorials (Ryan)
+		- Deliverables / Milestones
+			- Installing Regen binary
+			- CLI text proposal
+			- CLI community spend proposal
+			- CLI paramater change proposal
+			- CLI software upgrade proposal
 - Social engagement in the three primary domains
 	- Registry; W34L Campfire
 	- Operations; Community Call
@@ -40,7 +41,7 @@ Partnerships:
 - Data module calls (RND)
 - Digital Identity calls (OpenTEAM)
 - Peer Learning / Labs calls (RF)
-- Others likely to emerge
+- Others likely to emerge?
 
 
 
@@ -49,9 +50,7 @@ Partnerships:
 ---
 - Find and articulate the group(s) for sign off
 - Tracking and reporting to the rest of the org
-- Revs recieving output Thursday for Friday sign off
 - What work is involed in regards to external partnerships to be able to create educational resources and documentation (Validator engagement and MGMT as well)?
-- Scope, deliverables and milestones
 - Roles; Gijs focusing on cohort - focused on learning resources; I'm gonna help him with whatever he needs
 ---
 
