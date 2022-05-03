@@ -1,13 +1,17 @@
 # Roles
 
 Primary domains:
-- Registry
-- Operations
-- Ledger
+- Registry; point person Tica
+- Operations; point person Revathi
+- Ledger; point person Ryan
 
 Primary activities:
-- Documentation (in the above three domains)
-- Validator engagemont
+- Documentation in the three domains
+- Engagement in the three domains
+	- Registry; Community Campfire (W34L methodology devs)
+	- Operations; Community Call 
+	- 
+- 
 
 
 
