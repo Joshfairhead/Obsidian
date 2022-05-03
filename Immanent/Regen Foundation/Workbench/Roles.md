@@ -7,7 +7,8 @@
 
 **Primary activities:**
 - Documentation in the three domains
-	- Registry Guide (Tica)
+	- Registry Guide (Tica) 
+		- Scope: 
 	- Wallet Onboarding (Gijs)
 	- Ledger docs (Ryan)
 - Social engagement in the three domains
@@ -16,18 +17,19 @@
 	- Ledger; Validator Twitter Spaces
 
 **Secondary activities**
-- Team calls
-	- Environmental Stewardship calls (RND)
-	- Groups module calls (RND)
-	- Data module calls (RND)
-	- Digital Identity calls (OpenTEAM)
-	- Peer Learning
-	- Others likely to emerge
+Partnerships:
+- Environmental Stewardship calls (RND)
+- Groups module calls (RND)
+- Data module calls (RND)
+- Digital Identity calls (OpenTEAM)
+- Peer Learning / Labs calls (RF)
+- Others likely to emerge
+
+
 
 
 
 ---
-- Documentation
 - Find and articulate the group(s) for sign off
 - Tracking and reporting to the rest of the org
 - Revs recieving output Thursday for Friday sign off
