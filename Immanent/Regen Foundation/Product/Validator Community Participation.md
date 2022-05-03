@@ -13,6 +13,8 @@ Four types of CLI proposal:
 - Software upgrade proposal
 - Community spend proposal
 
+
+### ![[Installing Regen]]
 ### ![[Simple Text Proposal]]
 ### ![[Paramater Change Proposal]]
 ### ![[Software Upgrage Proposal]]
