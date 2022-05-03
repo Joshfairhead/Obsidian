@@ -6,10 +6,17 @@
 - Ledger; point person Ryan (Bi-weekly Network Ops)
 
 **Primary activities:**
-- Documentation in the three domains
+- Documentation in the three domains. Scope:
 	- Registry Guide (Tica) 
-		- Scope: 
+		- Deliverables/Milestones:
+			- Decentralised goverance introduction
+			- Decentralised registry programme overview
+			- Governance of the registry itself
 	- Wallet Onboarding (Gijs)
+		- Deliverables/Milestones:
+			- Wallet setup
+			- Wallet transactions
+			- 
 	- Ledger docs (Ryan)
 - Social engagement in the three domains
 	- Registry; W34L Campfire
