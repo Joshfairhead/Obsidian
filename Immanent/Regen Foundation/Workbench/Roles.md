@@ -45,9 +45,8 @@
 	- Data module calls (RND)
 	- Digital Identity calls (OpenTEAM)
 	- Peer Learning / Labs calls (RF)
-	- Others likely to emerge?
+	- Others likely to emerge? Consortium?
 		-  (e.g. Commons stack / Giveth)
-
 
 
 
