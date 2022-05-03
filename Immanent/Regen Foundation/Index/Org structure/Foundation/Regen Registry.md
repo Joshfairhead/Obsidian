@@ -31,4 +31,4 @@ DISCLAIMER: This is a draft page.
 - [Regen Registry page](https://registry.regen.network)
 - [Regen Registry Programme Guide](https://regen-registry.s3.amazonaws.com/Regen+Registry+Program+Guide.pdf)
 - [Credit class creators - governance proposal](https://github.com/regen-network/governance/tree/main/proposals/2021-12-regen-registry-credit-class-creator)
-- Credit Class Terminology
+- [Credit Class Terminology](https://docs.google.com/document/d/1d0NHg-asQ7TuRFbNF-pMEW0dy_xc8Eei/edit) (from Ned)
