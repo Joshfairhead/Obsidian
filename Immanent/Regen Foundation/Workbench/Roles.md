@@ -6,7 +6,7 @@
 - Ledger; point person Ryan (Bi-weekly Network Ops)
 
 **Primary activities:**
-- Documentation in the three domains. Scope:
+- Documentation in the three primary domains. Scope:
 	- Registry Guide (Tica) 
 		- Deliverables/Milestones:
 			- Decentralised goverance introduction
@@ -23,7 +23,12 @@
 			- Staking wallet setup
 			- dPOS / Consensus mechanism explanation
 	- Ledger docs (Ryan)
-- Social engagement in the three domains
+		- Installing Regen binary
+		- CLI text proposal
+		- CLI community spend proposal
+		- CLI paramater change proposal
+		- CLI software upgrade proposal
+- Social engagement in the three primary domains
 	- Registry; W34L Campfire
 	- Operations; Community Call
 	- Ledger; Validator Twitter Spaces
