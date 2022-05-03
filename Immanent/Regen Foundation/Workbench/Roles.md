@@ -1,4 +1,14 @@
 # Roles
+
+
+
+
+
+
+
+
+
+
 Core assumption: 
 > The Regen ledger intends to serve people and planet by harnessing markets, science and technology. 
 
