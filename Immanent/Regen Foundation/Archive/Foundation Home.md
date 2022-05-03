@@ -17,6 +17,7 @@ Related:
 
 ## Other links
 - [Use cases by Ned](https://docs.google.com/document/d/11-VY5uFvaCGjVvvI_UcPIoo-hGxmWnji-ttYszcvnnA/edit)
+- [Newshour twitter schedule](https://www.notion.so/regenfoundation/686b39b43d304bc8a79146f3a621c515?v=f1b455812df5431b82e893e774bc2c7d)
 
 
 
