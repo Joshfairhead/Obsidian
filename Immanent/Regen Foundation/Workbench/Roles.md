@@ -30,18 +30,19 @@
 			- CLI paramater change proposal
 			- CLI software upgrade proposal
 - Social engagement in the three primary domains
-	- Registry; W34L Campfire
-	- Operations; Community Call
+	- Registry; Methodology Dev Treehouse (W34L)
+	- Operations; Foundation Community Call
 	- Ledger; Validator Twitter Spaces
 
 **Secondary activities**
-Partnerships:
-- Environmental Stewardship calls (RND)
-- Groups module calls (RND)
-- Data module calls (RND)
-- Digital Identity calls (OpenTEAM)
-- Peer Learning / Labs calls (RF)
-- Others likely to emerge?
+- Calls:
+	- Environmental Stewardship calls (RND)
+	- Groups module calls (RND)
+	- Data module calls (RND)
+	- Digital Identity calls (OpenTEAM)
+	- Peer Learning / Labs calls (RF)
+	- EnDAOment ca
+	- Others likely to emerge?
 
 
 
