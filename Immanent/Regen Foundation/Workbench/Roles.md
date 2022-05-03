@@ -1,17 +1,22 @@
 # Roles
 
-Primary domains:
+**Primary domains:**
 - Registry; point person Tica (Bi-weekly Registry Call)
 - Operations; point person Revathi (General Circle)
 - Ledger; point person Ryan (Bi-weekly Network Ops)
 
-Primary activities:
+**Primary activities:**
 - Documentation in the three domains
-- Engagement in the three domains
+	- Registry Guide (Tica)
+	- Wallet Onboarding (Gijs)
+	- Ledger docs (Ryan)
+- Social engagement in the three domains
 	- Registry; W34L Campfire
 	- Operations; Community Call
 	- Ledger; Validator Twitter Spaces
-- 
+
+**Secondary activities**
+
 
 
 
