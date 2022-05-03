@@ -1,6 +1,6 @@
 # Roles
 
-**Primary domains:**
+**Tracking and reporting:**
 - Registry; point person Tica (Bi-weekly Registry Call)
 - Operations; point person Revathi (General Circle)
 - Ledger; point person Ryan (Bi-weekly Network Ops)
@@ -32,16 +32,18 @@
 - Social engagement in the three primary domains
 	- Registry; Methodology Dev Treehouse (W34L)
 	- Operations; Foundation Community Call
-	- Ledger; Validator Twitter Spaces
+	- Ledger; Validator Twitter Spaces 
+	- Ledger; Social coding? (unmanifest)
 
 **Secondary activities**
 - Calls:
 	- Environmental Stewardship calls (RND)
+	- Community dev calls (RND)
 	- Groups module calls (RND)
 	- Data module calls (RND)
 	- Digital Identity calls (OpenTEAM)
 	- Peer Learning / Labs calls (RF)
-	- EnDAOment ca
+	- EnDAOment call (RF)
 	- Others likely to emerge?
 
 
