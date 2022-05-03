@@ -12,6 +12,8 @@
 			- Decentralised goverance introduction
 			- Decentralised registry programme overview
 			- Governance of the registry itself
+				- Groups module
+				- Data module 
 	- Scope: Wallet Onboarding and User testing (sign off: Gijs)
 		- Deliverables/Milestones:
 			- Wallet setup
@@ -36,20 +38,19 @@
 	- Ledger; Social coding? (unmanifest)
 
 **Secondary activities**
-- External partnerships:
+- External partnerships (moving/changing):
 	- Environmental Stewardship calls (RND)
 	- Community dev calls (RND)
 	- Groups module calls (RND)
 	- Data module calls (RND)
 	- Digital Identity calls (OpenTEAM)
 	- Peer Learning / Labs calls (RF)
-	- EnDAOment call (RF)
-	- Others likely to emerge? (e.g. Commons stack / Giveth)
+	- Others likely to emerge?
+		-  (e.g. Commons stack / Giveth)
 
 
 
----
-- What work is involed in regards to external partnerships to be able to create educational resources and documentation (Validator engagement and MGMT as well)?
+
 ---
 
 Core assumption: 
