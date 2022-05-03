@@ -17,7 +17,7 @@ Tags: [Tools]
 - Tags are for classes. Meta-data about what kind of note I'm taking. Someone else suggested:
 	- Tags are meta-information about the content, they tell me what kind of note it is, or what its status is, or what context it belongs to, not what it’s about. `#article`, `#recipe`, `#person`, `#meeting`, etc.
 	- [[pages]] are for entities, or subjects. `[[Digital Physics]]`, `[[New Orleans Shrimp]]`, `[[Ted Nelson]]`, `[[A Clockwork Orange]]`, `[[January Board Meeting]]`, etc.
--  Tags can be confusing when they are not identifying 'has' or 'is'. For instance; `hasPrincipals` vs `isPrincipal` - when these mix you get assorted results. Best to think of them as substances rather than accidents so `isPrincipal`. The note should only be about one thing!
+- Tags can be confusing when they are not identifying 'has' or 'is'. For instance; `hasPrincipals` vs `isPrincipal` - when these mix you get assorted results. Best to think of them as substances rather than accidents so `isPrincipal`. The note should only be about one thing!
 
 ### Taking notes
 [[Take notes to capture insight]]
@@ -56,3 +56,6 @@ My custom setup:
 ### Note Refactor
 ### Daily notes for each day
 [Templater](https://github.com/SilentVoid13/Templater/discussions/240)
+
+### Comments on Publish
+- https://polyrain.dev/blogs/2021/Getting+comments+on+my+Obsidian+Publish+site
