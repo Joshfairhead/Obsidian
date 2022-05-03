@@ -16,7 +16,12 @@
 		- Deliverables/Milestones:
 			- Wallet setup
 			- Wallet transactions
-			- 
+			- Commonwealth sign up
+			- Commonwealth discussion
+			- Commonwealth text proposals
+			- Commonwealth community spend proposals
+			- Staking wallet setup
+			- dPOS / Consensus mechanism explanation
 	- Ledger docs (Ryan)
 - Social engagement in the three domains
 	- Registry; W34L Campfire
