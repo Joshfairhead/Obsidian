@@ -1,7 +1,7 @@
 ---
-Tags: []
+Tags: [principals]
 ---
-Related: [[Trivium]] [[Philosophy]]
+Related: [[Trivium]] [[Philosophy]] [[Education]]
 # Trivium leads
 
 Thinking Correctly: Integrated Trivium and Quadrivium a.k.a. Classical Education  
