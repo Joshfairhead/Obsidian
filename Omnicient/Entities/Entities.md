@@ -20,7 +20,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://smartcommoditygroup.com/
 
 ## Regen potential partners
-- Task Force on Climate-related Financial Disclosures
+- [Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/)
 - https://www.openearth.org/
 - https://www.earthshot.institute/
 - https://passage3d.com/ - Mataverse
