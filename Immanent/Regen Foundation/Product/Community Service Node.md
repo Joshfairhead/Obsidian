@@ -24,4 +24,4 @@ Related:
 --- 
 
 ### Links
-[Terra Genesis](https://terra-genesis.com/our-approach/)
+[Hylo](https://www.hylo.com/groups/regen-foundation/join/ePKCEaSFlM)
