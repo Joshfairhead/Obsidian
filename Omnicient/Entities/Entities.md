@@ -20,6 +20,8 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://smartcommoditygroup.com/
 
 ## Regen potential partners
+- https://www.openearth.org/
+- https://www.earthshot.institute/
 - https://passage3d.com/ - Mataverse
 - https://www.designscience.studio/regenerarising
 
@@ -31,6 +33,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://www.regenera.city/
 
 ## Collaborative Orgs
+- [Terra Genesis](https://terra-genesis.com/our-approach/)
 - [Regeneration pollination](https://www.regenerationpollination.earth/)
 - https://opencollective.com
 - https://comradecoop.com/
