@@ -3,6 +3,9 @@ Tags: []
 ---
 Related: 
 # Community Service Node
+## ToDos
+- [ ] Learning resources feedback mechanism
+- [ ] Proof of Stake explainer
 
 ## General Literacy
 - [[Community On Chain Participation]]
