@@ -24,8 +24,7 @@ Module 4: [[CE2W4]]
 Module 5: [[CE2W5]]
 Module 6: [[CE2W6]]
 Module 7: [[CE2W7]]
-Module 8:
-Module 9:
+Module 8: [[CE2W8]]
 
 
 Notes
