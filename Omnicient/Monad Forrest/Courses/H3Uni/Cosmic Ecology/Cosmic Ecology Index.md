@@ -20,10 +20,10 @@ Module 9: [[An Evolutionary History of Humanity]]
 Module 1: [[CE2W1]]
 Module 2: [[CE2W2]]
 Module 3: [[CE2W3]]
-Module 4:
-Module 5:
-Module 6:
-Module 7: 
+Module 4: [[CE2W4]]
+Module 5: [[CE2W5]]
+Module 6: [[CE2W6]]
+Module 7: [[CE2W7]]
 Module 8:
 Module 9:
 
