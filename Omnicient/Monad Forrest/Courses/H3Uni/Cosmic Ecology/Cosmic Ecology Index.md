@@ -17,9 +17,9 @@ Module 8: [[Cosmogenesis and Intelligent Evolution]]
 Module 9: [[An Evolutionary History of Humanity]]
 
 ## The Cosmos in Humanity
-Module 1:
-Module 2:
-Module 3:
+Module 1: [[CE2W1]]
+Module 2: [[CE2W2]]
+Module 3: [[CE2W3]]
 Module 4:
 Module 5:
 Module 6:
