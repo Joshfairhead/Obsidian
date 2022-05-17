@@ -6,4 +6,5 @@ Related: [[Science Community Participation]]
 - [ ] [[Decentralised Goverance Introduction]]
 - [ ] [[Decentralised registry programme overview]]
 - [ ] [[Governance of the registry itself]]
+- [ ] [[Registry Quickstart]]
 - [ ] Version Control for the programme guide + how to contribute
