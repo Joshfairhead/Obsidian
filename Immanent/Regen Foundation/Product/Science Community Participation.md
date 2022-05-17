@@ -5,7 +5,7 @@ Related:
 # Science Community Participation
 
 ## Registry Participation
-- [[Decentralised goverance introduction]]
+- [[Decentralised Goverance Introduction]]
 - [[Decentralised registry programme overview]]
 - [[Governance of the registry itself]]
 
