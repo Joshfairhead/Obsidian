@@ -7,7 +7,7 @@ Related:
 ## Registry Participation
 - [[Decentralised Goverance Introduction]]
 - [[Decentralised registry programme overview]]
-- [[Governance of the registry itself]]
+- [[Governance of Registry Parameters]]
 
 
 ### Ledger Docs
