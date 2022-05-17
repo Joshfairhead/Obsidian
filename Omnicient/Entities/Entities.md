@@ -25,6 +25,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://www.earthshot.institute/
 - https://passage3d.com/ - Mataverse
 - https://www.designscience.studio/regenerarising
+- https://www.heifer.org/ - Tied in with Linux Foundation
 
 ## Current Regen Partners
 - https://fibershed.org/affiliate-directory/
