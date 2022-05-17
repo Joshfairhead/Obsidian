@@ -6,7 +6,7 @@ Related:
 
 ## Registry Participation
 - [[Decentralised Goverance Introduction]]
-- [[Decentralised registry programme overview]]
+- [[Decentralised Registry Programme Overview]]
 - [[Governance of Registry Parameters]]
 
 
