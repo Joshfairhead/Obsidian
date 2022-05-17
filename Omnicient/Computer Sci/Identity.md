@@ -10,4 +10,4 @@ Related: [[Computer Science]] [[Regulation]] [[Trends]] [[SSI]] [[Digital Identi
 
 ### Protocols
 - [Kiva](https://kivaprotocol.com/)
-- [Bluesky](https://github.com/bluesky-social/adx) Harlan doing a federated thing. Self authenticating data
+- [Bluesky](https://github.com/bluesky-social/adx) Harlan doing a federated thing. Self authenticating data store (ucans).
