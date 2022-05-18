@@ -49,6 +49,11 @@
       "type": "file",
       "title": "People",
       "path": "Omnicient/Entities/PrivateIndividuals/People.md"
+    },
+    {
+      "type": "file",
+      "title": "Community Service Node",
+      "path": "Immanent/Regen Foundation/Product/Community Service Node.md"
     }
   ]
 }
