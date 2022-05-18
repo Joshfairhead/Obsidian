@@ -8,8 +8,8 @@ Related:
 - [x] Proof of Stake explainer
 - [ ] The community calls should be an in-sync equivalent to the Commonwealth forum. I also propose that we make this clear during the next instance of the calls with an invite for community facilitators and prepare for a timeline to transition to community facilitation by the end of this quarter.
 - [ ] [Community Pool Proposal Process](https://docs.google.com/document/d/1ZWVIK9kfzK6LSdTxyETGR3G-1wBHU2PuEmiLftjehGo/edit#heading=h.8xazka33dvw3)
-- [ ] -It would be great to introduce OpenTEAM as an enDAOed community and mention the current events in the pipeline. Who should be looped into that [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6)?  [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7), can you work with [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6) to make that happen for both the community calls and loop in [@Gijs Spoor](https://regenfoundation.slack.com/team/U02CW3QL21M) too please?
--   An off-cycle Twitter Space or enDAOment community highlight to introduce OpenTEAM would be great and look at potential partnering projects would be great. [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7) can you set this up and prioritize this as part of the Twitter Spaces planned please?
+- [ ] It would be great to introduce OpenTEAM as an enDAOed community and mention the current events in the pipeline. Who should be looped into that [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6)?  [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7), can you work with [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6) to make that happen for both the community calls and loop in [@Gijs Spoor](https://regenfoundation.slack.com/team/U02CW3QL21M) too please?
+- [ ] An off-cycle Twitter Space or enDAOment community highlight to introduce OpenTEAM would be great and look at potential partnering projects would be great. [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7) can you set this up and prioritize this as part of the Twitter Spaces planned please?
 
 
 ## General Literacy
