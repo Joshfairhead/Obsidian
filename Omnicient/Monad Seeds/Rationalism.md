@@ -28,6 +28,11 @@ Related: [[Game Theory]] [[Principals]]
 
 LessWrong.com
 SlateStarCodex.com
+Shortfall.blog - David
+- Its how many times you get 
 
 Evidence based management
 https://cebma.org/
+
+FS Blog; [Taleb on Signal to Noise](https://fs.blog/noise-and-signal-nassim-taleb/)
+
