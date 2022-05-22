@@ -28,11 +28,15 @@ Related: [[Game Theory]] [[Principals]]
 
 LessWrong.com
 SlateStarCodex.com
-Shortfall.blog - David
-- Its how many times you get 
+
+Shortfall.blog
+- [Its how many times you get back up](https://shortfall.blog/its-not-how-many-times-they-knock-you-down-that-counts-it-s-how-many-times-you-get-back-up-ba9eb5090ddc)
+- [Cutting Through The Noise Resources](https://cuttingthroughthenoise.net/resources)
+
+FS Blog
+- [Taleb on Signal to Noise](https://fs.blog/noise-and-signal-nassim-taleb/)
 
 Evidence based management
 https://cebma.org/
 
-FS Blog; [Taleb on Signal to Noise](https://fs.blog/noise-and-signal-nassim-taleb/)
 
