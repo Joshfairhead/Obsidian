@@ -6,14 +6,16 @@ Related:
 
 Hey folks, this is an activity report on activities at Regens Unite. There were a number of potentialities present for me that I'd like to share in hopes of being helpful. 
 
-**Small holder lending and valuechain**
+### **Small holder lending and valuechain**
+
 Gabriella from EthicHub is doing a fantastic job on the ground helping smallholders earn a dignifieid living in Mexico. It felt like there was strong parallels with the work Gijs is focused on. They take crypto investment into a microlending product which is backed by commodities (coffee) in local cooperatives. The cooperatives convert the crypto investments into local currencies on behalf of their stakeholders and provide loans to enable dignified living resulting in higher quality products. The default rate is below 2% so the system is viable and vivifying for all participants. 
 
 Jordi from EthicHub is more focused on methodology development for monitoring verification and reporting (if I remember correctly), which is probably more relevant to Rebecca and Austin via the registry initiative. 
 
 The synnergy between EthicHub and Regen feels like a perfect fit; Regen is a level of abstraction higher than EthicHub but would encapsulate their specific instantiation very well. They currently run on Gnosis chain but my sense is that an upgrade is desirable and that they would be interested to get out of Ethereum due to the gas prices and necessary hacks.
 
-**Facillitation**
+### **Facillitation**
+
 There were a lot of facillitators here (70%) but very few really stood out to me as pure talent. 
 
 Among the ones that did I felt Ruby's embodied feminist take was exceptional and participated in her circular blueprint workshop which paid hommage to the rythms of nature and our embedding in them. This workshop was experential and deliberatly said very little, inviting participants to move around the seasons and feel into our relationship with their energies. I personally found it very cathartic recognising myself most at home in the winter and autum while many others preferred the energy of spring and summer. There were some exceptionally strong emotional responses to this workshop as people got out of their heads and into themselves. I can see Ruby as a key player in the wider ecosystem if the community pool discussions go wide, but would in the meantime suggest Nena and Revathi say hello before the connection decays. 
@@ -25,11 +27,12 @@ Due to the above engagement, I sadly did not attend Ted Raus conversation on met
 The Regens Unite organising team felt very dedicated; while IMO they were not particularly talented facillitators they were however commited and mindful of inclusivity though the consensus plenary sessions were for my tases rather prescriptive and felt like a school assembly. However, as far as these go they made use of appropriate tooling like liberating structures other practices found amongst the extinction rebellion "anarchists". When I got into discussion I found Leen had an open, playful and inquiring energy to her and while the school vibes seemed a little sheltered from lifestyle hardships she was certainly engaged and learning about them from the more hardcore on their team like Xavier. Jeremy I already know, he's a capable facillitator (though too corporate for my tasets) and Anne-Marie seemed incredibly dedicated at the expense of herself. All in all the organising team felt like a good foundation or anchor from which more experienced folk like Ted and Ruby could heard cats into more effectual paradigm changes. I'd suggest Austin consider them for enDAOment before the lack of resources tears the team apart (which is a risk regardless), an alternative pathway to people that is perhaps less risky might be to consider the space instead its a bit run down but Citizens Corner hosts refugees, community crypto gatherings and provides a kitchen - a little could go a long way here and this is a pretty degenerated regenerative hub.
 
 
-**Politics, growth, fundraising**
+### **Politics, growth, fundraising**
+
 Andrea from ATLAS shone for me as a potential candidate for our director of development. He has all the biases playing for him but seemed gentle aware and effectual. They have managed to get bills through european parliment and regularly tread between the worlds of crypto and institutions while organising movements. This politician wasn't pushing his agenda either which I appreciated, but it leaves me with a lack of propaganda to pass on. I'd suggest that Revs, Will and Austin have an introductory call. 
 
 
-**Interface Design**
+### **Interface Design**
 A few cats here; Mixel, Hereward and Laurence (again).
 
 Mixel is working on AI in relation to creativity as part of his phd. His views made a lot of sense to me fitting nicely into my own epistemology but its a long complex discussion to go into but to give a flavour here are some key terms that can be put into tetrads: Creation systems = anticipation, associations, drivers and action. Zooming into the action node you get the terms knowlege, strategy management, methdology/process, management of research and development management/science in action... this is condensing a phd of work into keywords and I'm not the author - probably good for Revathi to have a chat with him. I'd also suggest Ned, Rebecca and perhaps Will given the deSci movements happening at RND.
