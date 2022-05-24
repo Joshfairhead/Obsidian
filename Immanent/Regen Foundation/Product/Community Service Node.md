@@ -14,6 +14,10 @@ Related:
 - [ ] enDAOment AMA Twitter Spaces
 - [ ] [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7) Is there a place where you have clarified the scope of the community service center and it's evolution? I'm especially keen to know how it meets/will evolve to meet the needs of the enDAOment candidates and those who need a primer to the Cosmos  and Regen ecosystem in general.I'd see [@Anastasios Grigoriadis](https://regenfoundation.slack.com/team/U03BEF2MQ4U) as one of them.
 - [ ] To me, a Town Hall is the space where validators, representatives for stakeholders from across the Regen ecosystem come together specifically for decision-making, announcements.
+- [ ] Pointed specific questions in an async request also works for the next time FWIW. It also seems to me that a regular sync with Gijs and the enDAOment communities to review their feedback and add that to the list of resources and the roadmap would be great.I'd see enDAOment-related onboarding deliverables, resources and processes being a priority right now. Gijs is planning the curriculum for the enDAOed communities which should reflect the needs better. [@Austin Wade Smith](https://regenfoundation.slack.com/team/U02KNM2N3SL) do you have a link to the updated version for Josh to look at?I'd also note the need for:  
+- [ ] A direct feedback loop with the enDAOment community representatives as well - A process and cadence of check-in and review for instance.
+- [ ] A roadmap where enDAOment representatives and RF team members can directly weigh in and see the progress of the different resources. 
+
 
 
 OpenTeam:
