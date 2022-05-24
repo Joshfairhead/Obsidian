@@ -32,4 +32,9 @@ Triad:
 - 6: Experts
 - 9: Facillitators
 
-Experts inform the projects with the types of data they need to collect
+Experts inform the projects with the types of data they need to collect.
+
+Triad of science:
+- Physical
+- Earth
+- Life
