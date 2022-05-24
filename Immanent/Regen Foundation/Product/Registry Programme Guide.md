@@ -17,7 +17,6 @@ Resource and user discovery sync and level-set
 
 -   Resources: how-to-guides, community center
 -   User discovery + RND product
--   Land steward interface
+	-   Land steward interface
 -   user discovery work flows
-
 -   Registry/Science participation on chain- exploring next steps for setting common objectives and goals (Revs)
