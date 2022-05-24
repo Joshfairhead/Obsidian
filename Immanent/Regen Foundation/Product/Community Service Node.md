@@ -21,6 +21,11 @@ OpenTeam:
  - [ ] It would be great to introduce OpenTEAM as an enDAOed community and mention the current events in the pipeline. Who should be looped into that [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6)?  [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7), can you work with [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6) to make that happen for both the community calls and loop in [@Gijs Spoor](https://regenfoundation.slack.com/team/U02CW3QL21M) too please?
 - [ ] An off-cycle Twitter Space or enDAOment community highlight to introduce OpenTEAM would be great and look at potential partnering projects would be great. [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7) can you set this up and prioritize this as part of the Twitter Spaces planned please?
 
+More:
+
+
+
+
 
 ## General Literacy
 - [[Community On Chain Participation]]
