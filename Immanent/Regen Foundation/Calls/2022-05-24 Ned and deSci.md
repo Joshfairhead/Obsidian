@@ -30,6 +30,6 @@ Examples:
 Triad:
 - 3: Projects
 - 6: Experts
-- Facillitators
+- 9: Facillitators
 
-Experts inform the projects with types of data to collect
+Experts inform the projects with the types of data they need to collect
