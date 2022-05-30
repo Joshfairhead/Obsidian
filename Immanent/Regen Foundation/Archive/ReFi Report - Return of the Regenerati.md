@@ -38,5 +38,4 @@ Finally the Nebakanezer and Millenium Falcon arrived in the form of the OASA vis
 
 The closing circle left me loving and feeling loosely loved by the participants whom I'd shared such a precious experience with. This higher octave signalled the end and new beginnings. ReFI DAO is about to take off. Exactly what form it takes is down to those involved. Who else will take this mission from cause through contingency to continuation? I don't know, but whoever does will be a considered a friend and commrade in much larger endevour than any of us expect. Space ship earth is primed for lift off - now we just need to figure out how the hell to steer!
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8UoXUXipsLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
