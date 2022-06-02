@@ -27,6 +27,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://passage3d.com/ - Mataverse
 - https://www.designscience.studio/regenerarising
 - https://www.heifer.org/ - Tied in with Linux Foundation
+- [Bioform labs](https://www.dropbox.com/s/9ftd0wpjcjyj8jh/feamm-experiment-presentation.mov?dl=0)
 
 ## Current Regen Partners
 - https://fibershed.org/affiliate-directory/
