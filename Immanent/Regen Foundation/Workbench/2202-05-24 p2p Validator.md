@@ -21,6 +21,3 @@ Alexander p2p Vaidator
 - [ ] Introduce to OpenTEAM
 	- Dorn and Greg for digital identity on Regen
 	- Commons Stack for bonding curves
-
----
-
