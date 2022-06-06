@@ -19,6 +19,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://www.ienearth.org/
 - https://hylozoic.gitbook.io/hylo/about/product-journey
 - https://smartcommoditygroup.com/
+- Indian Bioacoustics
 
 ## Regen potential partners
 - [Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/)
