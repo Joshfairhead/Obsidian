@@ -19,7 +19,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://www.ienearth.org/
 - https://hylozoic.gitbook.io/hylo/about/product-journey
 - https://smartcommoditygroup.com/
-- Indian Bioacoustics
+- [Indian Bioacoustics](http://www.projectdhvani.org/)
 
 ## Regen potential partners
 - [Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/)
@@ -112,5 +112,6 @@ Tags: [Organisations, Networks, Index, Refactor]
 
 ## Interesting projects
 - http://feral.earth/
+- http://www.projectdhvani.org/
 - http://www.digitalanimism.club/
 - https://www.sound-matters.com/
