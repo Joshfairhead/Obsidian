@@ -25,7 +25,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 ## Regen potential partners
 - [Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/)
 - https://www.openearth.org/
-- https://www.earthshot.institute/
+- https://www.earthshot.institute/2022-05
 - https://passage3d.com/ - Mataverse
 - https://www.designscience.studio/regenerarising
 - https://www.heifer.org/ - Tied in with Linux Foundation
