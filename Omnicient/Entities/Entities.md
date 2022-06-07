@@ -16,6 +16,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 
 ## Climate
 - Darinas [Coffee project](https://www.notion.so/Coffee-Carbon-Name-TBD-6960861fb01f45d4bc244cd8966dbe33)
+- Darinas preivous gig: https://agrivero.ai/
 - https://www.restore.earth/ (triad of life)
 - https://co2colonialism.org/
 - https://www.ienearth.org/
