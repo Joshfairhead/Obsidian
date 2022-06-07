@@ -118,6 +118,151 @@ Report weekly updates and prioritize tasks iteratively with Revathi and Austin. 
         -   ~~(e.g. Commons stack / Giveth)~~
 
 
+Core assumption:
+
+> The Regen ledger intends to serve people and planet by harnessing markets, science and technology.
+-   Sub assumption A:
+> My role is centered around the harnessing of markets, science and technology.
+-   Sub assumbtion B:
+> Austins/Gijs Role is centered on the ledger remaining in service to people and planet.
+
+## Directives
+**Superordinate directive:**
+-   Serve and guard the communities best interest
+
+**Core directives:**
+-   Setup and optimize consortium and network structure for ecosystem growth.
+-   Communicate key ledger updates to stakeholders via an open and participatory space.
+-   Coordinate and support network governance proposals via commonwealth.
+
+**Sub-directives:**
+-   Conduct events and community calls; outreach, engagement and onboarding of community members from a wide set of spaces (e.g. Commonwealth, Twitter and Discord) so there's eventual consistency in the equitable distribution of representation.
+-   Work with validators, community members, and the Regen Network to cocreate and steward a collection of community sourced songlines (roadmap) for the development of ledger governance upgrades.
+-   Identify new tools to support community growth; determine, design and oversee the implementation of governance tools intended to engage the under represented.
+-   Onboard the community to tools such as the governance and group modules; setup and familiarisation with Regen wallets.
+-   Onboard the OpenTEAM community and help them to setup their Regen related operations.
+-   Contribute content to the blogs and social media reflecting the philosophy of the organization.
+
+## Projects
+**Think Pieces:**
+-   Distributed Governance Implementation Plan
+-   Regenerative Governance and the Creative Commons
+
+**Activities:**
+-   Consortium setup and optimisation
+    -   Bootstrapping governance calls
+    -   Onboarding high capacity stewards to these calls
+    -   Peer learning spaces to build constituent capacity
+
+**Operations:**
+-   Tooling instantiations (Notion -> Hylo)
+-   CadCad/Statebox/Tokenomics Modelling?
+-   Outreach and ecosystem development; e.g. Twitter/Discord Spaces
+
+## Output Retrospective
+-   Convened seven public calls over three months; 15~ participants
+    -   Six governance spaces communicating updates and gathering participation
+    -   One peer learning space on Discord
+-   Second most active poster in Commonwealth
+-   Writiten one qualitive think piece of 2000+ words
+-   Participated in several Twitter spaces
+-   Facilitated several kanban sessions
+-   Delivered one network audit
+-   Lots of Notion data entry
+-   Several Miro boards of sense making
+
+## Decisions:
+-   Software and tooling sign off
+-   Stewardship of the Community/Gov call
+-   Guild and community level partnerships
+-   Organisational/enDAOment partnership sign off
+-   Nomination of European enDAOment candidates in the domains of markets, science and technology
+
+---
+
+## Call | Josh <> Revs | 11/04/2022
+
+### Meeting Notes
+-   Josh:
+    -   We have a community call . What’s that supposed to be?
+    -   The community call is actually a general circle. Seems like a larger blocker.
+    -   Austin is taking it next week to socialize the enDAOment stuff - should become the general circle.
+    -   A lot of work is people interaction - if we are all multi-sigs, one of the parts would be signing off on enDAOment choices to optimize the consortium structure. Slowing doing this through building calls into calls.
+    -   What we have from the community call is a general circle moving up into the enDAOment circle. From there, we are moving into science, registry, etc that grows the consortium.
+    -   Want a well-set up consortium structure and a well-functioning community as possible.
+-   Revs:
+    -   Consortium is non-crypto stakeholders.
+-   Josh:
+    -   Understanding on what I’m doing and how.
+    -   Talking about the community call, what that is, why, the progression.
+    -   The main reason is - Josh needs to set up the ground to do the job. Need to prime the soil before planting the seeds.
+    -   Josh at the market, science and technology side. Austin on the planet, people, etc.
+    -   Harnessing market, science and technology is the split in terms of partnerships, relationships, etc.
+    -   Feel like should be setting up the consortium structure, can’t do that without the agency.
+    
+
+### Original Description and Responsibilities
+The Protocol Governance Coordinator is crucial to the vision and mission of Regen Foundation to successfully and inclusively engage all stakeholders in the governance of the Regen Ledger supporting the [Regen Network](https://www.regen.network/). Inspired by the work of [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang), the goal is to make the technology and processes behind the network governance inclusive and easily accessible.
+-   Work with validators, community members, our sister organization [Regen Network](https://www.regen.network/). And other network participants to steward a network-sourced roadmap for the development of governance upgrades
+-   Coordinate and support network governance proposals
+-   Determine, design and oversee governance tools designed to engage the underrepresented (such as [Fish Vote](https://www.fish.vote/) in Uniswap)
+-   Onboard the community to the governance tools including onboarding them to the use of the governance module, the group modules, setting up and getting familiar with the Regen wallets.
+-   Support community engagement on social media and tools like Discord working closely with the community manager from the sister organization [Regen Network](https://www.regen.network/).
+-   Communicate ledger protocol governance updates to the stakeholders
+-   Contribute content to the blogs and social media reflecting the philosophy of the organization.
+
+## Call: Josh <> Revathi 14/12/21
+## Meeting Agenda
+
+### Potential Synergies
+**Organisational**
+-   Process modelling; using Statebox to model and optimise internal processes with applied category theory.
+-   H3 University & Governance design; a wealth of experience building adaptive organisations through the implementation of anticipatory governance. This work ties into fractal organisation (circles) and intentional futures work to inform operations and strategy (viable systems).
+-   Open Team & 2030. I feel I still need more information on OpenTeams situation but from initial impressions it sounds like a service company I was helping to setup in 2018 might be the solution. The company was getting set up with the FCA (UK's SEC) to tokenise equity, especially for emerging ESG solutions. They take a small slice of the token allocation to nourish themselves for their work investment rather than charge fees (to my current knowledge).
+
+**Educational and community**
+-   Microsolidarity crew work; transforming a continuous flow of individuals into a continuous flow of small groups trough generative spaces. We've been working on a meta-framework based on Christopher Alexander's work on unfolding wholeness and optimising for "life" (aka maximising affordances). It would probably serve as a good blueprint for designing educational programmes and other spaces that allow for "other ways of knowing".
+
+**Ecosystem and outreach**
+-   Hackathons; Odyssey platform/alliances.
+-   Strategic profile picture of myself "beating their drum" on foundation website?
+    -   Sovereign Nature Initiative hackathon runs on the Odyssey platform
+        -   Hackathon deadline on the 20th December.
+
+---
+
+## Call notes
+
+-   Educational programme headed by Gijs is on hold while dealing with the government takeover of Auroville. We can flesh this out while he's away but he's taking the lead on that. Making it loosely coupled and composible sounded like a hurdle. This brought me back to the Microsolidarity work mentioned above as it's been designed in such a manner. Further to this it sounded like it would probably find resonance with Austin due to his educational/architectural background. The group has opted to introduce this work to others by offering experiential readings; I'm happy to foster exploration if anyone wishes to receive the offer.
+-   Governance circle approved. This is a platform for which I've been given mandate to foster; it's exact form is unshaped as of yet and I'll be an initial steward of the circle. This means prefiguring the space and then integrating feedback. Revathi expressed a desire to take a consent based approach; receiving a proposal with initial outlines, plans and other bits of critical information before starting implementation. This should take variety into account and consider what agents want and how they fit.
+-   Ledger Governance Coordination; this is about platform design (should clarify scope). On reflection it seems that the above paragraph should be nested as a subsection of this role? Regardless, what I heard in our discussion was that the foundation needs a community face for the ledger/wallet to support community onboarding and help people understand the nuts and bolts of token delegation, validators and their role in the ecosystem as well as making potential power dynamics explicit and transparent. This is about stewarding the community campfire and helping non-technical members make sense of the world they are entering/involved with.
+    -   Of particular interest is how the community integrates with the Regen Registry and the network health metrics.
+        -   Will is most involved with the treasury (delegation, management, validators). There are two wallets:
+            -   EnDAOment (30m Tokens + staking rewards)
+            -   Validators (5m Tokens + staking rewards)
+    -   A desire to foster relationships between validators and the foundation was also expressed.
+    -   Revathi expressed a desire to eventually transition the Regen Registry to a DAO which would then support the role via a community pool.
+
+---
+
+## Done
+
+-   [x] Schedule regular buddy calls on Mondays
+-   [x] Get more information about the Regen Registry and the network health metrics. Will call?
+
+## Horizon 1
+-   [ ] Connect Josh with Cosmonauts that may want to hack for planet. SNI hackathon deadline on the 20th December.
+-   [ ] Start to articulate the Why, How and What of the
+    [Ledger Gov Circle](https://www.notion.so/Ledger-Gov-Circle-579f67578f1d413ca7b667b824b3bf3b)
+    [Revathis Distributed Governance Implementation Plan.](https://www.notion.so/Revathis-Distributed-Governance-Implementation-Plan-468f58bc74944aee9521be970ed0ed35)
+    -   [ ] Create the general structure of contents such as the milestones, timelines, etc. into the
+
+## Horizon 2
+-   [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone?
+    -   [x] [](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)[https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
+
+
+
 
 
 ## General Literacy
