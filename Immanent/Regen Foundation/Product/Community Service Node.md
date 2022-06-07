@@ -261,7 +261,180 @@ The Protocol Governance Coordinator is crucial to the vision and mission of Rege
 -   [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone?
     -   [x] [](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)[https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
 
+---
+## May 3, 2022
 
+**Tracking and reporting:**
+
+Report weekly updates and prioritize tasks iteratively with Revathi and Austin. The evaluation at the end of the current term of the contract will be based on inputs from Gijs and Rebecca.
+
+-   ~~Registry; point person Tica (Bi-weekly Registry Call)~~
+-   ~~Operations; point person Revathi (General Circle)~~
+-   ~~Ledger; point person Ryan (Bi-weekly Network Ops)~~
+
+**Primary activities:**
+
+1.  Documentation and onboarding in the following primary domains. Scope:
+    1.  ~~Scope: Registry Guide (sign off: Tica)~~
+        
+        -   ~~Deliverables/Milestones:~~
+            -   ~~Decentralised governance introduction~~
+            -   ~~Decentralised registry programme overview~~
+            -   ~~Governance of the registry itself~~
+                -   ~~Groups module~~
+                -   ~~Data module~~
+    2.  Scope: Non-Web3 community onboarding for ledger governance and user testing (Sign off: Gijs, Austin)
+        
+        -   Deliverables:
+            -   Wallet setup
+            -   Wallet transactions
+            -   Commonwealth sign up
+            -   Commonwealth discussion
+            -   Commonwealth text proposals
+            -   Commonwealth community spend proposals
+            -   Staking wallet setup
+            -   dPOS / Consensus mechanism explanation
+            -   Considerations for network and token health
+            -   (Anything else needed on the ledger docs for onboarding)
+            -   Report, recommendations and a plan for documentation as well as product roadmap for the wallet.
+        -   Key results:
+            -   Atleast 10 people including the contact points from existing enDAOment communities and the first cohort have all set up wallets and provided feedback on existing documentation.
+            -   System for providing feedback on the documentation, planning, tracking and prioritizing actions based on the feedback is used by atleast 10 non-Web3 and non-native English users.
+    3.  ~~Scope: Ledger docs and Tutorials (sign off: Ryan)~~
+        
+        -   ~~Deliverables / Milestones~~
+            -   ~~Installing Regen binary~~
+            -   ~~CLI text proposal~~
+            -   ~~CLI community spend proposal~~
+            -   ~~CLI paramater change proposal~~
+            -   ~~CLI software upgrade proposal~~
+2.  Scope: RF community and stakeholder mapping for network growth needs (sign off: Revathi)
+    
+    1.  Activities:
+        1.  Social engagement and external partnerships as needed to determine and map:
+            1.  The modules in the Regen Stack, the working groups, maintainers and non-tech descriptions of how they are used, how a community member can contribute.
+            2.  Eco-credits and methodologies currently being developed, the team contacts and the modules applicable to them
+            3.  Community spaces currently being organized and which stakeholder groups they are best suited for.
+        2.  Running community spaces,
+            -   RF Community Call
+            -   Twitter Spaces for strategic focus areas of enDAOed communities and new stakeholder groups focused by RF.
+        3.  Set up spaces and systems for stakeholder outreach and growth
+            -   Creating CTAs and integrating the funnels including community calls, Twitter spaces, landing pages and website.
+            -   Delegate and hand off the community calls and other spaces to community facilitators
+                -   Dependency: Revathi for the budget and approval of the facilitators.
+            -   Pilot an incentive system for non-Web3 community members to provide inputs directly to build on the ledger.
+    
+    -   Deliverables:
+        -   Stakeholder map of the Regen Network ecosystem with the modules and spaces for engagement.
+        -   Stakeholder management system with documentation of the funnels, segments and channels for engaging with each of them
+    -   Key results:
+        -   At least 20 new non-Web3 community members segmented and on boarded into the community.
+
+**~~Secondary activities~~**
+
+-   ~~External partnerships (moving/changing):~~
+    -   ~~Environmental Stewardship calls (RND)~~
+    -   ~~Community dev calls (RND)~~
+    -   ~~Groups module calls (RND)~~
+    -   ~~Data module calls (RND)~~
+    -   ~~Digital Identity calls (OpenTEAM)~~
+    -   ~~Peer Learning / Labs calls (RF)~~
+    -   ~~Others likely to emerge? Consortium?~~
+        -   ~~(e.g. Commons stack / Giveth)~~
+
+---
+
+## Apr 25, 2022
+
+### Agenda
+-   Data Module.
+-   User testing stories. - Kayla’s Pilaria DAO seems like a great vehicle for user stories.
+-   Gijs is doing Regen Reflections.
+
+### (Updated) Roles and Responsibilities
+-   Articulated below. To be integrated.
+
+### To Dos
+-   @Josh Fairhead to refine the wording below on the role below.
+-   @Revathi Kollegala to work with Tiffany to articulate these into a contract.
+
+## Apr 19, 2022
+-   1.  Within the scope of your role, what values do you want to bring into your work and how do you want to practice it?
+    -   Maximisation of design affordances (akin to Christopher Alexanders conception of Life or Wholeness) enabling general tools for specific cultures
+-   2.  What (according to you) are your roles and responsibilities in the org?
+    3.  Validator Engagement
+        Objectives:
+        1.  Increasing and enabling validator engagement
+        
+        Activities:
+        -   Be the RF’s representative in engaging the validators ( Will, Revathi )
+            -   Peers: Dan.
+        
+        Key metrics:
+        -   Measurement of voter turn out (validators)
+        -   Measurement of proposal throughput
+        -   Onboarding enDAOed communities and partners to the network and aiding community members form and socialise proposals
+    4.  Support community growth; determine, design and oversee the implementation of governance tools intended to engage the under represented.
+        
+        1.  Community driven tech and science roadmap/kanban
+            -   Working with Cory, Ryan and Rebecca on Ledger Governance/Registry design space to build the capacity to communicate and educate the non-tech stakeholders.
+            -   Including the registry program guide and related learning resources
+        
+        -   Enable increased participation in governance by the under represented
+            -   Communicate key ledger updates to stakeholders via open and participatory spaces
+            -   Measurement of Community call participation
+            -   Measurement of Youtube activity and engagement
+            -   Measurement of Discord activity and engagement
+            -   Coordinate and support network governance proposals via commonwealth.
+        -   Identify/design new tools to drive increased participation.
+    5.  Work with Gijs, Austin, Revs, Will to determine the needs (including the spaces and stakeholders) from RF and enDAOment, review and iterate on #1 and #2 periodically.
+        
+    6.  Creating, maintaining and communicating systems to enable and track the work in #1 and #2.
+        
+        1.  Includes artefacts, plans/dashboards, anything else as needed.
+    7.  Participating, reviewing and giving inputs to think pieces.
+        
+    
+    Also identified as responsibilities (and yet to be integrated):
+    
+    -   Coordinating decisions between domains of ledger, marketing, operations, endaoment, registry; e.g. tooling
+    -   Personal partnerships with stewards & guilds.
+    -   Interpersonal partnerships with orgs, ecosystems and consortium members
+-   3.  What are the gaps you see in the organization?
+    
+    -   Generative sequencing
+    -   Domain articulation
+        -   Clear areas of responsibility
+        -   Decision autonomy
+        -   Role specialisation
+        -   Project clarity
+        -   Measurement
+        -   Transparency
+-   4.  What kind of work culture you want to build together?
+    
+    -   The best of what exists: [](https://medium.com/swlh/the-culture-deck-c4126ec63b18)[https://medium.com/swlh/the-culture-deck-c4126ec63b18](https://medium.com/swlh/the-culture-deck-c4126ec63b18)
+    -   The best of what can be: [](https://basecamp.com/shapeup/0.3-chapter-01)[https://basecamp.com/shapeup/0.3-chapter-01](https://basecamp.com/shapeup/0.3-chapter-01)
+    
+    Prompts:
+    4.1. How do we plan our leaves and vacation time offs?
+    -   Notice signalled to the circle we are accountable to
+    4.2. How can we build trust?
+    -   What is trust? Triplicated: Cognitive, Affective, Behavioural
+        -   Cognitive: epistemic transparency
+        -   Affective:
+            -   Authentic relating: [](https://authenticrelating.co/)[https://authenticrelating.co/](https://authenticrelating.co/)
+            -   Circling movement
+            -   Shared language
+        -   Behavioural:
+            -   Congruency: doing what we say,
+            -   Responsibilities with accountability
+    
+    4.3. How can we be mindful of each other's boundaries?
+    -   Be reflective, avoid impulsiveness, don’t impose or prescribe.
+    
+    4.4. How can we practice self accountability?
+    -   Measurement
+-   5.  Are there any questions you would like to discuss?
 
 
 
