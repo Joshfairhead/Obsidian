@@ -454,3 +454,142 @@ Report weekly updates and prioritize tasks iteratively with Revathi and Austin. 
 -   5.  Are there any questions you would like to discuss?
 
 More on Role: https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Regen%20Foundation/Index/Ledger%20Governance.md
+
+
+# Roles Clarification
+### Attendees
+-   Austin
+-   Josh
+-   Revathi
+-   Tiffany
+
+### Goals
+-   What is the workflow for partnerships?
+-   Clarifying where the roles overlap.
+-   Discuss how we collaborate on public-facing things - how is there discussion and the progress or the flow of that.
+-   Continuing the conversation on the email thread on partnerships.
+    -   Reduce the amount of calls to do more work - which calls are necessary and which are optional drop-in sessions. Ability to make those distinctions.
+-   Concrete role playing:
+    -   Josh brings in a partnership - Austin doesn’t agree. How does that work?
+    -   Relationships with different levels of scale - what is the threshold where we need permission to form relationships?
+-   Decision making frameworks.
+    -   What is autonomously responsible for?
+    -   What requires a multi-sig decision?
+    -   Where is consensus needed? What are the decision criteria? What’s individually mandated vs. what’s a group decision?
+    -   Is EnDAOment Austin’s decision to lead? Where should Austin just have had autonomy?
+
+### Next Steps
+-   (April 22nd) Revathi and Tiffany to work with Austin and Josh to evolve their roles within April 22nd.
+    -   (April 12th) Josh and Austin communicate their priorities over the rest of this month to Revathi to prioritize and unblock while the roles evolve.
+        -   Josh
+            **Think Pieces:**
+            -   Distributed Governance Implementation Plan
+            -   Regenerative Governance and the Creative Commons
+            -   Regen Reflections (reflective writing/conversations)
+            
+            **General activities:**
+            -   Consortium setup and optimisation
+            -   Bootstrapping governance calls
+                -   [“Roadmap” sourcing](https://app.mural.co/t/regenfoundation4191/m/regenfoundation4191/1644406344123/acaaacaaef81d50a545be49cee0be5615464ff4a?sender=u70ef79b0a9c38c2d8ebd9946)
+            -   Onboarding high capacity stewards to these calls
+            -   Peer learning spaces to build constituent capacity
+            -   Ecosystem onboarding processes
+                -   [Ecosystem mapping](https://miro.com/app/board/uXjVOEW-RaE=/)
+                - [Governance Circle Proposal](https://www.notion.so/Governance-Circle-Proposal-4f3bed83f84b4698933b5451121cbcbb)
+	            - [General Circle Proposal](https://www.notion.so/General-Circle-Proposal-629a07a017334748bab6ff4ef369c391)
+                - [[Draft] Map: Circles Org Structure.](https://www.notion.so/Draft-Map-Circles-Org-Structure-b39bdfc9efd748c68a9320df38de5d15)  
+                -   Advice processes
+                -   Proposal processes
+                -   Partnership processes
+            -   Community pool partnerships
+                -   Liquidity matching
+            
+            **Operations:**
+            -   Building relationships (at the speed of trust)
+            -   Tooling instantiations
+                -   Initial Notion setup
+                -   Hylo setup and transition
+            -   Outreach and ecosystem development
+                -   Twitter Spaces
+                -   Discord (Social Coding sessions / Hackalongs)
+                -   Hylo (Community space for long form & events)
+            -   Tokenomics and Modelling
+                -   Keeping up to date on Commonwealth engagement
+                -   Amplifying important conversations about the ledger
+                    -   Which IBC currencies can purchase eco-credits?
+                    -   Quadratic matching between pools
+                    -   Desired community features
+                    -   Identity and Data wallets (Dorn)
+                -   Crypto primitives workshop (descriptive)
+                -   Using crypto safely (prescriptive)
+                -   Statebox?
+                -   CadCad?
+            
+            **Uncategorised:**
+            -   EnDAOment crossovers
+            -   1:1 constituent engagements
+            -   Strategic introductions (e.g. LOA <> W34L)
+        -   AWS
+            **enDAOment**
+            -   4 csDAO’s enDAO’D
+            -   ongoing point of contact for all GN, US timezone communities
+            -   Sprint planning
+            -   Outreach media / Prioritization socialization
+                -   community call
+                -   personal meetings
+            -   CRM architecture technicalities
+                -   Minimum viable capacity
+                -   Minimum viable credits
+                -   badges not pipeline
+            -   structuring ongoing collab with CS and OpenTEAM
+            
+            **marketing**
+            -   think piece completed
+            -   Pranav collab for evergreen content weekly
+            -   branding meetings
+            -   cohost twitter space 04/21
+            
+            **Organization**
+            -   registry peer review
+            -   CRM → CMS with registry
+            -   Daily reading of whitepapers from peer orgs
+    -   (April 14th) Josh and Austin will set up a 1<>1 with Revathi, agree on how the current role needs to evolve, dependencies on the other roles.
+    -   (April 15th) Revathi summarizes and sends the role descriptions to Tiffany.
+    -   (April 22nd) Tiffany formalizes them into contracts, role descriptions, the org chart and a transition plan.
+    -   (??) The new roles and a transition plan are communicated to the organization.
+    -   (??) The new contracts and new roles come into effect.
+-   (April 30) A formalized policy, code of conduct and handbook for the organization.
+    -   (??) Tiffany sends out a communications policy and handbook for review by the team, including Revathi, Josh and Austin.
+    -   (??) Tiffany incorporates feedback and edits.
+    -   (??) Revathi proposes these to the Board for approval.
+    -   (??) Thew new policies roll out to the organization.
+
+### Meeting Notes
+-   Austin; Both of us are community managers. Want to tease out the overlaps.
+-   Josh: EnDAOment and governance are hyper-objects and hard to tease apart. Want to stick to the ledger governance process and not the social fabric.
+-   Austin: From the email, these are “your people” and “my people”. What I’m doing at work doesn’t reflect on my work. What I’m doing is more than enDAOment. The notion of “yours” or “mine” doesn’t seem like appropriate phrasing. When introducing Earth Regenerators, I’ll give this attention as you requested it of me. There wasn’t a circle structure but more mine and yours.
+-   Josh: This gets into the nature of roles. What’s mine vs. yours in terms of role-based vs. personal stuff. There are a lot of calls and a lot of people vying for attention - what’s the nature of this call and why am I being requested into this?
+-   Austin: One of the blockers for me I don’t have confidence that I can introduce the community to be enDAOed to Josh for governance.
+-   Josh: What seemed obvious to you didn’t seem obvious to me at all. Getting called into all kinds of stuff but it’s a larger theme of “come, join this meeting”. Liked meeting Joe Brewer but had no clue other than them as a potential enDAOment candidate. There are a lot of those and how are we determining these things? Is there intent in why we are making introductions?
+-   Tiffany: May be helpful if we just developed a shared spreadsheet to have to refer to if you receive an email on introductions so you don’t have to go into the explanations. With a brief note on where these people are. May also help identify the questions - also talk about an issue that needs to be addressed.
+
+### Calendar Invite/Email
+
+Thank you for the honest conversation on our values on governance on Monday. Here's the [meeting notes](https://www.notion.so/Ethics-Values-eec11390901f42ad98c5fb6a9e56a330) for reference.I'm scheduling this during Monday morning EST to dive into this together. Nena will reschedule the conversation on roles and circles to the next week. Among other things, I see the goals as:
+
+-   Resolving the structural blocker on involving CSDAO communities.
+-   Articulating the overlap between enDAOment and governance, your roles and how they support each other.
+
+Please share ahead of time:
+
+-   Previous context, communication and anything you find comfortable sharing on the blocker
+-   Possible approaches to resolution.
+
+You should both be able to edit the meeting invite if that's a good space for this.
+
+Out of respect for this conversation and consideration for each other, please:
+
+-   Keep it [short, simple and concise](https://en.wikipedia.org/wiki/KISS_principle).
+-   Refrain from assumptions or public conversations on the solution without consulting the rest of us.
+
+Of course, feel free to reach out on Slack anytime.
