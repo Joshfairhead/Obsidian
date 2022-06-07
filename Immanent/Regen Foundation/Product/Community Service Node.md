@@ -3,6 +3,28 @@ Tags: []
 ---
 Related: 
 # Community Service Node
+## General Literacy
+- [[Community On Chain Participation]]
+	- [[Wallet Setup]]
+	- [[Wallet Transactions]]
+	- [[Commonwealth Sign up]]
+	- [[Commonwealth Discussion]]
+	- [[Commonwealth Proposals]]
+	- [[Commonwealth Voting]]
+
+## Science Community
+- [[Science Community Participation]]
+
+## Validator Community
+- [[Validator Community Participation]]
+	- [[Installing Regen]]
+
+
+### Links
+- [RF Hylo invite link](https://www.hylo.com/groups/regen-foundation/join/ePKCEaSFlM)
+- [Community Service Centre](https://regenfoundation.notion.site/Community-Service-Centre-23aa345be6da4b4d85821ea3abdd00c6)
+
+
 ## ToDos
 - [ ] Learning resources feedback mechanism
 - [x] Proof of Stake explainer
@@ -18,19 +40,17 @@ Related:
 - [ ] A direct feedback loop with the enDAOment community representatives as well - A process and cadence of check-in and review for instance.
 - [ ] A roadmap where enDAOment representatives and RF team members can directly weigh in and see the progress of the different resources. 
 
-
+--- 
 
 OpenTeam:
 - [ ] It would be lovely to do a feature on OpenTEAM in the next newsletter. [@Emily](https://regenfoundation.slack.com/team/U02J6N6EM6V) can you work with [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6) on the content you would need to add them to the newsletter as well as add  them as an enDAOed community on our website? [@Gijs Spoor](https://regenfoundation.slack.com/team/U02CW3QL21M) [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7)
  - [ ] It would be great to introduce OpenTEAM as an enDAOed community and mention the current events in the pipeline. Who should be looped into that [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6)?  [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7), can you work with [@Sienna Zuco](https://regenfoundation.slack.com/team/U02BGBCFXT6) to make that happen for both the community calls and loop in [@Gijs Spoor](https://regenfoundation.slack.com/team/U02CW3QL21M) too please?
 - [ ] An off-cycle Twitter Space or enDAOment community highlight to introduce OpenTEAM would be great and look at potential partnering projects would be great. [@Josh Fairhead](https://regenfoundation.slack.com/team/U02QPQF8RR7) can you set this up and prioritize this as part of the Twitter Spaces planned please?
 
-More:
 
 ---
 
 # Gijs:
-
 Terms of Reference:
 Revised contract date: June 1- July 31pre contract (3wk):
 • csDAO cohort#1 onboarding: primary contact clear. process clear
@@ -55,7 +75,6 @@ Focus on enDAOment related initiatives rather than binaries of land / tech or
 enDAOment contract
 
 # Josh: ?
-
 [Josh Fairhead job desc - AWS](https://docs.google.com/document/d/1VTZ2yABUSylZMAKV5TnK-JnQI2xB4lZPpZighfToFNQ/edit?usp=drivesdk)
 
 **Tracking and reporting:**
@@ -269,16 +288,13 @@ The Protocol Governance Coordinator is crucial to the vision and mission of Rege
 **Tracking and reporting:**
 
 Report weekly updates and prioritize tasks iteratively with Revathi and Austin. The evaluation at the end of the current term of the contract will be based on inputs from Gijs and Rebecca.
-
 -   ~~Registry; point person Tica (Bi-weekly Registry Call)~~
 -   ~~Operations; point person Revathi (General Circle)~~
 -   ~~Ledger; point person Ryan (Bi-weekly Network Ops)~~
 
 **Primary activities:**
-
 1.  Documentation and onboarding in the following primary domains. Scope:
     1.  ~~Scope: Registry Guide (sign off: Tica)~~
-        
         -   ~~Deliverables/Milestones:~~
             -   ~~Decentralised governance introduction~~
             -   ~~Decentralised registry programme overview~~
@@ -433,33 +449,8 @@ Report weekly updates and prioritize tasks iteratively with Revathi and Austin. 
     
     4.3. How can we be mindful of each other's boundaries?
     -   Be reflective, avoid impulsiveness, don’t impose or prescribe.
-    
     4.4. How can we practice self accountability?
     -   Measurement
 -   5.  Are there any questions you would like to discuss?
 
-
-
-## General Literacy
-- [[Community On Chain Participation]]
-	- [[Wallet Setup]]
-	- [[Wallet Transactions]]
-	- [[Commonwealth Sign up]]
-	- [[Commonwealth Discussion]]
-	- [[Commonwealth Proposals]]
-	- [[Commonwealth Voting]]
-
-## Science Community
-- [[Science Community Participation]]
-
-## Validator Community
-- [[Validator Community Participation]]
-	- [[Installing Regen]]
-
-
---- 
-
-### Links
-- [RF Hylo invite link](https://www.hylo.com/groups/regen-foundation/join/ePKCEaSFlM)
-- [Community Service Centre](https://regenfoundation.notion.site/Community-Service-Centre-23aa345be6da4b4d85821ea3abdd00c6)
-
+More on Role: https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Regen%20Foundation/Index/Ledger%20Governance.md
