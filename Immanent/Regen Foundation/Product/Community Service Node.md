@@ -59,22 +59,17 @@ enDAOment contract
 **Tracking and reporting:**
 
 Report weekly updates and prioritize tasks iteratively with Revathi and Austin. The evaluation at the end of the current term of the contract will be based on inputs from Gijs and Rebecca.
-
 -   ~~Registry; point person Tica (Bi-weekly Registry Call)~~
 -   ~~Operations; point person Revathi (General Circle)~~
 -   ~~Ledger; point person Ryan (Bi-weekly Network Ops)~~
 
 **Primary activities:**
-
 1.  Documentation and onboarding in the following primary domains. Scope:
-    
     1.  Scope: Registry Guide (sign off: Tica)
-        
         -   Deliverables/Milestones:
             -   Decentralised registry governance introduction
             -   Decentralised registry programme overview
     2.  Scope: Non-Web3 community onboarding for ledger governance and user testing (Sign off: Austin)
-        
         -   Deliverables:
             -   Wallet setup
             -   Wallet transactions
@@ -92,7 +87,6 @@ Report weekly updates and prioritize tasks iteratively with Revathi and Austin. 
             -   Atleast 10 people including the contact points from existing enDAOment communities and the first cohort have all set up wallets and provided feedback on existing documentation.
             -   System for providing feedback on the documentation, planning, tracking and prioritizing actions based on the feedback is used by at least 10 non-Web3 and non-native English users.
 2.  Scope: RF community and stakeholder mapping for network growth needs (sign off: Revathi)
-    
     1.  Activities:
         1.  Social engagement and external partnerships as needed to determine and map:
             1.  The modules in the Regen Stack, the working groups, maintainers and non-tech descriptions of how they are used, how a community member can contribute.
@@ -106,7 +100,6 @@ Report weekly updates and prioritize tasks iteratively with Revathi and Austin. 
             -   Delegate and hand off the community calls and other spaces to community facilitators
                 -   Dependency: Revathi for the budget and approval of the facilitators.
             -   Pilot an incentive system for non-Web3 community members to provide inputs directly to build on the ledger.
-    
     -   Deliverables:
         -   Stakeholder map of the Regen Network ecosystem with the modules and spaces for engagement.
         -   Stakeholder management system with documentation of the funnels, segments and channels for engaging with each of them
@@ -114,7 +107,6 @@ Report weekly updates and prioritize tasks iteratively with Revathi and Austin. 
         -   At least 20 new non-Web3 community members segmented and on boarded into the community.
 
 **~~Secondary activities~~**
-
 -   ~~External partnerships (moving/changing):~~
     -   ~~Environmental Stewardship calls (RND)~~
     -   ~~Community dev calls (RND)~~
@@ -124,6 +116,7 @@ Report weekly updates and prioritize tasks iteratively with Revathi and Austin. 
     -   ~~Peer Learning / Labs calls (RF)~~
     -   ~~Others likely to emerge? Consortium?~~
         -   ~~(e.g. Commons stack / Giveth)~~
+
 
 
 
