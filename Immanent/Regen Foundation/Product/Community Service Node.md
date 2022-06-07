@@ -574,22 +574,16 @@ More on Role: https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Regen%
 -   Tiffany: May be helpful if we just developed a shared spreadsheet to have to refer to if you receive an email on introductions so you don’t have to go into the explanations. With a brief note on where these people are. May also help identify the questions - also talk about an issue that needs to be addressed.
 
 ### Calendar Invite/Email
-
 Thank you for the honest conversation on our values on governance on Monday. Here's the [meeting notes](https://www.notion.so/Ethics-Values-eec11390901f42ad98c5fb6a9e56a330) for reference.I'm scheduling this during Monday morning EST to dive into this together. Nena will reschedule the conversation on roles and circles to the next week. Among other things, I see the goals as:
-
 -   Resolving the structural blocker on involving CSDAO communities.
 -   Articulating the overlap between enDAOment and governance, your roles and how they support each other.
 
 Please share ahead of time:
-
 -   Previous context, communication and anything you find comfortable sharing on the blocker
 -   Possible approaches to resolution.
 
 You should both be able to edit the meeting invite if that's a good space for this.
-
 Out of respect for this conversation and consideration for each other, please:
-
 -   Keep it [short, simple and concise](https://en.wikipedia.org/wiki/KISS_principle).
 -   Refrain from assumptions or public conversations on the solution without consulting the rest of us.
-
 Of course, feel free to reach out on Slack anytime.
