@@ -27,6 +27,8 @@ OpenTeam:
 
 More:
 
+---
+
 # Gijs:
 
 Terms of Reference:
