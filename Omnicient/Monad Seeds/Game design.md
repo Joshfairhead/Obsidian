@@ -1,0 +1,9 @@
+---
+Tags: []
+---
+Related: [[Games]] [[Design]]
+# Game design
+
+Pekkos links:
+
+There are many interesting directions in tabletop roleplaying games... often though, they are in a raw form, in a need of some translation: One example I would generally recommend is Microscope: [https://www.lamemage.com/microscope/](https://www.lamemage.com/microscope/ "https://www.lamemage.com/microscope/") ...which is a case of social generation, creating "fractal histories" by its rules. There are other games with a similar themes: Downfall ([https://lessthanthreegames.com/downfall.html](https://lessthanthreegames.com/downfall.html "https://lessthanthreegames.com/downfall.html")) etc. From a very different direction, there's the hacking culture of one page rpgs, such as Lazers & Feelings ([http://onesevendesign.com/lasers_and_feelings_rpg.pdf](http://onesevendesign.com/lasers_and_feelings_rpg.pdf "http://onesevendesign.com/lasers_and_feelings_rpg.pdf")), Dr Magnethands ([https://i.4pcdn.org/tg/1402961410083.pdf](https://i.4pcdn.org/tg/1402961410083.pdf "https://i.4pcdn.org/tg/1402961410083.pdf")) or Everyone is John ([https://i.imgur.com/Yvduwln.jpeg](https://i.imgur.com/Yvduwln.jpeg "https://i.imgur.com/Yvduwln.jpeg")), and endless others. Plus many, many others. For example, Wanderhome has interesting mechanics to generate places from "archetypes" (such as this one for towers): [https://img.itch.zone/aW1hZ2UvOTY0MTA3LzU1MDI1MDUucG5n/original/OZ5W6k.png](https://img.itch.zone/aW1hZ2UvOTY0MTA3LzU1MDI1MDUucG5n/original/OZ5W6k.png "https://img.itch.zone/aW1hZ2UvOTY0MTA3LzU1MDI1MDUucG5n/original/OZ5W6k.png") This approach is quite fertile for generating many possibilities, but still forming a "family" between them. For me, this area is much more about the approaches to rules, behaviors and situations, than necessarily about the specific topics or specific games: How they "organize" people, their expressions, thoughts and actions...

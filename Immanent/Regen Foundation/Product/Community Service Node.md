@@ -586,4 +586,4 @@ You should both be able to edit the meeting invite if that's a good space for th
 Out of respect for this conversation and consideration for each other, please:
 -   Keep it [short, simple and concise](https://en.wikipedia.org/wiki/KISS_principle).
 -   Refrain from assumptions or public conversations on the solution without consulting the rest of us.
-Of course, feel free to reach out on Slack anytime.
+- [ ] Of course, feel free to reach out on Slack anytime.
