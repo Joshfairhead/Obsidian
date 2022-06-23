@@ -38,3 +38,4 @@ find . | grep "\.git/" | xargs rm -rf
 
 ### Resources
 - [Git cheat sheet](https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
+	- ![](assets/Gitcheatsheet.webp)
