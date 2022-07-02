@@ -1,3 +1,8 @@
+### [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|⬅]] <% tp.file.title %> [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|➡]]
+
+# <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
+
+
 <% tp.user.scheduleTemplate(tp) %>
 <%* if(moment(tp.file.title).isSame(new Date(), "day")) tp.user.command("Day Planner: Link today's Day Planner to the current note") %>
 
