@@ -18,6 +18,6 @@
 
 
 **Rope**
-- Thursday 19-22nd: Regens Unite 
-- Sunday 22nd: Flight to Lisbon
-- Wednesday 1-15th June: Darren and Marretta wedding retreat in Bar
+- Mon 4th July: House viewing
+- - Mon 4th July: House viewing
+- Wed 13th July: Kathy Call
