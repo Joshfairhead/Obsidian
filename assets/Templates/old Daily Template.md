@@ -1,4 +1,4 @@
-- [ ]--
+---
 Tags: [daily]
 ---
 Related: [[Buffer]]
@@ -20,3 +20,6 @@ Related: [[Buffer]]
 
 
 **Rope**
+
+
+assets/Templates/TemplaterJS/Templates/DailyTemplate
