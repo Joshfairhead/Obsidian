@@ -18,7 +18,7 @@
 
 
 **Rope**
-- Mon 4th July: House viewing 
+- Mon 4th July: House viewing (13:30-16:30pm): Rua Luz Soriano, 8 SOBRE LOJA
 - Mon 4th July: House viewing 6pm: Avenida Ilha da Madeira 46 (Restelo). Contact: +351 963834950
 - Tues 5th July: Exit Interview
 - Sunday 10th July: Checkout
