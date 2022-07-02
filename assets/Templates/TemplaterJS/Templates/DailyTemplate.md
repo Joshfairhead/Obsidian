@@ -19,5 +19,6 @@
 
 **Rope**
 - Mon 4th July: House viewing
-- - Mon 4th July: House viewing
+- Mon 4th July: House viewing
+- Tues 5th July: Exit Interview
 - Wed 13th July: Kathy Call
