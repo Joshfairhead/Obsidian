@@ -279,7 +279,7 @@ The Protocol Governance Coordinator is crucial to the vision and mission of Rege
     -   [ ] Create the general structure of contents such as the milestones, timelines, etc. into the
 
 ## Horizon 2
--   [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone?
+- [x] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone? ✅ 2022-07-09
     -   [x] [](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)[https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
 
 ---
@@ -586,4 +586,4 @@ You should both be able to edit the meeting invite if that's a good space for th
 Out of respect for this conversation and consideration for each other, please:
 -   Keep it [short, simple and concise](https://en.wikipedia.org/wiki/KISS_principle).
 -   Refrain from assumptions or public conversations on the solution without consulting the rest of us.
-- [ ] Of course, feel free to reach out on Slack anytime.
+- [x] Of course, feel free to reach out on Slack anytime. ✅ 2022-07-09
