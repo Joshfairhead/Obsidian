@@ -52,20 +52,20 @@ Related:
 	- [ ] Create the general structure of contents such as the milestones, timelines, etc. 
 
 ### Horizon 2
-- [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
+- [x] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
 	- [x]   Cory - Engineering Team, RND
-	- [ ]   Gregory - CEO, RND
-	- [ ]   Sara Johnstone - COO, RND
-	- [ ]   Ryan - Developer Advocate(?), RND.
-	- [ ]   Dan (Daniel Pittman) - Community Manager, RND
-- [ ] Look through Endaoment section in preparation for roles and horizon mapping
-- [ ] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from Cory?
+	- [x]   Gregory - CEO, RND
+	- [x]   Sara Johnstone - COO, RND
+	- [x]   Ryan - Developer Advocate(?), RND.
+	- [x]   Dan (Daniel Pittman) - Community Manager, RND
+- [x] Look through Endaoment section in preparation for roles and horizon mapping
+- [x] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from Cory?
 	- [How to choose a blockchain](https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4)
 	- Kepler Wallet install
 	- [Cosmos CLI](https://docs.cosmos.network/v0.44/modules/authz/05_client.html)
 
 ### Horizon 3
-- [ ] Start curating resources around gov circle (for the notion page?). See: [[Governance]]
+- [x] Start curating resources around gov circle (for the notion page?). See: [[Governance]]
 
 ---
 
