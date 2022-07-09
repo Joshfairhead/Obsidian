@@ -17,16 +17,16 @@ There was also mention of formally creating a general circle according to the no
 
 ### Actions
 List duplicated to [[Foundation Home]]
-- [ ] Start curating resources around gov circle (for the notion page?)
-- [ ] Send Revathi a resource on accountability and responsibility
-- [ ] Send Revathi the links Will sent me with commentary 
-- [ ] Look through Endaoment section in preparation for roles and horizon mapping
-- [ ] Create a workshop invitation document containing the following and find an approrpriate time between stakeholders (via slack)
+- [x] Start curating resources around gov circle (for the notion page?)
+- [x] Send Revathi a resource on accountability and responsibility
+- [x] Send Revathi the links Will sent me with commentary 
+- [x] Look through Endaoment section in preparation for roles and horizon mapping
+- [x] Create a workshop invitation document containing the following and find an approrpriate time between stakeholders (via slack)
 	- What people should read beforehand
 	- Description of the framework
 	- What we want to do
 	- Length of time, follow up workshops etc.
-- [ ] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
+- [x] Work with Revathi and Will to schedule introductory calls with stakeholders from RND to learn their perspectives of the network:
 	-   Dan (Daniel Pittman) - Community Manager, RND
 	-   Gregory - CEO, RND
 	-   Sara Johnstone - COO, RND

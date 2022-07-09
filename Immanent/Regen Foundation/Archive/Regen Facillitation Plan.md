@@ -51,7 +51,7 @@ Scoping statement:
 	- Network is the contextual/demographic environment
 	- Domain is the transactional environment
 	- Role is the creative environment
-- [ ] Revised mission and aim
+- [x] Revised mission and aim
 
 
 
