@@ -33,3 +33,4 @@ Related:
 - [ ] [Evolution of Group Decision Support](assets/TheEvolutionOfGroupDecisionSupportSystems2006.pdf)
 - [ ] [Capitalism As A Trancentendental Time Machine](CapitalismAsATrancentendentalTimeMachine_Greenspan_2000.pdf)
 - [ ] [Shape up](https://basecamp.com/shapeup/1.2-chapter-03)
+- [ ] [Learn VQGAN +Clip](https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit)
