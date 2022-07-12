@@ -12,3 +12,8 @@ Related: [[Buffe]]
 
 **Insights**
 
+**Rope**
+```dataview
+TASK FROM "Immanent/DailyNotes" 
+WHERE !completed
+```
