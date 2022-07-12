@@ -1,7 +1,7 @@
 ---
 Tags: [kanban]
 ---
-Related: [[Buffer]]
+Related: [[Buffe]]
 # Obsidian
 
 ## Why?

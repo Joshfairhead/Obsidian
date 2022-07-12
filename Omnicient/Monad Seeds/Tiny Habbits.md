@@ -1,7 +1,7 @@
 ---
 Tags: [Psychology, Frameworks]
 ---
-Related: [[Buffer]] [[Fogg Behavior model]] [[Matching Behaviors & Goals Exercise]] [[Mastering Distraction]] [[Productivity]]
+Related: [[Buffe]] [[Fogg Behavior model]] [[Matching Behaviors & Goals Exercise]] [[Mastering Distraction]] [[Productivity]]
 
 # Tiny Habbits
 

@@ -1,7 +1,7 @@
 ---
 Tags: [kanban]
 ---
-Related: [[Buffer]]
+Related: [[Buffe]]
 # Capitalisms Trancendental Timemachine
 
 [link](http://wrap.warwick.ac.uk/4520/1/WRAP_THESIS_Greenspan_2000.pdf)

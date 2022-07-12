@@ -1,7 +1,7 @@
 ---
 Tags: [daily]
 ---
-Related: [[Buffer]]
+Related: [[Buffe]]
 # {{date: dddd Do MMM (YYYY)}}
 
 ## Rituals

@@ -1,7 +1,7 @@
 ---
 Tags: [kanban]
 ---
-Related: [[Buffer]] [[Keyboards]]
+Related: [[Buffe]] [[Keyboards]]
 # Learn Dvorak
 
 ## Why?
