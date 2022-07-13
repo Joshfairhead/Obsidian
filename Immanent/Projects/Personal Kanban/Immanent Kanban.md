@@ -16,7 +16,7 @@ Related:
 - [ ] [Learn Javascript](https://learnjavascript.online/?utm_source=learnprogramming.online)
 - [ ] [[Logic]] by Prof. Jovons
 - [ ] [[Learn the Trivium]]
-- [ ] [[Immanent/Projects/Personal Kanban/Notes/Obsidian]]
+- [ ] [[Immanent/Projects/Personal Kanban/Kanban Cards/Obsidian]]
 
 
 ## Future
