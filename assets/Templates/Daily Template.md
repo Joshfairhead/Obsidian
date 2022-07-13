@@ -6,14 +6,11 @@ Related: [[Buffer]]
 
 ## Rituals
 
-**Content** 
+--- 
 
-**Context**
-
-**Insights**
-
-**Rope**
+## Task Backlog
 ```dataview
 TASK FROM "Immanent/DailyNotes" 
+SORT date ASC
 WHERE !completed
 ```
