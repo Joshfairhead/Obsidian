@@ -14,10 +14,10 @@ Alexander p2p Vaidator
 - Coordinating with Cory about Data indexing and APIs
 
 ---
-- [ ] Introduce to Aaron and Cambium to find out more about data module
+- Introduce to Aaron and Cambium to find out more about data module
 	- Gijs for user stories
 	- Cory for data
 	- Sam for general overview
-- [ ] Introduce to OpenTEAM
+- Introduce to OpenTEAM
 	- Dorn and Greg for digital identity on Regen
 	- Commons Stack for bonding curves
