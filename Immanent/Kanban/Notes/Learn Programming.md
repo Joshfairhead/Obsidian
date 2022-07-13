@@ -1,7 +1,7 @@
 ---
 Tags: [kanban]
 ---
-Related: [[Buffe]]
+Related: [[Buffer]]
 # Learn Programming
 
 ## Why?

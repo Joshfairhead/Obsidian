@@ -1,7 +1,7 @@
 ---
 Tags: [Notes]
 ---
-Related: [[Buffe]]
+Related: [[Buffer]]
 # Debugging Obsidian Version Control
 
 Powerbars:
