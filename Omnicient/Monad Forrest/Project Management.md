@@ -47,7 +47,7 @@ Related: [[Omnicient/Monad Saplings/Design]] [[Social Archetecture]] [[Culture]]
 [[Regulation]]
 
 #### Tooling
-[[Immanent/Projects/Personal Kanban/Kanban Cards/Obsidian]]
+[[Immanent/Projects/Domains/Personal/Personal Kanban/Kanban Cards/Obsidian]]
 [[Roam]]
 [[Dvorak]]
 [[Tools]]?
