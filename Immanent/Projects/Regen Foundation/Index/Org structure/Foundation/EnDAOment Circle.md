@@ -19,9 +19,9 @@ Roundup: Bi-weekly community call
 ### Who 
 | Member | Role |
 |---|---|
-| Austin | Lead link for [[EnDAOment circle]] - Global North
-| Gijs | Lead link for [[EnDAOment circle]] - Global South|
-| Revathi | Backlink for [[General circle]] |
+| Austin | Lead link for [[EnDAOment Circle]] - Global North
+| Gijs | Lead link for [[EnDAOment Circle]] - Global South|
+| Revathi | Backlink for [[General Circle]] |
 | Josh | Backlink for [[Governance Circle]] |
 
 ### Links:

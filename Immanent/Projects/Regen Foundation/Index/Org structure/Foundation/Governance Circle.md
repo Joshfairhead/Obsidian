@@ -34,9 +34,9 @@ DISCLAIMER: This is a draft page.
 ### Who
 | Members | Role |
 |---|---|
-| Josh | Backlink for [[governance circle]] |
-| Revathi | Backlink for the [[general circle]] |
-| Austin / Gijs | Backlink for [[enDAOment circle]] |
+| Josh | Backlink for [[Governance Circle]] |
+| Revathi | Backlink for the [[General Circle]] |
+| Austin / Gijs | Backlink for [[EnDAOment Circle]] |
 | Emily | Backlink for marketing |
 
 

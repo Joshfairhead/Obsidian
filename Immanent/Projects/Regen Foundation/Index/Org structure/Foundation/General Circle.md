@@ -39,8 +39,8 @@ Also see [[General Circle Draft]]
 ### Who 
 | Member | Role |
 |---|---|
-| Revathi | Lead link to [[mission circle]] |
-| Josh | Backlink to [[governance circle]] |
-| Austin | Backlink to [[enDAOment circle]] - Global North |
-| Gijs | Backlink to [[enDAOment circle]] - Global south |
+| Revathi | Lead link to [[Mission Circle]] |
+| Josh | Backlink to [[Governance Circle]] |
+| Austin | Backlink to [[EnDAOment Circle]] - Global North |
+| Gijs | Backlink to [[EnDAOment Circle]] - Global south |
 | George | Operations Assistant |
