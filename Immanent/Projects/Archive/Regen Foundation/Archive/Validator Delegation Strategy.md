@@ -1,5 +1,5 @@
 # Validator Delegation Strategy
-- [ ] Check for consent to name validators in the user stories before posting.
+- [x] Check for consent to name validators in the user stories before posting.
 
 ## Post
 Hey folks, great conversation in this thread! Just to report that last week the foundation gathered for an in person retreat and this conversation was alive there. 
