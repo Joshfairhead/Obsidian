@@ -1,0 +1,1 @@
+Here's the link for joining our Discord server: https://discord.gg/jvCTu6cc the event will be in our Community Hall voice channel at 9:00 am EST / 2:00pm CET. This is the invite info: https://twitter.com/commonsstack/status/1503446055047868433
