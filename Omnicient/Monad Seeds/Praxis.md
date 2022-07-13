@@ -1,7 +1,7 @@
 ---
 Tags: [Principals, Patterns, Domains, Heuristics]
 ---
-Related: [[Immanent/Kanban/Notes/Obsidian]] [[Roam]] 
+Related: [[Immanent/Projects/Personal Kanban/Notes/Obsidian]] [[Roam]] 
 
 # Praxis
 
@@ -10,5 +10,5 @@ https://wenger-trayner.com/ - From [[H3uni]]
 [Transformative theory of change](https://www.tipconsortium.net/publication/motion-handbook-developing-a-transformative-theory-of-change/) - systems approach
 
 #### Tools
-[[Immanent/Kanban/Notes/Obsidian]]
+[[Immanent/Projects/Personal Kanban/Notes/Obsidian]]
 [[Roam]]
