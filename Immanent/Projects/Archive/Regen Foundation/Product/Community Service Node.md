@@ -272,11 +272,11 @@ The Protocol Governance Coordinator is crucial to the vision and mission of Rege
 -   [x] Get more information about the Regen Registry and the network health metrics. Will call?
 
 ## Horizon 1
--   [ ] Connect Josh with Cosmonauts that may want to hack for planet. SNI hackathon deadline on the 20th December.
-- [ ]   [ ] Start to articulate the Why, How and What of the
+- Connect Josh with Cosmonauts that may want to hack for planet. SNI hackathon deadline on the 20th December.
+- Start to articulate the Why, How and What of the
     [Ledger Gov Circle](https://www.notion.so/Ledger-Gov-Circle-579f67578f1d413ca7b667b824b3bf3b)
     [Revathis Distributed Governance Implementation Plan.](https://www.notion.so/Revathis-Distributed-Governance-Implementation-Plan-468f58bc74944aee9521be970ed0ed35)
-    -   [ ] Create the general structure of contents such as the milestones, timelines, etc. into the
+    - Create the general structure of contents such as the milestones, timelines, etc. into the
 
 ## Horizon 2
 - [x] Get up to speed on the protocols I'll be helping people with; wallets, tokens, staking & validator stuff. Go through the processes. Get a tour from someone? ✅ 2022-07-09

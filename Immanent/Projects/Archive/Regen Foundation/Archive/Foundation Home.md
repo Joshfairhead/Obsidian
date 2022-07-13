@@ -48,7 +48,7 @@ Related:
 
 
 ### Horizon 1
-- [ ] [Distributed Governance Implementation Plan.](https://www.notion.so/Distributed-Governance-Implementation-Plan-468f58bc74944aee9521be970ed0ed35) [[Org Chart draft v1]] [[Org Chart v2]]
+- [x] [Distributed Governance Implementation Plan.](https://www.notion.so/Distributed-Governance-Implementation-Plan-468f58bc74944aee9521be970ed0ed35) [[Org Chart draft v1]] [[Org Chart v2]]
 	- [ ] Create the general structure of contents such as the milestones, timelines, etc. 
 
 ### Horizon 2

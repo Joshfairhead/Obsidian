@@ -47,7 +47,7 @@ A strategic roadmap of our terrain and a shared perception of how it may unfold 
 ---
 
 Scoping statement:
-- [ ] Auditing existing structures
+- [x] Auditing existing structures
 	- Network is the contextual/demographic environment
 	- Domain is the transactional environment
 	- Role is the creative environment
