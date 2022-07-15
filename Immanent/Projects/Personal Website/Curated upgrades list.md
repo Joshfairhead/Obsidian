@@ -10,15 +10,16 @@ Related:
 - [Oakley Enduro](https://www.oakley.com/en-us/product/FOS900737?variant=193517236120)
 	
 ## Transportation
-- [x] YOW Surfskate
-- [Smoothstar 34″ Filipe Toledo #77 Surfskate](https://www.smoothstar.com/product/34%E2%80%B3-filipe-toledo-77/)
-- [Smoothstar 35.5" Manta Ray Surfskate](https://www.smoothstar.com/product/35-5%e2%80%b3-smoothstar-manta-ray/)
-- Waterborne Surfskate
-- Swelltech Surfskate
-- Carver Surfskate
+Surfskates:
+	- [x] YOW Surfskate
+	- [Smoothstar 34″ Filipe Toledo #77 Surfskate](https://www.smoothstar.com/product/34%E2%80%B3-filipe-toledo-77/)
+	- [Smoothstar 35.5" Manta Ray Surfskate](https://www.smoothstar.com/product/35-5%e2%80%b3-smoothstar-manta-ray/)
+	- Waterborne Surfskate
+	- Swelltech Surfskate
+	- Carver Surfskate
 - [JMK Free skates](https://twenty4action.com/shop/customconfig/)
 - [JMK Free skates bag](https://twenty4action.com/shop/jmkride-shoulder-bag/)
-- One Wheel 
+- [One Wheel GT](onewheel.com) ($2200)
 
 ## Liquids
 #### Hot
