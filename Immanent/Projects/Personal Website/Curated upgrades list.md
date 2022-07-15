@@ -4,27 +4,6 @@ Tags: []
 Related: 
 # Curated upgrades list
 
-## Bags
-- [Stubble and co roll top](https://www.stubbleandco.com/products/the-roll-top?variant=40445040165050)
-- [Wenger Tandem](https://www.swissgear.com/backpacks/laptop-friendly-backpacks/wenger-tandem-16-inch-laptop-backpack-gray-black)
-- [Oakley Enduro](https://www.oakley.com/en-us/product/FOS900737?variant=193517236120)
-	
-## Mobility
-**Surfskates:**
-- [x] YOW Surfskate
-- [Smoothstar 34″ Filipe Toledo #77 Surfskate](https://www.smoothstar.com/product/34%E2%80%B3-filipe-toledo-77/)
-- [Smoothstar 35.5" Manta Ray Surfskate](https://www.smoothstar.com/product/35-5%e2%80%b3-smoothstar-manta-ray/)
-- Waterborne Surfskate
-- Swelltech Surfskate
-- Carver Surfskate
-
-**Freeskates:**
-- [JMK Free skates](https://twenty4action.com/shop/customconfig/)
-- [JMK Free skates bag](https://twenty4action.com/shop/jmkride-shoulder-bag/)
-
-**Powered transport**:
-- [One Wheel GT](onewheel.com) ($2200)
-
 ## Liquids
 #### Hot
 - [Contigo Pinnacle](https://mycontigo.com/en/travel-mugs/pinnacle-matte-black) 300ml
@@ -51,8 +30,6 @@ Related:
 - [Gabrylly PF-01 Ergonomic Chair](https://www.ebay.com/p/19037960575)
 - [Standing desks](https://www.techradar.com/news/best-standing-desk)
 	- [Uplift Standing Desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/) ($1000~)
-
-## Hard drives
 - [Sandisk portable SSD 1TB](https://www.cyberport.de/?DEEP=3209-00K&APID=109&wt_cc2=coma_jek_21_wd-sandisk_google-pla&gclid=CjwKCAiArOqOBhBmEiwAsgeLmdJrODrg5LFUsYmGV6umlRaCt1MDOSKvQ_NgBSM0vwtIOg_iqbUYxBoCFhAQAvD_BwE) (€100)
 
 ## Keyboards
@@ -60,3 +37,24 @@ Related:
 
 ## Microphones
 - [JLab Talk Pro](https://www.jlab.com/collections/talk-series-usb-microphones/products/talk-pro-usb-microphone) (€150~)
+
+## Bags
+- [Stubble and co roll top](https://www.stubbleandco.com/products/the-roll-top?variant=40445040165050)
+- [Wenger Tandem](https://www.swissgear.com/backpacks/laptop-friendly-backpacks/wenger-tandem-16-inch-laptop-backpack-gray-black)
+- [Oakley Enduro](https://www.oakley.com/en-us/product/FOS900737?variant=193517236120)
+	
+## Mobility
+**Surfskates:**
+- [x] YOW Surfskate
+- [Smoothstar 34″ Filipe Toledo #77 Surfskate](https://www.smoothstar.com/product/34%E2%80%B3-filipe-toledo-77/)
+- [Smoothstar 35.5" Manta Ray Surfskate](https://www.smoothstar.com/product/35-5%e2%80%b3-smoothstar-manta-ray/)
+- Waterborne Surfskate
+- Swelltech Surfskate
+- Carver Surfskate
+
+**Freeskates:**
+- [JMK Free skates](https://twenty4action.com/shop/customconfig/)
+- [JMK Free skates bag](https://twenty4action.com/shop/jmkride-shoulder-bag/)
+
+**Powered transport**:
+- [One Wheel GT](onewheel.com) ($2200)
