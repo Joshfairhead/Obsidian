@@ -7,7 +7,7 @@ Related: [[Evidence based research]] [[Second Order Science]] [[Open Source]] [[
 
 [Open Science Foundation](https://osf.io/)
 [Our-Sci](https://www.our-sci.net/) 
-
+[Cornell Citizen Science](https://www.birds.cornell.edu/citizenscience) - one of the more sucessful CS initiatives 
 
 #### Quotes
 In Reinventing Discovery by Michael Nielsen, Nielsen describes his vision of **The Era of Networked Science** (emphasis added):
