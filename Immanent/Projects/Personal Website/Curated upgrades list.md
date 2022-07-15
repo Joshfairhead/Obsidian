@@ -24,19 +24,17 @@ Related:
 ## Hardware
 - [Visual Monitor](https://www.pcgamer.com/fully-immerse-yourself-with-this-curved-34-inch-1440p-gaming-monitor-for-under-dollar500/)
 - Audio Monitors
+- [JLab Talk Pro Microphone](https://www.jlab.com/collections/talk-series-usb-microphones/products/talk-pro-usb-microphone) (€150~)
 - [Xencelabs Pen Tablet Medium Bundle](https://www.xencelabs.com/eu/product/xencelabs-pen-tablet-medium-bundle/) (€360)
+- [Sandisk portable SSD 1TB](https://www.cyberport.de/?DEEP=3209-00K&APID=109&wt_cc2=coma_jek_21_wd-sandisk_google-pla&gclid=CjwKCAiArOqOBhBmEiwAsgeLmdJrODrg5LFUsYmGV6umlRaCt1MDOSKvQ_NgBSM0vwtIOg_iqbUYxBoCFhAQAvD_BwE) (€100)
 - [PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/) ($399)
 - [Ergonomic chairs](https://nymag.com/strategist/article/best-ergonomic-office-chairs.html)
 - [Gabrylly PF-01 Ergonomic Chair](https://www.ebay.com/p/19037960575)
 - [Standing desks](https://www.techradar.com/news/best-standing-desk)
 	- [Uplift Standing Desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/) ($1000~)
-- [Sandisk portable SSD 1TB](https://www.cyberport.de/?DEEP=3209-00K&APID=109&wt_cc2=coma_jek_21_wd-sandisk_google-pla&gclid=CjwKCAiArOqOBhBmEiwAsgeLmdJrODrg5LFUsYmGV6umlRaCt1MDOSKvQ_NgBSM0vwtIOg_iqbUYxBoCFhAQAvD_BwE) (€100)
 
 ## Keyboards
 - [Charachorder](https://www.charachorder.com/shop) ($200)
-
-## Microphones
-- [JLab Talk Pro](https://www.jlab.com/collections/talk-series-usb-microphones/products/talk-pro-usb-microphone) (€150~)
 
 ## Bags
 - [Stubble and co roll top](https://www.stubbleandco.com/products/the-roll-top?variant=40445040165050)
