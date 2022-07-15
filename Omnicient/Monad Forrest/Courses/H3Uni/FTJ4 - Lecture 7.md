@@ -4,7 +4,18 @@ Tags: []
 Related: 
 # FTJ4 - Lecture 7
 
+### Week seven
+**Zoom recordinghttps://us02web.zoom.us/rec/share/jJJuss-jVJQqgajSsEx_xKXEjHcoFPbXE2r2tVeqD3lrR9X2ofWAFJgmmrNQHV0.AEiXC_e_Tx4AMviw)
 
+Passcode: #D9jHc?2
+
+**Key materials:**
+
+-   [FTJ4 Module 7 – Facilitation](https://www.h3uni.org/wp-content/uploads/2022/07/FTJ4-Module-7-Facilitation.pptx)
+
+
+
+---
 Facillitation in team and group sessions. Could go at the beginning but best to dip into the methods first instead. Gonna do it through several perspectives. 
 
 - Saying a little about key/pre-conditions (context? agenda?)
