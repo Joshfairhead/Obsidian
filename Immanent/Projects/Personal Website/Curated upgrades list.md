@@ -10,14 +10,15 @@ Related:
 - [Oakley Enduro](https://www.oakley.com/en-us/product/FOS900737?variant=193517236120)
 	
 ## Transportation
-- [JMK Free skates](https://twenty4action.com/shop/customconfig/)
-- [JMK Free skates bag](https://twenty4action.com/shop/jmkride-shoulder-bag/)
+- [x] YOW Surfskate
 - [Smoothstar 34″ Filipe Toledo #77](https://www.smoothstar.com/product/34%E2%80%B3-filipe-toledo-77/)
 - [Smoothstar 35.5" Manta Ray](https://www.smoothstar.com/product/35-5%e2%80%b3-smoothstar-manta-ray/)
 - Waterborne
 - Swelltech
 - Carver
-- YOW
+- [JMK Free skates](https://twenty4action.com/shop/customconfig/)
+- [JMK Free skates bag](https://twenty4action.com/shop/jmkride-shoulder-bag/)
+- One Wheel
 
 ## Liquids
 #### Hot
@@ -30,10 +31,11 @@ Related:
 - [Contigo Chill Matte Black](https://mycontigo.com/en/water-bottles/autoseal-chill-matte-black-) - 720ml water bottle
 
 ## Headphones
+- [x] [Sony WH-1000XM4](https://www.mediamarkt.de/de/product/_sony-wh-1000xm4-noise-cancelling-2752877.html) (€285)
 - [Sennheiser Momentum Wireless headphones](https://www.mediamarkt.de/de/product/_sennheiser-new-momentum-wireless-noise-cancelling-2579794.html?utm_source=google&utm_medium=cpc&utm_campaign=PLA+-+bluePortal+2+Smart&gclid=CjwKCAiArOqOBhBmEiwAsgeLmS7qdDq30ZYOH6p8wyLM2bocDgHFmaQOMc_nxlL1pbvbbmMPw4cjZxoCL8EQAvD_BwE&gclsrc=aw.ds) (£349)
 - [Bose quiet comfort 45](https://www.mediamarkt.de/de/product/_bose-quietcomfort-45-over-ear-kopfhorer-bluetooth-triple-black-2751004.html) (€275)
 - [Bose noise cancelling headphones 700](https://www.mediamarkt.de/de/product/_bose-headphones-700-kabellose-noise-cancelling-renewed-over-ear-kopfhorer-bluetooth-schwarz-2778915.html?utm_source=google&utm_medium=cpc&utm_campaign=PLA+-+bluePortal+2+Smart&gclid=CjwKCAiArOqOBhBmEiwAsgeLmQjERjRKRwcveou0vE6U05R-KBpBUcLjtxYBIHglzEgy6BY-18k8nhoCtnEQAvD_BwE&gclsrc=aw.ds) (€229)
-- [Sony WH-1000XM4](https://www.mediamarkt.de/de/product/_sony-wh-1000xm4-noise-cancelling-2752877.html) (€285)
+
 
 ## Hardware
 - [Visual Monitor](https://www.pcgamer.com/fully-immerse-yourself-with-this-curved-34-inch-1440p-gaming-monitor-for-under-dollar500/)
