@@ -13,6 +13,7 @@ Related: [[Bayes]] [[Natural Language Processing]] [[Semantics]] [[Artificial In
 - https://genekogan.com/
 - [RunwayML](https://runwayml.com/)
 - [Big list of GANs](https://np.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
+- [Open Source image makers](https://analyticsindiamag.com/in-the-world-of-dall-e-2-and-midjourey-enters-open-source-disco-diffusion/)
 
 #### Papers
 
