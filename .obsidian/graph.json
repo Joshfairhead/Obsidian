@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Paris",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,7 +15,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.00400877834674,
@@ -25,6 +25,6 @@
   "repelStrength": 15.0988247863248,
   "linkStrength": 0.253338675213675,
   "linkDistance": 31,
-  "scale": 0.08971793993689578,
+  "scale": 0.08272962221765408,
   "close": false
 }
