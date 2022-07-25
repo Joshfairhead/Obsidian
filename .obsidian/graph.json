@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Paris",
+  "search": "Paris blockchain week 2022",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -26,5 +26,5 @@
   "linkStrength": 0.253338675213675,
   "linkDistance": 31,
   "scale": 0.08272962221765408,
-  "close": false
+  "close": true
 }
