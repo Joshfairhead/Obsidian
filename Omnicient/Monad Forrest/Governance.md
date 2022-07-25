@@ -5,6 +5,7 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 
 # Governance
 - ### Read and curated:
+	- [Rules for rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - Game theory behind dictators to democracies
     - [[Social Archetecture]] - Really good
     - [Beyond the rules](https://provocations.darkmatterlabs.org/organising-beyondtherules-at-dark-matter-labs-e59e4f5dd32f?source=collection_home---2------4-----------------------) - Organising at Dark Matter labs
     - [Manual of We](https://provocations.darkmatterlabs.org/dmls-manual-of-us-d41b1c235869) - Dark Matter labs attempt at collectivly articulating the organisation psyche~ see end questions. 
