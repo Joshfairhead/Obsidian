@@ -80,7 +80,7 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
     - [Deliberative Democracy](https://cdd.stanford.edu/)
         - https://en.wikipedia.org/wiki/Deliberative_opinion_poll
     - [Future Governonce](http://futuregovernance.info/) (deliberative democracy)
-	    - Future
+	    - [Future governance notion](https://www.notion.so/futuregovernance/Future-Governance-Documentation-44044a5dfd234860b61d9164aa9dd252)
     - [[Power]]
 - ### Unread suggestions
     - [[The Earth Charter]]
