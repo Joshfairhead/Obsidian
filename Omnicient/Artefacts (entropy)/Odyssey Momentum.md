@@ -71,9 +71,9 @@ Related: [[Odyssey]]
             emailed to: checkin@odyssey.org
             explanation of your solution in **three slides**
                 - Slide 1: What opportunity do you present? What problem are you solving in which way, why is your solution the way to go and what is it’s potential.
-                    - [ ] What opportunity do you present? What problem are you solving (NEEDS) in which way (APPROACH),  why is yr solution the way to go (BENEFITS )and what is it's potential (COMPETITION))?
+                    -  What opportunity do you present? What problem are you solving (NEEDS) in which way (APPROACH),  why is yr solution the way to go (BENEFITS )and what is it's potential (COMPETITION))?
                 - Slide 2: Any important part you choose to elaborate on (tech, legal, interoperability, collaborations with other projects that are strengthening yours) 
-                    -  [ ] Any important part we choose to elaborate on? (tech. legal, ) >> COMPETITION (what makes us special and irresistible)
+                    -  Any important part we choose to elaborate on? (tech. legal, ) >> COMPETITION (what makes us special and irresistible)
                 - Slide 3:  Pilot Support .Your pilot project. How much is already good to go? What will it deliver to who and what do stakeholders need to do and invest to make it happen?
             Jpeg or PNG 1920x1080 (16:9)
             Naming requirement:

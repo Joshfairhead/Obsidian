@@ -5,8 +5,6 @@
 
 
 ## Rituals
-- [ ] Morning sitting
-- [ ] [[Learn Javascript Course]] [flashcards](https://flash.learnjavascript.online/home)
 
 ## Day
 **Work Content**
