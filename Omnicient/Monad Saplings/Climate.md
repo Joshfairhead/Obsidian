@@ -20,6 +20,7 @@ Related: [[Climate Justice]] [[Evidence based research]] [[Open Source]] [[Open 
 [FarmOS](https://farmos.org/) 
 
 #### Intelligence
+Shortfall
 [Project Drawdown](https://www.drawdown.org/)
 [Climate Curious](wwwclimatecurious.com)
 [Shortfall](https://shortfall.blog/the-deep-optimism-manifesto-262f273c919d)
