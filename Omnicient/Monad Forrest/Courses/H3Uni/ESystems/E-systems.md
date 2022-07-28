@@ -9,4 +9,4 @@ Related: [[Enneagram]] [[H3uni]]
 - [[Enneagram Course Session 2]]
 - [[Enneagram Course Session 3]]
 - [[Enneagram Course Session 4]]
-- ![](assets/1626444265_17.pdf)
+- ![](essystems.pdf)
