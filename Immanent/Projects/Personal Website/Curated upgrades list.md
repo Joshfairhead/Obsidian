@@ -40,7 +40,7 @@ Related:
 - [Stubble and co roll top](https://www.stubbleandco.com/products/the-roll-top?variant=40445040165050)
 - [Wenger Tandem](https://www.swissgear.com/backpacks/laptop-friendly-backpacks/wenger-tandem-16-inch-laptop-backpack-gray-black)
 - [Oakley Enduro](https://www.oakley.com/en-us/product/FOS900737?variant=193517236120)
-	
+
 ## Mobility
 **Surfskates:**
 - [x] YOW Surfskate
