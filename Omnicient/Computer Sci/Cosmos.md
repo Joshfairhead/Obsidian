@@ -10,6 +10,7 @@ Related: [[Layer 1]] [[Osmosis]] [[Regen Network]]
 - [Budget Module](https://github.com/tendermint/budget)
 - [Interchain Accounts Demo](https://github.com/cosmos/interchain-accounts-demo)
 - [Interchain Accounts](https://github.com/cosmos/ibc-go/tree/main/modules/apps/27-interchain-accounts)
+- [Interchain Accounts blog](https://blog.cosmos.network/interchain-accounts-take-cosmos-interoperability-to-the-next-level-39c9a8aad4ad)
 - [What is liquuid staking?](https://hackmd.io/@ssaintleger/swiss-booklet#What-is-liquid-staking)
 - [What is superfluid staking?](https://medium.com/osmosis-community-updates/osmosis-superfluid-staking-faq-a7b49797cb72)
 - [Interfluid staking](https://github.com/osmosis-labs/osmosis/issues/705)
