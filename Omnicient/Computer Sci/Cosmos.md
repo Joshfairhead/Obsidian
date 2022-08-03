@@ -5,6 +5,8 @@ Related: [[Layer 1]] [[Osmosis]] [[Regen Network]]
 # Cosmos
 
 ## Documentation
+- [Cosmos SDK](https://github.com/cosmos/cosmos-sdk)
+- [SDK v0.46.0 Release notes](https://github.com/cosmos/cosmos-sdk/releases/tag/v0.46.0)
 - [CLI](https://docs.cosmos.network/v0.44/modules/authz/05_client.html)
 - [Regen RPC Nodes](https://github.com/regen-network/mainnet/blob/main/regen-1/rpc-nodes.txt)
 - [Budget Module](https://github.com/tendermint/budget)
