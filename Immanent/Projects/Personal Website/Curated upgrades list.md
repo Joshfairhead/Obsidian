@@ -6,9 +6,9 @@ Related:
 
 ## Liquids
 #### Hot
-- [Contigo Pinnacle](https://mycontigo.com/en/travel-mugs/pinnacle-matte-black) 300ml
+- [Contigo Pinnacle](https://mycontigo.com/en/travel-mugs/pinnacle-matte-black) 300ml; Coffee
 - [Contigo Luxe](https://mycontigo.com/en/travel-mugs/luxe-licorice) - 360/470ml
-- [Contigo Byron](https://mycontigo.com/en/travel-mugs/byron-gunmetal-720ml) - 720ml
+- [Contigo Byron](https://mycontigo.com/en/travel-mugs/byron-gunmetal-720ml) - 720m; Tea
 - [Contigo Tea infuser](https://mycontigo.com/en/travel-mugs/west-loop-tea-infuser)
 
 #### Cold
