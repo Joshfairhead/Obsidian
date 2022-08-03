@@ -9,4 +9,4 @@ Related: [[Computer Science]] [[Crypto Economic Primitives]]
 #### Cosmos
 - [Injective](https://injective.com/) (bridge?)
 - [Sommelier](https://www.sommelier.finance/) (Stable Coin mixer)
-- [Umee](https://www.umee.cc/) ()
+- [Umee](https://www.umee.cc/) (Lending and Borrowing)
