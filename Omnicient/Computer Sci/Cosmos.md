@@ -12,4 +12,5 @@ Related: [[Layer 1]] [[Osmosis]] [[Regen Network]]
 - [What is liquuid staking?](https://hackmd.io/@ssaintleger/swiss-booklet#What-is-liquid-staking)
 - [What is superfluid staking?](https://medium.com/osmosis-community-updates/osmosis-superfluid-staking-faq-a7b49797cb72)
 - [Interfluid staking](https://github.com/osmosis-labs/osmosis/issues/705)
-- 
+	- [Tweets on interfluid (uses IBC)](https://twitter.com/DecryptVC/status/1498134240231563267)
+	- [Sunny Aggarwal from OSMOSIS explains Superfluid Staking at Cosmoverse](https://www.youtube.com/watch?v=qlnjQ6V4LwM&t=9s)
