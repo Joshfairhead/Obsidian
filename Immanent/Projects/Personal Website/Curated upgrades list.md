@@ -31,6 +31,7 @@ Related:
 - [Ergonomic chairs](https://nymag.com/strategist/article/best-ergonomic-office-chairs.html)
 - [Gabrylly PF-01 Ergonomic Chair](https://www.ebay.com/p/19037960575)
 - [Standing desks](https://www.techradar.com/news/best-standing-desk)
+	- [Flexispot EG1](https://www.amazon.es/FLEXISPOT-SOBREMESA-Escritorio-el%C3%A9ctrico-Ajustable/dp/B09QC4NQ98/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=13AY8B9ADOD7D&keywords=standing%2Bdesk&qid=1659536579&sprefix=standing%2Bdesk%2Caps%2C118&sr=8-5&th=1)
 	- [Uplift Standing Desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/) ($1000~)
 
 ## Keyboards
