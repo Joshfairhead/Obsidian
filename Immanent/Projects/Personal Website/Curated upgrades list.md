@@ -13,7 +13,7 @@ Related:
 
 #### Cold
 - [Contigo Chill Matte Black](https://mycontigo.com/en/water-bottles/autoseal-chill-matte-black-) - 720ml water bottle
-- [Ashland water bottle](https://www.amazon.com/Contigo-Autospout-Ashland-Bottle-Monaco/dp/B08RSQD1WX?th=1) - 1L
+- [x] [Ashland water bottle](https://www.amazon.com/Contigo-Autospout-Ashland-Bottle-Monaco/dp/B08RSQD1WX?th=1) - 1200ml
 
 ## Headphones
 - [x] [Sony WH-1000XM4](https://www.mediamarkt.de/de/product/_sony-wh-1000xm4-noise-cancelling-2752877.html) (€285)
