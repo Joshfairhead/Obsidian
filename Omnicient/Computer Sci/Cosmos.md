@@ -19,3 +19,4 @@ Related: [[Layer 1]] [[Osmosis]] [[Regen Network]]
 	- [Tweets on interfluid (uses IBC)](https://twitter.com/DecryptVC/status/1498134240231563267)
 	- [Sunny Aggarwal from OSMOSIS explains Superfluid Staking at Cosmoverse](https://www.youtube.com/watch?v=qlnjQ6V4LwM&t=9s)
 - [Gravity Bridge](https://www.gravitybridge.net/post/gravity-bridge-q3-updates)
+- [Cresent Finance](https://app.crescent.network/orderbook)
