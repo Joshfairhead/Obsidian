@@ -13,6 +13,7 @@ Related: [[Ethereum]]
 - [Tailwind](https://tailwindcss.com/) - Utility-first/functional design framework
 - [[User Interface]] Kit: https://www.primedesignsystem.com/
 - [[UX]] User Flow Kit https://www.uxmisfit.tools/squid
+- [Rhizomatic Mind Maps From Plain Text](https://infranodus.com/use-case/text-mindmap/)
 
 #### Illustration
 - [Concepts](https://concepts.app/en/) - Recommended by Parell
