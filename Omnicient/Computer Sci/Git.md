@@ -26,6 +26,7 @@ find . | grep "\.git/" | xargs rm -rf
 
 
 #### Workflows
+
 [Trunk based development](https://trunkbaseddevelopment.com/)
 - [GitFlow is a bad idea](https://youtu.be/_w6TwnLCFwA)
 
