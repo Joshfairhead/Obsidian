@@ -34,6 +34,7 @@ Related:
 - [Standing desks](https://www.techradar.com/news/best-standing-desk)
 	- [Flexispot EG1](https://www.amazon.es/FLEXISPOT-SOBREMESA-Escritorio-el%C3%A9ctrico-Ajustable/dp/B09QC4NQ98/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=13AY8B9ADOD7D&keywords=standing%2Bdesk&qid=1659536579&sprefix=standing%2Bdesk%2Caps%2C118&sr=8-5&th=1)
 	- [Uplift Standing Desk](https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/) ($1000~)
+- [Wacom Cintiq 22](https://estore.wacom.com/en-US/wacom-cintiq-22-dtk2260k0a.html)
 
 ## Keyboards
 - [Charachorder](https://www.charachorder.com/shop) ($200)
