@@ -7,7 +7,7 @@ Related: [[Bayes]] [[Natural Language Processing]] [[Semantics]] [[Artificial In
 # Machine Learning
 
 #### Tools
-
+- [Abductive inference: The blind spot of artificial intelligence]()
 - [Friendly machine learning](https://ml5js.org/)
 - [Pix2Pix](https://affinelayer.com/pixsrv/index.html)
 - https://genekogan.com/
