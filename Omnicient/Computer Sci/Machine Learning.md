@@ -16,7 +16,7 @@ Related: [[Bayes]] [[Natural Language Processing]] [[Semantics]] [[Artificial In
 - [Open Source image makers](https://analyticsindiamag.com/in-the-world-of-dall-e-2-and-midjourey-enters-open-source-disco-diffusion/)
 
 #### Papers
-
+- [A theory of vibe](https://www.glass-bead.org/article/a-theory-of-vibe/?lang=enview)
 - [Information Economy Meta Language](https://pierrelevyblog.com/my-research-in-a-nutshell/) [[IEML]]
 - [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138/)
 - ML Meta study (underground cable fault detecting over IOT)
