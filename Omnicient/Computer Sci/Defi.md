@@ -11,4 +11,5 @@ Related: [[Computer Science]] [[Crypto Economic Primitives]]
 - [Sommelier](https://www.sommelier.finance/) (Stable Coin mixer)
 - [Umee](https://www.umee.cc/) (Lending and Borrowing)
 
-#### Ethereum Pro
+#### Ethereum Projects
+- [TempleDAO](https://docs.templedao.link/)
