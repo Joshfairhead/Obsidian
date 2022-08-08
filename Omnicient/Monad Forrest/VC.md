@@ -5,6 +5,7 @@ Related: [[Funding]]
 # Venture Capitalism
 
 ### Ventures
+- [Cereulean Ventures](https://cerulean.vc/) - Green Crypto VC fund
 - [Uncorrelated Ventures](https://uncorrelated.com/) - Salil Deshpande now knows abut Holochian, met him via Open Core Summit  
 - [Virtual Economy Review](https://atelier.net/virtual-economy) Atelier
 - [LiquiNet](https://www.liquidnet.com/) - 33Trillion in the network

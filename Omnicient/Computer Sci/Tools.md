@@ -28,3 +28,5 @@ Related: [[Ethereum]]
 - [DappHero](https://www.dapphero.io/)
 - [[Optimistic Rollups]]
 
+### Open Science
+- https://manubot.org/
