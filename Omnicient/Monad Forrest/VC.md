@@ -6,6 +6,7 @@ Related: [[Funding]]
 
 ### Ventures
 - [Cereulean Ventures](https://cerulean.vc/) - Green Crypto VC fund
+- [Contrary Capital](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2021/10/05/contrary-capitals-20m-fund-ii-is-all-about-community-first-investments/amp/?amp_gsa=1&amp_js_v=a6&usqp=mq331AQIKAGwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16335611509623&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Ftechcrunch.com%2F2021%2F10%2F05%2Fcontrary-capitals-20m-fund-ii-is-all-about-community-first-investments%2F)
 - [Uncorrelated Ventures](https://uncorrelated.com/) - Salil Deshpande now knows abut Holochian, met him via Open Core Summit  
 - [Virtual Economy Review](https://atelier.net/virtual-economy) Atelier
 - [LiquiNet](https://www.liquidnet.com/) - 33Trillion in the network
