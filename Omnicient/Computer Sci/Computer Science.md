@@ -21,11 +21,12 @@ Related:
 - [[Functional Programming]]
 - [[Promise theory]]
 - [[Digital Identity]]
+- [[Blockchain]]
 - [[Semantics]]
 - [[DWeb]]
 
 ### Domains
-- [[AI/Machine Learning]]
+- [[Machine Learning]]
 - [[Data Science]]
 - [[DevOps]]
 	- [[Monitoring]]
