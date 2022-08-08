@@ -23,6 +23,7 @@ Tags: [Organisations, Networks, Index, Refactor]
 - https://hylozoic.gitbook.io/hylo/about/product-journey
 - https://smartcommoditygroup.com/
 - [Indian Bioacoustics](http://www.projectdhvani.org/)
+- [Restore](https://restor.eco/)
 
 ## Regen potential partners
 - [Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/)
