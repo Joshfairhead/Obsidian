@@ -26,7 +26,7 @@ find . | grep "\.git/" | xargs rm -rf
 
 
 #### Workflows
-
+[How to Animate Your Git Commit History with git-story](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/animate-your-git-repo-with-git-story/amp/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIKAGwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16582227559996&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fanimate-your-git-repo-with-git-story%2F)
 [Trunk based development](https://trunkbaseddevelopment.com/)
 - [GitFlow is a bad idea](https://youtu.be/_w6TwnLCFwA)
 

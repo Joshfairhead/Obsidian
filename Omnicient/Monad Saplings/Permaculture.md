@@ -14,6 +14,8 @@ Related: [[Networks]]
 - [Syntropic farming](https://agendagotsch.com/en/what-is-syntropic-farming/) - Integral permaculture
 - Legal
     - [Ecocide crime: a crime of our time](https://www.youtube.com/watch?v=tgQ9kVzy1TM) - Polly Higgins
+- Recommended
+	- [Stella Natura 2022 Biodynamic Planting Calendar;Planting Charts and Thought-Provoking Essays](https://stellanatura.com/) (via Chris)
 - Unchecked
     - [The Land Institute](https://landinstitute.org/)
     - [Permaculture Q&A's from Quarantine ](https://www.youtube.com/watch?v=avDe9aqDwGI)

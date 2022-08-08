@@ -27,3 +27,4 @@ Related: [[Ethereum]]
 - [Tarantula](https://consensys.net/diligence/blog/2021/02/fault-localisation-with-tarantula/) - unit tests 
 - [DappHero](https://www.dapphero.io/)
 - [[Optimistic Rollups]]
+
