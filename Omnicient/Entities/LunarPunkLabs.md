@@ -5,13 +5,12 @@ Related:
 # LunarPunkLabs
 
 #### Articulation 
-What is science?
+What is science? Truth claims on reality. 
 - According to Thomas Kuhn, its a community of parctice.
 - According to Karl Popper, it's about explanitory power.
-- According to us it's a process of monitoring, verification and reporting. 
+- According to LunarPunkLabs it's a process of monitoring, verification and reporting. 
 
 Truth claims are middle out regulation between these views.
 
-The cypher punks would say: don't trust, verify. This ties in nicely with MRV. 
-
-We support through facillitation, verify and report on progress. 
+Don't trust; verify. 
+- Supporting and reporting
