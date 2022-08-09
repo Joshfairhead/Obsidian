@@ -9,4 +9,4 @@ Related:
 
 ---
 
-- In future they are interested in curating vintages (quality control). Set up a meeting in a 
+- In future they are interested in curating vintages (quality control). Set up a meeting in mid september to discuss this. 
