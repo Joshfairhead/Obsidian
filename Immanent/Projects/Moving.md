@@ -12,7 +12,7 @@ Related:
 - [x] 1: Viewings
 - [x] 2: Find house
 - [x] 3: Moving
-4: Retrieve belongings
-5: Belongings arrive
-6: Arranging belongings
-7: 
+- 4: Retrieve belongings
+- 5: Belongings arrive
+- 6: Arranging belongings
+- 7: House warming
