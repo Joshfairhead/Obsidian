@@ -3,5 +3,4 @@ Tags: [entities]
 ---
 Related:
 # Toucan
-
-Carbon registry
+- Best thought of as a carbon brokerage. 
