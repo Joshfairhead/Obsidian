@@ -13,6 +13,7 @@ Related: [[Transvestment]] [[VC]]
 - [European Funds Restart](https://www.regione.marche.it/Entra-in-Regione/Fondi-Europei/News-ed-eventi/Post/63907/Next-Generation-EU-il-piano-di-ripresa-della-Commissione-da-750-miliardi)
 - [Regional Funds](https://www.regione.marche.it/Entra-in-Regione/Fondi-Europei/FESR) - Liminal Village~
 ### Grants
+- [Web3 Grants May 2022](https://refi-dao.notion.site/Web3-Grants-May-2022-6f5271d4b27a4200ac55906b6a2c07b1) RefiDAO
 - [Growing Great Ideas](https://www.tnlcommunityfund.org.uk/funding/programmes/growing-great-ideas#section-4) - UK lottery; ecosystems focus
 - [Unicef grant](https://www.unicef.org/innovation/applyBlockchainCrypto)
 - [Microsoft Social Entrepreneurship](https://startups.microsoft.com/en-us/social-entrepreneurship/)
