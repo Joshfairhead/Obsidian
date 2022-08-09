@@ -11,8 +11,6 @@ What is science?
 - According to Popper, it's about explanitory power. (Verification) 
 - According to us, it's the middle out regulation between these views. (Reporting)
 
-The cypher punks would say: don't trust, verify. This ties in nicely with MRV; monitoring, ve
+The cypher punks would say: don't trust, verify. This ties in nicely with MRV. 
 
-We support throug facillitation and report.
-
-Facillitation and support for open science DAOs.
+We support through facillitation, verify and report on progress. 
