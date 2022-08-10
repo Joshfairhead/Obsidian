@@ -4,6 +4,8 @@ Tags: []
 Related: 
 # Crypto Primitives
 
+
+#### Significance of a web3 ecosystem
 - Ledger
 	- Consensus
 		- Proof of Work
@@ -30,14 +32,16 @@ Related:
 - Governance
 	- DAOs
 		- Voting
-		- Liquidity pools
-		- Bonding curves
-			- Quadratic voting
-			- Quadratic funding/matching
+		- Treasury
+			- Liquidity pools
 				- External Gauges
+			- Bonding curves
+				- Quadratic voting
+				- Quadratic funding/matching
 - Applications
-
-
+	- Curation
+		- Token Curated Registries
+		- Token Gated Communities
 
 ---
 
