@@ -14,7 +14,28 @@ Related:
 		- Proof of Authority
 		- Proof of Distance
 
-
+- Tokens
+	- Fungible
+		- Stable coins
+		- Staking tokens
+		- Commodities / eco-credits
+		- Securities / equity / bonds
+			- Synthetic derrivitives / baskets
+	- Non-fungible
+		- Rights / access
+			- Intellectual property / DRM / Digital Twins
+			- Objects / Physical internet  
+- Wallets
+	- Multisigs
+- Governance
+	- DAOs
+		- Voting
+		- Liquidity pools
+		- Bonding curves
+			- Quadratic voting
+			- Quadratic funding/matching
+				- External Gauges
+- Applications
 
 
 
