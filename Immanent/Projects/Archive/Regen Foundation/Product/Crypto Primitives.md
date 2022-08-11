@@ -38,16 +38,17 @@ Related:
 	- Groups / DAOs
 		- Multisigs
 		- Voting
+			- Quadratic voting
 			- Liquid democracy
 		- Treasury
 			- [Miner Extractable Value](https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block)
 			- Liquidity pools
 				- External Gauges
 			- Bonding curves
-				- Quadratic voting
 				- Quadratic funding/matching
 			- Exchances
 			- Atomic Swaps
+		- Arbitration / third party dispute resolution
 - Applications
 	- Curation
 		- Token Curated Registries
