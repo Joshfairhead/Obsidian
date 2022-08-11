@@ -40,7 +40,7 @@ Related:
 	- Attestations
 		- Reptuation
 - Governance
-	- Groups / DAOs
+	- DAOs
 		- Multisigs
 		- Voting
 			- Quadratic voting
@@ -50,8 +50,10 @@ Related:
 			- Liquidity pools
 				- External Gauges
 			- Bonding curves
-				- Quadratic funding/matching
+				- Quadratic financing
+				- 
 			- Exchances
+				- AMMs
 			- Atomic Swaps
 		- Arbitration 
 			- Third party dispute resolution
