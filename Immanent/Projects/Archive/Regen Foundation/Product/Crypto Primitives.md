@@ -25,7 +25,10 @@ Related:
 			- Intellectual property / DRM / Digital Twins
 			- Objects / Physical internet  
 - Wallets
-	- Multisigs
+	- Identity
+		- Signatures
+			- Multisigs
+	- Transactions
 - Governance
 	- DAOs
 		- Voting
@@ -37,6 +40,7 @@ Related:
 			- Bonding curves
 				- Quadratic voting
 				- Quadratic funding/matching
+				- 
 - Applications
 	- Curation
 		- Token Curated Registries
