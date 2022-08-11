@@ -25,11 +25,14 @@ Related:
 			- Intellectual property / DRM / Digital Twins
 			- Objects / Physical internet  
 - Identity
-	- - Wallets
+	- Wallets / Smart wallets
 		- Signatures
 			- Transactions
 				- Meta transactions
-		- Smart wallets
+	- Claims
+		- Status
+	- Attestations
+		- Reptuation
 - Governance
 	- Multisigs
 	- DAOs
