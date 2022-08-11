@@ -19,8 +19,10 @@ Related:
 		- Stable coins
 		- Staking tokens
 		- Commodities / eco-credits
-		- Securities / equity / bonds
-			- Synthetic derrivitives / baskets
+		- Governance tokens
+			- Voting rights
+			- Securities / equity / bonds
+				- Synthetic derrivitives / baskets
 	- Non-fungible
 		- Rights / access
 			- Intellectual property / DRM 
