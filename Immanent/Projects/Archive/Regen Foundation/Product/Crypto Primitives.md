@@ -14,6 +14,9 @@ Related:
 		- Proof of Authority
 		- Proof of Distance
 	- Bridges / Sidechains
+	- Roll ups
+	- ZkProofs
+	- ZkSnarks
 - Tokens
 	- Fungible
 		- Stable coins
