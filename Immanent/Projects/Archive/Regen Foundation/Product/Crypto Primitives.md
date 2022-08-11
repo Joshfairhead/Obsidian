@@ -26,9 +26,10 @@ Related:
 			- Objects / Physical internet  
 - Wallets
 	- Identity
-		- Signatures
-			- Multisigs
-	- Transactions
+		- Transactions
+			- Signatures
+				- Multisigs
+		- 
 - Governance
 	- DAOs
 		- Voting
@@ -40,7 +41,8 @@ Related:
 			- Bonding curves
 				- Quadratic voting
 				- Quadratic funding/matching
-				- 
+			- Exchances
+			- Atomic Swaps
 - Applications
 	- Curation
 		- Token Curated Registries
