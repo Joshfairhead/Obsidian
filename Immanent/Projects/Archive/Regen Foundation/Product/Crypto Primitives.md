@@ -15,7 +15,6 @@ Related:
 				- Liquid democracy
 		- Proof of Authority
 		- Proof of Distance
-
 - Tokens
 	- Fungible
 		- Stable coins
