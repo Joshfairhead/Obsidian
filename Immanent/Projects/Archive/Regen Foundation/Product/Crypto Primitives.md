@@ -24,13 +24,14 @@ Related:
 		- Rights / access
 			- Intellectual property / DRM / Digital Twins
 			- Objects / Physical internet  
-- Wallets
-	- Identity
-		- Transactions
-			- Signatures
-				- Multisigs
-		- 
+- Identity
+	- - Wallets
+		- Signatures
+			- Transactions
+				- Meta transactions
+		- Smart wallets
 - Governance
+	- Multisigs
 	- DAOs
 		- Voting
 			- Liquid democracy
