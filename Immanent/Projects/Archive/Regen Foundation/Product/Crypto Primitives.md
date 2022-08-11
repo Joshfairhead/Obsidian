@@ -13,6 +13,7 @@ Related:
 		- Delegated Proof of Stake 
 		- Proof of Authority
 		- Proof of Distance
+	- Bridges / Sidechains
 - Tokens
 	- Fungible
 		- Stable coins
@@ -34,8 +35,8 @@ Related:
 	- Attestations
 		- Reptuation
 - Governance
-	- Multisigs
-	- DAOs
+	- Groups / DAOs
+		- Multisigs
 		- Voting
 			- Liquid democracy
 		- Treasury
