@@ -24,6 +24,8 @@ Related:
 		- Stable coins
 		- Staking tokens
 		- Commodities / eco-credits
+			- Futures
+			- Forward
 		- Governance tokens
 			- Voting rights
 			- Securities / equity / bonds
