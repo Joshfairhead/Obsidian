@@ -9,10 +9,8 @@ Related:
 - Ledger
 	- Consensus
 		- Proof of Work
-			- [Miner Extractable Value](https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block)
 		- Proof of Stake
-			- Delegated Proof of Stake 
-				- Liquid democracy
+		- Delegated Proof of Stake 
 		- Proof of Authority
 		- Proof of Distance
 - Tokens
@@ -31,7 +29,9 @@ Related:
 - Governance
 	- DAOs
 		- Voting
+			- Liquid democracy
 		- Treasury
+			- [Miner Extractable Value](https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block)
 			- Liquidity pools
 				- External Gauges
 			- Bonding curves
