@@ -23,9 +23,9 @@ Related:
 			- Synthetic derrivitives / baskets
 	- Non-fungible
 		- Rights / access
-			- Intellectual property / DRM / Digital Twins
+			- Intellectual property / DRM 
 			- Objects / Physical internet  
-- Identity
+- Identity / Digital Twins 
 	- Wallets / Smart wallets
 		- Signatures
 			- Transactions
@@ -48,7 +48,8 @@ Related:
 				- Quadratic funding/matching
 			- Exchances
 			- Atomic Swaps
-		- Arbitration / third party dispute resolution
+		- Arbitration 
+			- Third party dispute resolution
 - Applications
 	- Curation
 		- Token Curated Registries
