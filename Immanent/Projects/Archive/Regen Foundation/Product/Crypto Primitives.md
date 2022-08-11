@@ -24,8 +24,6 @@ Related:
 		- Stable coins
 		- Staking tokens
 		- Commodities / eco-credits
-			- Futures
-			- Forward
 		- Governance tokens
 			- Voting rights
 			- Securities / equity / bonds
@@ -72,7 +70,15 @@ Related:
 		- Prediction markets 
 		- Meme markets
 
-   ---
+---
+### Unspecified
+Defi primitives
+- Loans
+	- Flashloans
+- Futures
+- Forwards
+
+---
 
 # What is a blockchain? 
 
