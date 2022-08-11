@@ -44,16 +44,15 @@ Related:
 		- Multisigs
 		- Voting
 			- Quadratic voting
+			- Quadratic funding
 			- Liquid democracy
 		- Treasury
-			- [Miner Extractable Value](https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block)
-			- Liquidity pools
-				- External Gauges
 			- Bonding curves
-				- Quadratic financing
-				- 
-			- Exchances
 				- AMMs
+					- Liquidity pools
+					- External Gauges
+				- [Miner Extractable Value](https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block)
+			- Exchanges
 			- Atomic Swaps
 		- Arbitration 
 			- Third party dispute resolution
