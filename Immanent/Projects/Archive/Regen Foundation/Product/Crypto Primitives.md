@@ -46,6 +46,7 @@ Related:
 			- Quadratic voting
 			- Quadratic funding
 			- Liquid democracy
+			- Futurarchy
 		- Treasury
 			- Bonding curves
 				- AMMs
@@ -54,13 +55,17 @@ Related:
 				- [Miner Extractable Value](https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block)
 			- Exchanges
 			- Atomic Swaps
+		- Taxes
+			- Harberger takes
+			- Tributes / burns
 		- Arbitration 
 			- Third party dispute resolution
 - Applications
+	- Prediction markets 
 	- Curation
 		- Token Curated Registries
 		- Token Gated Communities
-
+		- Meme markets
 ---
 
 - Identity
