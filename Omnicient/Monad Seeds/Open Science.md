@@ -19,3 +19,8 @@ In Reinventing Discovery by Michael Nielsen, Nielsen describes his vision of **T
 > **We are reinventing discovery, and the result will be a new era of networked science that speeds up discovery, not in one small corner of science, but across all of science. That reinvention will deepen our understanding of how the universe works and help us address our most critical human problems.**
 
 [[Knowledge Management]]
+
+
+#### Tools
+- Research Hub
+- Ants Review
