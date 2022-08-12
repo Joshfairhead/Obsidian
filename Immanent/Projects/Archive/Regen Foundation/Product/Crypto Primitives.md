@@ -12,6 +12,7 @@ Related:
 		- Proof of Stake
 		- Delegated Proof of Stake 
 		- Proof of Authority
+		- Proof of Access
 		- Proof of Distance
 	- Interoperability
 		- Bridges 
