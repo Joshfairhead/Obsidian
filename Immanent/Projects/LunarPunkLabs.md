@@ -3,6 +3,11 @@ Tags: [entities]
 ---
 Related: 
 # LunarPunkLabs
+- [Site](http:www.lunarpunklabs.org)
+
+#### Branding
+- Mood board
+- [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
 
 #### Articulation 
 What is science? Truth claims on reality. 
@@ -14,9 +19,6 @@ Truth claims are middle out regulation between these views.
 
 Don't trust; verify. 
 - Supporting and reporting
-
-- [Site](http:www.lunarpunklabs.org)
-- [Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo) in Figma
 
 #### Needs and tasks
 - [ ] Card titles and copy
