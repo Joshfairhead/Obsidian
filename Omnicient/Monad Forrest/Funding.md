@@ -7,18 +7,22 @@ Related: [[Transvestment]] [[VC]]
 
 ### VC
 - [[VC]]
+
 ### Funds
  - BlackRock
 - [Aspiration](https://www.aspiration.com/m/sustainability/)
 - [European Funds Restart](https://www.regione.marche.it/Entra-in-Regione/Fondi-Europei/News-ed-eventi/Post/63907/Next-Generation-EU-il-piano-di-ripresa-della-Commissione-da-750-miliardi)
 - [Regional Funds](https://www.regione.marche.it/Entra-in-Regione/Fondi-Europei/FESR) - Liminal Village~
+
 ### Grants
 - [Web3 Grants May 2022](https://refi-dao.notion.site/Web3-Grants-May-2022-6f5271d4b27a4200ac55906b6a2c07b1) RefiDAO
+- [Climate Collective](https://climate-collective.notion.site/climate-collective/Climate-Collective-Grant-Kit-7d20e3a02bba4121ac4d63b923935415)
 - [Growing Great Ideas](https://www.tnlcommunityfund.org.uk/funding/programmes/growing-great-ideas#section-4) - UK lottery; ecosystems focus
 - [Unicef grant](https://www.unicef.org/innovation/applyBlockchainCrypto)
 - [Microsoft Social Entrepreneurship](https://startups.microsoft.com/en-us/social-entrepreneurship/)
 - [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/) - Open knowledge and FOSS
 - [Gov.UK grants](https://apply-for-innovation-funding.service.gov.uk/competition/search)
+
 ### ESG funders of Carbontracker.org
 - Bloomberg Philanthropies
 - ClimateWorks Foundation
