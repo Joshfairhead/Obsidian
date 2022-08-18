@@ -4,7 +4,7 @@ Tags: []
 Related: 
 # Hermitage User Stories
 
-## What is Hermitage ?
+## What is Hermitage? 
 - Hermitage is a data store you can use to securely store your credentials. It has great ease of use, no more hassle with logins. But it's doing a lot more then that too.
 - Hermitage is a GDPR compliant data store leveraging human centric design and putting users back in the driving seat. This relieves companies from storing their data while at the same time, significantly de-risking their activities. For users, they can port their data to services they trust without vendor lock-in. Hermitage works with Holochain.
 
@@ -43,7 +43,7 @@ Related:
 - The energy profile (smart meter profile and other household profiles) can become part of an energy grid grouping of profiles. (say you and your neighbours, especially if you occupy one building)
 - The energy grid group profile can act as a legal party to negotiate pricing on the real time energy market
 
-## ConsciousCities
+### ConsciousCities
 **Challenge**: The City of the Hague invites you to help in the challenge of automating access to and governance of a public digital ecosystem for citizens and stakeholders within the Living Lab Scheveningen: An innovation playground for digital solutions in public space. Join us to solve real societal problems with digital innovations.
 
 **Scenario**: Our approach with our SSI will be to locally and physically identify your selves to the city’s authorities while safekeeping yr privacy. There will be a city persona authoring all the required profiles..
@@ -57,7 +57,7 @@ City sensor persona: These profiles (organized in a city sensor persona) give us
 - Covid -19 and other “emergency scenario’s”. You allow to be tracked and traced anonymously but to at all times share your Covid-19 condition (negative/positive at dd/mm/y) with others that may be affected.
 
 
-### **Outcompete-destructive-systems**
+### Outcompete-destructive-systems
 Challenge: VMware, DAML and Dell Boomi invite you to help in the challenge of incentivizing consumers and organizations to accelerate decarbonization by creating a CO2 footprint measurement, accountability and investment tool
 
  **Self Reporting profiles**
@@ -70,11 +70,8 @@ Challenge: VMware, DAML and Dell Boomi invite you to help in the challenge of in
 The Dutch Police and the Dutch Public Safety Alliance invite you to help in the challenge of matching the right citizen to the right situation emergency in order to help professionals and create a community that contributes to safety
 
 -  **Capabilities Personas** Within your capabilities personas there may also be profiles that show your first aid capabilities in case of emergency
-
 - General Health Condition Profile: Your general (private) data/ patient profile to be shared in case of emergency (only) and fi shielded from insurance companies
-
 - Diabetes Health Condition Profile: As per example if you are a diabetes patient, this profile will track all you medicine use per reporting moment. Reporting moments being: a blood measurement (enabled with sensor and internet connection to log all measurements during the day) a dosis of insuline being taken (again sensor and internet connection to report dosage)
-
 - First Aid Capabilities profile. When verified as a trained first aid volunteer, this profile can make your location visible to nearby notifications by Safety Organizations in case of emergency. Fi when someone is having a cardiac arrest and you are able to help them you will receive a notification if this is happening on a location near where you are present at the moment
 
 
