@@ -127,3 +127,6 @@ We'd like to test these assumptions with security experts. Please try to break o
 
 ### International standards
 Our product Hermitage integrates the DID standard by the W3C. We are also using a capabilities paradigm with research that dates back to Xerox Parc. The cryptography used was a NIST finalist for Sha-3. We're also aware of the OASIS work for DKMS.
+
+---
+Results page: https://odyssey.org/past-editions/odyssey-2020/self-sovereign-identity-in-action/
