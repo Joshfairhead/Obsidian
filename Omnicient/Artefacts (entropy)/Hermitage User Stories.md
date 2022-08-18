@@ -72,8 +72,7 @@ The Dutch Police and the Dutch Public Safety Alliance invite you to help in the 
 -  **Capabilities Personas** Within your capabilities personas there may also be profiles that show your first aid capabilities in case of emergency
 - General Health Condition Profile: Your general (private) data/ patient profile to be shared in case of emergency (only) and fi shielded from insurance companies
 - Diabetes Health Condition Profile: As per example if you are a diabetes patient, this profile will track all you medicine use per reporting moment. Reporting moments being: a blood measurement (enabled with sensor and internet connection to log all measurements during the day) a dosis of insuline being taken (again sensor and internet connection to report dosage)
-- First Aid Capabilities profile. When verified as a trained first aid volunteer, this profile can make your location visible to nearby notifications by Safety Organizations in case of emergency. Fi when someone is having a cardiac arrest and you are able to help them you will receive a notification if this is happening on a location near where you are present at the moment
-
+- First Aid Capabilities profile. When verified as a trained first aid volunteer, this profile can make your location visible to nearby notifications by Safety Organizations in case of emergency. Fi when someone is having a cardiac arrest and you are able to help them you will receive a notification if this is happening on a location near where you are present at the moment.
 
 ---
 
