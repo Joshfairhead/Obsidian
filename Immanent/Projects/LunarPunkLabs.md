@@ -21,8 +21,8 @@ Don't trust; verify.
 - Supporting and reporting
 
 #### Needs and tasks
-- [ ] Card titles and copy
-- [ ] Card images
-- [ ] Scope uncertainty
+- [ ] Scope uncertainty (triple of LPL)
+- [ ] Card titles and copy (triples of LPL)
+- [ ] Card images (seed to tree)
 - [ ] Make summaries and crystallised future questions
 - [ ] Ideas & ever changing priorities
