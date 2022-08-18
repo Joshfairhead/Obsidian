@@ -23,3 +23,6 @@ Don't trust; verify.
 #### Needs and tasks
 - [ ] Card titles and copy
 - [ ] Card images
+- [ ] Scope uncertainty
+- [ ] Make summaries and crystallised future questions
+- [ ] Ideas & ever changing priorities

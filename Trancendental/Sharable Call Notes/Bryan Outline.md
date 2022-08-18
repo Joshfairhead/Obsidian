@@ -1,0 +1,53 @@
+---
+Tags: []
+---
+Related: [[Bryans thoughts on Regen]]
+# Bryan Outline
+
+-  Sees proof of regeneration as a scheme for land reform via tokenisation
+- There is hazard potential in the incentives in that they can pre-degrade the land
+- Unlocking value by repricing land; powerful if loans based
+	- Regenerators can then acquire more land
+	- Selling asset backed commodities back to the bank
+- Does this warp the game and create a race to the top?
+	- Does this potential value just get priced into the land?
+	- Depends if sitting on land is easier/more valuable
+- Whats the fundemental to solve for?
+	- Carbon sinking
+	- Soil regeneration
+	- Food security
+	- Agency over basics
+	- Stopping deforestation
+	- Make farming profitable 
+	- All the above and more?
+		- Probably; you need all the pieces to work holistically!
+- Whats clear is that urban growing is unprofitable because of speculation driving land price
+	- Why cut down forrests for soy?
+	- Why plant fields of lettuice or soy in the first place?
+	- Food scarcity is generally about mal distribution (long tail?)
+	- Regeneration needs to be more profitable
+		- Tokenomics can warp this via co-benefits
+- Is this just a scheme to unlock tranches of capital agains a new metric?
+	- Belief credits vs behavioural change
+	- Post hoc reward for good behaviour?
+		- People only buy the credits to meet obligations
+		- Cap and trade systems
+		- Doesn't function without mandated caps but regulation sucks
+			- Becomes a hybrid of base credits (tokens) and cap and trade (gov)
+				- Works but only after sign up, shoddy hacky baselines
+			- Has the side effect of pricing people out of land 
+				- Doesn't see a path of credits getting seperated from land (Co-benefits??)
+				- Still have to compete against industrial ag
+				- Especially dangerous if one has privilaged access to capital based on promises (forwards)
+		- Short termist industrial ag needs to be made unprofitable
+			- Only works when we hit rock bottom and theres a scarcity of efficiency upgrades
+				- Efficiency upgrades get rewarded by accounting methods
+					- Net present value
+					- Costs saved by getting over the upfront capital hurdle help finance other improvements
+					- Mathmatic seperation (qualitive accounting) is needed
+			- Ecosystem services only solves for internalisation of costs, which is only half the battle
+				- Shouldnt be represented as costs, instead an investment into wealth
+			- Economic exchange lacks sufficient embedding
+				- Only conveys info on whats available and price
+				- Needs to be augmented with other information streams and tied to human behaviour (if using number)
+				- POR requires tokens being minted out of thin air, fungibility and acceptance. (Praxis based methods -> meta token??)
