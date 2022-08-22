@@ -5,7 +5,7 @@ Related: [[Evidence based research]] [[Second Order Science]] [[Open Source]] [[
 
 # Open Science
 - [Metamodern view of science](http://metamoderna.org/metamodern-view-of-science/?lang=en)
-- Active 
+- [Active Inference Ontology](https://zenodo.org/record/6320575#.YuQBRsHMKEt)
 - [Why a Crowd-Sourced Peer-Review System Would Be Good for Philosophy](https://dailynous.com/2022/02/07/why-a-crowd-sourced-peer-review-system-would-be-good-for-philosophy-guest-post/)
 - [Open Science Foundation](https://osf.io/)
 - [Our-Sci](https://www.our-sci.net/) 
