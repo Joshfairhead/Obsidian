@@ -3,6 +3,8 @@ Tags: [Frameworks, Esoteric, Patterns, Course, Calls]
 ---
 Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]] [[Forrest Landry]]
 # Qual Systems Index
+### Links
+- [Alternative lead](https://www.cosmic-core.org/free/article-75-number-the-ennead-part-2-nonagons-nines/)
 
 ## Coursework
 - [Resources page](https://www.h3uni.org/welcome-to-qualitative-systems-thinking/)
