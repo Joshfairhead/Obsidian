@@ -11,6 +11,8 @@ Related: [[Ned Horning]] [[Regen Network]]
 - Does the credit matter when philantropy is the market?
 - Who is the market? Where will it be?
 	- Cobenefits in the EU
+- How to make a market? How to market? 
+	- Fibershed being a good source of inspiration
 
 #### Questions
 - Howard: Has there been work to date in using the water retention capacity of amended soil as a proxy for tilth and a measure of the social value of watershed management?
