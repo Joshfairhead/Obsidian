@@ -13,6 +13,8 @@ Related: [[Ned Horning]] [[Regen Network]]
 	- Cobenefits in the EU
 - How to make a market? How to market? 
 	- Fibershed being a good source of inspiration
+- Support, prefinancinng needed around transition
+	- Preinance and then paid back via the salo of eco credits
 
 #### Questions
 - Howard: Has there been work to date in using the water retention capacity of amended soil as a proxy for tilth and a measure of the social value of watershed management?
