@@ -9,8 +9,10 @@ Related: [[Ned Horning]] [[Regen Network]]
 - [Hylo group](https://www.hylo.com/groups/enviro-stewardship-framework/join/z5X2o0hL4X)
 - [Sheep grazing methodology](https://docs.google.com/document/d/17HIapXDTOwVFZjJAdRLuRF6zAWSHw1SitErFuy-AQ7I/edit) - Ned example; peer review outside Regen
 - Does the credit matter when philantropy is the market?
-- Who is the market?
+- Who is the market? Where will it be?
+	- Cobenefits in the EU
 
 #### Questions
 - Howard: Has there been work to date in using the water retention capacity of amended soil as a proxy for tilth and a measure of the social value of watershed management?
-
+- Howard: @will Assuming that SOC is inexpensive to measure, could we develop a correlation of AWC that can be marketed on a watershed basis to fund soil improvement in the interest of water conservation?
+- 
