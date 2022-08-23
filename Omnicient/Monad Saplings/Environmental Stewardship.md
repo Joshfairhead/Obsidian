@@ -1,5 +1,5 @@
 ---
-Tags: []
+Tags: [calls]
 ---
 Related: [[Ned Horning]] [[Regen Network]]
 # Environmental Stewardship
@@ -19,4 +19,4 @@ Related: [[Ned Horning]] [[Regen Network]]
 #### Questions
 - Howard: Has there been work to date in using the water retention capacity of amended soil as a proxy for tilth and a measure of the social value of watershed management?
 - Howard: @will Assuming that SOC is inexpensive to measure, could we develop a correlation of AWC that can be marketed on a watershed basis to fund soil improvement in the interest of water conservation?
-- 
+- How do we prefinance the transiton
