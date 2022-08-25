@@ -19,6 +19,7 @@ Truth claims are middle out regulation between these views.
 
 Don't trust; verify. 
 - Supporting and reporting
+Semantic facillitation and ontological design
 
 #### Triples
 - Projects, Experts, Facillitators
@@ -30,6 +31,10 @@ Don't trust; verify.
 - [ ] Card images (seed to tree)
 - [ ] Make summaries and crystallised future questions
 - [ ] Ideas & ever changing priorities
+
+
+
+
 
 
 ---
