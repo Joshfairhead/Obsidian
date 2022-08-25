@@ -21,8 +21,8 @@ Don't trust; verify.
 - Supporting and reporting
 
 #### Triples
-
-
+- Projects, Experts, Facillitators
+- People, Projects, Protocols
 
 #### Needs and tasks
 - [ ] Scope uncertainty (triple of LPL)
@@ -65,6 +65,7 @@ Don't trust; verify.
 **Finance**: 
 - Gitcoin Grants 
 - Regen community pool 
-- Bitgreen / Parity pools - Celo Climate Collective / Ikarus - Tokens from consulting on projects - Refi DAO (?) (edited)
-    
-3.  _[_2:21 PM_]_
+- Bitgreen / Parity pools 
+- Celo Climate Collective / Ikarus 
+- Tokens from consulting on projects 
+- Refi DAO (?)
