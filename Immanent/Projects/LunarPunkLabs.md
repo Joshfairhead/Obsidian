@@ -5,6 +5,11 @@ Related:
 # LunarPunkLabs
 - [Site](http:www.lunarpunklabs.org)
 
+### Unique Selling Point
+- Methodology dev
+- Ontological design
+- What, 
+
 #### Branding
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
 - [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
