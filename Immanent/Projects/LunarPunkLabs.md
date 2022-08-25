@@ -20,6 +20,10 @@ Truth claims are middle out regulation between these views.
 Don't trust; verify. 
 - Supporting and reporting
 
+#### Triples
+
+
+
 #### Needs and tasks
 - [ ] Scope uncertainty (triple of LPL)
 - [ ] Card titles and copy (triples of LPL)
