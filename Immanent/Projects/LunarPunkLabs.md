@@ -30,3 +30,41 @@ Don't trust; verify.
 - [ ] Card images (seed to tree)
 - [ ] Make summaries and crystallised future questions
 - [ ] Ideas & ever changing priorities
+
+
+---
+**Projects**: 
+- EthicHub (offered tokens) 
+- Menthol protocol (offered tokens) 
+- Regenerating Sonora 
+- Precious Plastic 
+- Regenerativa Italy 
+- Regenerative civics alliance 
+- Other potentials within Regen networks like Kulshan Carbon Trust 
+
+**Experts / Advisors**: 
+- Ikarus (Climate Collective) 
+- Ned / Tica (Regen Science Team) 
+- Sam / Rebecca ( ?? ) 
+- Bryan (LPL guild) 
+- Robin (LPL guild) 
+- Adina (Aerth?)
+- Page (??) 
+- Anthony (H3uni) 
+- Few others from Paris 
+  
+**Facilitators / Team**: 
+- Me / Maija / Rishi (H3/4th Way) 
+- Chris (H3/4th Way) 
+- Laura (H3) 
+- Roberto (H3) 
+- Jillian (H3 & her own) 
+- Web34Life crew (Regenisis / 4th way / Capra Course) 
+- H3uni network / other FTJ attendees 
+  
+**Finance**: 
+- Gitcoin Grants 
+- Regen community pool 
+- Bitgreen / Parity pools - Celo Climate Collective / Ikarus - Tokens from consulting on projects - Refi DAO (?) (edited)
+    
+3.  _[_2:21 PM_]_
