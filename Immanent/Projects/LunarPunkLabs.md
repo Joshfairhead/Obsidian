@@ -8,7 +8,7 @@ Related:
 ### Unique Selling Point
 - Methodology dev
 - Ontological design
-- What, 
+- What, who, why
 
 #### Branding
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
