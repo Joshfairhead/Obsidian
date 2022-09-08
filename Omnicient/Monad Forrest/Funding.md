@@ -4,6 +4,7 @@ Tags: [Index, Refactor]
 Related: [[Transvestment]] [[VC]]
 
 # Funding
+Note on raising funds: https://www.ycombinator.com/howtoapply/
 
 ### VC
 - [[VC]]
