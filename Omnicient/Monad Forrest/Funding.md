@@ -8,6 +8,7 @@ Note on raising funds (applicatons, pitches): https://www.ycombinator.com/howtoa
 
 ### VC
 - [[VC]]
+- [VC Database]([https://opalweb3.gumroad.com/l/web3vcsdatabase](https://opalweb3.gumroad.com/l/web3vcsdatabase "https://opalweb3.gumroad.com/l/web3vcsdatabase"))
 
 ### Funds
  - BlackRock
