@@ -70,8 +70,10 @@ Don't trust; verify.
 
   
 **Facilitators: 
-- Me / Maija / Rishi (H3/4th Way) 
-- Chris (H3/4th Way) 
+- Josh Fairhead
+- Maija Grudule 
+- Chris
+- Rishikes Si
 - Laura (H3) 
 - Roberto (H3) 
 - Jillian (H3 & her own) 
@@ -80,14 +82,13 @@ Don't trust; verify.
 - Complexity weekend staff
   
 **Finance**: 
+- Methodology subscriptions / IP royalties
+- Tokens from consulting on projects (?)
 - Gitcoin Grants 
-- Regen community pool 
-- Bitgreen / Parity pools 
 - Celo Climate Collective / Ikarus 
-- Tokens from consulting on projects 
-- Credit class subscriptions
-- Royalties from 
+- Cardano Catalyst fund
+- Bitgreen / Parity pools 
+- Regen community pool 
 - ReSci DAO
 - Refi DAO 
-- Cardano Catalyst fund
 - xPrize
