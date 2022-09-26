@@ -5,14 +5,19 @@ Related:
 # LunarPunkLabs
 - [Site](http:www.lunarpunklabs.org)
 
-### Unique Selling Point
+## Guiding Triples
+- Projects, Experts, Facillitators
+- People, Projects, Protocols
+
+## Unique Selling Point
 - Methodology dev
 - Ontological design
 - What, who, why
 
-#### Branding
+## Branding
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
 - [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
+- [assets/Outlier Branding Workshop](Outlier Brand Workshop.pdf)
 
 #### Articulation 
 What is science? Truth claims on reality. 
@@ -27,9 +32,6 @@ Don't trust; verify.
 
 - Semantic facillitation and ontological design
 
-#### Triples
-- Projects, Experts, Facillitators
-- People, Projects, Protocols
 
 #### Needs and tasks
 - [ ] Scope uncertainty (triple of LPL)
