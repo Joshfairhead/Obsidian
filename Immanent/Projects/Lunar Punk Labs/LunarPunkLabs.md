@@ -45,22 +45,25 @@ Don't trust; verify.
 
 ---
 **Projects**: 
-- Regenerating Sonora 
-	- Blockchain Learning Centre
-	- Beanchain 
 - Regen networks 
 	- Kulshan Carbon Trust 
 	- Smart Agro / Golden Soils
 - ReFi Networks / Channels
-	- Agroforrestry
-		- Ethic Hub
-		- Carbon Coffee Collective
-		- Agroforrestry DAO
-		- RMTerra / Pedro
-	- Menthol protocol
+	- Carbon
+		- LEHR Gardens
+			- Regenerating Sonora 
+				- Blockchain Learning Centre
+				- Beanchain 
+		- Agroforrestry
+			- Ethic Hub
+			- Carbon Coffee Collective
+			- Agroforrestry DAO
+			- RMTerra / Pedro
 	- Common Action
 		- Knowlege Graphs
-	- Refi x South
+	- ReFi DAO
+		- Refi x South (LOA Labs)
+	- Pirates do Amor
 
 **Experts / Advisors:** 
 - Jeremey Agnew; ReFi DAO / Earthshot
