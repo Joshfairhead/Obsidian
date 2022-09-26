@@ -17,7 +17,7 @@ Related:
 ## Branding
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
 - [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
-- [assets/Outlier Branding Workshop](Outlier Brand Workshop.pdf)
+- [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
 
 #### Articulation 
 What is science? Truth claims on reality. 
