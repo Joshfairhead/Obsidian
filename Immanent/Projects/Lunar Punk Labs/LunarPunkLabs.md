@@ -77,10 +77,11 @@ Related:
 ---
 
 ## Branding
+- [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
 - [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
-- [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
 
+%%
 #### Unique Selling Point
 - What, who, why
 - Methodology dev
@@ -95,11 +96,15 @@ What is science? Middle out truth claims on reality.
 Don't trust; verify. 
 - Supporting and reporting
 
+### Alternative Triples
+- People, Projects, Protocols
+%%
 --- 
-
+%%
 ## Needs and tasks
 - [ ] Scope uncertainty (triple of LPL)
 - [ ] Card titles and copy (triples of LPL)
 - [ ] Card images (seed to tree)
 - [ ] Make summaries and crystallised future questions
 - [ ] Ideas & ever changing priorities
+%%
