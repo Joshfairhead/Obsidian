@@ -53,7 +53,7 @@ Don't trust; verify.
 - Regenerative civics alliance 
 - Other potentials within Regen networks like Kulshan Carbon Trust 
 
-**Experts / Advisors**: 
+**Experts / Advisors:** 
 - Jeremey Agnew; ReFi DAO / Earthshot
 - Robin Duchesneau; ex-Verra / ex-Bitgreen 
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
@@ -67,7 +67,7 @@ Don't trust; verify.
 - Simon Grant; P2P Foundation
 - Mattheaus; IPFS Search, hubs, agroforrestry
 - Fenix Stardust; Biz Dev
-
+- Letty; Biz Dev
   
 **Facilitators: 
 - Josh Fairhead
@@ -79,18 +79,18 @@ Don't trust; verify.
 - Jillian Hovey
 	- Laura Valenti
 	- Roberto Valenti
-
 - H3uni network 
-- Complexity weekend staff
+- Complexity weekend folk
   
-**Finance**: 
+**Financing**: 
 - Methodology subscriptions / IP royalties
 - Tokens from consulting on projects (?)
-- Gitcoin Grants 
 - Celo Climate Collective / Ikarus 
 - Cardano Catalyst fund
-- Bitgreen / Parity pools 
+- Parity pools 
+	- Bitgreen
 - Regen community pool 
-- ReSci DAO
-- Refi DAO 
+- Gitcoin Grants 
+	- ReSci DAO
+	- Refi DAO 
 - xPrize
