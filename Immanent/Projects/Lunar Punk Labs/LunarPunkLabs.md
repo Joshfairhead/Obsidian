@@ -59,16 +59,17 @@ Don't trust; verify.
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
 - Anthony Hodgeson; H3uni
 - Ikarus; Climate Collective
-- Adina; Aerth - digital twins
 - Roberto Valenti; Computer vision and AI + active inferencing)
 - Ale Mazzi; Sovrign Nature Initiative
+- Adina; Aerth / Digital twins
 - Bryan Curtain; Enviromental Engineer
-- Simon Szal; active inferincing 
+- Simon Szal; Active inferincing 
 - Simon Grant; P2P Foundation
+- Mattheaus; IPFS Search, hubs, agroforrestry
 - Fenix Stardust; Biz Dev
 
   
-**Facilitators / Team**: 
+**Facilitators: 
 - Me / Maija / Rishi (H3/4th Way) 
 - Chris (H3/4th Way) 
 - Laura (H3) 
@@ -84,6 +85,7 @@ Don't trust; verify.
 - Bitgreen / Parity pools 
 - Celo Climate Collective / Ikarus 
 - Tokens from consulting on projects 
+- Credit class subscriptions
 - Royalties from 
 - ReSci DAO
 - Refi DAO 
