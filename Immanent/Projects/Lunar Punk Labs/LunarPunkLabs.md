@@ -55,16 +55,17 @@ Don't trust; verify.
 
 **Experts / Advisors**: 
 - Jeremey Agnew; ReFi DAO / Earthshot
-- Ikarus (Climate Collective) 
+- Robin Duchesneau; ex-Verra / ex-Bitgreen 
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
-- Bryan Curtain; Enviromental Engineer
-- Anthony Hodgeson (H3uni) 
+- Anthony Hodgeson; H3uni
+- Ikarus; Climate Collective
 - Adina; Aerth - digital twins
-- Ale; Sovrign Nature Initiative
+- Roberto Valenti; Computer vision and AI + active inferencing)
+- Ale Mazzi; Sovrign Nature Initiative
+- Bryan Curtain; Enviromental Engineer
 - Simon Szal; active inferincing 
-- Simon; P2P Foundation
-- Fenix; Biz Dev
-- 
+- Simon Grant; P2P Foundation
+- Fenix Stardust; Biz Dev
 
   
 **Facilitators / Team**: 
