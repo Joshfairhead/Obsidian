@@ -72,6 +72,7 @@ Don't trust; verify.
 - Jillian (H3 & her own) 
 - Web34Life crew (Regenisis / 4th way / Capra Course) 
 - H3uni network / other FTJ attendees 
+- Complexity weekend staff
   
 **Finance**: 
 - Gitcoin Grants 
