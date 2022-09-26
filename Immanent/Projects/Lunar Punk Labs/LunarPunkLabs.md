@@ -9,17 +9,18 @@ Related:
 - Projects, Experts, Facillitators
 - People, Projects, Protocols
 
-## Unique Selling Point
-- Methodology dev
-- Ontological design
-- What, who, why
-
 ## Branding
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
 - [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
 - [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
 
-#### Articulation 
+## Unique Selling Point
+- What, who, why
+- Methodology dev
+- Semantic Facillitation
+- Ontological design
+
+#### Articulation  
 What is science? Truth claims on reality. 
 - According to Thomas Kuhn, its a community of parctice.
 - According to Karl Popper, it's about explanitory power.
