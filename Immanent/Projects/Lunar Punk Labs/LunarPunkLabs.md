@@ -72,13 +72,15 @@ Don't trust; verify.
 **Facilitators: 
 - Josh Fairhead
 - Maija Grudule 
-- Chris
-- Rishikes Si
-- Laura (H3) 
-- Roberto (H3) 
-- Jillian (H3 & her own) 
-- Web34Life crew (Regenisis / 4th way / Capra Course) 
-- H3uni network / other FTJ attendees 
+- Rishikes Silva
+- Chris Castellias
+	- Kathy 
+	- Evan
+- Jillian Hovey
+	- Laura Valenti
+	- Roberto Valenti
+
+- H3uni network 
 - Complexity weekend staff
   
 **Finance**: 
