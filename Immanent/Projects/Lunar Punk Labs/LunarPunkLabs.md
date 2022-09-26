@@ -5,9 +5,7 @@ Related:
 # LunarPunkLabs
 - [Site](http:www.lunarpunklabs.org)
 
-## Guiding Triples
-- Projects, Experts, Facillitators
-- People, Projects, Protocols
+## Guiding Triple: Projects, Experts, Facillitators
 
 ### **Projects**: 
 - Regen networks 
@@ -61,6 +59,7 @@ Related:
 - Complexity weekend folk
 
 --- 
+
 ### **Financing**: 
 - Methodology subscriptions / IP royalties
 - Tokens from consulting on projects (?)
@@ -75,12 +74,14 @@ Related:
 	- Refi DAO 
 - xPrize
 
-### Branding
+---
+
+## Branding
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
 - [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
 - [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
 
-### Unique Selling Point
+#### Unique Selling Point
 - What, who, why
 - Methodology dev
 - Semantic Facillitation
@@ -94,7 +95,9 @@ What is science? Middle out truth claims on reality.
 Don't trust; verify. 
 - Supporting and reporting
 
-#### Needs and tasks
+--- 
+
+## Needs and tasks
 - [ ] Scope uncertainty (triple of LPL)
 - [ ] Card titles and copy (triples of LPL)
 - [ ] Card images (seed to tree)
