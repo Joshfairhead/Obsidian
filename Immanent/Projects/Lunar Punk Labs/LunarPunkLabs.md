@@ -45,14 +45,19 @@ Don't trust; verify.
 
 ---
 **Projects**: 
-- EthicHub (offered tokens) 
-- Menthol protocol (offered tokens) 
+
 - Regenerating Sonora 
+	- Blockchain Learning Centre
+	- Beanchain 
 - Precious Plastic 
 - Regen networks 
 	- Kulshan Carbon Trust 
 	- Smart Agro / Golden Soils
 - ReFi Networks / Channels
+	- Carbon Coffee Collective
+		- EthicHub (offered tokens) 
+	- Menthol protocol (offered tokens) 
+	- Common Action
 	- Refi x South
 
 **Experts / Advisors:** 
