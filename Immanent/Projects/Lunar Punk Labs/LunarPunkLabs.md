@@ -40,9 +40,6 @@ Don't trust; verify.
 
 
 
-
-
-
 ---
 **Projects**: 
 - Regen networks 
@@ -59,11 +56,12 @@ Don't trust; verify.
 			- Carbon Coffee Collective
 			- Agroforrestry DAO
 			- RMTerra / Pedro
-	- Common Action
-		- Knowlege Graphs
-	- ReFi DAO
+	- Onboarding
+		- ReFi DAO
 		- Refi x South (LOA Labs)
-	- Pirates do Amor
+		- Pirates do Amor
+		- Common Action / Dream DAO
+			- Knowlege Graphs
 
 **Experts / Advisors:** 
 - Jeremey Agnew; ReFi DAO / Earthshot
