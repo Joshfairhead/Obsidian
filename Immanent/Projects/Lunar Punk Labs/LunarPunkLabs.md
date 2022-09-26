@@ -56,13 +56,13 @@ Don't trust; verify.
 **Experts / Advisors**: 
 - Ikarus (Climate Collective) 
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
-- Bryan (LPL guild) 
-- Robin (LPL guild) 
-- Anthony (H3uni) 
-- Few others from Paris
-- Adina; Earth
+- Bryan Curtain
+- Robin  (LPL guild) 
+- Anthony Hodgeson (H3uni) 
+- Adina; Aerth - digital twins
+- Ale; Sovrign Nature Initiative
 - Simon Szal; active inferincing 
-- 
+- Fenix; Biz 
   
 **Facilitators / Team**: 
 - Me / Maija / Rishi (H3/4th Way) 
