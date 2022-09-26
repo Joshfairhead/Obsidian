@@ -54,15 +54,18 @@ Don't trust; verify.
 - Other potentials within Regen networks like Kulshan Carbon Trust 
 
 **Experts / Advisors**: 
+- Jeremey Agnew; ReFi DAO / Earthshot
 - Ikarus (Climate Collective) 
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
-- Bryan Curtain
-- Robin  (LPL guild) 
+- Bryan Curtain; Enviromental Engineer
 - Anthony Hodgeson (H3uni) 
 - Adina; Aerth - digital twins
 - Ale; Sovrign Nature Initiative
 - Simon Szal; active inferincing 
-- Fenix; Biz 
+- Simon; P2P Foundation
+- Fenix; Biz Dev
+- 
+
   
 **Facilitators / Team**: 
 - Me / Maija / Rishi (H3/4th Way) 
