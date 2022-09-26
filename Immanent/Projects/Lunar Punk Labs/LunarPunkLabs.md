@@ -49,9 +49,11 @@ Don't trust; verify.
 - Menthol protocol (offered tokens) 
 - Regenerating Sonora 
 - Precious Plastic 
-- Regenerativa Italy 
-- Regenerative civics alliance 
-- Other potentials within Regen networks like Kulshan Carbon Trust 
+- Regen networks 
+	- Kulshan Carbon Trust 
+	- Smart Agro / Golden Soils
+- ReFi Networks / Channels
+	- Refi x South
 
 **Experts / Advisors:** 
 - Jeremey Agnew; ReFi DAO / Earthshot
@@ -85,8 +87,9 @@ Don't trust; verify.
 **Financing**: 
 - Methodology subscriptions / IP royalties
 - Tokens from consulting on projects (?)
-- Celo Climate Collective / Ikarus 
-- Cardano Catalyst fund
+- Celo Climate Collective 
+	- Ikarus 
+- Cardano Catalyst Fund
 - Parity pools 
 	- Bitgreen
 - Regen community pool 
