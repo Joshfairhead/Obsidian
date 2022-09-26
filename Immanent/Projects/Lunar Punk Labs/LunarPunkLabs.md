@@ -55,14 +55,14 @@ Don't trust; verify.
 
 **Experts / Advisors**: 
 - Ikarus (Climate Collective) 
-- Ned / Tica (Regen Science Team) 
-- Sam / Rebecca ( ?? ) 
+- Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
 - Bryan (LPL guild) 
 - Robin (LPL guild) 
-- Adina (Aerth?)
-- Page (??) 
 - Anthony (H3uni) 
-- Few others from Paris 
+- Few others from Paris
+- Adina; Earth
+- Simon Szal; active inferincing 
+- 
   
 **Facilitators / Team**: 
 - Me / Maija / Rishi (H3/4th Way) 
@@ -80,4 +80,8 @@ Don't trust; verify.
 - Bitgreen / Parity pools 
 - Celo Climate Collective / Ikarus 
 - Tokens from consulting on projects 
-- Refi DAO (?)
+- Royalties from 
+- ReSci DAO
+- Refi DAO 
+- Cardano Catalyst fund
+- xPrize
