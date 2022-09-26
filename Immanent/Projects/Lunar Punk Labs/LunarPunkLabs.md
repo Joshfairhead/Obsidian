@@ -9,42 +9,7 @@ Related:
 - Projects, Experts, Facillitators
 - People, Projects, Protocols
 
-## Branding
-- [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
-- [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
-- [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
-
-## Unique Selling Point
-- What, who, why
-- Methodology dev
-- Semantic Facillitation
-- Ontological design
-
-#### Articulation  
-What is science? Truth claims on reality. 
-- According to Thomas Kuhn, its a community of parctice.
-- According to Karl Popper, it's about explanitory power.
-- According to LunarPunkLabs it's a process of monitoring, verification and reporting. 
-
-Truth claims are middle out regulation between these views.
-
-Don't trust; verify. 
-- Supporting and reporting
-
-- Semantic facillitation and ontological design
-
-
-#### Needs and tasks
-- [ ] Scope uncertainty (triple of LPL)
-- [ ] Card titles and copy (triples of LPL)
-- [ ] Card images (seed to tree)
-- [ ] Make summaries and crystallised future questions
-- [ ] Ideas & ever changing priorities
-
-
-
----
-**Projects**: 
+### **Projects**: 
 - Regen networks 
 	- Kulshan Carbon Trust 
 	- Smart Agro / Golden Soils
@@ -66,7 +31,7 @@ Don't trust; verify.
 		- Common Action / Dream DAO
 			- Knowlege Graphs
 
-**Experts / Advisors:** 
+### **Experts / Advisors:**
 - Jeremey Agnew; ReFi DAO / Earthshot
 - Robin Duchesneau; ex-Verra / ex-Bitgreen 
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
@@ -82,7 +47,7 @@ Don't trust; verify.
 - Fenix Stardust; Biz Dev
 - Letty; Biz Dev
   
-**Facilitators: 
+### **Facilitators:**
 - Josh Fairhead
 - Maija Grudule 
 - Rishikes Silva
@@ -94,8 +59,9 @@ Don't trust; verify.
 	- Roberto Valenti
 - H3uni network 
 - Complexity weekend folk
-  
-**Financing**: 
+
+--- 
+### **Financing**: 
 - Methodology subscriptions / IP royalties
 - Tokens from consulting on projects (?)
 - Celo Climate Collective 
@@ -108,3 +74,29 @@ Don't trust; verify.
 	- ReSci DAO
 	- Refi DAO 
 - xPrize
+
+### Branding
+- [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
+- [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
+- [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
+
+### Unique Selling Point
+- What, who, why
+- Methodology dev
+- Semantic Facillitation
+- Ontological design
+
+#### Articulation  
+What is science? Middle out truth claims on reality. 
+- According to Thomas Kuhn, its a community of parctice.
+- According to Karl Popper, it's about explanitory power.
+
+Don't trust; verify. 
+- Supporting and reporting
+
+#### Needs and tasks
+- [ ] Scope uncertainty (triple of LPL)
+- [ ] Card titles and copy (triples of LPL)
+- [ ] Card images (seed to tree)
+- [ ] Make summaries and crystallised future questions
+- [ ] Ideas & ever changing priorities
