@@ -5,7 +5,7 @@ Related:
 # LunarPunkLabs
 - [Site](http:www.lunarpunklabs.org)
 
-## Guiding Triple: Projects, Experts, Facillitators
+## Community triple: Projects, Experts, Facillitators
 
 ### **Projects**: 
 - Regen networks 
