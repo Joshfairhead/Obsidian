@@ -22,6 +22,7 @@ Related:
 			- Carbon Coffee Collective
 			- Agroforrestry DAO
 			- RMTerra / Pedro
+			- Jesu Neoindgena
 	- Onboarding
 		- ReFi DAO
 		- Refi x South (LOA Labs)
