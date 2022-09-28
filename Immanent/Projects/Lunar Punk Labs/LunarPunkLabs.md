@@ -35,7 +35,7 @@ Related:
 - Robin Duchesneau; ex-Verra / ex-Bitgreen 
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
 - Anthony Hodgeson; H3uni
-- Ikarus; Climate Collective
+- Ikarus; Celo Climate Collective
 - Roberto Valenti; Computer vision and AI + active inferencing)
 - Ale Mazzi; Sovrign Nature Initiative
 - Adina; Aerth / Digital twins
