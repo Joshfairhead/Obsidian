@@ -3,6 +3,7 @@ Tags: [calls]
 ---
 Related: [[Ned Horning]] [[Regen Network]]
 # Environmental Stewardship
+- [[MRV]]
 - [Framework doc](https://docs.google.com/document/d/1fbraHvOlhtryA6QGWwCGcJUZ3HZdKKzoVaX0FpWo-gA/edit#heading=h.fn7mv3kffeta)
 - [Wayfinding doc](https://docs.google.com/document/d/1BqQeQpV1TdG714NIkY_F8I0K7SZgksSXKqX2cIo8cBo/edit)
 	- [NoteCam](https://notecam.derekr.com/index-EN.html)
