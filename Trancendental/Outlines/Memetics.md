@@ -6,7 +6,7 @@ Related: [[0x Salon]]
 
 #### Resoruces
 [Cybernteic perspective on memes](http://pespmc1.vub.ac.be/MEMLEX.html)
-
+[Classifying memes paper](https://zenodo.org/record/6904427#.YzCTDSHMKEt)
 
 ### Notes
 
