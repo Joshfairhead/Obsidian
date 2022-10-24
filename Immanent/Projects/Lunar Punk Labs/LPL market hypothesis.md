@@ -69,17 +69,15 @@ The long tail is an aggrigate of specific niche opportunities that aren't immedi
 
 Assuming we can 'square the circle' and quantify the qualitive this way, we can readily see that there is much more value in the long tail than the short head. Not only that but this is also where 'moon shots' come from in the form of outliers. How do we make this long tail investible? We need a means to value proof-of-regeneration.
 
-As noted, the constraint on this is that for such a proof to be profitable we need fungibility through quantification. Natural capital addresses this statically by counting the objects (carbon tonnes etc.) but this isn't suficient if we want to get beyond goverment subsidies and pension funds. We need uncertainty and alpha opportunities; with such we can make it fucking rain! 
+As noted, the constraint on this is that for such a proof to be profitable we need fungibility through quantification. Natural capital addresses this statically by counting the objects (carbon tonnes etc.) but this isn't suficient if we want to get beyond goverment subsidies and pension funds. We need uncertainty and alpha opportunities; with such we can make it fucking rain for the long tail! 
 
-This is where our scientific hypothesis starts to become important because we are essentially trynig to value a unifying measurement. This quantifier is free energy. 
+This is where our scientific hypothesis starts to become important because we are essentially trying to value a unifying measurement. This quantifier is free energy. 
 
 
 
 
 
 How do we direct quantifiable financial capital that lives downstream towards the stewards producing qualitive value upstream? The heart of this question is about redistribution and optimising our gini coefficient. 
-
-
 
 
 
