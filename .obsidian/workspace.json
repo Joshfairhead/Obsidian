@@ -18,32 +18,14 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "80780d10d49752f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a31f75318b63b8e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/LPL market hypothesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
-            "id": "faa9c6c95e1bf3db",
+            "id": "01fee91bfe273fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-10-25.md",
+                "file": "Immanent/DailyNotes/2022/2022-10-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022-10-23.md",
+                "file": "Immanent/DailyNotes/2022/2022-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022-10-23.md",
+                "file": "Immanent/DailyNotes/2022/2022-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,20 +147,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d65d862cf4395393",
+  "active": "01fee91bfe273fc9",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2022/2022-10-22.md",
+    "Immanent/DailyNotes/2022/2022-10-19.md",
+    "Immanent/DailyNotes/2022/2022-10-26.md",
+    "Immanent/DailyNotes/2022/2022-10-27.md",
     "Immanent/DailyNotes/2022/2022-10-25.md",
+    "Immanent/DailyNotes/2022-10-27.md",
     "Immanent/DailyNotes/2022-10-25.md",
     "Immanent/DailyNotes/2022-10-23.md",
-    "Immanent/DailyNotes/2022/2022-10-22.md",
     "Immanent/DailyNotes/2022-11-04.md",
-    "Immanent/DailyNotes/2022/2022-11-02.md",
-    "Immanent/DailyNotes/2022/2022-11-03.md",
-    "Immanent/DailyNotes/2022/2022-11-01.md",
-    "Immanent/DailyNotes/2022/2022-10-31.md",
-    "Immanent/DailyNotes/2022/2022-10-30.md"
+    "Immanent/DailyNotes/2022/2022-11-02.md"
   ]
 }
