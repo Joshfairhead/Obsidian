@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-10-25.md",
+                "file": "Immanent/DailyNotes/2022-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-10-25.md",
+                "file": "Immanent/DailyNotes/2022-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,8 +168,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "faa9c6c95e1bf3db",
+  "active": "d65d862cf4395393",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2022/2022-10-25.md",
     "Immanent/DailyNotes/2022-10-25.md",
     "Immanent/DailyNotes/2022-10-23.md",
     "Immanent/DailyNotes/2022/2022-10-22.md",
@@ -178,7 +179,6 @@
     "Immanent/DailyNotes/2022/2022-11-03.md",
     "Immanent/DailyNotes/2022/2022-11-01.md",
     "Immanent/DailyNotes/2022/2022-10-31.md",
-    "Immanent/DailyNotes/2022/2022-10-30.md",
-    "Immanent/DailyNotes/2022/2022-10-29.md"
+    "Immanent/DailyNotes/2022/2022-10-30.md"
   ]
 }
