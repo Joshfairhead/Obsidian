@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-03.md",
+                "file": "Immanent/DailyNotes/2022-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-03.md",
+                "file": "Immanent/DailyNotes/2022-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,17 +146,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "01fee91bfe273fc9",
+  "active": "d65d862cf4395393",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022/2022-11-02.md",
+    "Immanent/CallNotes/Anthony Mail.md",
+    "Immanent/DailyNotes/2022-10-23.md",
     "Immanent/DailyNotes/2022/2022-11-03.md",
     "Immanent/DailyNotes/2022-11-04.md",
+    "Immanent/DailyNotes/2022/2022-11-02.md",
+    "Immanent/DailyNotes/2022/2022-11-01.md",
     "Immanent/Projects/Lunar Punk Labs/LPL market hypothesis.md",
     "Immanent/DailyNotes/2022/2022-10-27.md",
     "Immanent/DailyNotes/2022/2022-10-22.md",
-    "Immanent/DailyNotes/2022/2022-10-19.md",
-    "Immanent/DailyNotes/2022/2022-10-26.md",
-    "Immanent/DailyNotes/2022/2022-10-25.md",
-    "Immanent/DailyNotes/2022-10-27.md"
+    "Immanent/DailyNotes/2022/2022-10-19.md"
   ]
 }
