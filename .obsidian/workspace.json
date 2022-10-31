@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0dddb7dbd2baff57",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "01fee91bfe273fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2022/2022-10-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c58ffef4d3da88a0",
         "type": "tabs",
         "children": [
