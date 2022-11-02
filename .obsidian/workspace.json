@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnicient/Monad Saplings/Environmental Stewardship.md",
+                "file": "Immanent/DailyNotes/2022-11-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Saplings/Environmental Stewardship.md",
+                "file": "Immanent/DailyNotes/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Saplings/Environmental Stewardship.md",
+                "file": "Immanent/DailyNotes/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,6 +136,7 @@
   },
   "active": "bc9f6e90c8dd1cf4",
   "lastOpenFiles": [
+    "Omnicient/Monad Saplings/Environmental Stewardship.md",
     "Immanent/WorkBench/Biochar Index.md",
     "Immanent/DailyNotes/2022/2022-11-02.md",
     "Immanent/WorkBench/active invefernce ontology.md",
@@ -144,7 +145,6 @@
     "Immanent/WorkBench/Unenclosable Regenerative Markets.md",
     "Immanent/DailyNotes/2022/2022-11-01.md",
     "Immanent/DailyNotes/2022/2022-10-31.md",
-    "Immanent/DailyNotes/2022-11-07.md",
-    "Immanent/Projects/Lunar Punk Labs/LPL market hypothesis.md"
+    "Immanent/DailyNotes/2022-11-07.md"
   ]
 }
