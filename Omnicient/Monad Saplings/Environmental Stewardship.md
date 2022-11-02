@@ -3,6 +3,10 @@ Tags: [calls]
 ---
 Related: [[Ned Horning]] [[Regen Network]]
 # Environmental Stewardship
+#### Videos
+- [Scientific Videos](https://www.youtube.com/watch?v=DQN9t-g2J-0&list=PLIuPRhYQfjx98kg5BUPnwb5VYSI-UYh2-a&index=4)
+
+####Regen
 - [[MRV]]
 - [Science Team Desci Notion](https://regennetwork.notion.site/Science-Team-6132b4fe346a4ab3b92037cc59c3c362)
 - [Framework doc](https://docs.google.com/document/d/1fbraHvOlhtryA6QGWwCGcJUZ3HZdKKzoVaX0FpWo-gA/edit#heading=h.fn7mv3kffeta)
