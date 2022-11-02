@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6bcebc82bcb59f9a",
+        "id": "89e982d5b20a4086",
         "type": "tabs",
         "children": [
           {
-            "id": "bc9f6e90c8dd1cf4",
+            "id": "c496aedbc556ab79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-10.md",
+                "file": "Immanent/DailyNotes/2022/2022-10-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-10.md",
+                "file": "Immanent/DailyNotes/2022/2022-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-10.md",
+                "file": "Immanent/DailyNotes/2022/2022-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,17 +134,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "bc9f6e90c8dd1cf4",
+  "active": "c496aedbc556ab79",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022-11-09.md",
-    "Immanent/DailyNotes/2022/2022-11-08.md",
+    "Immanent/DailyNotes/2022/2022-10-28.md",
+    "Immanent/DailyNotes/2022/2022-10-29.md",
+    "Immanent/DailyNotes/2022/2022-10-30.md",
+    "Immanent/DailyNotes/2022/2022-10-31.md",
+    "Immanent/DailyNotes/2022/2022-11-30.md",
+    "Immanent/DailyNotes/2022/2022-10-02.md",
+    "Immanent/DailyNotes/2022-11-07.md",
     "Immanent/DailyNotes/2022/2022-11-01.md",
     "Immanent/DailyNotes/2022/2022-11-02.md",
-    "Immanent/DailyNotes/2022/2022-11-03.md",
-    "Immanent/DailyNotes/2022-11-04.md",
-    "Immanent/DailyNotes/2022/2022-11-10.md",
-    "Immanent/DailyNotes/2022-11-02.md",
-    "meet.google.com/bti-cwka-xpw.md",
-    "Omnicient/Monad Saplings/Environmental Stewardship.md"
+    "Immanent/DailyNotes/2022/2022-11-10.md"
   ]
 }
