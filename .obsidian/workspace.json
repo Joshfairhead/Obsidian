@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-10.md",
+                "file": "Immanent/DailyNotes/2022/2022-11-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-10.md",
+                "file": "Immanent/DailyNotes/2022/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-10.md",
+                "file": "Immanent/DailyNotes/2022/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,6 +136,7 @@
   },
   "active": "bc9f6e90c8dd1cf4",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2022/2022-11-10.md",
     "Immanent/DailyNotes/2022-11-09.md",
     "Immanent/DailyNotes/2022/2022-11-02.md",
     "Immanent/WorkBench/Unenclosable Regenerative Markets.md",
@@ -144,7 +145,6 @@
     "Immanent/DailyNotes/2022-11-07.md",
     "Immanent/Projects/Lunar Punk Labs/LPL market hypothesis.md",
     "Immanent/DailyNotes/2022/2022-11-03.md",
-    "Immanent/DailyNotes/2022/2022-10-30.md",
-    "Immanent/DailyNotes/2022-10-23.md"
+    "Immanent/DailyNotes/2022/2022-10-30.md"
   ]
 }
