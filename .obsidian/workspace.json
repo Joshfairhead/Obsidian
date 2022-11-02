@@ -11,8 +11,12 @@
             "id": "bc9f6e90c8dd1cf4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/DailyNotes/2022/2022-11-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immanent/DailyNotes/2022/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immanent/DailyNotes/2022/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,8 +134,9 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "6a25edb9f44c356d",
+  "active": "bc9f6e90c8dd1cf4",
   "lastOpenFiles": [
+    "Immanent/WorkBench/active invefernce ontology.md",
     "Immanent/DailyNotes/2022/2022-11-02.md",
     "Immanent/DailyNotes/2022/2022-11-10.md",
     "Immanent/DailyNotes/2022-11-09.md",
@@ -138,7 +145,6 @@
     "Immanent/DailyNotes/2022/2022-10-31.md",
     "Immanent/DailyNotes/2022-11-07.md",
     "Immanent/Projects/Lunar Punk Labs/LPL market hypothesis.md",
-    "Immanent/DailyNotes/2022/2022-11-03.md",
-    "Immanent/DailyNotes/2022/2022-10-30.md"
+    "Immanent/DailyNotes/2022/2022-11-03.md"
   ]
 }
