@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "3fe7cc52f332bf27",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bc8ae46203c61970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Owens advice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Owens advice.md",
+                "file": "Immanent/WorkBench/Unenclosable Regenerative Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Owens advice.md",
+                "file": "Immanent/WorkBench/Unenclosable Regenerative Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,8 +134,9 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "bc8ae46203c61970",
+  "active": "c496aedbc556ab79",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Owens advice.md",
     "Immanent/WorkBench/Unenclosable Regenerative Markets.md",
     "Immanent/DailyNotes/2022/2022-11-03.md",
     "Immanent/DailyNotes/2022/2022-10-27.md",
@@ -162,7 +145,6 @@
     "Immanent/DailyNotes/2022/2022-10-30.md",
     "Immanent/DailyNotes/2022/2022-10-31.md",
     "Immanent/DailyNotes/2022/2022-11-30.md",
-    "Immanent/DailyNotes/2022/2022-10-02.md",
-    "Immanent/DailyNotes/2022-11-07.md"
+    "Immanent/DailyNotes/2022/2022-10-02.md"
   ]
 }
