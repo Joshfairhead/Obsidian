@@ -14,7 +14,7 @@ Before we jump into solutions - which are often unfalsifiable value assertions -
 
 Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set are alpha investors and the second beta investors. The former have a high risk appetite and the latter a low risk appetite. One set of participants seeks to beat the market and the other seeks to 'be' the market. 
 
-In order to animate these actors; let's characterise the alpha investors as hedge funds and the beta investors as pension funds. We notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. These interestes drive market activity. 
+In order to animate these actors; let's characterise our alpha investors as hedge funds and the beta investors as pension funds. We notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. These interestes drive market activity. 
 
 #### Trends
 A second assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but most generally speaking they are degenerative commodities like fossil fuels that are stuck below ground. If these resources are extracted the outcome will lead to planetary rent dissipation. Consequentially they must stay there.
