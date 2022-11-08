@@ -14,12 +14,12 @@ Before we jump into solutions - which are often unfalsifiable value assertions -
 
 Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set are alpha investors and the second beta investors. The former have a high risk appetite and the latter a low risk appetite. One set of participants seeks to beat the market and the other seeks to 'be' the market. 
 
-In order to animate these actors; let's characterise our alpha investors as hedge funds and the beta investors as pension funds. We notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. These interestes drive market activity. 
+In order to animate these actors; let's characterise our alpha investors as hedge funds and our beta investors as pension funds. We notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. These core interestes of cost / risk / benefit drive market activity. 
 
 #### Trends
 A second assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but most generally speaking they are degenerative commodities like fossil fuels that are stuck below ground. If these resources are extracted the outcome will lead to planetary rent dissipation. Consequentially they must stay there.
 
-Since such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment. These funds are essentially stuck with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as a means. One might say this is charateristic of society writ large. 
+Since such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as these funds are essentially stuck with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as a means. One might say this is charateristic of society writ large. 
 
 As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both ethical and profitable. What becomes evidant here is that investors actually want to change and there is demand for it - the market is just lacking on the supply side of the equation.
 
