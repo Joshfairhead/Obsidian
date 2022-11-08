@@ -28,7 +28,9 @@ Provisioning appropriate divestment options will require the opening of new mark
 
 Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
 
-Example measurements with the potential for aggrigation might include GIS data, bio-acoustic measurements like birds per minuite, nutritient density via brix values or qualitive surveys like communities within a given ecosystem. Our concern then becomes aggrigating these measures into a vehicle that market participants will accept! 
+Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. As these measures on their own have little value  concern consequentially becomes aggrigating these measures into a vehicle that market participants will accept! 
+
+
 
 Beta investors - with their low tolerance for risk - will prefer the security of noun like instruments due to their volitility. In many respects the natural capital paradigm feels pretty appropriate for these parties as static commodities do not fluctuate in price as widely as a living system might. Commodity credits like this already have traction.
 
