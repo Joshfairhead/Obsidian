@@ -26,9 +26,9 @@ As always, there is a deal of controversy about the efficacy of such values but 
 #### Pathways
 Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such products to be trusted, value chain auditability will be required.
 
-Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; integrals that emerge from the aggrigation of many verb like interactions. To make such current-sees explicit, we need to measure the system across time. 
+Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
 
-Grounding things with a few examples we might measure eco-state through GIS data, bio-acoustic measurements like birds per minuite, nutritient density via brix values or qualitive surveys like communities within a given ecosystem. Our concern then becomes aggrigating these measures into a vehicle that market participants will accept! 
+Example measurements with the potential for aggrigation might include GIS data, bio-acoustic measurements like birds per minuite, nutritient density via brix values or qualitive surveys like communities within a given ecosystem. Our concern then becomes aggrigating these measures into a vehicle that market participants will accept! 
 
 Beta investors - with their low tolerance for risk - will prefer the security of noun like instruments due to their volitility. In many respects the natural capital paradigm feels pretty appropriate for these parties as static commodities do not fluctuate in price as widely as a living system might. Commodity credits like this already have traction.
 
