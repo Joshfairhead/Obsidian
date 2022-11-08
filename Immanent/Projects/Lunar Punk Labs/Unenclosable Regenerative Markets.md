@@ -21,10 +21,10 @@ A second assumption is that there are $5T of stranded assets that are traded on 
 
 Since such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as these funds are essentially stuck with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as a means. One might say this is charateristic of society at large. 
 
-As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both ethical and profitable; ESG's will suffice as a general huristic with degrees of traction. However, what actually becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Simply put they lack supply.
+As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both ethical and profitable; ESG's will suffice as a general huristic with degrees of traction. However, what actually becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
 #### Pathways
-Provisioning high integrity divestment options will require new markets and along with them a new set of market makers with a completely different mentality from what we have seen before. Instead of externalising costs as entrapeneurs have traditionally done these market makers will need to work on supplying products that internalise values instead. For such complex products to be trusted however, legibility of the value chain will be required.
+Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have traditionally done these market makers will need to work on supplying products that internalise values instead. For such complex products to be trusted however, legibility of the value chain will be required.
 
 If we look at economics in terms of nouns and verbs; the internalisation of values can take two primary forms - capital and curret-sees. Capital might be framed as a noun like wholes; integrals that emerge from an aggrigation of verb like interactions aka current-sees. These implicit flows are made explicit by measuring the dynamic and adaptive state of a system and taking snapshots across time as the values change. 
 
@@ -59,3 +59,5 @@ As this mechanism is an aggrigation over time it is subject to volitility and so
 
 
 
+---
+This is an innovation chasm ripe for blue funds who wish to bridge the transition by making use of scientific and technological means. 
