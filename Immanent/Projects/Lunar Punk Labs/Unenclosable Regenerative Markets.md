@@ -30,7 +30,7 @@ Looking at economics in terms of nouns and verbs the internalisation of values a
 
 Beta investors - with their low tolerance for risk - will prefer the security of noun like instruments due to their volitility. In many respects the natural capital paradigm feels pretty appropriate for these parties as static commodities do not fluctuate in price as widely as a living system might. Commodity credits like this already have traction.
 
-Hedge funds however are unsatisfied as there is little speculative alpha that can be captured due to the instruments stability; they need something more complex and volitile. How do we create forms of living capital? 
+Hedge funds however are generally unsatisfied by such instruments as there is little speculative alpha that can be captured from such stability; they want something more with a  risk/reward ratio. 
 
 The key here is in valuing the verbs; flows and measures that are variable and dynamic in their nature. Keeping one eye on our goal of regenerative transformation we might direct the other half of our attention to proxy measures like organic biomass, bird song in the atmosphere, nutrient density of the crops and so forth. When we enumerate such values they take on such a hetrogeneity of forms that we find ourselves drowing in complexity. 
 Consequentially there is need for a standardised ontology to integrate them all which is where distributed monitoring, reporting and verification (dMRV) becomes applicable.
