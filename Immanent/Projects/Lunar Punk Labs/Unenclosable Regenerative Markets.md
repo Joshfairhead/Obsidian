@@ -24,9 +24,7 @@ Since such commodities have no intrinsic value and will soon need to be 'struck 
 As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both ethical and profitable; ESG's will suffice as a general huristic with degrees of traction. However, what actually becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Simply put they lack supply.
 
 #### Pathways
-Provisioning high integrity divestment options will require new markets and along with them a new set of market makers with a completely different mentality from what we have seen before. Instead of externalising costs as entrapeneurs have traditionally done these market makers will need to work on supplying products that internalise values instead. They will need to do so provably
-
-This is an innovation chasm ripe for blue funds who wish to bridge the transition by making use of scientific and technological means. 
+Provisioning high integrity divestment options will require new markets and along with them a new set of market makers with a completely different mentality from what we have seen before. Instead of externalising costs as entrapeneurs have traditionally done these market makers will need to work on supplying products that internalise values instead. For such complex products to be trusted however, legibility of the value chain will be required.
 
 If we look at economics in terms of nouns and verbs; the internalisation of values can take two primary forms - capital and curret-sees. Capital might be framed as a noun like wholes; integrals that emerge from an aggrigation of verb like interactions aka current-sees. These implicit flows are made explicit by measuring the dynamic and adaptive state of a system and taking snapshots across time as the values change. 
 
