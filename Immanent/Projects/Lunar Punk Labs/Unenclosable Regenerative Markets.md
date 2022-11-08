@@ -30,7 +30,7 @@ Looking at economics in terms of nouns and verbs the internalisation of values a
 
 Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. As these measures on their own have little value except as data, our concern becomes aggrigating these flows into a vehicle that our market participants will accept! 
 
-Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as the Natural Capital paradigm is already established and the commodities do not fluctuate in price as widely as a living system might. 
+Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as the Natural Capital paradigm is already established the design of such instrumentsis is not as complex as if it might be if living system might. 
 
 Hedge funds however are generally unsatisfied by such instruments as there is little speculative alpha that can be captured from such stability; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs.
 
