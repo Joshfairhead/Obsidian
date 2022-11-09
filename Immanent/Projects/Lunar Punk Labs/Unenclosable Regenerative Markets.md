@@ -19,7 +19,7 @@ In order to animate these actors; let's characterise our alpha investors as hedg
 #### Trends
 A second assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but most generally speaking they are degenerative commodities like fossil fuels that are stuck below ground. If these resources are extracted the outcome will lead to planetary rent dissipation. Consequentially they must stay there.
 
-Since such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as these funds are essentially stuck with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as a means. One might say this is charateristic of society at large. 
+Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as these funds are essentially stuck with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as a means. One might say this is charateristic of society at large. 
 
 As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both ethical and profitable; ESG's will suffice as a general huristic with degrees of traction. However, what actually becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
@@ -39,7 +39,14 @@ Hedge funds however are generally unsatisfied by such instruments as there is li
 The key here is in valuing the verbs; flows and measures that are variable and dynamic in their nature. Keeping one eye on our goal of regenerative transformation we might direct the other half of our attention to proxy measures like organic biomass, bird song in the atmosphere, nutrient density of the crops and so forth. When we enumerate such values they take on such a hetrogeneity of forms that we find ourselves drowing in complexity. 
 Consequentially there is need for a standardised ontology to integrate them all which is where distributed monitoring, reporting and verification (dMRV) becomes applicable.
 
-#### Ontologies
+
+
+
+
+
+
+
+## Ontologies
 Theoretically any form of measurement can be encapsulated by such a schema; be they qualitive social values or quantitive mechanistic values - it doesn't really matter as far as the schema is concerned. We might consider it a very low level 'API' interface. 
 
 Still, just becase our measures have been articulated doesn't mean that they have been accounted for. To gain legitimacy in the traditional system these measures will need to be evaluated in conformance to exogonous parameters like the books of an accountant. At this point we probably need a higher level ontology thats instutionally recognised such as REA accounting. This enables the instutional evaluation of our dMRV measurements. 
