@@ -1,7 +1,9 @@
 [[LPL market hypothesis]]
 
 ## Introduction
-This essay seeks to express a means of transforming financial capital from a quantifier that externalises its costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity. 
+This essay seeks to express a means of transforming financial capital from a quantifier that externalises its costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
+
+Tools to introduce
 
 The essay puts forth a case that this measure is the perfect investment vehicle for reshaping the market landscape. In essence it asserts that we can harness speculation to divest humanity out of a debt based economic system into a thriving regenerative ecology. Attempts to extract value from this transformative system will ultimatly result in postive externalities and realise locked potential. It is therefore an antifragile market mechanism that cannot be captured by the extractive nature of capitalism.
 
