@@ -3,7 +3,7 @@
 ## Introduction
 This essay seeks to express a means of transforming financial capital from a quantifier that externalises it's costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an exestential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity. 
 
-The essay puts forth a case that this measure is the perfect investment vehicle for reshaping the market landscape. In essence I'm asserting that we can harnesses greed and speculation to divest humanity out of a debt based economic system into a thriving regenerative ecology. Attempts to extract value from the system will ultimatly result in postive externalities and realise locked potential. It is therefore an antifragile market mechanism that cannot be captured by the extractive nature of capitalism.
+The essay puts forth a case that this measure is the perfect investment vehicle for reshaping the market landscape. In essence it asserts that we can harnesses speculation to divest humanity out of a debt based economic system into a thriving regenerative ecology. Attempts to extract value from this transformative system will ultimatly result in postive externalities and realise locked potential. It is therefore an antifragile market mechanism that cannot be captured by the extractive nature of capitalism.
 
 ## Market Hypothesis
 Before we jump into solutions - which are often unfalsifiable value assertions - we must first examine and expound our a priori assumptions about the financial system. By negating these we may see what emerges to becomes self-evident; only then might we deem a solution adequite.
