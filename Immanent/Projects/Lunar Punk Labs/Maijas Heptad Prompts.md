@@ -1,5 +1,4 @@
 
-
 **Insight/Ask/Viewpoint** _Initiation_ - How can we ensure equitable outcomes for the long tail? 
 - Potential stored in the long tail 70%
 - By hedging aginst existential risk; insurance

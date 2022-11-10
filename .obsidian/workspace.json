@@ -26,18 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e913e068c0d72a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/Maijas Heptad Prompts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c4a1c28dada1808d",
             "type": "leaf",
             "state": {
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
+                "file": "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
+                "file": "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,12 +152,12 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "c496aedbc556ab79",
+  "active": "c4a1c28dada1808d",
   "lastOpenFiles": [
     "Immanent/Projects/Lunar Punk Labs/Maijas Heptad Prompts.md",
+    "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
     "Immanent/DailyNotes/2022/2022-11-10.md",
     "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs.md",
-    "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
     "Trancendental/Evergreen Forrest/I got a halo round my head.md",
     "Immanent/DailyNotes/2022-11-09.md",
     "Immanent/Projects/Lunar Punk Labs/Accelerating transformation with applied calculus.md",
