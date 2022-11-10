@@ -32,6 +32,8 @@ Looking at economics in terms of nouns and verbs the internalisation of values a
 
 Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. As these measures on their own have little value except as data, our concern becomes aggrigating these flows into a vehicle that our market participants will accept! 
 
+`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">the opportunity dMeter provides is the ability for us to coordinate on where and how we upload data from all those types of dMRV, in a way we can cross-reference and corroborate data sources<br><br>How this data might interact with regen data module is what we want to dive into</p>&mdash; 𝐒𝐞𝐯 🌱 (@SevNightingale) <a href="https://twitter.com/SevNightingale/status/1590400100362510337?ref_src=twsrc%5Etfw">November 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such a  instrument is more predictable and mechanistic than one representive of a living ecosystem. 
 
 Hedge funds however are generally unsatisfied by such instruments as there is little speculative alpha that can be captured from such stability; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs.
