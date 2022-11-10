@@ -34,13 +34,33 @@ Example measurements with the potential for aggrigation might include GIS data, 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than one representive of a living ecosystem. 
 
-Alpha investors, however, will be generally unsatisfied by products that have little speculative alpha; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs. Essentially, they want something they can bet on. 
+Alpha investors, however, will be generally unsatisfied by products that have little speculative alpha; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs. Essentially, they want financial products that they can speculate on. 
 
-Designing for these entities is one of the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
 
+
+
+
+
+# Technology
 
 
 The key here is in valuing the verbs; flows and measures that are variable and dynamic in their nature. Keeping one eye on our goal of regenerative transformation we might direct the other half of our attention to proxy measures like organic biomass, bird song in the atmosphere, nutrient density of the crops and so forth. When we enumerate such values they take on such a hetrogeneity of forms that we find ourselves drowing in complexity. 
