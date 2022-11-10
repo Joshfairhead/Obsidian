@@ -34,7 +34,7 @@ Example measurements with the potential for aggrigation might include GIS data, 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such a  instrument is more predictable and mechanistic than one representive of a living ecosystem. 
 
-Alpha investors however are not generally satisfied by products that have a low reward opportunit instruments as there is little speculative alpha that can be captured from such stability; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs.
+Alpha investors, however, will be generally unsatisfied by products that have little speculative alpha; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs. This demands  products that will be 
 
 
 
