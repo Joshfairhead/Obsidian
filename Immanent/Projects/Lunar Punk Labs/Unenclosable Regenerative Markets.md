@@ -30,24 +30,23 @@ Provisioning appropriate divestment options will require the opening of new mark
 
 Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; as integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline.  
 
-Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. 
+Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept:
+
+Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such a  instrument is more predictable and mechanistic than one representive of a living ecosystem. 
+
+Alpha investors however are not generally satisfied by products that have a low reward opportunit instruments as there is little speculative alpha that can be captured from such stability; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs.
+
+
+
+The key here is in valuing the verbs; flows and measures that are variable and dynamic in their nature. Keeping one eye on our goal of regenerative transformation we might direct the other half of our attention to proxy measures like organic biomass, bird song in the atmosphere, nutrient density of the crops and so forth. When we enumerate such values they take on such a hetrogeneity of forms that we find ourselves drowing in complexity. 
+Consequentially there is need for a standardised ontology to integrate them all which is where distributed monitoring, reporting and verification (dMRV) becomes applicable.
+
 
 > [Here are some categories of sensor-flows from Sev](https://twitter.com/SevNightingale/status/1590399397090951173?s=20&t=TBEM1y7EUC5nDhizNLrWkA):
 > 1. human-sensing (mobile phone images, self reported data) 
 > 2. sky-sensing (drones, aerial, sattelite) 
 > 3. remote-sensing (IOT sensors & devices) 
 > 4. reputation-sensing (Identity, community trust)
-
-These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept:
-
-Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such a  instrument is more predictable and mechanistic than one representive of a living ecosystem. 
-
-Hedge funds however are generally unsatisfied by such instruments as there is little speculative alpha that can be captured from such stability; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs.
-
-
-
-The key here is in valuing the verbs; flows and measures that are variable and dynamic in their nature. Keeping one eye on our goal of regenerative transformation we might direct the other half of our attention to proxy measures like organic biomass, bird song in the atmosphere, nutrient density of the crops and so forth. When we enumerate such values they take on such a hetrogeneity of forms that we find ourselves drowing in complexity. 
-Consequentially there is need for a standardised ontology to integrate them all which is where distributed monitoring, reporting and verification (dMRV) becomes applicable.
 
 
 
@@ -60,6 +59,12 @@ Consequentially there is need for a standardised ontology to integrate them all 
 Theoretically any form of measurement can be encapsulated by such a schema; be they qualitive social values or quantitive mechanistic values - it doesn't really matter as far as the schema is concerned. We might consider it a very low level 'API' interface. 
 
 Still, just becase our measures have been articulated doesn't mean that they have been accounted for. To gain legitimacy in the traditional system these measures will need to be evaluated in conformance to exogonous parameters like the books of an accountant. At this point we probably need a higher level ontology thats instutionally recognised such as REA accounting. This enables the instutional evaluation of our dMRV measurements. 
+
+> [Here are some categories of sensor-flows from Sev](https://twitter.com/SevNightingale/status/1590399397090951173?s=20&t=TBEM1y7EUC5nDhizNLrWkA):
+> 1. human-sensing (mobile phone images, self reported data) 
+> 2. sky-sensing (drones, aerial, sattelite) 
+> 3. remote-sensing (IOT sensors & devices) 
+> 4. reputation-sensing (Identity, community trust)
 
 We are nearly there; let's take in the view from this pleatau before carrying on up the mountain. We have a means to aggrigate measurements in the form of dMRV and we have a means to evaluate these measurements through REA accounting. The question that leads us to our mountains summit becomes; what do we evaluate our measurements against? 
 
