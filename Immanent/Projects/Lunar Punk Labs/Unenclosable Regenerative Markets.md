@@ -30,14 +30,15 @@ Provisioning appropriate divestment options will require the opening of new mark
 
 Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
 
-Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. As these measures on their own have little value except as data, our concern becomes aggrigating these flows into a vehicle that our market participants will accept! 
+Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. 
 
-> Some examples of sensor-flows from Sev
-> https://twitter.com/SevNightingale/status/1590399397090951173?s=20&t=TBEM1y7EUC5nDhizNLrWkA
+> [Categories of sensor-flows from Sev](https://twitter.com/SevNightingale/status/1590399397090951173?s=20&t=TBEM1y7EUC5nDhizNLrWkA):
 > 1. human-sensing (mobile phone images, self reported data) 
 > 2. sky-sensing (drones, aerial, sattelite) 
 > 3. remote-sensing (IOT sensors & devices) 
 > 4. reputation-sensing (Identity, community trust)
+
+As these measures on their own have little value except as data, our concern becomes aggrigating these flows into a vehicle that our market participants will accept! 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such a  instrument is more predictable and mechanistic than one representive of a living ecosystem. 
 
