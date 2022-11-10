@@ -26,13 +26,13 @@ Such commodities have no intrinsic value and will soon need to be 'struck off' t
 As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both ethical and profitable; ESG's will suffice as a general huristic with degrees of traction. However, what actually becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
 #### Pathways
-Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such vehicles to be trusted value chain auditability will be required.
+Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such financial products to be trusted, value chain auditability will be required.
 
-Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
+Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; as integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
 
 Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. 
 
-> [Categories of sensor-flows from Sev](https://twitter.com/SevNightingale/status/1590399397090951173?s=20&t=TBEM1y7EUC5nDhizNLrWkA):
+> [Here are some categories of sensor-flows from Sev](https://twitter.com/SevNightingale/status/1590399397090951173?s=20&t=TBEM1y7EUC5nDhizNLrWkA):
 > 1. human-sensing (mobile phone images, self reported data) 
 > 2. sky-sensing (drones, aerial, sattelite) 
 > 3. remote-sensing (IOT sensors & devices) 
