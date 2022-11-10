@@ -36,6 +36,8 @@ Beta investors, with their lower risk tolerance - will prefer the security of no
 
 Alpha investors, however, will be generally unsatisfied by products that have little speculative alpha; they want something more with a greater asymetry in the risk/reward ratio and the potential for higher ROIs. Essentially, they want something they can bet on. 
 
+Designing for these entities is one of the 
+
 ---
 
 
