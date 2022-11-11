@@ -34,7 +34,9 @@ Example measurements with the potential for aggrigation might include GIS data, 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than a product truely representing the health of a living ecosystem. 
 
-Alpha investors will generally be unsatisfied by the simplicity of noun like products; they hunt volitility in order to realise potential into profit. This trait of potential actualisation is desirable for regen markets as it's a mechanism that can be harnessed. From the perspective of economics, lets ask ourselves;  most potential stored? The economic long tail. 
+Alpha investors will generally be unsatisfied by the simplicity of noun like products; they hunt volitility in order to realise potential into profit. This trait of potential actualisation is desirable for regen markets as it's a mechanism that can be harnessed. From an economic perspective lets simply ask ourselves; where is the most unrealised human potential? The poor and unbanked. 
+
+
 
 This fact is not out of congruence with regeneration 
 
