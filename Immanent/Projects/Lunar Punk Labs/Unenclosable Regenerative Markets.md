@@ -34,9 +34,9 @@ Example measurements with the potential for aggrigation might include GIS data, 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than one representive of a living ecosystem. 
 
-Alpha investors on the other hand will generally be unsatisfied by noun like products as they have little speculative alpha; these investors want an instrument with greater asymetry in the risk/reward ratio and higher potential for ROIs. From the perspective of building transformative financial products, risk and volitility will need to be baked in. Let us ask ourselves - when it comes to regeneration and environmental stewardship - where is the most potential stored?
+Alpha investors on the other hand will generally be unsatisfied by noun like products as they have little speculative alpha; these investors want an instrument with greater asymetry in the risk/reward ratio and higher potential for ROIs. From the perspective of building transformative financial products, risk and volitility will need to be baked in. Let us ask ourselves - when it comes to the ESGs of Environmental, Social and Governonce - from where can potential be sourced? 
 
-
+At this point we depart into socio-political territory. 
 
 
 
