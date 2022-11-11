@@ -38,7 +38,10 @@ Alpha investors will generally be unsatisfied by the simplicity of noun like pro
 
 Improving our ESG heuristic to a finer degree of resolution we can infer the values of Justice, Equity, Diversity and Inclusion. The two former terms are social values and the latter two are governance oriented. Since we are relying on such heuristics  to financialise the regenerative activity of people and place (through the production of protocols) it becomes desirable for a vehicle to not only mitigate it's eco-socio-policical costs but to also generate and harmonise community values.  
 
-Unlike facts, values are contentious and their discussion will subsequently generate volitility, change and transform. As mentioned, this is a desirable trait for our alpha investors. 
+Unlike facts, values are contentious and their discussion will generate volitility by driving change and transformation. As mentioned, this is a desirable trait for our alpha investors. The question becomes how they can harness this 
+
+
+
 
 mitigating costs; risk and volitility will need to be baked into the design of any truely Regenerative financial product because its in the nature of both the markets and transformation itself. 
 
