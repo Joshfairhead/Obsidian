@@ -36,9 +36,9 @@ Beta investors, with their lower risk tolerance - will prefer the security of no
 
 Alpha investors will generally be unsatisfied by the simplicity of noun like products; they hunt volitility in order to realise potential into profit. This trait of potential actualisation is desirable for regen markets as it's a mechanism that can be harnessed. From an economic perspective lets simply ask ourselves; where is the most unrealised potential? The long tail of environmental, social and governance causes.  
 
-Improving our ESG heuristic to a finer degree of resolution we can infer the values of Justice, Equity, Diversity and Inclusion. The two former terms are social values and the latter two are governance oriented. Since we are relying on such heuristics  to financialise the regenerative activity of people and place (through the production of protocols) it becomes desirable for a vehicle to not only mitigate it's costs but also harmonise values. 
+Improving our ESG heuristic to a finer degree of resolution we can infer the values of Justice, Equity, Diversity and Inclusion. The two former terms are social values and the latter two are governance oriented. Since we are relying on such heuristics  to financialise the regenerative activity of people and place (through the production of protocols) it becomes desirable for a vehicle to not only mitigate it's eco-socio-policical costs but to also generate and harmonise values. 
 
-
+- Unlike facts, values are contentious
 
 mitigating costs; risk and volitility will need to be baked into the design of any truely Regenerative financial product because its in the nature of both the markets and transformation itself. 
 
