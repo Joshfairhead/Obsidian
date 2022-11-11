@@ -36,7 +36,7 @@ Beta investors, with their lower risk tolerance - will prefer the security of no
 
 Alpha investors on the other hand will generally be unsatisfied by these noun like products as they have little speculative alpha; these investors want an instrument with greater asymetry in the risk/reward ratio due to their higher potential for ROIs. While mitigating costs; risk and volitility will need to be baked into the design of any truely Regenerative financial product because its in the nature of both the markets and transformation itself. 
 
-Now, recalling our investors are looking towards socio-political heuristics like ESGs - how can we harness markets to actualise the most unrealised potential according to their own critera? Getting more precice with the ES
+Now, recalling our investors are looking towards socio-political heuristics like ESGs - how can we harness markets to actualise the most unrealised potential according to their own critera? Abstracting the ESGs heuristics an  level of granularity
 
 
 
