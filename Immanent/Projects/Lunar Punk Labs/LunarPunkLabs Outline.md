@@ -8,7 +8,7 @@ Related:
 - [[LPL market hypothesis]]
 - [[Unenclosable Regenerative Markets]]
 
-## Operations, marketing and finance ![[Operations, marke and Finance]]
+## Operations, marketing and finance ![[Operations, marketing and finance]]
 
 ---
 

@@ -1,4 +1,4 @@
 # RND Org Structure Index
-![[Operations]]
+![[Immanent/Projects/Archive/Regen Foundation/Index/Org structure/RND/Operations]]
 ![[Communications]]
 ![[Engineering]]
