@@ -4,6 +4,7 @@ Tags: [entities]
 Related: 
 # LunarPunk_Labs INDEX
 - [Site](http:www.lunarpunklabs.org)
+- [[Semantic Landscape]]
 - [[LPL market hypothesis]]
 - [[Unenclosable Regenerative Markets]]
 
