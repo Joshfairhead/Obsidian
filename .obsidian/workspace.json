@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Fund Raising.md",
+                "file": "Immanent/WorkBench/Operations and Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Fund Raising.md",
+                "file": "Immanent/WorkBench/Operations and Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,10 +158,10 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "fb613fd4055d9c11",
+  "active": "d0318247e32aaaea",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Operations and Finance.md",
     "Immanent/WorkBench/Fund Raising.md",
+    "Immanent/WorkBench/Operations and Finance.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
