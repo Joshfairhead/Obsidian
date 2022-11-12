@@ -11,10 +11,13 @@ Related:
 ## Operations, marketing and finance ![[Operations, marketing and finance]]
 
 %%
+- What, who, why
+- Methodology dev
+- Semantic Facillitation
+- Ontological design
+- [[Owens advice]]
 
 
-### Alternative Triples
-- People, Projects, Protocols
 %%
 --- 
 %%
