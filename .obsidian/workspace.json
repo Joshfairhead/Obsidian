@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "1191f66146ddb7eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591da3f9019d0522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2108b5cbe963895d",
             "type": "leaf",
             "state": {
@@ -67,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,12 +207,12 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "d0318247e32aaaea",
+  "active": "1191f66146ddb7eb",
   "lastOpenFiles": [
     "Immanent/WorkBench/Operations, marketing and finance.md",
     "Immanent/WorkBench/Operations.md",
-    "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/Sourcing Finance.md",
+    "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
     "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
     "Immanent/WorkBench/Untitled.md",
