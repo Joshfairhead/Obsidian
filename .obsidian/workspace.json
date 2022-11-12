@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Operations, marketing and finance.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Operations, marketing and finance.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,17 +183,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "f23afe4a7fc8479c",
+  "active": "1191f66146ddb7eb",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Marketing.md",
-    "Immanent/WorkBench/Operations, marketing and finance.md",
+    "Immanent/DailyNotes/2022-11-12.md",
     "Immanent/WorkBench/Operations.md",
+    "Immanent/WorkBench/Operations, marketing and finance.md",
+    "Immanent/WorkBench/Marketing.md",
     "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
     "Immanent/WorkBench/Projects.md",
     "Immanent/WorkBench/Facilitators.md",
     "Immanent/WorkBench/Expert Advisors.md",
-    "Immanent/WorkBench/Sourcing Finance.md",
-    "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md"
+    "Immanent/WorkBench/Sourcing Finance.md"
   ]
 }
