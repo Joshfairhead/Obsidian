@@ -11,16 +11,6 @@ Related:
 ## Operations, marketing and finance ![[Operations, marketing and finance]]
 
 %%
-- What, who, why
-- Methodology dev
-- Semantic Facillitation
-- Ontological design
-- [[Owens advice]]
-
-
-%%
---- 
-%%
 ## Needs and tasks
 - [ ] Scope uncertainty (triple of LPL)
 - [ ] Card titles and copy (triples of LPL)
