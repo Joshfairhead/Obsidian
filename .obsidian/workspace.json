@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Expert Advisors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Expert Advisors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,17 +159,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "d0318247e32aaaea",
+  "active": "d2059b9a3d2fc5ad",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Expert Advisors.md",
     "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
+    "Immanent/WorkBench/Facilitators.md",
+    "Immanent/WorkBench/Expert Advisors.md",
     "Immanent/WorkBench/Projects.md",
     "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
     "Immanent/WorkBench/LPL Outline.md",
     "Immanent/Projects/Lunar Punk Labs/Maijas Heptad Prompts.md",
     "Immanent/DailyNotes/2022/2022-11-10.md",
-    "Trancendental/Evergreen Forrest/I got a halo round my head.md",
-    "Immanent/DailyNotes/2022-11-09.md"
+    "Trancendental/Evergreen Forrest/I got a halo round my head.md"
   ]
 }
