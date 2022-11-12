@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/Marketing.md",
+                "file": "Immanent/WorkBench/Operations, marketing and finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Marketing.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Marketing.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,12 +183,12 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "70d83c6894ad5deb",
+  "active": "1191f66146ddb7eb",
   "lastOpenFiles": [
-    "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
-    "Immanent/WorkBench/Marketing.md",
     "Immanent/WorkBench/Operations, marketing and finance.md",
     "Immanent/WorkBench/Operations.md",
+    "Immanent/WorkBench/Marketing.md",
+    "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/Projects.md",
     "Immanent/WorkBench/Facilitators.md",
     "Immanent/WorkBench/Expert Advisors.md",
