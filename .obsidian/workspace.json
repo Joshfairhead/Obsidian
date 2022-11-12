@@ -44,43 +44,12 @@
             }
           },
           {
-            "id": "2cabb2116b0a0b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Marketing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c496aedbc556ab79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c746966e23b0c993",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1850a9e27d22a584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Tasks.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Tasks.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,14 +170,14 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "1850a9e27d22a584",
+  "active": "70d83c6894ad5deb",
   "lastOpenFiles": [
     "Immanent/WorkBench/Operations.md",
-    "Immanent/WorkBench/Tasks.md",
+    "Immanent/WorkBench/Marketing.md",
+    "Immanent/Projects/LunarPunk_Labs/Tasks.md",
     "Immanent/WorkBench/Operations, marketing and finance.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Outline.md",
     "Immanent/DailyNotes/2022-11-12.md",
-    "Immanent/WorkBench/Marketing.md",
     "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
     "Immanent/WorkBench/Projects.md",
     "Immanent/WorkBench/Facilitators.md",
