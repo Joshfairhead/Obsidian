@@ -7,11 +7,8 @@ Related:
 - [[LunarPunk Semantic Landscape]]
 - [[LPL market hypothesis]]
 - [[Unenclosable Regenerative Markets]]
-- [[Operations and Finance]]
 
---- 
-
-
+## Operations and Finance ![[Operations and Finance]]
 
 ---
 
