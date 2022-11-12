@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2cabb2116b0a0b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1191f66146ddb7eb",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
+                "file": "Immanent/WorkBench/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
+                "file": "Immanent/WorkBench/Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,12 +183,12 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "d0318247e32aaaea",
+  "active": "2cabb2116b0a0b85",
   "lastOpenFiles": [
     "Immanent/WorkBench/Operations, marketing and finance.md",
+    "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/Operations.md",
     "Immanent/WorkBench/Marketing.md",
-    "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/Projects.md",
     "Immanent/WorkBench/Facilitators.md",
     "Immanent/WorkBench/Expert Advisors.md",

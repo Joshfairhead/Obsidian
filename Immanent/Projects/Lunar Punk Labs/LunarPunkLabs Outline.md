@@ -8,15 +8,10 @@ Related:
 - [[LPL market hypothesis]]
 - [[Unenclosable Regenerative Markets]]
 
-## Operations, marketing and finance ![[Operations, marketing and finance]
+## Operations, marketing and finance ![[Operations, marketing and finance]]
 
 %%
-#### Unique Selling Point
-- What, who, why
-- Methodology dev
-- Semantic Facillitation
-- Ontological design
-- [[Owens advice]]
+
 
 ### Alternative Triples
 - People, Projects, Protocols
