@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fb613fd4055d9c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Fund Raising.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c496aedbc556ab79",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Operations and Finance.md",
+                "file": "Immanent/WorkBench/Fund Raising.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Operations and Finance.md",
+                "file": "Immanent/WorkBench/Fund Raising.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +159,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "d0318247e32aaaea",
+  "active": "fb613fd4055d9c11",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Operations and Finance.md",
+    "Immanent/WorkBench/Fund Raising.md",
+    "Immanent/WorkBench/Untitled.md",
     "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
     "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
     "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
     "Immanent/WorkBench/Projects Experts Facilitators.md",
     "Immanent/WorkBench/Expert Advisors.md",
     "Immanent/WorkBench/Facilitators.md",
-    "Immanent/WorkBench/Projects.md",
-    "Immanent/WorkBench/LPL Outline.md",
-    "Immanent/Projects/Lunar Punk Labs/Maijas Heptad Prompts.md",
-    "Immanent/DailyNotes/2022/2022-11-10.md"
+    "Immanent/WorkBench/Projects.md"
   ]
 }
