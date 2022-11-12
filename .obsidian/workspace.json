@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Marketing.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Marketing.md",
+                "file": "Immanent/WorkBench/Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,12 +183,12 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "2cabb2116b0a0b85",
+  "active": "1191f66146ddb7eb",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Marketing.md",
     "Immanent/WorkBench/Operations, marketing and finance.md",
     "Immanent/WorkBench/LunarPunk Semantic Landscape.md",
     "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
-    "Immanent/WorkBench/Marketing.md",
     "Immanent/WorkBench/Operations.md",
     "Immanent/WorkBench/Projects.md",
     "Immanent/WorkBench/Facilitators.md",
