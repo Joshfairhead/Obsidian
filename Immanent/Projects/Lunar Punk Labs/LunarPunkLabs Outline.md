@@ -7,8 +7,8 @@ Related:
 
 ## Community triple: Projects, Experts, Facillitators
 
-### **Projects**: 
-- Regen networks 
+#### **Project possibilities**: 
+- CsDAOs 
 	- Kulshan Carbon Trust 
 	- Smart Agro / Golden Soils
 - ReFi Networks / Channels
@@ -30,7 +30,7 @@ Related:
 		- Common Action / Dream DAO
 			- Knowlege Graphs
 
-### **Experts / Advisors:**
+#### **Experts / Advisors:**
 - Jeremey Agnew; ReFi DAO / Earthshot
 - Robin Duchesneau; ex-Verra / ex-Bitgreen 
 - Regen Science Team (Ned, Tica, Sam, Rebecca, Gisel)
@@ -46,7 +46,7 @@ Related:
 - Fenix Stardust; Biz Dev
 - Letty; Biz Dev
   
-### **Facilitators:**
+#### **Facilitators:**
 - Josh Fairhead
 - Maija Grudule 
 - Rishikes Silva

@@ -13,7 +13,7 @@
 
 **Synthesis/Plan/Characters** _Harmonisation_ - place (new market), practice and stakeholders (team, advisors, partners, network, stewards). 
 
-[[LunarPunkLabs]]
+[[LunarPunkLabs Outline]]
 - Blue funds
 	- Active inference
 	- Markov blankets
@@ -35,7 +35,7 @@
 **Delivery/Test/Symbolism** _Flow state_ - pilot projects/cooperation/workshops/events 
 - Test projects
 	- LEHR Gardens
-	- [[LunarPunkLabs]]
+	- [[LunarPunkLabs Outline]]
 
 **Value/Improve/Setting** _Completion_ - Knowledge base, online/offline network, know how, new market, tokenization of practice
 
