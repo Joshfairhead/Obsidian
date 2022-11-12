@@ -8,15 +8,7 @@ Related:
 - [[LPL market hypothesis]]
 - [[Unenclosable Regenerative Markets]]
 
-## Operations, marketing and finance ![[Operations, marketing and finance]]
-
----
-
-## Branding
-- [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
-- [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1
-- [Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
-- [[LPL Wisdom Wheel]]
+## Operations, marketing and finance ![[Operations, marketing and finance]
 
 %%
 #### Unique Selling Point
