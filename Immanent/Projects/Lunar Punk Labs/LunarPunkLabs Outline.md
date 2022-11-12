@@ -8,8 +8,6 @@ Related:
 - [[LPL market hypothesis]]
 - [[Unenclosable Regenerative Markets]]
 
-## Community triple: Projects, Experts, Facillitators
-
 
 
 --- 
