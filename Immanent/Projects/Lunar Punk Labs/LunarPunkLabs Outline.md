@@ -7,24 +7,11 @@ Related:
 - [[LunarPunk Semantic Landscape]]
 - [[LPL market hypothesis]]
 - [[Unenclosable Regenerative Markets]]
-
-
+- [[Operations and Finance]]
 
 --- 
 
-### **Financing**: 
-- Methodology subscriptions / IP royalties
-- Tokens from consulting on projects (?)
-- Celo Climate Collective 
-	- Ikarus 
-- Cardano Catalyst Fund
-- Parity pools 
-	- Bitgreen
-- Regen community pool 
-- Gitcoin Grants 
-	- ReSci DAO
-	- Refi DAO 
-- xPrize
+
 
 ---
 
