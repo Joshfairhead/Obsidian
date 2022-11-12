@@ -4,6 +4,8 @@ Tags: [entities]
 Related: 
 # LunarPunk_Labs INDEX
 - [Site](http:www.lunarpunklabs.org)
+- [[LPL market hypothesis]]
+- [[Unenclosable Regenerative Markets]]
 
 ## Community triple: Projects, Experts, Facillitators
 
@@ -89,14 +91,7 @@ Related:
 - Methodology dev
 - Semantic Facillitation
 - Ontological design
-
-#### Articulation  
-What is science? Middle out truth claims on reality. 
-- According to Thomas Kuhn, its a community of parctice.
-- According to Karl Popper, it's about explanitory power.
-
-Don't trust; verify. 
-- Supporting and reporting
+- [[Owens advice]]
 
 ### Alternative Triples
 - People, Projects, Protocols

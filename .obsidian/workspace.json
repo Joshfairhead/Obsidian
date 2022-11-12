@@ -8,30 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c496aedbc556ab79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6d5ff09f15253817",
-        "type": "tabs",
-        "children": [
-          {
             "id": "d0318247e32aaaea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c496aedbc556ab79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,9 +148,9 @@
   },
   "active": "d0318247e32aaaea",
   "lastOpenFiles": [
-    "Immanent/WorkBench/LPL Outline.md",
     "Immanent/Projects/Lunar Punk Labs/Unenclosable Regenerative Markets.md",
     "Immanent/Projects/Lunar Punk Labs/LunarPunkLabs Outline.md",
+    "Immanent/WorkBench/LPL Outline.md",
     "Immanent/Projects/Lunar Punk Labs/Maijas Heptad Prompts.md",
     "Immanent/DailyNotes/2022/2022-11-10.md",
     "Trancendental/Evergreen Forrest/I got a halo round my head.md",
