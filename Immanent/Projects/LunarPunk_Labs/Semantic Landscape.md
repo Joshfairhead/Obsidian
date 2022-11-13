@@ -6,9 +6,9 @@
 - Implementation
 
 #### Triad: Dynamic
-- [[Projects]]
-- [[Expert Advisors]]
-- [[Facilitators]]
+- Active: [[Projects]]
+- Passive: [[Expert Advisors]]
+- Reconciling: [[Facilitators]]
 
 #### Tetrad: Action
 - Active inferrence (above unity energy)
