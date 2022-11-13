@@ -27,6 +27,6 @@
 - People
 - Place
 - Protocols
-- Markets
+- [[Markets]]
 - Science
 - Technology
