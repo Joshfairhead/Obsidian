@@ -2,7 +2,9 @@
 - Methodology subscriptions / IP royalties
 - Consulting and customisation (tokens vetted)
 
-## Strategy ![[Operations and Strategy]]---
+## Strategy Overview![[Strategy Overview]]
+---
+## Domain overview
 
 ### Projects![[Projects]]
 ### Expert Advisors ![[Expert Advisors]]
