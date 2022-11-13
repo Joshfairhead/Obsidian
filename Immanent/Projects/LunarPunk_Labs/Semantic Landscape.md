@@ -3,7 +3,7 @@
 
 #### Dyad: Tension / Polarity
 - Research
-- Development
+- Implementation
 
 #### Triad: Dynamic
 - [[Projects]]
