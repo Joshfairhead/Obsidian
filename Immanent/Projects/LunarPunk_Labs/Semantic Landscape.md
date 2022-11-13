@@ -1,11 +1,11 @@
 #### Monad: 
 - Organisational transformation
 
-#### Dyad: Tension / Polarity
+#### Dyad: Xerox Polarity
 - Research
 - Implementation
 
-#### Triad: Dynamic
+#### Triad: Dynamic Council
 - Active: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]]
 - Passive: [[Projects]] - [[Markets]], [[Science]], [[Technology]]
 - Reconciling: [[Processes]] - Culture, Method, Narrative
