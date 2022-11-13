@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,15 +185,15 @@
   },
   "active": "c496aedbc556ab79",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Markets.md",
+    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
+    "Immanent/WorkBench/Finance.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/WorkBench/Markets.md",
     "Immanent/DailyNotes/2022/2022-11-03.md",
     "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
     "Trancendental/Evergreen Forrest/I got a halo round my head.md",
-    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/DailyNotes/2022/2022-11-13.md",
-    "Immanent/DailyNotes/2022/2022-11-15.md",
-    "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md"
+    "Immanent/DailyNotes/2022/2022-11-15.md"
   ]
 }
