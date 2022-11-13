@@ -1,6 +1,6 @@
 ## Projects
 
-Marketing
+#### Operations and Strategy
 - Website Container
 	- About
 		- [[Markets, Science, Technology]]
@@ -9,7 +9,7 @@ Marketing
 	- Blog
 		- [[Unenclosable Regenerative Markets]]
 - White Paper
-- 
+- Lite paper
 
 
 ## Tasks
