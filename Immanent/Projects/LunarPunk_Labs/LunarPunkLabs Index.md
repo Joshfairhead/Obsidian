@@ -1,8 +1,3 @@
----
-Tags: [entities]
----
-Related: 
-# LunarPunk_Labs INDEX
 - [Site](http:www.lunarpunklabs.org)
 - [[LunarPunk Semantic Landscape]]
 - [[LPL market hypothesis]]

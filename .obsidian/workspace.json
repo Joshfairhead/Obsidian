@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Projects.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Projects.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Projects.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "6a25edb9f44c356d",
+  "active": "70d83c6894ad5deb",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/To Do.md",
+    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
+    "Immanent/Projects/LunarPunk_Labs/Projects.md",
     "Immanent/Projects/LunarPunk_Labs/Facilitators.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/WorkBench/LPL Outline.md",
     "Immanent/Projects/LunarPunk_Labs/Expert Advisors.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/DailyNotes/2022/2022-11-13.md",
-    "Immanent/DailyNotes/2022/2022-11-02 1.md",
-    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Outline.md",
-    "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
-    "Immanent/Projects/LunarPunk_Labs/Marketing.md"
+    "Immanent/DailyNotes/2022/2022-11-02 1.md"
   ]
 }

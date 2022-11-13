@@ -1,7 +1,7 @@
 ---
 Tags: []
 ---
-Related: [[LunarPunkLabs Outline]]
+Related: [[LunarPunkLabs Index]]
 # LPL Wisdom Wheel
 
 ## Disruptive Genius
