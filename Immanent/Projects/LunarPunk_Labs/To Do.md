@@ -1,4 +1,6 @@
 ## Projects
+
+Marketing
 - Website Container
 	- About
 		- [[Markets, Science, Technology]]
@@ -6,6 +8,9 @@
 		- [[Crypto Economic Primitives]] 
 	- Blog
 		- [[Unenclosable Regenerative Markets]]
+- White Paper
+- 
+
 
 ## Tasks
 - [ ] Scope uncertainty (triple of LPL)

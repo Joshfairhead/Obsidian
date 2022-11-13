@@ -4,4 +4,4 @@
 - [[Unenclosable Regenerative Markets]]
 
 ## Operations, marketing and finance ![[Operations, marketing and finance]]
-## Todos
+## Strategy
