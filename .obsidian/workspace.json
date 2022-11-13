@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "d5aefe23cf30d088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2c588af677dc5fc1",
             "type": "leaf",
             "state": {
@@ -67,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,8 +194,10 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "c496aedbc556ab79",
+  "active": "70d83c6894ad5deb",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Finance.md",
+    "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
     "Immanent/WorkBench/Finance.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
@@ -192,8 +205,6 @@
     "Immanent/DailyNotes/2022/2022-11-03.md",
     "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
     "Trancendental/Evergreen Forrest/I got a halo round my head.md",
-    "Immanent/Projects/LunarPunk_Labs/Operations.md",
-    "Immanent/DailyNotes/2022/2022-11-13.md",
-    "Immanent/DailyNotes/2022/2022-11-15.md"
+    "Immanent/Projects/LunarPunk_Labs/Operations.md"
   ]
 }

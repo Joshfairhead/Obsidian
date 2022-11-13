@@ -2,4 +2,4 @@
 ## Marketing
 ![[Marketing]]
 
-## Finance ![[Sourcing Finance]]
+## Finance ![[Immanent/Projects/LunarPunk_Labs/Finance]]
