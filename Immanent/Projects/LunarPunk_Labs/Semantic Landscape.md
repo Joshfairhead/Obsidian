@@ -1,5 +1,5 @@
 #### Monad: 
-- Regeneration / Above unity energy
+- Regeneration
 
 #### Dyad: Tension / Polarity
 - Research
@@ -11,7 +11,7 @@
 - [[Facilitators]]
 
 #### Tetrad: Action
-- Active inferrence
+- Active inferrence (above unity energy)
 - Oracle feeds / values / ontologies
 - State protocols
 - Environmental stewardship
