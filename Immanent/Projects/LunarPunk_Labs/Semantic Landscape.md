@@ -1,5 +1,5 @@
 #### Monad: 
-- Organisational transformation
+- Organisational Harmony
 
 #### Dyad: Xerox Polarity
 - Research
