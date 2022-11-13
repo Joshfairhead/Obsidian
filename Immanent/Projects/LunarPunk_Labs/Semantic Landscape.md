@@ -6,13 +6,13 @@
 - Implementation
 
 #### Triad: Dynamic
-- Active: [[Projects]]
-- Passive: [[People]] [[Expert Advisers]]
+- Active: [[People]] [[Expert Advisers]]
+- Passive: [[Projects]]
 - Reconciling: [[Processes]] [[Facilitators]] 
 
 #### Tetrad: Action
 - Directive: Active inferrence (above unity energy)
-- Instrumental: Oracle feeds / values / ontologies
+- Instrumental: Oracle feeds / values / ontologies 
 - Ground: State protocols
 - Ideal: Environmental stewardship
 
