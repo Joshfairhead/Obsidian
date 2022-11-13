@@ -8,7 +8,7 @@
 #### Triad: Dynamic
 - Active: [[People]] - [[Facilitators]], [[Stewards]], [[Advisors]]
 - Passive: [[Projects]] - [[Markets]], [[Science]], [[Technology]]
-- Reconciling: [[Processes]] - Culture, Method, Strategy
+- Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action
 - Directive: Active inferrence (above unity energy)
