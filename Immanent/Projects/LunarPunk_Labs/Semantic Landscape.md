@@ -1,4 +1,5 @@
 #### Monad: 
+- Regeneration
 
 #### Dyad: Tension / Polarity
 - Research
@@ -26,6 +27,6 @@
 - People
 - Place
 - Protocols
-- 
-
-- ![[Immanent/Projects/LunarPunk_Labs/Operations]]- ![[People, Projects, Protocols]]
+- Markets
+- Science
+- Technology
