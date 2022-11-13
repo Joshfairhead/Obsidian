@@ -6,9 +6,9 @@
 - Implementation
 
 #### Triad: Dynamic
-- Active: [[People]] - [[Stewards]], [[Facilitators]], [[Advisors]]
+- Active: [[People]] - [[Facilitators]], [[Stewards]], [[Advisors]]
 - Passive: [[Projects]] - [[Markets]], [[Science]], [[Technology]]
-- Reconciling: [[Processes]] - Culture, 
+- Reconciling: [[Processes]] - Culture, Method, 
 
 #### Tetrad: Action
 - Directive: Active inferrence (above unity energy)
