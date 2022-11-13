@@ -2,9 +2,11 @@
 - Methodology subscriptions / IP royalties
 - Consulting and customisation (tokens vetted)
 
+## Strategy ![[Operations and Strategy]]---
+
 ### Projects![[Projects]]
 ### Expert Advisors ![[Expert Advisors]]
-## Facilitators ![[Facilitators]]
+### Facilitators ![[Facilitators]]
 ```dataview
 TASK FROM "Immanent/Projects/LunarPunk_Labs/Tasks" 
 SORT date ASC
