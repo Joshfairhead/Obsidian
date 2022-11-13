@@ -1,5 +1,13 @@
-#### Pentad
-- [[Community Call]]
+#### Monad
+
+#### Dyad
+
+#### Tria
+
+#### Pentad / Significance
+- Product / Services
+- [[Operations]]
+- [[Community]]
 - [[Marketing]]
 - [[Finance]]
 
