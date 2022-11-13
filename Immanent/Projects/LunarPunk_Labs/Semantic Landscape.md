@@ -17,8 +17,8 @@
 - Ideal: Environmental stewardship
 
 #### Pentad: Significance
-- Essential Value: Product / Services
-- Services: [[Operations]]
+- Product / Services
+- [[Operations]]
 - [[Community]]
 - [[Marketing]]
 - [[Finance]]
