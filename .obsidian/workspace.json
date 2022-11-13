@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,8 +232,8 @@
   },
   "active": "70d83c6894ad5deb",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Experts.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/WorkBench/Experts.md",
     "Immanent/Projects/LunarPunk_Labs/People.md",
     "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
     "Omnicient/Entities/PrivateIndividuals/Address Book.md",
