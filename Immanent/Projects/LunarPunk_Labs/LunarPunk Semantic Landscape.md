@@ -1,6 +1,8 @@
-#### Monad
+#### Monad: 
 
-#### Dyad
+#### Dyad: Tension / Polarity
+- Research
+- Development
 
 #### Triad: Dynamic
 - [[Projects]]
@@ -8,6 +10,9 @@
 - [[Facilitators]]
 
 #### Tetrad: Action
+- Active inferrence
+- Measurements
+- 
 
 #### Pentad: Significance
 - Product / Services
