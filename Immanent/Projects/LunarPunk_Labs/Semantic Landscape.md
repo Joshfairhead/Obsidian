@@ -1,4 +1,4 @@
-#### Monad: 
+#### Monad: Trancendental Unity
 - Organisational Harmony
 
 #### Dyad: Xerox Polarity
