@@ -1,11 +1,4 @@
----
-Tags: []
----
-Related: 
-# Crypto Primitives
-
-
-#### Significance of a web3 ecosystem
+## Significance of a web3 ecosystem
 - Ledger
 	- Consensus
 		- Proof of Work

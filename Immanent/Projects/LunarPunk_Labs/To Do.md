@@ -1,8 +1,9 @@
 ## Projects
 - Website
 	- About
-		- [[Markets, ]]
+		- [[Markets, Science, Technology]]
 	- Guides
+		- [[Crypto Economic Primitives]] 
 	- Blog
 
 ## Tasks
