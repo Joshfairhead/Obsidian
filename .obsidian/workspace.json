@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnicient/Entities/PrivateIndividuals/People.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Entities/PrivateIndividuals/People.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Entities/PrivateIndividuals/People.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,15 +196,15 @@
   },
   "active": "70d83c6894ad5deb",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/People.md",
+    "Immanent/WorkBench/Expert Adviosors.md",
+    "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
-    "Omnicient/Entities/PrivateIndividuals/People.md",
+    "Omnicient/Entities/PrivateIndividuals/Address Book.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
-    "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
     "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
     "Immanent/Projects/LunarPunk_Labs/Finance.md",
-    "Immanent/WorkBench/Finance.md",
-    "Immanent/WorkBench/Markets.md",
-    "Immanent/DailyNotes/2022/2022-11-03.md"
+    "Immanent/WorkBench/Finance.md"
   ]
 }

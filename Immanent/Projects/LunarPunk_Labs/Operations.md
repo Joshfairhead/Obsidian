@@ -5,7 +5,7 @@
 ## Essential overview
 
 ### Projects![[Projects]]
-### Expert Advisors ![[Expert Advisors]]
+### Expert Advisors ![[People]]
 ### Facilitators ![[Facilitators]]
 ```dataview
 TASK FROM "Immanent/Projects/LunarPunk_Labs/Tasks" 
