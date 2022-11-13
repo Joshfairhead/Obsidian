@@ -1,5 +1,5 @@
 #### Monad: 
-- Transformation
+- Organisational transformation
 
 #### Dyad: Tension / Polarity
 - Research
@@ -25,7 +25,7 @@
 
 #### Hexad: Coalescence
 - People
-- Place
+- Places
 - Protocols
 - [[Markets]]
 - Science
