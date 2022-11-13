@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnicient/Monad Forrest/Crypto Primitives.md",
+                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Forrest/Crypto Primitives.md",
+                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Forrest/Crypto Primitives.md",
+                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,8 +161,8 @@
   },
   "active": "9adbae1926b86094",
   "lastOpenFiles": [
-    "Omnicient/Computer Sci/Crypto Economic Primitives.md",
     "Omnicient/Monad Forrest/Crypto Primitives.md",
+    "Omnicient/Computer Sci/Crypto Economic Primitives.md",
     "Immanent/Projects/Personal Website/Song sheets/Primates.md",
     "Immanent/Projects/LunarPunk_Labs/To Do.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
