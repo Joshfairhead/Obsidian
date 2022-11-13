@@ -6,7 +6,7 @@
 - Implementation
 
 #### Triad: Dynamic
-- Active: [[People]] - [[Facilitators]], [[Stewards]], [[Advisors]]
+- Active: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]]
 - Passive: [[Projects]] - [[Markets]], [[Science]], [[Technology]]
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 

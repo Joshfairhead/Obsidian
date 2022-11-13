@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6b7be88c5dd7de7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Experts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0573e8b99016b9be",
             "type": "leaf",
             "state": {
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/Advisors.md",
+                "file": "Immanent/WorkBench/Experts.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,9 +232,9 @@
   },
   "active": "70d83c6894ad5deb",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Advisors.md",
-    "Immanent/Projects/LunarPunk_Labs/People.md",
+    "Immanent/WorkBench/Experts.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/Projects/LunarPunk_Labs/People.md",
     "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
     "Omnicient/Entities/PrivateIndividuals/Address Book.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
