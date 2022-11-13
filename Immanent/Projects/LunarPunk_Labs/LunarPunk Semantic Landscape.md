@@ -11,8 +11,9 @@
 
 #### Tetrad: Action
 - Active inferrence
-- Measurements
-- 
+- Oracle feeds / values / ontologies
+- State protocols
+- Environmental stewardship
 
 #### Pentad: Significance
 - Product / Services
@@ -21,5 +22,10 @@
 - [[Marketing]]
 - [[Finance]]
 
+#### Hexad: Coalescence
+- People
+- Place
+- Protocols
+- 
 
 - ![[Immanent/Projects/LunarPunk_Labs/Operations]]- ![[People, Projects, Protocols]]
