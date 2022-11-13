@@ -1,6 +1,9 @@
 ## Projects
 - Website
-
+	- About
+		- [[Markets, ]]
+	- Guides
+	- Blog
 
 ## Tasks
 - [ ] Scope uncertainty (triple of LPL)
