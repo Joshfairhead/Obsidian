@@ -1,0 +1,12 @@
+- Josh Fairhead
+- Maija Grudule 
+- Rishikes Silva
+- Chris Castellias
+	- Kathy 
+	- Evan
+- Jillian Hovey
+	- Laura Valenti
+	- Roberto Valenti
+- H3uni network 
+- Complexity weekend
+- RnDAO

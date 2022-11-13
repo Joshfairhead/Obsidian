@@ -1,0 +1,16 @@
+- writing that works
+- live in this world a bit more
+- get more emotional
+- assume interligence
+- put reason into appendecies
+- pitch deck
+- work out what they care about
+- inspire the money from out of them
+- train is leaving the station
+- interview the investors
+- show how investors can verify how their money is being spent
+- show who you are working with or where the money will go
+- optimizing for attention. you have a few seconds before they switch tabs
+- lsitening to what they care about, letting them speak
+- understanding their biggest fear: missing out on the next uber
+- beliefs about money
