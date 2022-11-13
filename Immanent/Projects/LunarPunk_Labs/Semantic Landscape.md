@@ -7,7 +7,7 @@
 
 #### Triad: Dynamic
 - Active: [[People]] - [[Stewards]], [[Facilitators]], [[Advisors]]
-- Passive: [[Projects]] - 
+- Passive: [[Projects]] - [[Marke]]
 - Reconciling: [[Processes]] - 
 
 #### Tetrad: Action
