@@ -1,5 +1,5 @@
 #### Monad: 
-- Regeneration
+- Transformation
 
 #### Dyad: Tension / Polarity
 - Research
