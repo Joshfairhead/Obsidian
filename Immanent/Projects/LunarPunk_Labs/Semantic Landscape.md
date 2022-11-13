@@ -11,14 +11,14 @@
 - Reconciling: [[Facilitators]]
 
 #### Tetrad: Action
-- Active inferrence (above unity energy)
-- Oracle feeds / values / ontologies
-- State protocols
-- Environmental stewardship
+- Directive: Active inferrence (above unity energy)
+- Instrumental: Oracle feeds / values / ontologies
+- Ground: State protocols
+- Ideal: Environmental stewardship
 
 #### Pentad: Significance
-- Product / Services
-- [[Operations]]
+- Essential Value: Product / Services
+- Services: [[Operations]]
 - [[Community]]
 - [[Marketing]]
 - [[Finance]]
