@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/Expert Advisers.md",
+                "file": "Immanent/WorkBench/Advisors.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,9 +220,9 @@
   },
   "active": "70d83c6894ad5deb",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Advisors.md",
     "Immanent/Projects/LunarPunk_Labs/People.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
-    "Immanent/WorkBench/Expert Advisers.md",
     "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
     "Omnicient/Entities/PrivateIndividuals/Address Book.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",

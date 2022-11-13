@@ -1,2 +1,2 @@
 
-### Expert Advisors ![[Expert Advisers]]
+### Advisors ![[Advisors]]
