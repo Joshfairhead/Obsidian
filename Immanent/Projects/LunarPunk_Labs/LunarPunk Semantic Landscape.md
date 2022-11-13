@@ -2,9 +2,14 @@
 
 #### Dyad
 
-#### Tria
+#### Triad: Dynamic
+- [[Projects]]
+- [[Expert Advisors]]
+- [[Facilitators]]
 
-#### Pentad / Significance
+#### Tetrad: Action
+
+#### Pentad: Significance
 - Product / Services
 - [[Operations]]
 - [[Community]]
