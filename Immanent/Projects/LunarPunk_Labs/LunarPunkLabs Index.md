@@ -3,3 +3,5 @@
 - [[Unenclosable Regenerative Markets]]
 
 ## Semantic Landscape ![[Semantic Landscape]]
+
+---

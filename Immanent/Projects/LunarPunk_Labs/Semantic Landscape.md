@@ -1,5 +1,5 @@
 #### Monad: 
-- Regeneration
+- Regeneration / Above unity energy
 
 #### Dyad: Tension / Polarity
 - Research
