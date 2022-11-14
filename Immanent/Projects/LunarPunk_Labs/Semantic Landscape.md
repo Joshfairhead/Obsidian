@@ -6,7 +6,7 @@
 - Existential: Implementation
 
 #### Triad: Dynamic
-- Active: [[Projects]] - Spaces, Places, Usecases
+- Active: [[Projects]] - 
 - Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]] 
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
