@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Community.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Community.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Community.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,8 +148,8 @@
   },
   "active": "1f6b909f844eb736",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Marketing.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/Projects/LunarPunk_Labs/Marketing.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/Projects/LunarPunk_Labs/Finance.md",
     "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
