@@ -1,6 +1,7 @@
 ## Legal Entity
 
 ## Market development
+- Fund advocay and accesibility
 
 ## Core Business Model
 - Methodology subscriptions / IP royalties
