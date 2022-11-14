@@ -7,7 +7,7 @@
 
 #### Triad: Dynamic Council
 - Active: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]]
-- Passive: [[Projects]] - [[Markets]], [[Science]], [[Technology]]
+- Passive: [[Projects]] - Leadershi [[Markets]], [[Science]], [[Technology]]
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action
