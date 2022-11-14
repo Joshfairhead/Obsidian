@@ -1,13 +1,13 @@
-#### Monad: Trancendental Unity
+#### Monad: Unity
 - Organisational Harmony
 
-#### Dyad: Xerox Polarity
-- Research
-- Implementation
+#### Dyad: Polarity
+- Essential: Research
+- Existential: Implementation
 
-#### Triad: Dynamic Council
+#### Triad: Dynamic
 - Active: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]]
-- Passive: [[Projects]] - Leadershi [[Markets]], [[Science]], [[Technology]]
+- Passive: [[Projects]] - Support, 
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action
