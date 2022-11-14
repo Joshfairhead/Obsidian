@@ -12,7 +12,7 @@
 
 #### Tetrad: Action
 - Directive: Active inferrence (above unity energy)
-- Instrumental: Oracle feeds / values / ontologies 
+- Instrumental: Oracle feeds / values
 - Ground: State protocols
 - Ideal: Environmental stewardship
 
