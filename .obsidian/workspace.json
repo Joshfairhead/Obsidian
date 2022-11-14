@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c9abb775d2d8878e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Omnicient/Monad Seeds/Experts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "51a4adea1841e52c",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Community.md",
+                "file": "Omnicient/Monad Seeds/Experts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Community.md",
+                "file": "Omnicient/Monad Seeds/Experts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,8 +159,9 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "1f6b909f844eb736",
+  "active": "c9abb775d2d8878e",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Community.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Immanent/Projects/LunarPunk_Labs/Marketing.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
@@ -156,7 +170,6 @@
     "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
     "Immanent/WorkBench/Economics.md",
     "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
-    "Immanent/WorkBench/Experts.md",
-    "Immanent/Projects/LunarPunk_Labs/People.md"
+    "Immanent/WorkBench/Experts.md"
   ]
 }
