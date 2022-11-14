@@ -8,108 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70d83c6894ad5deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2022-12-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b7be88c5dd7de7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Experts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0573e8b99016b9be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e6b692b56f590b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Experts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f6b909f844eb736",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db116354395200a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c496aedbc556ab79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5aefe23cf30d088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c588af677dc5fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Markets.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-20.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-20.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,17 +134,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "70d83c6894ad5deb",
+  "active": "1f6b909f844eb736",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
+    "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md",
+    "Immanent/WorkBench/Economics.md",
+    "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
+    "Immanent/Projects/LunarPunk_Labs/Finance.md",
+    "Immanent/WorkBench/Experts.md",
+    "Immanent/Projects/LunarPunk_Labs/People.md",
+    "Immanent/DailyNotes/2022-12-20.md",
     "Immanent/DailyNotes/2022-12-22.md",
-    "Immanent/DailyNotes/2022-12-15.md",
-    "Immanent/DailyNotes/2022/2022-11-17.md",
-    "Immanent/DailyNotes/2022/2022-11-10.md",
-    "Immanent/DailyNotes/2022/2022-11-03.md",
-    "Immanent/DailyNotes/2022-12-08.md",
-    "Immanent/DailyNotes/2022/2022-12-01.md",
-    "Immanent/DailyNotes/2022-11-24.md",
-    "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
-    "Immanent/Projects/LunarPunk_Labs/Stewards.md"
+    "Immanent/DailyNotes/2022-12-15.md"
   ]
 }
