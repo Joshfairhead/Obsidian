@@ -7,7 +7,7 @@
 
 #### Triad: Dynamic
 - Active: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]]
-- Passive: [[Projects]] - Support, 
+- Passive: [[Projects]] - Support, Service, Leadership
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action
@@ -17,11 +17,11 @@
 - Ideal: Environmental stewardship
 
 #### Pentad: Significance
-- Product / Services
-- [[Operations]]
-- [[Community]]
-- [[Marketing]]
-- [[Finance]]
+- Essential: Product / Services
+- Essential: [[Operations]]
+- Significant: [[Community]]
+- Essential [[Marketing]]
+- Existential: [[Finance]]
 
 #### Hexad: Coalescence
 - People
