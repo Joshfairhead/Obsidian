@@ -13,7 +13,10 @@
 			- Agroforrestry DAO
 			- RMTerra / Pedro
 			- Jesu Neoindgena
+		- Permaculture
+			- Gloire
 	- Onboarding
+		- Regenerative Tech Community
 		- ReFi DAO
 		- Refi x South (LOA Labs)
 		- Pirates do Amor

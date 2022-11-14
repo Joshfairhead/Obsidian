@@ -7,7 +7,7 @@
 
 #### Triad: Dynamic
 - Active: [[Projects]] - 
-- Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Immanent/Projects/LunarPunk_Labs/Experts]] 
+- Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]] 
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action
@@ -27,6 +27,6 @@
 - People
 - Places
 - Protocols
-- [[Immanent/Projects/LunarPunk_Labs/Economics]]
+- [[Economics]]
 - Science
 - Technology

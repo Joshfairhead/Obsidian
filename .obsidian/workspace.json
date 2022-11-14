@@ -11,8 +11,12 @@
             "id": "1f6b909f844eb736",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/Projects/LunarPunk_Labs/Projects.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immanent/Projects/LunarPunk_Labs/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immanent/Projects/LunarPunk_Labs/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,17 +158,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "6a25edb9f44c356d",
+  "active": "1f6b909f844eb736",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/Projects/LunarPunk_Labs/Finance 1.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/Projects/LunarPunk_Labs/Experts.md",
     "Immanent/WorkBench/Community.md",
     "Omnicient/Monad Seeds/Experts.md",
-    "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Immanent/Projects/LunarPunk_Labs/Marketing.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/Projects/LunarPunk_Labs/Finance.md",
-    "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md",
-    "Immanent/Projects/LunarPunk_Labs/Operations, marketing and finance.md"
+    "Immanent/Projects/LunarPunk_Labs/Exestential Overview.md"
   ]
 }
