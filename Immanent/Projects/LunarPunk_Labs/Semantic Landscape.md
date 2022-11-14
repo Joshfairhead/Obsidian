@@ -6,8 +6,8 @@
 - Existential: Implementation
 
 #### Triad: Dynamic
-- Active: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]]
-- Passive: [[Projects]] 
+- Active: [[Projects]] - Spaces, Places, Usecases
+- Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]] 
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action
