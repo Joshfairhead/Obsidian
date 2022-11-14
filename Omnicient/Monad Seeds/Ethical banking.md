@@ -1,7 +1,7 @@
 ---
 Tags: [Index, Domains]
 ---
-Related: [[Banking]] [[Immanent/WorkBench/Finance]] [[Fintech]]
+Related: [[Banking]] [[Finance 1]] [[Fintech]]
 # Ethical banking
 
 - https://www.triodos.co.uk/
