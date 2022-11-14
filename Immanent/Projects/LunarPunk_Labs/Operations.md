@@ -3,9 +3,10 @@
 ## Market development
 - Fund advocay and accesibility
 
-## Core Business Model
+## Core Business Function
 - Methodology subscriptions / IP royalties
 - Consulting and customisation (tokens vetted)
+- 
 
 ---
 ## Essential overview
