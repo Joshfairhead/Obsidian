@@ -1,6 +1,9 @@
+## Legal Entity
+
 ## Core Business Model
 - Methodology subscriptions / IP royalties
 - Consulting and customisation (tokens vetted)
+
 ---
 ## Essential overview
 
