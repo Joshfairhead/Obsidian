@@ -12,9 +12,12 @@
 
 #### Tetrad: Action
 - Directive: Active inferrence (above unity energy)
-- Instrumental: Oracle feeds / values
+- Instrumental: Feeds, measures, values
 - Ground: State protocols
 - Ideal: Environmental stewardship
+
+- Directive to instrumental edge: Markov blankets
+- Ground to ideal edge: Practice based methodologies
 
 #### Pentad: Significance
 - Essential: Product / Services
