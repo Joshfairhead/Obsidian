@@ -17,13 +17,13 @@ Animating these actors, let's characterise our alpha investors as hedge funds an
 #### Constraints
 The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, whos extraction will lead to planetary rent dissipation. Such commodities have no intrinsic value and will soon need to be 'struck off' the books. 
 
-The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
-
-Both investment profiles would appear to be searching for new stores of value, which can be seen in their embrace of qualitive indicators like ESG's. As always, there is a deal of controversy about the efficacy of such values but both investor profiles are essentially stuck in a position where they need new investment vehicles that are values oriented AND profitable. Imperfect in themselves, ESG's have sufficient traction to suffice as a general set of values that help further constrain the north star of regeneration. 
+Both investment profiles are searching for new stores of value which can be seen in their unanimousembrace of qualitive indicators like ESG's. As always, there is a deal of controversy about the efficacy of such values but both investor profiles are essentially stuck in a position where they need new investment vehicles that are values oriented AND profitable. Imperfect in themselves, ESG's have sufficient traction to suffice as a general set of values that help further constrain the north star of regeneration. 
 
 What becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
 #### Economic Pathways
+- The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
+
 Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such financial products to be trusted, value chain auditability will be required.
 
 Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; as integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline.  
