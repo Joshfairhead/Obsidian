@@ -1,5 +1,5 @@
 ## Introduction
-Markets forces can be thought of as a set of determining conditions within material reality. Such macro economic mechanisms direct the evolution of science and technology and distort their deveby incentivising research and implementait incentives and funding flows. We might consider their operation to be an existential steering wheel of tremendous capacity. 
+Markets forces can be thought of as a set of determining conditions within material reality. Such macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consider the skillful operation of markets to be an existential steering wheel of tremendous capacity. 
 
 When it comes pragmatic interventions, its worthe check their compasses consider the economic winds 
 
