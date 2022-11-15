@@ -1,10 +1,9 @@
 ## Introduction
-Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. The question is where it should be directed
+Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. The essential question here becomes where it should be directed? Regeneration. 
 
+What "regeneration" actually means is a values assertion so we need a way t
 
-
-%%
-This essay consequentially seeks to express a means of transforming financial capital from a quantifier that externalises its costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
+means of transforming financial capital from a quantifier that externalises its costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
 
 *Tools to introduce here*
 
