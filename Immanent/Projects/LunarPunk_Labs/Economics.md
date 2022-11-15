@@ -21,7 +21,7 @@ Such commodities have no intrinsic value and will soon need to be 'struck off' t
 
 Both investment profiles would appear to be searching for new stores of value, which can be seen in their embrace of qualitive indicators like ESG's. As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are values oriented AND profitable. 
 
-While imperfect instruments in themselves ESG's have sufficient traction to suffice as a general huristic that enables our north star of regeneration. 
+While imperfect instruments in themselves ESG's have sufficient traction to suffice as a general set of values that help further constrain our north star of regeneration. 
 
 What becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
