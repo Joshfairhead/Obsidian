@@ -17,8 +17,7 @@ Animating these actors, let's characterise our alpha investors as hedge funds an
 #### Constraints
 The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, which cant be extracted due to boundary conditions. Because such commodities have no intrinsic value their existance depends on an irrational market and soon these assets will need to be 'struck from the books'. 
 
-Consequentially, both investor profiles are searching for new stores of value; a phenomena that can be observed in their embrace of qualitive indicators such as ESGs. 
-As always, there is a deal of controversy about the efficacy of the specific values but both investor profiles are essentially stuck in a position where they need new investment vehicles that are both values oriented AND profitable. 
+Consequentially, both investor profiles are searching for new stores of value; a phenomena that can be observed in their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of the values but both investor profiles are in a position where they are demanding a supply new vehicles that are both values oriented AND profitable. 
 
 What becomes evidant here is that investors have plenty of incentive to change and there is demand for values drive financial instruments facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
