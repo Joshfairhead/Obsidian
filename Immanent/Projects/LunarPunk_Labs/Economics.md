@@ -1,16 +1,16 @@
 ## Abstract
-Within material reality, markets forces can be thought of as a set of determining conditions. The aggrigated whole of these macro economic mechanisms incentivise the evolution of science and technology by channeling the pathways of research and implementation. consequentially we might consider markets to be an existential steering wheel of tremendous capacity. 
+Within material reality, markets forces can be thought of as a set of determining conditions. The aggrigated whole of these macro economic mechanisms incentivise the evolution of science and technology by channeling the pathways of research and implementation. Consequentially, we might consider markets to be an existential steering wheel of tremendous capacity. 
 
-The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise or unify people with place. These processes or protocols can represent directed investment vehicles. 
+The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise or unify people with place. These protocols essentially represent investment vehicles. 
 
 ## Market Hypothesis
-Before designing a such a solution though let's first expound our assumptions about market   functionality to see what eventually emerges to become self-evident. Let's start with the major market participants and then examine the forces which move them.
+Before designing a such an instrument let's first expound our assumptions about market   functionality and see what emerges to become self-evident. Let's start with the major market participants and then examine the forces which move them.
 
 #### Participants
 > - Alpha investors; risk-on. Seeks return on investment.
 > - Beta investors; risk-off. Seeks wealth preservation.
 
-Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set are alpha investors and the second beta investors. The former have a high risk appetite and the latter a low risk appetite. One set of participants seeks to beat the market and the other seeks to 'be' the market. 
+Our first assumption here is that there are two broad sets of market participants that have different risk appetites. The first set are alpha investors and the second beta investors. The former have a high risk appetite and the latter a low risk appetite. One set of participants seeks to beat the market and the other seeks to 'be' the market. 
 
 In order to animate these actors; let's characterise our alpha investors as hedge funds and our beta investors as pension funds. We notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. These core interestes of cost / risk / benefit drive market activity. 
 
