@@ -15,9 +15,9 @@ Our first assumption is that there are two broad sets of market participants tha
 Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Consequently it appears that cost / risk / benefit moves both sets of participants at a pretty fundemental level. 
 
 #### Constraints
-The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, whos extraction will lead to planetary rent dissipation. 
+The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, whos extraction will lead to planetary rent dissipation. Such commodities have no intrinsic value and will soon need to be 'struck off' the books. 
 
-As such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
+The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
 
 Both investment profiles would appear to be searching for new stores of value, which can be seen in their embrace of qualitive indicators like ESG's. As always, there is a deal of controversy about the efficacy of such values but both investor profiles are essentially stuck in a position where they need new investment vehicles that are values oriented AND profitable. Imperfect in themselves, ESG's have sufficient traction to suffice as a general set of values that help further constrain the north star of regeneration. 
 
