@@ -14,11 +14,6 @@ Our first assumption is that there are two broad sets of market participants tha
 
 Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. The core interestes of cost / risk / benefit move both sets of participants to drive market activity. 
 
-Thinking along these lines
-> - Government
-> - Industry
-> - Acedemia
-
 
 #### Constraints
 The next factual assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
@@ -99,4 +94,11 @@ We now have a lever. Regenerative investment vehicals essentially represent the 
 *Tools to introduce here*
 
 The essay puts forth a case that this measure is the perfect investment vehicle for reshaping the market landscape. In essence it asserts that we can harness speculation to divest humanity out of a debt based economic system into a thriving regenerative ecology. Attempts to extract value from this transformative system will ultimatly result in postive externalities and realise locked potential. It is therefore an antifragile market mechanism that cannot be captured by the extractive nature of capitalism.
+%%
+
+%% 
+> - Government (Costs)
+> - Industry (Risks)
+> - Acedemia (Benefits)
+
 %%
