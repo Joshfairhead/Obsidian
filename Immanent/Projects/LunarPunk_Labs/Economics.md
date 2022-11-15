@@ -1,7 +1,9 @@
-## Introduction
+## Abstract
 Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. 
 
-The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of directing our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise and unify people with place. Our use case is thus looking at applied science and technology in the context of market protocols. 
+The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of directing our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise and unify people with place. Our use case consequentially seeks to integrate applied science and technology in the context of market protocols. 
+
+The key to ma
 
 
 
