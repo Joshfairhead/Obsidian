@@ -1,5 +1,5 @@
 ## Introduction
-Irrespective of our values, markets can be thought of as forming the determining conditions of our economic reality. Macro economic mechanisms direct the evolution of science and technology through the provision of incentives and funding flows. Me might consider their command an existential steering wheel of sorts.
+Irrespective of our values, markets can be thought of as forming the determining conditions of our economic reality. Macro economic mechanisms direct the evolution of science and technology through the provision of incentives and funding flows. Me might consider their command an existential steering wheel of sorts. 
 
 
 
