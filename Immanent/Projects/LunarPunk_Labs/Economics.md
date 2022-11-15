@@ -1,12 +1,10 @@
 ## Abstract
 Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. 
 
-The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of directing our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise and unify people with place. These 
+The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of directing our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise and unify people with place. These processes will represent investment vehicles. 
 
-The key to this 
-
-
-means of transforming financial capital from a quantifier that externalises its costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
+#### Introduction
+Consequentially we are seeking a means to transform financial capital from a quantifier that externalises its costs into a quantifier that interanlises values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
 
 *Tools to introduce here*
 
