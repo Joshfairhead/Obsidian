@@ -14,7 +14,7 @@ The essay puts forth a case that this measure is the perfect investment vehicle 
 %%
 
 ## Market Hypothesis
-Before designing a solution, let's first expound our assumptions around the financial system. By negating these facts we may see what emerges to eventually become self-evident; only then might we deem a solution adequite. Before such let's first look at market participants and the trends that move them.
+Before designing a solution, let's first expound our assumptions about market function. By negating these facts we may see what emerges to eventually become self-evident. Let's first look at market participants and the forces which move them.
 
 #### Participants
 > - Alpha investors; risk-on. Seeks return on investment.
