@@ -56,20 +56,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "882d51344b1998a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f6775d0fe8785f14",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
