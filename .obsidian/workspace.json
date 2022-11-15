@@ -56,6 +56,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "882d51344b1998a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6775d0fe8785f14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,8 +183,10 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "1f6b909f844eb736",
+  "active": "cbd29958181d46b8",
   "lastOpenFiles": [
+    "Immanent/WorkBench/Untitled.md",
+    "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Immanent/WorkBench/Product.md",
     "Product / Services.md",
@@ -179,8 +194,6 @@
     "Immanent/DailyNotes/2022/2022-11-17.md",
     "Immanent/CallNotes/Fix Our Food.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
-    "Immanent/Projects/LunarPunk_Labs/Community.md",
-    "Immanent/Projects/LunarPunk_Labs/Projects.md",
-    "Immanent/Projects/LunarPunk_Labs/Finance 1.md"
+    "Immanent/Projects/LunarPunk_Labs/Community.md"
   ]
 }
