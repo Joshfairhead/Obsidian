@@ -16,11 +16,11 @@
 - Ground: State protocols
 - Ideal: Environmental stewardship
 
-- Directive to instrumental edge: Markov blankets
-- Ground to ideal edge: Practice based methodologies
+- Directive to Instrumental edge: Markov blankets
+- Ground to Ideal edge: Practice based methodologies
 
 #### Pentad: Significance
-- Essential: Product / Services
+- Essential: [[Product]] [[Services]]
 - Essential: [[Operations]]
 - Significant: [[Community]]
 - Essential [[Marketing]]
