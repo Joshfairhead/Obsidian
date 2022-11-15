@@ -1,10 +1,10 @@
 ## Abstract
 Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. 
 
-The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of directing our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise and unify people with place. These processes or protocols represent directed investment vehicles. 
+The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise or unify people with place. These processes or protocols can represent directed investment vehicles. 
 
 ## Market Hypothesis
-Before designing a solution, let's first expound our assumptions about market function. Examining these we may see what emerges to eventually become self-evident. Let's look at market participants and the forces which move them.
+Before designing a such a solution though let's first expound our assumptions about market functionality. Examining this we can see what emerges to eventually become self-evident. Let's look at market participants and the forces which move them.
 
 #### Participants
 > - Alpha investors; risk-on. Seeks return on investment.
@@ -38,32 +38,9 @@ Unlike facts, values are subject to contention and their discussion will often g
 
 ---
 
-%%
-#### Introduction
-We now have a lever. Regenerative investment vehicals essentially represent the transformation of financial capital from a quantifier that externalises its costs into one that interanlises values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
-
-*Tools to introduce here*
-
-The essay puts forth a case that this measure is the perfect investment vehicle for reshaping the market landscape. In essence it asserts that we can harness speculation to divest humanity out of a debt based economic system into a thriving regenerative ecology. Attempts to extract value from this transformative system will ultimatly result in postive externalities and realise locked potential. It is therefore an antifragile market mechanism that cannot be captured by the extractive nature of capitalism.
-%%
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
-
-
-
 %%
 # Technology
 
@@ -77,6 +54,7 @@ Consequentially there is need for a standardised ontology to integrate them all 
 > 2. sky-sensing (drones, aerial, sattelite) 
 > 3. remote-sensing (IOT sensors & devices) 
 > 4. reputation-sensing (Identity, community trust)
+
 %%
 
 %%
@@ -101,15 +79,16 @@ This market mechanism essentially provides a means to rate ESGs as well. Environ
 
 As this mechanism is an aggrigation over time it is subject to volitility and so fulfils hedge fund requirements for risk-on speculative markets. The more regenerative the credit the higher the profits in dollar amounts. The more profit is 'extracted' upstream the more wealth is internalised upstream. From an ethical point of view this channels energy and resources to its producers; proliteraiots and environmental stewards act as planetary generators. 
 
-%%
-
-
-
-
-
-
-
-
-
 ---
 This is an innovation chasm ripe for blue funds who wish to bridge the transition by making use of scientific and technological means. 
+
+%%
+
+%%
+#### Introduction
+We now have a lever. Regenerative investment vehicals essentially represent the transformation of financial capital from a quantifier that externalises its costs into one that interanlises values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
+
+*Tools to introduce here*
+
+The essay puts forth a case that this measure is the perfect investment vehicle for reshaping the market landscape. In essence it asserts that we can harness speculation to divest humanity out of a debt based economic system into a thriving regenerative ecology. Attempts to extract value from this transformative system will ultimatly result in postive externalities and realise locked potential. It is therefore an antifragile market mechanism that cannot be captured by the extractive nature of capitalism.
+%%
