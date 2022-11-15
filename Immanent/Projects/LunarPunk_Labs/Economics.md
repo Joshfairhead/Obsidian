@@ -21,8 +21,6 @@ Consequentially, both investor profiles are searching for new stores of value; a
 
 but it's apparent that both of our investor profiles are caught in a dilemmea between qualitive and quantitive. They have plenty of incentive to move but they require instruments that are both values driven and profitable. Put simply both alpha and beta investors lack quality suppliers.
 
-. 
-
 #### Economic Pathways
 - The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
 
