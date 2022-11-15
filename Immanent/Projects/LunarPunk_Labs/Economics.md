@@ -1,13 +1,15 @@
 ## Introduction
-Markets forces can be thought of as a set of determining conditions within material reality. Such macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. 
+Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. 
 
-While finding product market fit is a challenge in itself, doing so with integrity is even harder. 
 
+
+%%
 This essay consequentially seeks to express a means of transforming financial capital from a quantifier that externalises its costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
 
 *Tools to introduce here*
 
 The essay puts forth a case that this measure is the perfect investment vehicle for reshaping the market landscape. In essence it asserts that we can harness speculation to divest humanity out of a debt based economic system into a thriving regenerative ecology. Attempts to extract value from this transformative system will ultimatly result in postive externalities and realise locked potential. It is therefore an antifragile market mechanism that cannot be captured by the extractive nature of capitalism.
+%%
 
 ## Market Hypothesis
 Before we jump into solutions - which are often unfalsifiable value assertions - we must first examine and expound our a priori assumptions about the financial system. By negating these we may see what emerges to become self-evident; only then might we deem a solution adequite. Before such let's first look at market participants and the trends that move them.
