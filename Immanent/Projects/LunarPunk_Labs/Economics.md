@@ -15,7 +15,7 @@ Our first assumption is that there are two broad sets of market participants tha
 Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. The core interestes of cost / risk / benefit move both sets of participants to drive market activity. 
 
 #### Constraints
-Another assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but most generally speaking they are degenerative commodities like fossil fuels. These assets are stuck below ground and extracting the resources are extracted the outcome will lead to planetary rent dissipation. Consequentially they must stay there.
+Another assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
 
 Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as a means. One might say this is charateristic of society at large. 
 
