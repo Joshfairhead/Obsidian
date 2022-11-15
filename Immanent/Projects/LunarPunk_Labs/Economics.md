@@ -15,9 +15,12 @@ Our first assumption is that there are two broad sets of market participants tha
 Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Consequently it appears that cost / risk / benefit moves both sets of participants at a pretty fundemental level. 
 
 #### Constraints
-The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, which cant be extracted due to boundary conditions. Because such commodities have no intrinsic value their existance depends on an irrational market and soon these assets will need to be 'struck from the books'. Consequentially, both investor profiles are searching for new stores of value; a phenomena that can be observed in their embrace of qualitive indicators like ESG. 
+The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, which cant be extracted due to boundary conditions. Because such commodities have no intrinsic value their existance depends on an irrational market and soon these assets will need to be 'struck from the books'. 
 
-As always, there is a deal of controversy about the efficacy of such specific values but both investor profiles are essentially stuck in a position where they need new investment vehicles that are both values oriented AND profitable. What becomes evidant here is that investors have plenty of incentive to change and there is demand for values drive financial instruments facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
+Consequentially, both investor profiles are searching for new stores of value; a phenomena that can be observed in their embrace of qualitive indicators such as ESGs. 
+As always, there is a deal of controversy about the efficacy of the specific values but both investor profiles are essentially stuck in a position where they need new investment vehicles that are both values oriented AND profitable. 
+
+What becomes evidant here is that investors have plenty of incentive to change and there is demand for values drive financial instruments facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
 mperfect in themselves, ESG's have sufficient traction to suffice as a general set of values that help further constrain the north star of regeneration. 
 
