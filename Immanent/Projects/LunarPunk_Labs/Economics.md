@@ -17,9 +17,9 @@ Animating these actors, let's characterise our alpha investors as hedge funds an
 #### Constraints
 The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, which cant be extracted due to boundary conditions. Because such commodities have no intrinsic value their existance depends on an irrational market and soon these assets will need to be 'struck from the books'. 
 
-Consequentially, both investor profiles are searching for new stores of value; a phenomena observable through their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific symbols and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of values that help further constrain the north star of regeneration.
+Consequentially, both investor profiles are searching for new stores of value; a phenomena observable through their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific symbols and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of values that help further constrain our north star of regeneration.
 
-but it's apparent that both of our investor profiles are caught in a dilemmea between qualitive and quantitive. They have plenty of incentive to move but they require instruments that are both values driven and profitable. Put simply both alpha and beta investors lack quality suppliers.
+Regardless of specific values, it's apparent that both of our investor profiles are caught in a dilemmea between qualitive and quantitive. They have plenty of mativation to move their capital but they lack vehicals that are both values driven and profitable. Put simply both alpha and beta investors lack quality suppliers.
 
 #### Economic Pathways
 - The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
