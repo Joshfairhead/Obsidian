@@ -6,7 +6,7 @@
 - Existential: Implementation
 
 #### Triad: Dynamic
-- Active: [[Projects]] - 
+- Active: [[Projects]] - Place, Prototype, Pilot
 - Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]] 
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
@@ -20,7 +20,7 @@
 - Ground to Ideal edge: Practice based methodologies
 
 #### Pentad: Significance
-- Essential: [[Product]] [[Services]]
+- Essential: [[Product]] / [[Services]]
 - Essential: [[Operations]]
 - Significant: [[Community]]
 - Essential [[Marketing]]

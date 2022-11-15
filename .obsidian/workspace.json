@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c12321ee75ef8cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c9abb775d2d8878e",
             "type": "leaf",
             "state": {
@@ -160,15 +172,15 @@
   },
   "active": "1f6b909f844eb736",
   "lastOpenFiles": [
-    "Product / Services.md",
+    "Immanent/WorkBench/Product.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Product / Services.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
     "Immanent/DailyNotes/2022/2022-11-17.md",
     "Immanent/CallNotes/Fix Our Food.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/Projects/LunarPunk_Labs/Community.md",
     "Immanent/Projects/LunarPunk_Labs/Projects.md",
-    "Immanent/Projects/LunarPunk_Labs/Finance 1.md",
-    "Immanent/Projects/LunarPunk_Labs/Economics.md"
+    "Immanent/Projects/LunarPunk_Labs/Finance 1.md"
   ]
 }
