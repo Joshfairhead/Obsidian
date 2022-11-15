@@ -1,5 +1,5 @@
 ## Introduction
-Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. The essential question here thus becomes where to direct the vehicle? 
+Markets forces can be thought of as a set of determining conditions within material reality. The aggrigate whole of macro economic mechanisms direct the evolution of science and technology by incentivising the development pathway of research and implementation. We might consequentially consider markets to be an existential steering wheel of tremendous capacity. The essential question here thus becomes where to direct it? Any response at this point is a values assertion. 
 
 
 
