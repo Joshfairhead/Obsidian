@@ -4,7 +4,7 @@ Within material reality, markets forces can be thought of as a set of determinin
 The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound this to a domain of processes that harmonise people with place. Such abstract processes when turned into protocols might be considered regenerative financial instruments. The question is how to represent and evaluate them?
 
 ## Market Hypothesis
-Before designing a such a tool, let's first articulate some working assumptions about market  in order to progressivly approximate a set of constraints. Here are the major market participants and then examine the forces which move them.
+Before designing a such a tool, let's first articulate some working assumptions about the market to approximate a set of enabling constraints. Here are the major market participants and then examine the forces which move them.
 
 #### Institutional Participants
 > - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
@@ -16,7 +16,7 @@ Animating these actors, let's characterise our alpha investors as hedge funds an
 
 
 #### Constraints
-The next factual assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
+The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
 
 Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
 
