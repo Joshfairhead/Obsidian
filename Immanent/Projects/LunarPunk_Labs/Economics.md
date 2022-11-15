@@ -19,9 +19,9 @@ Another assumption is that there are $5T of stranded assets that are traded on W
 
 Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as instruments. 
 
-As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both values aligned AND profitable. While not perfect ESG's suffice as a general huristic with degrees of traction. What becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. 
+As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both values aligned AND profitable. While imperfect instruments in themselves, ESG's have sufficient traction to suffice as a general huristic. This fits our 
 
-Put simply both alpha and beta investors lack quality suppliers.
+What becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
 #### Economic Pathways
 Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such financial products to be trusted, value chain auditability will be required.
