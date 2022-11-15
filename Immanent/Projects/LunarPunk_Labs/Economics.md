@@ -10,16 +10,16 @@ Before designing a such an instrument let's first expound our assumptions about 
 > - Alpha investors; risk-on. Seeks return on investment.
 > - Beta investors; risk-off. Seeks wealth preservation.
 
-Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set participants are alpha investors and the second beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
+Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set participants are alpha investors and the second set are beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
 
 Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. The core interestes of cost / risk / benefit move both sets of participants to drive market activity. 
 
 #### Constraints
-Another assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
+The next factual assumption is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
 
-Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. Seemingly both forms of investors are in search of new 'values' as they begin to embrace qualitive indicators like ESG's as instruments. 
+Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
 
-As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both values aligned AND profitable. While imperfect instruments in themselves ESG's have sufficient traction to suffice as a general huristic that enables our north star of regeneration. 
+Both forms of investor wou in search of new 'values' as they begin to embrace qualitive indicators like ESG's as instruments. As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both values aligned AND profitable. While imperfect instruments in themselves ESG's have sufficient traction to suffice as a general huristic that enables our north star of regeneration. 
 
 What becomes evidant here is that investors have plenty of incentive to change and there is demand for high integrity vehicles facillitating the transition. Put simply both alpha and beta investors lack quality suppliers.
 
