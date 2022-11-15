@@ -5,7 +5,7 @@ The essential question here thus becomes where to direct it? Any response at thi
  
 
 ## Market Hypothesis
-Before designing a such a tool instrument let's first expound our assumptions about market   functionality though to see what emerges and becomes self-evident. Let's start with the major market participants and then examine the forces which move them.
+Before designing a such a tool let's first expound our assumptions about market   functionality to see what begins to  self-evident. Let's start with the major market participants and then examine the forces which move them.
 
 #### Participants
 > - Alpha investors; risk-on. Seeks return on investment.
