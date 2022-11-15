@@ -1,7 +1,8 @@
 ## Abstract
 Within material reality, markets forces can be thought of as a set of determining conditions. The aggrigated whole of these macro economic mechanisms incentivise the evolution of science and technology by channeling the pathways of research and implementation. Consequentially, we might consider markets to be an existential steering wheel of tremendous capacity. 
 
-The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise or unify people with place. These protocols essentially represent investment vehicles. 
+The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate our asiprational north star as regeneration and bound this to a domain of processes that harmonise people with place. How do we  protocols essentially represent investment vehicles. 
+ 
 
 ## Market Hypothesis
 Before designing a such an instrument let's first expound our assumptions about market   functionality though to see what emerges and becomes self-evident. Let's start with the major market participants and then examine the forces which move them.
