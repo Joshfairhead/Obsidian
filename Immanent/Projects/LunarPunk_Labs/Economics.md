@@ -12,10 +12,10 @@ Before designing a such a tool, let's articulate some working assumptions about 
 
 Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set participants are alpha investors and the second set are beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
 
-Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Consequently it would seem that the core interestes of cost / risk / benefit moves both sets of participants at a fundemental level.
+Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of profit, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Consequently it appears that cost / risk / benefit moves both sets of participants at a pretty fundemental level. 
 
 #### Constraints
-The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
+The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like fossil fuels and extracting them will lead to planetary rent dissipation. 
 
 Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
 
