@@ -1,5 +1,5 @@
 ## Introduction
-Market forces and trends are the determining conditions of our economic reality, when we look at them as incentive mec these shape the evolution of science and technology. 
+Markets form the determining conditions of our economic reality. These forces then shape the evolution of science and technology. If we want to direct the evolution of these domains back into neutral waters 
 
 This essay seeks to express a means of transforming financial capital from a quantifier that externalises its costs, into a quantifier that interanlises them as values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
 
