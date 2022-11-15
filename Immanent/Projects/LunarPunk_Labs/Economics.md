@@ -4,7 +4,7 @@ Markets forces can be thought of as a set of determining conditions within mater
 The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise or unify people with place. These processes or protocols can represent directed investment vehicles. 
 
 ## Market Hypothesis
-Before designing a such a solution though let's first expound our assumptions about market functionality. Examining this we can see what emerges to eventually become self-evident. Let's look at market participants and the forces which move them.
+Before designing a such a solution though let's first expound our assumptions about market   functionality to see what eventually emerges to become self-evident. Let's start with the major market participants and then examine the forces which move them.
 
 #### Participants
 > - Alpha investors; risk-on. Seeks return on investment.
