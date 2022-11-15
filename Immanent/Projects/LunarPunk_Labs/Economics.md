@@ -6,9 +6,13 @@ The essential question here thus becomes where to direct it? Any response at thi
 ## Market Hypothesis
 Before designing a such a tool, let's first articulate some working assumptions about market  in order to progressivly approximate a set of constraints. Here are the major market participants and then examine the forces which move them.
 
-#### Participants
-> - Alpha investors; risk-on. Seeks return on investment.
-> - Beta investors; risk-off. Seeks wealth preservation.
+#### Institutional Participants
+> - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
+> - Beta investors; risk-off. Seeks wealth preservation. Qualifiers.
+
+> - Government
+> - Industry
+> - Acedemia
 
 Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set participants are alpha investors and the second set are beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
 
