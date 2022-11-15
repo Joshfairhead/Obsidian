@@ -3,10 +3,10 @@ Markets forces can be thought of as a set of determining conditions within mater
 
 The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of directing our inquiry let's articulate our asiprational north star as regeneration and bound this to the domain of processes that harmonise and unify people with place. These processes or protocols represent directed investment vehicles. 
 
-#### Introduction
-We now have 
 
-Regenerative investment vehicals essentially represent the transformation of financial capital from a quantifier that externalises its costs into one that interanlises values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
+%%
+#### Introduction
+We now have a lever. Regenerative investment vehicals essentially represent the transformation of financial capital from a quantifier that externalises its costs into one that interanlises values. We will achieve this by converting markets from an existential liability into our greatest regenerative asset by aggrigating all forms of value into a single measurable proxy of free energy over unity.
 
 *Tools to introduce here*
 
@@ -14,7 +14,7 @@ The essay puts forth a case that this measure is the perfect investment vehicle 
 %%
 
 ## Market Hypothesis
-Before we jump into solutions - which are often unfalsifiable value assertions - we must first examine and expound our a priori assumptions about the financial system. By negating these we may see what emerges to become self-evident; only then might we deem a solution adequite. Before such let's first look at market participants and the trends that move them.
+Before designing a solution, let's first expound our assumptions around the financial system. By negating these facts we may see what emerges to eventually become self-evident; only then might we deem a solution adequite. Before such let's first look at market participants and the trends that move them.
 
 #### Participants
 > - Alpha investors; risk-on. Seeks return on investment.
