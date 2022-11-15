@@ -19,7 +19,7 @@ The next factual assumption is that there are $5T of stranded assets that are tr
 
 Such commodities have no intrinsic value and will soon need to be 'struck off' the books. In this case we note that there is a minimum of $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
 
-Both investment profiles would appear to be searching for new stores of value, which can be seen in their embrace of qualitive indicators like ESG's. As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are values oriented AND profitable. 
+Both investment profiles would appear to be searching for new stores of value, which can be seen in their embrace of qualitive indicators like ESG's. As always, there is a deal of controversy about the efficacy of such values but both parties are essentially stuck in a position where they need new investment vehicles that are both values oriented AND profitable. 
 
 While imperfect instruments in themselves ESG's have sufficient traction to suffice as a general set of values that help further constrain our north star of regeneration. 
 
