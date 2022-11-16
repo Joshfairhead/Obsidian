@@ -19,7 +19,7 @@ The next assumption about markets is that there are $5T of stranded assets that 
 
 Consequentially, both investor profiles are searching for new stores of value; a phenomena observable through their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific symbols and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of values that help make intervention points more evidant.
 
-Regardless of any specific values, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a scientific manner. Incubating  is ripe for blue fund investment. 
+Regardless of any specific values, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a scientific manner. Such enterprizes would be fertile soil for blue fund investments. 
 
 #### Economic Pathways
 - The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
