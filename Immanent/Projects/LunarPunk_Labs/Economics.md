@@ -1,7 +1,7 @@
 ## Abstract
 Markets forces can be thought of as a set of determining conditions within material reality. The aggrigated whole of these macro economic mechanisms incentivise the evolution of science and technology by channeling the pathways of research and implementation. Though biased through such incentives, we might consider markets to be an existential steering wheel of tremendous transformative capacity. The essential question quickly becomes how to work with it rather than against it? 
 
-Any answer at this point becomes a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound it to a domain of processes that harmonise people with place. These processes when turned into protocols might be considered regenerative financial instruments. The question is how to represent and evaluate them?
+Any answer at this point becomes a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound it to a domain of processes that harmonise people with place. These processes when turned into protocols might be considered regenerative financial instruments. The question then becomes how to best represent and evaluate said protocols in a way thats loosely fitted to market demand?
 
 ## Market Hypothesis
 Before designing a such a tool, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Lets start with the major market participants and then examine the forces which move them.
