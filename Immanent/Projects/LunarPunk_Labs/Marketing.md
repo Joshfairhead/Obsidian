@@ -17,5 +17,7 @@
 		- Messaging & activation intercepts the buying moments and addresses pain with gain.
 	- Segment, target, position
 	- Customer, specifier, influencer
+	- Your one thing
+		- For **target audience**, ---- is the frame, that point of difference.
 
 
