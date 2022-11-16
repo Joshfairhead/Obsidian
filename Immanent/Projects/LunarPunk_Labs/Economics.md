@@ -4,7 +4,7 @@ Markets forces can be thought of as a set of determining conditions within mater
 Any answer at this point becomes a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound it to a domain of processes that harmonise people with place. These processes when turned into protocols might be considered regenerative financial instruments. The question then becomes how to represent and evaluate such protocols in a way that meets the markets demand?
 
 ## Market Hypothesis
-Before designing a such a tool, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Lets start with the major market participants and then examine the forces which move them.
+Before designing such a financial technology, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Lets start with the major market participants and then examine the forces which move them.
 
 #### Participants
 > - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
