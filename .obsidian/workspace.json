@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2ef82f1f6dbd247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Technology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
+                "file": "Immanent/WorkBench/Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
+                "file": "Immanent/WorkBench/Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,17 +147,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "51a4adea1841e52c",
+  "active": "c2ef82f1f6dbd247",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/Projects/LunarPunk_Labs/Science.md",
+    "Immanent/Projects/LunarPunk_Labs/Finance.md",
     "Omnicient/Monad Seeds/Experts.md",
     "Immanent/WorkBench/Product.md",
     "Immanent/DailyNotes/2022/2022-11-16.md",
     "Immanent/DailyNotes/2022/2022-11-15.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/WorkBench/Untitled.md",
-    "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
-    "Product / Services.md",
-    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
-    "Immanent/DailyNotes/2022/2022-11-17.md"
+    "Product / Services.md"
   ]
 }

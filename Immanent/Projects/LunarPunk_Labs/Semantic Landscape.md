@@ -31,5 +31,5 @@
 - Places
 - Protocols
 - [[Economics]]
-- Science
-- Technology
+- [[Science]]
+- [[Technology]]
