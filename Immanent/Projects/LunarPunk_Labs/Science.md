@@ -2,7 +2,7 @@
 - [Ned](https://docs.google.com/document/d/1giZVMkFr186omN6esxJefkpfm_bTwQXST0_Wraz5KRU/edit)
 
 ## Introduction
-From our market research we noted demand for businesses that can account for, internalise and quantify their values. The the call is for appropriate measurement technologies that plug-into real world accounting systems; the domain of science and technology. 
+From our market research we noted demand for businesses that can account for, internalise and quantify their values. This is a call for measurement technologies that plug-into real world accounting systems; the domain of science and technology. 
 
 As we mentioned before 
 
