@@ -33,3 +33,6 @@ Shortfall
 
 #### Theories
 [[Global Dimming]]
+
+### Heresy
+https://www.youtube.com/watch?v=B-4w1CXFd1c&t=22s
