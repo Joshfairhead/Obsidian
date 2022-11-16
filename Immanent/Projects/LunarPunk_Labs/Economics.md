@@ -22,9 +22,7 @@ Consequentially, both investor profiles are searching for new stores of value; a
 Regardless of any specific values, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a measurable manner. 
 
 #### Economic Pathways
-There is essentially a $5T budget for a making this 
-
-The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
+Essentially this means that right now there is whats essentially a $5T budget for blue funds capable of facilitating such a transfomation. 
 
 Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such financial products to be trusted, value chain auditability will also be needed.
 
