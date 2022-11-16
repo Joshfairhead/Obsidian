@@ -9,5 +9,10 @@
 - [Temporary Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
 - [[LPL Wisdom Wheel]]
 - [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
+	- Define, create, ideate on the critical ingredients for your brand to enable us to drive exponential growth – buying and investing should be inevitable:
+
+• Category influences value  
+• Brand position expresses better, special, different, increcasinga mental, physical and digital availability
+• Messaging & activationàintercepts the buying moments and addresses pain with gain
 - [[Owens advice]]
 
