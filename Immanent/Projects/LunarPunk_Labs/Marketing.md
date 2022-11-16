@@ -13,8 +13,8 @@
 	- Why?
 	- Define, create, ideate on the critical ingredients for your brand to enable us to drive exponential growth – buying and investing should be inevitable:
 		- Category -> influences value  
-		• Brand position expresses better, special, different, increcasing a mental, physical and digital availability. We do this through the MODs
-		• Messaging & activation intercepts the buying moments and addresses pain with gain.
-		- 
+		- Brand position expresses better, special, different, increcasing a mental, physical and digital availability (influncing through reference, remenants, recall). We do this through the MODs
+		- Messaging & activation intercepts the buying moments and addresses pain with gain.
+	- Segment, target, position
 
 
