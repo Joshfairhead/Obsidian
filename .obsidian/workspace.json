@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f6b909f844eb736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c12321ee75ef8cfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9abb775d2d8878e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnicient/Monad Seeds/Experts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51a4adea1841e52c",
             "type": "leaf",
             "state": {
@@ -133,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-15.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-15.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,17 +135,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "1f6b909f844eb736",
+  "active": "51a4adea1841e52c",
   "lastOpenFiles": [
+    "Omnicient/Monad Seeds/Experts.md",
+    "Immanent/WorkBench/Product.md",
     "Immanent/DailyNotes/2022/2022-11-16.md",
     "Immanent/DailyNotes/2022/2022-11-15.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
-    "Immanent/WorkBench/Product.md",
     "Product / Services.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
-    "Immanent/DailyNotes/2022/2022-11-17.md",
-    "Immanent/CallNotes/Fix Our Food.md"
+    "Immanent/DailyNotes/2022/2022-11-17.md"
   ]
 }
