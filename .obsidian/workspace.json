@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "eebbbd659e599050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c2ef82f1f6dbd247",
             "type": "leaf",
             "state": {
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,15 +161,15 @@
   },
   "active": "c2ef82f1f6dbd247",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/WorkBench/Technology.md",
     "Immanent/Projects/LunarPunk_Labs/Science.md",
     "Immanent/Projects/LunarPunk_Labs/Finance.md",
     "Omnicient/Monad Seeds/Experts.md",
     "Immanent/WorkBench/Product.md",
     "Immanent/DailyNotes/2022/2022-11-16.md",
     "Immanent/DailyNotes/2022/2022-11-15.md",
-    "Immanent/Projects/LunarPunk_Labs/Economics.md",
-    "Immanent/WorkBench/Untitled.md",
-    "Product / Services.md"
+    "Immanent/WorkBench/Untitled.md"
   ]
 }
