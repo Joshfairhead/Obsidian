@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Marketing.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Marketing.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Marketing.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,6 +173,7 @@
   },
   "active": "8ef2ad250e9f83e0",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Marketing.md",
     "Immanent/Projects/LunarPunk_Labs/Science.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Immanent/WorkBench/Technology.md",
@@ -181,7 +182,6 @@
     "Omnicient/Monad Seeds/Experts.md",
     "Immanent/WorkBench/Product.md",
     "Immanent/DailyNotes/2022/2022-11-16.md",
-    "Immanent/DailyNotes/2022/2022-11-15.md",
-    "Immanent/WorkBench/Untitled.md"
+    "Immanent/DailyNotes/2022/2022-11-15.md"
   ]
 }
