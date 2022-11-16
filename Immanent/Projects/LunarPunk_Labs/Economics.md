@@ -1,5 +1,5 @@
 ## Abstract
-Within material reality, markets forces can be thought of as a set of determining conditions. The aggrigated whole of these macro economic mechanisms incentivise the evolution of science and technology by channeling the pathways of research and implementation. Consequentially, we might consider markets to be an existential steering wheel of tremendous capacity. 
+Markets forces can be thought of as a set of determining conditions within material reality. The aggrigated whole of these macro economic mechanisms incentivise the evolution of science and technology by channeling the pathways of research and implementation. Consequentially, we might consider markets to be an existential steering wheel of tremendous capacity. 
 
 The essential question here thus becomes where to direct it? Any response at this point is a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound this to a domain of processes that harmonise people with place. Such abstract processes when turned into protocols might be considered regenerative financial instruments. The question is how to represent and evaluate them?
 
