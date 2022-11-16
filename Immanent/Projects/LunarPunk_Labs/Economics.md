@@ -19,12 +19,12 @@ The next assumption about markets is that there are $5T of stranded assets that 
 
 Consequentially, both investor profiles are searching for new stores of value; a phenomena observable through their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific symbols and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of values that help make intervention points more evidant.
 
-Regardless of any specific values, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can properly account for a given set of values. Such an incubator is ripe for blue fund investment. 
+Regardless of any specific values, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a scientific manner. Incubating  is ripe for blue fund investment. 
 
 #### Economic Pathways
 - The pathway that this enables is $5T in market capital that is in need of urgent divestment as such assets must be abandoned with no place to go. 
 
-Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such financial products to be trusted, value chain auditability will be required.
+Provisioning appropriate divestment options will require the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. For such financial products to be trusted, value chain auditability will also be needed.
 
 Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms; capital and curret-sees. Capital might be framed as a noun like wholes; as integrals that emerge from the aggrigation of many verb like interactions. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline.  
 
