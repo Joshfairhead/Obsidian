@@ -6,13 +6,15 @@
 
 ## Branding
 - [Mood board](https://www.figma.com/file/99H5kRrQFNGLflwupbNOZp/LunarPunk-Branding?node-id=0%3A1)
+- [[Owens advice]]
 - [Temporary Figma Logo](https://www.figma.com/file/vfMTcHrtSo8S4EpvKFmFnQ/Logo)
 - [[LPL Wisdom Wheel]]
 - [Outlier Branding Workshop](assets/OutlierBrandWorkshop.pdf)
+	- Why?
 	- Define, create, ideate on the critical ingredients for your brand to enable us to drive exponential growth – buying and investing should be inevitable:
+		- Category -> influences value  
+		• Brand position expresses better, special, different, increcasing a mental, physical and digital availability. We do this through the MODs
+		• Messaging & activation intercepts the buying moments and addresses pain with gain.
+		- 
 
-• Category influences value  
-• Brand position expresses better, special, different, increcasinga mental, physical and digital availability
-• Messaging & activationàintercepts the buying moments and addresses pain with gain
-- [[Owens advice]]
 
