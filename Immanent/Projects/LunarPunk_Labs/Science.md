@@ -2,9 +2,9 @@
 - [Ned](https://docs.google.com/document/d/1giZVMkFr186omN6esxJefkpfm_bTwQXST0_Wraz5KRU/edit)
 
 ## Introduction
-Still following our aim of opening up unenclosable regenerative markets that bridge the gap between science (research) and technology (implementation)  integrate values. we find ourselves bumping into questions like what is regeneration? how do we measure it or evaluate it? which methodology? - and even what is science?
+Still following our aim of opening up unenclosable regenerative markets that bridge the gap between science (research) and technology (implementation) we find ourselves bumping into questions like what is regeneration? how do we measure it or evaluate it? which methodology? - and even what is science?
 
-
+This question becomes especially relevant as we are seeking to build techno-economic tooling
 
 
 If our markets are looking for businesses that can account for and and quantify their values, they will need appropriate measurement tools that plug-in real world accounting systems. 
