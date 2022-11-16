@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
+                "file": "Immanent/DailyNotes/2022/2022-11-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immanent/DailyNotes/2022/2022-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immanent/DailyNotes/2022/2022-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,10 +171,10 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "cbd29958181d46b8",
+  "active": "1f6b909f844eb736",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Untitled.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
+    "Immanent/WorkBench/Untitled.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Immanent/WorkBench/Product.md",
     "Product / Services.md",
