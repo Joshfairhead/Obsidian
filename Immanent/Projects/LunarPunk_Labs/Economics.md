@@ -24,12 +24,12 @@ Regardless of the specific heuristic, it's apparent that both of our investor pr
 #### Economic Pathways (How)
 Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a $5T market opportunity for blue funds capable of facilitating such a transfomation; the question is what kind of products would such a marketplace either need or want? 
 
-Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measure; the qualitive and quantitive which then require evaluation against a baseline in order to become a codified form of capital. The representation, organisation and translation of such values becomes a deep set of scientific and technical challenges where the general solution is nested Markov blankets and the 
+Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measure; the qualitive and quantitive which then require evaluation against a baseline in order to become a codified form of capital. 
 
-From the quantitive perspective perspective, measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density or brix values. These measures are valuable as far as data goes so our concern becomes the organised aggrigation of these flows at the information level. Immediatly the qualitive perspective also runs into this representation challenge, the values are just non fungible.
+From the quantitive perspective perspective input measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density or brix values. These measures are valuable at the data level our concern becomes the organised aggrigation of these flows at the information level. Immediatly the qualitive perspective also runs into this representation challenge, the values are just non fungible.
 
 
-
+The representation, organisation and translation of such values becomes a deep set of scientific and technical challenges where 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than a product truely representing the health of a living ecosystem. 
 
