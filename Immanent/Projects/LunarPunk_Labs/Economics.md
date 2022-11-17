@@ -26,7 +26,7 @@ Provisioning divestment options consequentially requires the opening of new mark
 
 Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measure; the qualitive and quantitive which then require evaluation against a baseline in order to become a codified form of capital. This translation becomes a scientific and technical challenge. 
 
-
+The material
 
 ##### Quantitive
 Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept. 
