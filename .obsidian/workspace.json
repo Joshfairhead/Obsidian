@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
+                "file": "Immanent/WorkBench/Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
+                "file": "Immanent/WorkBench/Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,10 +171,10 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "eebbbd659e599050",
+  "active": "c2ef82f1f6dbd247",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Technology.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
+    "Immanent/WorkBench/Technology.md",
     "Immanent/Projects/LunarPunk_Labs/Science.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Omnicient/Monad Saplings/Climate.md",
