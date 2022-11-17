@@ -11,13 +11,7 @@
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action
-- Directive: Active inferrence (above unity energy)
-- Instrumental: Feeds, measures, values
-- Ground: State protocols
-- Ideal: Environmental stewardship
 
-- Directive to Instrumental edge: Markov blankets
-- Ground to Ideal edge: Practice based methodologies
 
 #### Pentad: Significance
 - Essential: [[Product]] / [[Services]]
