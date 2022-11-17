@@ -1,5 +1,5 @@
 #### Monad: Unity
-- Organisational Harmony
+- Longtail potential
 
 #### Dyad: Polarity
 - Essential: Research
