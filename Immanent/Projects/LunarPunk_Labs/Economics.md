@@ -26,7 +26,7 @@ Provisioning divestment options consequentially requires the opening of new mark
 
 Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measure; the qualitive and quantitive which then require evaluation against a baseline in order to become a codified form of capital. 
 
-From the quantitive perspective, input measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density or brix values ect. These measures are useful at the data level but so our higher order concern becomes their organised aggrigation at the information level. The qualitive perspective similarly runs into these representation challenges as the value expressions are non fungible. 
+From the quantitive perspective, input measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density or brix values ect. These measures are useful at the data level but they lack an interoperable standard and consequentially our concern becomes their organised arrangement at the information level. The qualitive perspective similarly these representation challenges, expressions are non fungible. The devils in the implementation details. 
 
 
 The representation, organisation and translation of such values becomes a deep set of scientific and technical challenges where 
