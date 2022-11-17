@@ -22,9 +22,9 @@ Consequentially, both investor profiles are searching for new stores of value; a
 Regardless of the specific heuristic, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a quantifiable manner. 
 
 #### Economic Pathways 
-Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. There's essentially a $5T budget for blue funds capable of facilitating such a transfomation the question is what kind of products does such a marketplace want?
+Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. There's essentially a $5T budget for blue funds capable of facilitating such a transfomation; the question is what kind of products does such a marketplace need and want?
 
-This is a technical 
+This is a technical question of multiple scales. Check the technology section for a possible solution. 
 
 
 ---
