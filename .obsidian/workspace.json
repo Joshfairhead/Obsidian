@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/Technology.md",
+                "file": "Immanent/DailyNotes/2022/2022-11-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Technology.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Technology.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,17 +171,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "c2ef82f1f6dbd247",
+  "active": "0e18c844cd8d33d4",
   "lastOpenFiles": [
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
-    "Immanent/WorkBench/Technology.md",
     "Immanent/Projects/LunarPunk_Labs/Science.md",
+    "Immanent/DailyNotes/2022/2022-11-17.md",
+    "Immanent/WorkBench/Technology.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Omnicient/Monad Saplings/Climate.md",
     "Omnicient/Monad Saplings/Climate Justice.md",
     "Immanent/Projects/LunarPunk_Labs/Marketing.md",
     "Immanent/Projects/LunarPunk_Labs/Finance.md",
-    "Omnicient/Monad Seeds/Experts.md",
-    "Immanent/WorkBench/Product.md"
+    "Omnicient/Monad Seeds/Experts.md"
   ]
 }
