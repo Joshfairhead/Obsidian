@@ -22,9 +22,13 @@ Consequentially, both investor profiles are searching for new stores of value; a
 Regardless of the specific heuristic, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a quantifiable manner. 
 
 #### Economic Pathways 
-Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. There's essentially a $5T budget for blue funds capable of facilitating such a transfomation. What kind of products does the market want?
+Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. There's essentially a $5T budget for blue funds capable of facilitating such a transfomation the question is what kind of products does such a marketplace want?
 
-Looking at economics in terms of nouns and verbs the internalisation of values are likely to take two primary forms - capital and curret-sees. Capital might be framed as noun like wholes that emerge from the aggrigated state of many verb like processes; current-sees. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
+This is a technical 
+
+
+---
+We can look at economics in terms of nouns and verbs. the internalisation of values are likely to take two primary forms - capital and curret-sees. Capital might be framed as noun like wholes that emerge from the aggrigated state of many verb like processes; current-sees. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
 
 Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept. Technically the best way to do this is 
 
