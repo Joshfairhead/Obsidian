@@ -24,11 +24,10 @@ Regardless of the specific heuristic, it's apparent that both of our investor pr
 #### Economic Pathways (How)
 Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a $5T market opportunity for blue funds capable of facilitating such a transfomation; the question is what kind of products would such a marketplace either need or want? 
 
-Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measures 
+Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measure; the qualitive and quantitive. These need to then be evaluated against baseline; we refer to scien
 
-the internalisation of values are likely to take two primary forms - capital and curret-sees. Capital might be framed as noun like wholes that emerge from the aggrigated state of many verb like processes; current-sees. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
-
-Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept. Technically the best way to do this is 
+##### Quantitive
+Example measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values or qualitive surveys like communities or activity within a given ecosystem. These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept. 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than a product truely representing the health of a living ecosystem. 
 
