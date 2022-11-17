@@ -24,9 +24,7 @@ Regardless of the specific heuristic, it's apparent that both of our investor pr
 #### Economic Pathways (How)
 Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a $5T market opportunity for blue funds capable of facilitating such a transfomation; the question is what kind of products would such a marketplace either need or want? 
 
-This is of course a [[Technology]] question of multiple scales but such a tools design rests so lets continue with the concerns of economics. Thinking in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. 
-
-In that regard 
+Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measures 
 
 the internalisation of values are likely to take two primary forms - capital and curret-sees. Capital might be framed as noun like wholes that emerge from the aggrigated state of many verb like processes; current-sees. To make these current-sees explicit, we need to track and measure the flows of a system across time and evaluate them against a baseline. 
 
