@@ -29,6 +29,7 @@ Examining economics in terms of nouns and verbs helps us to distinguish capital 
 From the quantitive perspective, input measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density or brix values ect. These measures are useful at the data level but they lack an interoperable standard and consequentially their organised arrangement at the information level becomes a concern. The qualitive perspective faces the same representation challenges except thier initial expressions are non-fungible instead; the devils in the implementation details!
 
 
+
 The representation, organisation and translation of such values becomes a deep set of scientific and technical challenges where 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than a product truely representing the health of a living ecosystem. 
