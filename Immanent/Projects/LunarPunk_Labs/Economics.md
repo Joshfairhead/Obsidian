@@ -6,7 +6,7 @@ Any answer at this point becomes a values assertion but for the purposes of our 
 ## Market Hypothesis
 Before designing such a financial technology, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Lets start with the major market participants and then examine the forces which move them.
 
-#### Participants
+#### Participants (What)
 > - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
 > - Beta investors; risk-off. Seeks wealth preservation. Qualifiers.
 
@@ -14,17 +14,17 @@ Our first assumption is that there are two broad sets of market participants tha
 
 Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of returns, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Note that costs / risks / benefits moves both sets of participants at a pretty fundemental level. Mediating this are the blue funds that open up markets for both parties.
 
-#### Institutional Constraints
+#### Institutional Constraints (Why)
 The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, which can't be extracted due to planetary boundary conditions. As these commodities have no intrinsic value their existance essentially depends on an irrational market and soon these assets will need to be 'struck from the books'.  
 
 Consequentially, both investor profiles are searching for new stores of value; a phenomena observable through their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific symbols and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of values that help make intervention points more evidant.
 
 Regardless of the specific heuristic, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a quantifiable manner. 
 
-#### Economic Pathways 
-Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. There's essentially a $5T budget for blue funds capable of facilitating such a transfomation; the question is what kind of products does such a marketplace need and want?
+#### Economic Pathways (How)
+Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that internalise values instead. There's essentially a $5T budget for blue funds capable of facilitating such a transfomation; the question is what kind of products would such a marketplace either need or want? This is of course a [[Technology]] question of multiple scales; lets ask our 
 
-This is a technical question of multiple scales. Check the technology section for a possible solution. 
+
 
 
 ---
