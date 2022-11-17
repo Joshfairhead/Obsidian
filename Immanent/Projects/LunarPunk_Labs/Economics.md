@@ -26,12 +26,14 @@ Provisioning divestment options consequentially requires the opening of new mark
 
 Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time; where as capital arises from a concentrated aggrigiation these flows. In that regard we see two forms of measure; the qualitive and quantitive which then require evaluation against a baseline in order to become a codified form of capital. The recording and translation of these values immediatly becomes a set of scientific and technical challenges. 
 
-From the quantitive perspective perspective measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values. These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept.  or qualitive surveys like communities or activity within a given ecosystem. 
+##### Quantity
+From the quantitive perspective perspective measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density/brix values. These measures have little value on their own except as data so our concern becomes aggrigating these flows into a vehicle that our market participants will accept. 
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than a product truely representing the health of a living ecosystem. 
 
 Alpha investors will generally be unsatisfied by the simplicity of noun like products; they hunt volitility in order to realise potential into profit. This trait of potential actualisation is desirable for regen markets as it's a mechanism that can be harnessed. From an economic perspective lets simply ask ourselves; where is the most unrealised potential? The long tail of environmental, social and governance causes. 
 
+##### Quality
 Improving our ESG heuristic to a finer degree of resolution we can infer the values of Justice, Equity, Diversity and Inclusion. The two former terms are social values and the latter two are governance oriented. Since we are relying on such heuristics  to financialise the activity of people and place through the production of protocols it becomes desirable for a regenerative vehicle to not only mitigate it's eco-socio-policical costs but to also generate and harmonise community values. 
 
 Unlike facts, values are subject to contention and their discussion will often generate enough volitility to drive change and transformation. The more often they are measured the quicker certainty is gained. This harmonisation of values towards certainty can be measured as free energy above unity; which is also a single measure that can serve as an investable quantifier. 
