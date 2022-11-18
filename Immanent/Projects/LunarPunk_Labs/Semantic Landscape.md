@@ -11,6 +11,7 @@
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
 #### Tetrad: Action 
+Data module
 - Directive: Activly inferred ontologies as markov blankets
 - Instrumental: Input data (Monitoring, Reporting, Verification)
 - Ground: Accounting (Resource, Event, Agent)
@@ -18,8 +19,8 @@
 
 #### Pentad: Significance
 - Essential: [[Product]]
-- Essential: [[Operations]] [[Co]]
-- Significant: [[Community]]
+- Essential: [[Community]]
+- Significant: [[Operations]]
 - Essential [[Marketing]]
 - Existential: [[Finance]]
 
