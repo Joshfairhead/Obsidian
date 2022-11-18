@@ -10,8 +10,7 @@
 - Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]] 
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
-#### Tetrad: Action 
-Data module
+#### Tetrad: Action
 - Directive: Activly inferred ontologies as markov blankets
 - Instrumental: Input data (Monitoring, Reporting, Verification)
 - Ground: Accounting (Resource, Event, Agent)
@@ -23,6 +22,9 @@ Data module
 - Significant: [[Operations]]
 - Essential [[Marketing]]
 - Existential: [[Finance]]
+
+Hexad:
+
 
 #### Hexad: Coalescence
 - People
