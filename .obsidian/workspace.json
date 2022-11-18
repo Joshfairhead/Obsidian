@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/Advocacy.md",
+                "file": "Immanent/DailyNotes/2022-11-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Advocacy.md",
+                "file": "Immanent/DailyNotes/2022-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Advocacy.md",
+                "file": "Immanent/DailyNotes/2022-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,15 +234,15 @@
   },
   "active": "8ff3f5f00e5098ba",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2022-11-18.md",
+    "Immanent/WorkBench/Advocacy.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
     "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/Projects/LunarPunk_Labs/Finance.md",
-    "Immanent/WorkBench/Advocacy.md",
     "Immanent/WorkBench/Product.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/WorkBench/Technology.md",
     "Immanent/DailyNotes/2022/2022-11-17.md",
-    "Immanent/DailyNotes/2022-11-18.md",
     "Omnicient/Monad Seeds/Economics.md"
   ]
 }
