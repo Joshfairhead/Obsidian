@@ -27,7 +27,7 @@
 LabWeeks
 - People
 - Places
-- Protocols
+- [[Protocols]]
 - [[Economics]]
 - [[Science]]
 - [[Technology]]

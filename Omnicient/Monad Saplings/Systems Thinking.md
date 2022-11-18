@@ -5,6 +5,7 @@ Related: [[Cybernetics]] [[Second Order Science]] [[The Cybernetic Brain]] [[Qua
 #  Systems Thinking
 
 #### References
+- [](https://equivalentexchange.blog/2018/09/13/the-archic-matrix/)
 - [Thou shall nots of systems change](https://ssir.org/articles/entry/the_thou_shalt_nots_of_systems_change)
 - [The Systems Thinker](https://thesystemsthinker.com/)
 - [Systems analysis of meetings](http://www.exedes.com/Why-Do-Meetings-Start-Late.htm)
