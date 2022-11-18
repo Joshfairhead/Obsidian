@@ -23,9 +23,6 @@
 - Essential [[Marketing]]
 - Existential: [[Finance]]
 
-Hexad:
-
-
 #### Hexad: Coalescence
 - People
 - Places
