@@ -24,6 +24,7 @@
 - Existential: [[Finance]]
 
 #### Hexad: Coalescence Events
+LabWeeks
 - People
 - Places
 - Protocols
