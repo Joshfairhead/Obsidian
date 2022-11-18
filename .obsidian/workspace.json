@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+                "file": "Immanent/WorkBench/Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,8 +197,8 @@
   },
   "active": "51a4adea1841e52c",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/Projects/LunarPunk_Labs/Semantic Landscape.md",
+    "Immanent/Projects/LunarPunk_Labs/Operations.md",
     "Immanent/WorkBench/Product.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/WorkBench/Technology.md",
