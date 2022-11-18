@@ -16,8 +16,8 @@
 - Ground: Accounting (Resource, Event, Agent)
 - Ideal: Value production (e.g Environmental, Social, Governance)
 
-#### Pentad: Significance
-- Essential: [[Product]]
+#### Pentad: Org Significance
+- Essential: [[Advocacy]]
 - Essential: [[Community]]
 - Significant: [[Operations]]
 - Essential [[Marketing]]

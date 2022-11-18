@@ -1,5 +1,7 @@
 ## Legal Entity
 
+![[Product]]
+
 ## Market development
 - Fund advocay and accesibility
 
