@@ -31,8 +31,10 @@
 - [[Science]]
 - [[Technology]]
 
+Hexad
 
-#### Enneagram ??
+
+#### Emmergent enneagram ??
 - 1 Resources
 - 2 Events
 - 3 Agents
