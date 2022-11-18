@@ -8,7 +8,7 @@
 #### Triad: Dynamic
 - Active: [[Projects]] - Place, Prototype, Pilot
 - Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]] 
-- Reconciling: [[Processes]] - Culture, Method, Narrative
+- Reconciling: [[Processes]] - Culture, Narrative, Method,
 
 #### Tetrad: Action
 - Directive: Activly inferred ontologies as markov blankets
