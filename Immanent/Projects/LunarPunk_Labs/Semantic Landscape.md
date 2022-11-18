@@ -17,8 +17,8 @@
 - Ideal: Value production (e.g Environmental, Social, Governance)
 
 #### Pentad: Significance
-- Essential: [[Product]] / [[Services]]
-- Essential: [[Operations]]
+- Essential: [[Product]]
+- Essential: [[Operations]] [[Co]]
 - Significant: [[Community]]
 - Essential [[Marketing]]
 - Existential: [[Finance]]
