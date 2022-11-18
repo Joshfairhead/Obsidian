@@ -1,7 +1,7 @@
 #### Monad: Unity
 - Longtail potential
 
-#### Dyad: Polarity
+#### Dyad: Complimentarity
 - Essential: Research
 - Existential: Implementation
 
@@ -10,8 +10,11 @@
 - Passive: [[People]] - [[Facilitators]], [[Stewards]], [[Experts]] 
 - Reconciling: [[Processes]] - Culture, Method, Narrative
 
-#### Tetrad: Action
-
+#### Tetrad: Action 
+- Directive: Activly inferred ontologies as markov blankets
+- Instrumental: Input data (Monitoring, Reporting, Verification)
+- Ground: Accounting (Resource, Event, Agent)
+- Ideal: Value production (e.g Environmental, Social, Governance)
 
 #### Pentad: Significance
 - Essential: [[Product]] / [[Services]]
