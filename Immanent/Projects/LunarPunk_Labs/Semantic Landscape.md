@@ -23,7 +23,7 @@
 - Essential [[Marketing]]
 - Existential: [[Finance]]
 
-#### Hexad: Coalescence
+#### Hexad: Coalescence Events
 - People
 - Places
 - Protocols
@@ -31,16 +31,4 @@
 - [[Science]]
 - [[Technology]]
 
-Hexad
 
-
-#### Emmergent enneagram ??
-- 1 Resources
-- 2 Events
-- 3 Agents
-- 4 Monitored
-- 5 Reported
-- 6 Verified
-- 7 Environment
-- 8 Social
-- 9 Governance
