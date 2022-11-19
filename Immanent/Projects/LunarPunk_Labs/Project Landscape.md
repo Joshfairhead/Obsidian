@@ -1,5 +1,5 @@
 #### Monad: Unity
-- Longtail potential
+- Actualisation of longtail potential
 
 #### Dyad: Complimentarity
 - Essential: Research
@@ -17,14 +17,13 @@
 - Ideal: Value production (e.g Environmental, Social, Governance)
 
 #### Pentad: Org Significance
-- Essential: [[Advocacy]]
+- Essential: [[Advocacy]] [[Product]]
 - Essential: [[Community]]
 - Significant: [[Operations]]
 - Essential [[Marketing]]
 - Existential: [[Finance]]
 
 #### Hexad: Coalescence Events
-LabWeeks
 - People
 - Places
 - [[Protocols]]
