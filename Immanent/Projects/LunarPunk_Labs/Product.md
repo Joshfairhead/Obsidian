@@ -1,5 +1,5 @@
 ### Monad: Project Scope
-- Potential: Blue funds | Longtail Environmental Stewardship Markets | Registry
+- Potential: Blue funds | Longtail Environmental Stewardship Markets | Regenerative registries
 
 ### Dyad: Complimentarity
 - Essential: Research | Methodology Development | Science 
@@ -10,7 +10,7 @@
 - Passive: Place | Bioregions
 - Reconciling: Protocol project | Communities
 
-#### Tetrad: Common Action 
+### Tetrad: Common Action 
 - Directive: Community perception (Agents, Languages, Perspectives)
 - Instrumental: Data and values (Monitoring, Reporting, Verification)
 - Ground: Accounting (Resource, Event, Agent)

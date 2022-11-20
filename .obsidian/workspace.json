@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,8 +196,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,17 +254,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "1880f16305f47034",
+  "active": "51a4adea1841e52c",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
+    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
     "Immanent/Projects/LunarPunk_Labs/Product.md",
+    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
     "Omnicient/Monad Saplings/Climate.md",
     "Immanent/Projects/LunarPunk_Labs/Finance.md",
     "Immanent/WorkBench/Protocols.md",
     "Omnicient/Monad Saplings/Systems Thinking.md",
     "Immanent/DailyNotes/2023-06-05.md",
     "Immanent/DailyNotes/2022-11-18.md",
-    "Immanent/DailyNotes/2022/2022-11-28.md",
-    "Immanent/WorkBench/Advocacy.md"
+    "Immanent/DailyNotes/2022/2022-11-28.md"
   ]
 }
