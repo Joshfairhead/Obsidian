@@ -2,8 +2,8 @@
 - Potential: Blue funds | Longtail Environmental Stewardship Markets | Regenerative registries
 
 ### Dyad: Complimentarity
-- Essential: Research | Methodology Development | Science 
-- Existential: Implementation | Eco-state protocols | Technology
+- Essential: Research | Science | Methodology Development
+- Existential: Implementation | Technology | Eco-state protocols
 
 ### Triad: Domain Dynamics
 - Active: People | Stewards

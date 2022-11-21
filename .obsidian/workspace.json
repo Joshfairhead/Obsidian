@@ -20,126 +20,19 @@
             }
           },
           {
-            "id": "1880f16305f47034",
+            "id": "8e9c66471676bb81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cacc83e5947f6391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b631ed4d6814b06d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "226f9357e6b03ee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Finance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e588731e0ef1b21e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Advocacy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aba112d88461f1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d357de948a778263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eebbbd659e599050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e18c844cd8d33d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2ef82f1f6dbd247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022-11-22.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022-11-22.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,17 +147,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "51a4adea1841e52c",
+  "active": "8e9c66471676bb81",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022/2022-11-15.md",
+    "Immanent/Projects/LunarPunk_Labs/Finance.md",
     "Immanent/DailyNotes/2022-11-22.md",
+    "Immanent/DailyNotes/2022/2022-11-17.md",
+    "Immanent/Projects/LunarPunk_Labs/Product.md",
+    "Immanent/DailyNotes/2022/2022-11-15.md",
     "Immanent/DailyNotes/2022/2022-11-29.md",
     "Omnicient/Monad Seeds/Semiotics.md",
     "Omnicient/Monad Seeds/Semantics.md",
-    "Immanent/Projects/LunarPunk_Labs/Product.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
-    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
-    "Omnicient/Monad Saplings/Climate.md",
-    "Immanent/Projects/LunarPunk_Labs/Finance.md"
+    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md"
   ]
 }

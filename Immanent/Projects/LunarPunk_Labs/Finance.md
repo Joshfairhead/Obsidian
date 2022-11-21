@@ -1,12 +1,23 @@
+#### Monad
+- Markets
+#### Dyad
+- Alpha investors
+- Beta investors
+#### Triad
+- Active: Hedge funds (e.g. Blackrock)
+- Passive: Pension funds (e.g. Phoneix NPI )
+- Reconciling: Blue funds (e.g. Protocol Labs?)
+#### Tetrad
+- Directive:
+- Instrumental: 
+- Ground: 
+- Ideal: 
+#### Pentad
 
-#### Blue funds
-- Protocol Labs
-#### Hedge funds
-- Blackrock
-#### Pension funds
 
 ---
 #### Grants
+- 
 
 #### Protocols 
 - Regen community pool 
