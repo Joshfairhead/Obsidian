@@ -13,7 +13,7 @@
 ### Tetrad: Common Action 
 - Directive: Community perception (Agents, Languages, Perspectives)
 - Instrumental: Data and values (Monitoring, Reporting, Verification)
-- Ground: Accounting (Resource, Event, Agent)
+- Ground: Blockchain accounting (Resource, Event, Agent)
 - Ideal: Evaluation (e.g Environmental, Social, Governance)
 
 ### Pentad: Semantic Significance
