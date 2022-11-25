@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022-11-26.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022-11-26.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022-11-26.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,15 +136,15 @@
   },
   "active": "df08e4458d67b443",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022-12-02.md",
-    "Immanent/DailyNotes/2022-11-26.md",
-    "Immanent/DailyNotes/2022/2022-11-29.md",
+    "Immanent/Projects/LunarPunk_Labs/Economics.md",
+    "Omnicient/Monad Seeds/Economics.md",
     "Immanent/DailyNotes/2022-11-25.md",
+    "Immanent/DailyNotes/2022-11-26.md",
+    "Immanent/DailyNotes/2022-12-02.md",
+    "Immanent/DailyNotes/2022/2022-11-29.md",
     "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
     "Immanent/WorkBench/Refi DAO Notes.md",
     "Immanent/DailyNotes/2022-11-24.md",
-    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
-    "Immanent/Projects/LunarPunk_Labs/Product.md",
-    "Immanent/WorkBench/Untitled.md"
+    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md"
   ]
 }

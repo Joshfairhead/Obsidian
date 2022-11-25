@@ -1,5 +1,5 @@
 ### Monad: Project Scope
-- Potential: Blue funds | Longtail Environmental Stewardship Markets | Regenerative registries
+- Potential: Blue funds | Impact Market of Longtail Environmental Stewardship | Regenerative registries
 
 ### Dyad: Complimentarity
 - Essential: Research | Science | Methodology Development
