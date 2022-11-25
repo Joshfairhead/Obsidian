@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
+                "file": "Immanent/DailyNotes/2022-11-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3a6addea9d04642b",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Refi DAO.md",
+                "file": "Immanent/DailyNotes/2022-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Refi DAO.md",
+                "file": "Immanent/DailyNotes/2022-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,17 +165,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "bc973ec354ed09c1",
+  "active": "8e9c66471676bb81",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2022-11-24.md",
+    "Immanent/DailyNotes/2022-11-25.md",
+    "Immanent/DailyNotes/2022-11-26.md",
+    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
+    "Immanent/Projects/LunarPunk_Labs/Product.md",
     "Immanent/WorkBench/Refi DAO.md",
     "Immanent/WorkBench/Untitled.md",
     "Immanent/DailyNotes/2022-11-23.md",
     "Immanent/DailyNotes/2022-11-22.md",
-    "Immanent/DailyNotes/2022-11-25.md",
-    "Immanent/Projects/LunarPunk_Labs/Product.md",
-    "Immanent/DailyNotes/2022/2022-11-29.md",
-    "Immanent/DailyNotes/2022/2022-11-30.md",
-    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md"
+    "Immanent/DailyNotes/2022/2022-11-29.md"
   ]
 }
