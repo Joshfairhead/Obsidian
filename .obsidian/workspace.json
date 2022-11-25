@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
+                "file": "Immanent/DailyNotes/2022-11-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff85e455ecb34631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,17 +147,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "df08e4458d67b443",
+  "active": "ff85e455ecb34631",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2022-11-26.md",
+    "Immanent/DailyNotes/2022-11-25.md",
+    "Immanent/Projects/LunarPunk_Labs/Product.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Omnicient/Monad Seeds/Economics.md",
-    "Immanent/DailyNotes/2022-11-25.md",
-    "Immanent/DailyNotes/2022-11-26.md",
     "Immanent/DailyNotes/2022-12-02.md",
     "Immanent/DailyNotes/2022/2022-11-29.md",
     "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
     "Immanent/WorkBench/Refi DAO Notes.md",
-    "Immanent/DailyNotes/2022-11-24.md",
-    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md"
+    "Immanent/DailyNotes/2022-11-24.md"
   ]
 }
