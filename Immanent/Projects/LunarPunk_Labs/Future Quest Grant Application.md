@@ -22,10 +22,12 @@ In one or two sentences describe the problem.
 
 #### Solution Description
 In one or two sentences describe the solution
-- Make implicit qualitative values visible and investable by aggregating them into a Markov blanket and evaluate against free energy principal using active inference; anything above unity (baseline) constitutes increasing harmony/regeneration. This enables investment into complex 'assets' that implicitly revolve around credit, transforming market mechanisms into positive sum games.
+- Make qualitative values investable by aggregating feeds into Markov blankets to evaluate free energy using active inference; anything above unity (baseline) constitutes increasing harmony/regeneration. These complex forms of eco-asset can warp market mechanisms into positive sum games. These are the types of impact market we need.
 
 #### Concept Description
 In one or two sentences describe the quest to achieve said solution.
+- 
+- Marketing > Operations > Design > Development > Product > Project.
 - Enneagrams: Coordinate and educate through semantic facilitation and conversation graphs.
 
 #### Estimated CO2 (if known)
