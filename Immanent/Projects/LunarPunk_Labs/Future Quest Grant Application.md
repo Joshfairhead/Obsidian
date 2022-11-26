@@ -22,13 +22,12 @@ In one or two sentences describe the problem.
 
 #### Solution Description
 In one or two sentences describe the solution
-- Make qualitative values investable by aggregating feeds into Markov blankets to evaluate free energy using active inference; anything above unity (baseline) constitutes increasing harmony/regeneration. These complex forms of eco-asset can warp market mechanisms into positive sum games. These are the types of impact market we need.
+- Make qualitative values investable by aggregating feeds into Markov blankets to evaluate free energy using active inference; anything above unity (baseline) constitutes increasing harmony/regeneration. These complex forms of eco-asset can warp market mechanisms into positive sum games that value the regeneration of people and planet. 
 
 #### Concept Description
 In one or two sentences describe the quest to achieve said solution.
-- 
-- Marketing > Operations > Design > Development > Product > Project.
-- Enneagrams: Coordinate and educate through semantic facilitation and conversation graphs.
+- The specific function of LunarPunk_Labs is to facilitate conversations into data structures that enable impact evaluation. We are acting as a market maker that codifies espoused values into Markov blankets for state modeling and active inferencing. The pipeline looks as follows: Convene projects > Demonstrate facilitation style > Sense making sessions for specific projects > Functional specifications articulated > Development hand off. 
+
 
 #### Estimated CO2 (if known)
 How much CO2e would the project remove/prevent from atmosphere when fully developed? (in tonnes/year, eg. 2.4Mt/year)
@@ -38,11 +37,11 @@ How much CO2e would the project remove/prevent from atmosphere when fully develo
 - Started but not funded
 
 #### Current Team size
-3
+3 Core catalysts
 
 #### Capital needs
 How much capital do you need right now?
-- $100,000
+- $50k enables a pretotype before raising seed money to scale.
 
 #### Talent needs (roles)
 What open roles are you looking to fill right now?
@@ -55,13 +54,14 @@ Operations
 - COO  
 Community  
 - Advocacy  
--  
+- Social media
 Product  
 - Design  
 - Engineering
 
 #### Talent needs (gigs)
 What open gigs (bounties, projects, etc.) are you looking to fill right now?
+- Socials 
 
 
 #### Leader Name
