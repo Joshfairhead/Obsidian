@@ -18,17 +18,15 @@ https://future.quest/submit
 
 #### Problem Description
 In one or two sentences describe the problem.
-- ReFi has carbon myopia. The value of regeneration is implicit; it's embodied in the qualities of a well functioning ecosystem. The bottleneck for place based regenerative economies is accounting for and evaluating qualities in a way that harmonizes with the quantified fiat economy. We need ReFinancial Innovation!
-
-The accounting for and evaluation of those qualities is the bottlneck of place based regnenerative economies
+- ReFi has carbon myopia. The value of regeneration is implicit; it's embodied in the qualities of a well functioning ecosystem. Accounting and evaluation of these qualities has become a bottleneck for place based regenerative economies because they lack a way to engage with the wider economy. We need ReFinancial Innovation!
 
 #### Solution Description
 In one or two sentences describe the solution
-- Make qualitative values investable by aggregating feeds into Markov blankets to evaluate free energy using active inference; anything above unity (baseline) constitutes increasing harmony/regeneration. These complex forms of eco-asset can warp market mechanisms into positive sum games that value the regeneration of people and planet. 
+- Make qualitative values investable by aggregating feeds into Markov blankets to evaluate free energy using active inference; anything above unity (baseline) constitutes increasing harmony/regeneration. These complex forms of eco-asset can warp market mechanisms into positive sum games that value the harmonisation of people and planet. 
 
 #### Concept Description
 In one or two sentences describe the quest to achieve said solution.
-- The specific function of LunarPunk_Labs is to facilitate conversations into data structures that enable impact evaluation. We are acting as a market maker that codifies espoused values into Markov blankets for state modeling and active inferencing. The pipeline looks as follows: Convene projects > Demonstrate facilitation style > Sense making sessions for specific projects > Functional specifications articulated > Development hand off. 
+- The specific function of LunarPunk_Labs is to facilitate conversations into data structures that enable impact evaluation. We are acting as a market maker that codifies espoused values into Markov blankets for state modeling and active inferencing. Our pipeline looks as follows: Convene projects > Demonstrate facilitation style > Sense making sessions for specific projects > Functional specifications articulated > Development hand off. 
 
 #### Estimated CO2 (if known)
 How much CO2e would the project remove/prevent from atmosphere when fully developed? (in tonnes/year, eg. 2.4Mt/year)
@@ -46,7 +44,7 @@ How much capital do you need right now?
 
 #### Talent needs (roles)
 What open roles are you looking to fill right now?
-- Generally speaking: Marketing, Operations, Finance, Design, Development. 
+- None due to bootstrapping budget. 
 
 #### Talent needs (gigs)
 What open gigs (bounties, projects, etc.) are you looking to fill right now?
