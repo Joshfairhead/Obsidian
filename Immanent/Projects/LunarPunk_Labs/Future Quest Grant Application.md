@@ -18,7 +18,7 @@ https://future.quest/submit
 
 #### Problem Description
 In one or two sentences describe the problem.
-- ReFi has carbon myopia. The value of regeneration is implicit; it's embodied in the qualities of a well functioning ecosystem. Accounting and evaluation of these qualities has become a bottleneck for place based regenerative economies because they lack a way to engage with the wider economy. We need ReFinancial Innovation!
+- The value of regeneration is implicit; it's embodied in the qualities of a well functioning ecosystem. The accounting and evaluation of such implicit qualities has become a bottleneck for place based regenerative economies because they lack ways to engage with the wider economy. We need ReFinancial Innovation!
 
 #### Solution Description
 In one or two sentences describe the solution
