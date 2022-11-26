@@ -22,7 +22,7 @@ In one or two sentences describe the problem.
 
 #### Solution Description
 In one or two sentences describe the solution
-- Make qualitative values investable by aggregating feeds into Markov blankets to evaluate free energy using active inference; anything above unity (baseline) constitutes increasing harmony/regeneration. These complex forms of eco-asset can warp market mechanisms into positive sum games that value the harmonisation of people and planet. 
+- Make qualitative values investable by aggregating feeds into Markov blankets for active inferencing evaluation against the free energy principal; anything above unity (baseline) constitutes increasing harmony/regeneration. Such complex forms of eco-asset can warp market mechanisms into positive sum games that value the harmonisation of people and planet. 
 
 #### Concept Description
 In one or two sentences describe the quest to achieve said solution.
