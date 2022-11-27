@@ -3,12 +3,6 @@ Markets forces can be thought of as a set of determining conditions within mater
 
 Any answer at this point becomes a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound it to a domain of processes that harmonise people with place. These processes when turned into protocols might be considered regenerative financial instruments. The question then becomes how to represent and evaluate such protocols in a way that meets the markets demand?
 
-- Sensing / sensors
-- Impact certificates
-- Markov blankets
-- Impact evaluators
-- Stewardship impact markets
-
 ## Market Hypothesis
 Before innovating on such financial technology, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Let's start with the major market participants and then examine the forces which move them.
 
@@ -39,19 +33,23 @@ When it comes to these scientific and technological realms, Markov / Friston bla
 Going back to our investor profiles, beta investors are generally happy with simplistic noun like instruments such as commodities due to their static (low risk) nature. Alpha investors on the other hand are seeking verb like volitility and consequentially look towards more complex speculative instruments in the persuit of asymetric returns. This is where 'living capital' starts to become an interesting pathway. 
 
 #### Living capital (What)
-Paradigms like natural capital accounting and payments for ecosystem services have tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to package into a product, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital. 
+Paradigms like natural capital accounting and payments for ecosystem services have had a rough start and tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to package into a product, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital. 
 
-For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance and its fixation on the carbon market. However, moving beyond such instruments we can begin to augment these nouns with additional benefits towards the eventual composition of new instruments by aggigating cobenefits. Such a future however requires requires composible codification; markov blankets. 
+For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance with its carbon orientation. However, moving beyond such instruments we can begin to augment these nouns with additional benefits towards the eventual composition of new instruments by aggrigating of the cobenefits. Such a future however requires requires a composible codification schema.
 
-If for now the ESG heuristic is considered to be some form of aspirational values, we still need to measure, account for and evaluate progress towards them. We might lean on emerging tech standards like the following: 
+For example, if the ESG heuristic is considered to be some form of aspirational values, we still need to measure, account for and evaluate progress towards them. A substrate of standards is needed to compose such a product in the first place. We might lean on emerging tech standards like the following: 
 
-- Ground: Data (Monitoring, Reporting, Verification)
+- Ground: Sensing Data (Monitoring, Reporting, Verification)
 - Ideal: Evaluation criterea (e.g Environmental, Social, Governance)
 - Instrumental: Blockchain accounting (Resource, Event, Agent) 
 - Directive: Community perception (Agents, Languages, Perspectives)
 
-Such a stack aggrigates 
 
+- Sensing / sensors
+- Impact certificates
+- Markov blankets
+- Impact evaluators
+- Stewardship impact markets
 
 %%
 ---
