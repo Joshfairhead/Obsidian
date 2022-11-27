@@ -6,7 +6,7 @@ Any answer at this point becomes a values assertion but for the purposes of our 
 ## Market Hypothesis
 Before innovating on such financial technology, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Let's start with the major market participants and then examine the forces which move them.
 
-#### Participants (What)
+#### Participants (Who)
 > - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
 > - Beta investors; risk-off. Seeks wealth preservation. Qualifiers.
 
@@ -24,15 +24,18 @@ Regardless of the specific values, it's apparent that both of our investor profi
 #### Economic Pathways (How)
 Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a $5T market opportunity for blue funds capable of facilitating such a transfomation; the question is what kind of products would such a marketplace either need or want? 
 
-Examining economics in terms of nouns and verbs helps us to distinguish capital from currencies. Currencies (current-seas) are measures of value across time, whereas capital arises from a concentrated aggrigiation of these flows. In that regard we see two forms of measure; the qualitive and quantitive which then require evaluation against a baseline in order to become a useful financial instrument. 
+Examining economics in terms of nouns and verbs helps us to distinguish **capital** from **currencies**. Currencies (current-seas) are measures of value flow across time, whereas capital arises from integrating these flows. In that regard we see two forms of measure; the qualitive and quantitive.
 
-From the quantitive perspective, input measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density or brix values ect. These measures are useful at the data level but aggrigating them becomes difficult due to a lack of interoperable standards and consequentially their organised arrangement at the information level becomes a concern. This is also an issue for the qualitive accounting of heuristics like ESGs. The representation, organisation and translation of such values has become a scientific and technical challenge is only now getting solved. 
+From the quantitive perspective, input measurements with the potential for aggrigation might include GIS data, bio-acoustics, nutritient density or brix values ect. These measures are useful at the data level but aggrigating them becomes difficult due to a lack of interoperable standards and consequentially their organised arrangement at the information level becomes a concern. This is also an issue for the qualitive accounting of heuristics like ESGs. The representation, organisation and translation of such values has become a scientific and technical challenge is only now becoming solvible. 
 
-When it comes to these scientific and technological realms, Markov / Friston blankets help in this matter by providing a means to bound unweildy complexity into something more managable. These serve as a base medium from which higher order systems can be assembled. This means we can now aggrigate data streams into information classes and further build more structured and systematic relationships. 
+When it comes to these scientific and technological realms, Markov / Friston blankets help in this matter by providing a means to bound unweildy complexity into something more managable. These serve as a base medium from which higher order systems can be assembled. This means we can now aggrigate data streams into information classes and further build more structured and systematic relationships.
 
-Going back to our investor profiles, beta investors are already fine with simplistic noun like instruments such as commodities due to their static and low risk nature. Alpha investors on the other hand are seeking volitility and will look towards more complex speculative instruments. 
+Going back to our investor profiles, beta investors are generally happy with simplistic noun like instruments such as commodities due to their static (low risk) nature. Alpha investors on the other hand are seeking volitility and will tend to look towards more complex speculative instruments in the persuit of asymetric returns. This is where 'living capital' starts to become an interesting pathway. 
 
+#### Living capital (What)
+Paradigms like natural capital accounting and payments for ecosystem services have tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to quantify for the market, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital.
 
+Any form of complex capital like this 
 
 ---
 
