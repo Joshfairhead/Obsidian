@@ -35,22 +35,29 @@ Going back to our investor profiles, beta investors are generally happy with sim
 #### Living capital (What)
 Paradigms like natural capital accounting and payments for ecosystem services have had a rough start and tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to package into a product, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital. 
 
-For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance with its carbon orientation. However, moving beyond such instruments we can begin to augment these commodities with cobenefits in order to eventually compose new instruments by aggrigating the cobenefits. Such a future however requires composible schemas.
+For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance with its carbon orientation. However, moving beyond such blunt instruments we can begin to augment these commodities with co-benefits in order to eventually compose new instruments through the aggrigation of cobenefits. This future however requires composible schemas.
 
-For example, if the ESG heuristics (or SDGs ect) are considered to be a markets aspirational values, we still need to measure, account for and evaluate progress towards them. Such a system consequentially requires the composability of several interoperating standards: 
+For example, if the ESG heuristics (or SDGs ect) are considered to be our markets aspirational values, we still need to measure, account for and evaluate progress towards them. Such a substrate would enable the representation of complex and adaptive capital. For vehicles like these to arise however woluld require the composability of several interoperating standards: 
 
 - Ground: Sensing Data (Monitoring, Reporting, Verification)
 - Ideal: Evaluation criterea (e.g Environmental, Social, Governance)
 - Instrumental: Blockchain accounting (Resource, Event, Agent) 
-- Directive: Community perception (Agents, Languages, Perspectives)
+- Directive: Community culture (Agents, Languages, Perspectives)
 
-To represent these standards in a composible way themselves, we can look back to markov blankets as a form of binding agent and substrate that allows for nesting at various levels of scale. Significantly, these graphs can give rise to a number of conceptual primitives around impact markets; namely conversation graphs that can represent certifications or evaluation criterea. They are also relevant as an API layer for other semantic inputs.
+To represent these standards in a composible way themselves, we can look back to markov blankets as a form of binding agent that allows for nesting at various levels of scale. The above represents a core feature set. Significantly, these blankets can give rise to a number of conceptual primitives around impact markets; namely conversation graphs that can represent certifications or evaluation criterea, while they are also relevant as an API layer for loading arbitrary input schemas (from sensors or other interfaces).
 
-- Sensing / sensors
-- Impact certificates
-- Markov blankets
-- Impact evaluators
-- Stewardship impact markets
+- Resource: Sensing / sensors
+- Facts: Impact certificates
+- Significance: Markov blankets
+- Values: Impact evaluators
+- Purpose: Stewardship impact markets
+
+This kind of archetecture is general enough to be instantiated for any given application; be it simple commodities or a chain of complex systems. In this manner we can consider markov blankets to be a form of interface that enables arbitrary input data to be composed, accounted for, certified and evaluated. As the system is evaluating against a set of values there is a delta between 
+
+
+
+
+
 
 %%
 ---
