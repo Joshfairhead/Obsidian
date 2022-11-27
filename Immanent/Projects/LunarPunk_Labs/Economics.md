@@ -41,16 +41,16 @@ Going back to our investor profiles, beta investors are generally happy with sim
 #### Living capital (What)
 Paradigms like natural capital accounting and payments for ecosystem services have tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to package into a product, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital. 
 
-For the time being its easiest to codify noun like products for the institutional short head; as is the current state of regenerative finance and its fixation on the carbon market. Moving beyond such instruments we can aggrigate these nouns with additional benefits towards the eventual composition of new instruments from the benefits alone. For this they will need to be codified cleanly.
+For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance and its fixation on the carbon market. However, moving beyond such instruments we can begin to augment these nouns with additional benefits towards the eventual composition of new instruments by aggigating cobenefits. Such a future however requires requires composible codification; markov blankets. 
 
-Distributed ledger technology is perhaps an ideal instrument for maintaining data integrity and availability but to keep things interoperable there are many considerations around the implementation detail. If for now ESG heuristics are considered to be our aspirational values, we will still need to measure, account for and evaluate progress towards them. Here we might lean on emerging tech standards: 
+If for now the ESG heuristic is considered to be some form of aspirational values, we still need to measure, account for and evaluate progress towards them. We might lean on emerging tech standards like the following: 
 
 - Ground: Data (Monitoring, Reporting, Verification)
 - Ideal: Evaluation criterea (e.g Environmental, Social, Governance)
 - Instrumental: Blockchain accounting (Resource, Event, Agent) 
 - Directive: Community perception (Agents, Languages, Perspectives)
 
-Such a tech stack would enable 
+Such a stack aggrigates 
 
 
 %%
@@ -66,10 +66,6 @@ Unlike facts, values are subject to contention and their discussion will often g
 
 ---
 
-
-
----
-%%
 # Technology
 
 
