@@ -37,14 +37,14 @@ Paradigms like natural capital accounting and payments for ecosystem services ha
 
 For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance with its carbon orientation. However, moving beyond such instruments we can begin to augment these commodities with cobenefits in order to eventually compose new instruments by aggrigating the cobenefits. Such a future however requires composible schemas.
 
-For example, if the ESG heuristic is considered to be the markets aspirational values, we still need to measure, account for and evaluate progress towards them. Such a system would require the adoption of emerging techology standards are necessary to compose so we might lean on the following: 
+For example, if the ESG heuristics (or SDGs ect) are considered to be a markets aspirational values, we still need to measure, account for and evaluate progress towards them. Such a system consequentially requires the composability of several interoperating standards: 
 
 - Ground: Sensing Data (Monitoring, Reporting, Verification)
 - Ideal: Evaluation criterea (e.g Environmental, Social, Governance)
 - Instrumental: Blockchain accounting (Resource, Event, Agent) 
 - Directive: Community perception (Agents, Languages, Perspectives)
 
-
+To represent these standards in a composible way themselves, we can look back to markov blankets as a form of binding agent and substrate that allows for nesting at various levels of scale. Significantly, these graphs can give rise to a number of conceptual primitives around impact markets; namely conversation graphs that can represent certifications or evaluation criterea. They are also relevant as an API layer for other semantic inputs.
 
 - Sensing / sensors
 - Impact certificates
