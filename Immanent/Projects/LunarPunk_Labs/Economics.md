@@ -35,14 +35,15 @@ Going back to our investor profiles, beta investors are generally happy with sim
 #### Living capital (What)
 Paradigms like natural capital accounting and payments for ecosystem services have had a rough start and tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to package into a product, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital. 
 
-For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance with its carbon orientation. However, moving beyond such instruments we can begin to augment these nouns with additional benefits towards the eventual composition of new instruments by aggrigating of the cobenefits. Such a future however requires requires a composible codification schema.
+For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance with its carbon orientation. However, moving beyond such instruments we can begin to augment these commodities with cobenefits in order to eventually compose new instruments by aggrigating the cobenefits. Such a future however requires composible schemas.
 
-For example, if the ESG heuristic is considered to be some form of aspirational values, we still need to measure, account for and evaluate progress towards them. A substrate of standards is needed to compose such a product in the first place. We might lean on emerging tech standards like the following: 
+For example, if the ESG heuristic is considered to be the markets aspirational values, we still need to measure, account for and evaluate progress towards them. Such a system would require the adoption of emerging techology standards are necessary to compose so we might lean on the following: 
 
 - Ground: Sensing Data (Monitoring, Reporting, Verification)
 - Ideal: Evaluation criterea (e.g Environmental, Social, Governance)
 - Instrumental: Blockchain accounting (Resource, Event, Agent) 
 - Directive: Community perception (Agents, Languages, Perspectives)
+
 
 
 - Sensing / sensors
