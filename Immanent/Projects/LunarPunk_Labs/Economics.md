@@ -4,7 +4,7 @@ Markets forces can be thought of as a set of determining conditions within mater
 Any answer at this point becomes a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound it to a domain of processes that harmonise people with place. These processes when turned into protocols might be considered regenerative financial instruments. The question then becomes how to represent and evaluate such protocols in a way that meets the markets demand?
 
 ## Market Hypothesis
-Before designing such a financial technology, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Lets start with the major market participants and then examine the forces which move them.
+Before innovating on such financial technology, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Let's start with the major market participants and then examine the forces which move them.
 
 #### Participants (What)
 > - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
@@ -12,10 +12,10 @@ Before designing such a financial technology, let's articulate some working assu
 
 Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set participants are alpha investors and the second set are beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
 
-Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of returns, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Note that costs / risks / benefits moves both sets of participants at a pretty fundemental level. Mediating this are the blue funds that open up markets for both parties.
+Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of returns, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Note that costs / risks / benefits moves both sets of participants at a pretty fundemental level. Blue funds mediate this by opening up new markets for both appetites.
 
 #### Institutional Constraints (Why)
-The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These degenerative assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, which can't be extracted due to planetary boundary conditions. As these commodities have no intrinsic value their existance essentially depends on an irrational market and soon these assets will need to be 'struck from the books'.  
+The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These assets take mutliple forms but generally speaking they are below ground commodities like coal, oil and gas, which can't be extracted due to planetary boundary conditions. As these commodities have no intrinsic value their existance essentially depends on an irrational market; when it sober these assets will need to be 'struck from the books'.  
 
 Consequentially, both investor profiles are searching for new stores of value; a phenomena observable through their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific symbols and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of values that help make intervention points more evidant.
 
