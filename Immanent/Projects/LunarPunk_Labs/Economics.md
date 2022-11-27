@@ -3,6 +3,12 @@ Markets forces can be thought of as a set of determining conditions within mater
 
 Any answer at this point becomes a values assertion but for the purposes of our inquiry let's articulate an asiprational north star of regeneration and bound it to a domain of processes that harmonise people with place. These processes when turned into protocols might be considered regenerative financial instruments. The question then becomes how to represent and evaluate such protocols in a way that meets the markets demand?
 
+- Sensing / sensors
+- Impact certificates
+- Markov blankets
+- Impact evaluators
+- Stewardship impact markets
+
 ## Market Hypothesis
 Before innovating on such financial technology, let's articulate some working assumptions about the market in order to progressivly approximate some enabling constraints. Let's start with the major market participants and then examine the forces which move them.
 
@@ -10,7 +16,7 @@ Before innovating on such financial technology, let's articulate some working as
 > - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
 > - Beta investors; risk-off. Seeks wealth preservation. Qualifiers.
 
-Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set participants are alpha investors and the second set are beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
+Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set of participants are alpha investors and the second set are beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
 
 Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of returns, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Note that costs / risks / benefits moves both sets of participants at a pretty fundemental level. Blue funds mediate this by opening up new markets for both appetites.
 
@@ -19,7 +25,7 @@ The next assumption about markets is that there are $5T of stranded assets that 
 
 Both investor profiles are consequentially searching for new stores of value; a phenomena observable through their embrace of qualitive indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific values and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of heuristics that help make intervention points more evidant.
 
-Regardless of the specific values, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. They have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a quantifiable manner. 
+Regardless of the specific values, it's apparent that both of our investor profiles are caught in a dilemmea of reconciling qualitive values with quantitive measures. Market participants have plenty of motivation to divest their capital but they lack profitable investment vehicals that can account for a given set of values in a quantifiable manner. 
 
 #### Economic Pathways (How)
 Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrapeneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a $5T market opportunity for blue funds capable of facilitating such a transfomation; the question is what kind of products would such a marketplace either need or want? 
@@ -30,14 +36,22 @@ From the quantitive perspective, input measurements with the potential for aggri
 
 When it comes to these scientific and technological realms, Markov / Friston blankets help in this matter by providing a means to bound unweildy complexity into something more managable. These serve as a base medium from which higher order systems can be assembled. This means we can now aggrigate data streams into information classes and further build more structured and systematic relationships.
 
-Going back to our investor profiles, beta investors are generally happy with simplistic noun like instruments such as commodities due to their static (low risk) nature. Alpha investors on the other hand are seeking volitility and will tend to look towards more complex speculative instruments in the persuit of asymetric returns. This is where 'living capital' starts to become an interesting pathway. 
+Going back to our investor profiles, beta investors are generally happy with simplistic noun like instruments such as commodities due to their static (low risk) nature. Alpha investors on the other hand are seeking verb like volitility and consequentially look towards more complex speculative instruments in the persuit of asymetric returns. This is where 'living capital' starts to become an interesting pathway. 
 
 #### Living capital (What)
-Paradigms like natural capital accounting and payments for ecosystem services have tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to quantify for the market, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital.
+Paradigms like natural capital accounting and payments for ecosystem services have tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to package into a product, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital. 
 
-Any form of complex capital like this 
+For the time being its easiest to codify noun like products for the institutional short head; as is the current state of regenerative finance and its fixation on the carbon market. Moving beyond such instruments we can aggrigate these nouns with additional benefits towards the eventual composition of new instruments from the benefits alone. For this they will need to be codified cleanly.
 
+If for now ESG heuristics are considered aspirational values, we will need to measure, account for and evaluate them somehow. Distributed ledger technology is an ideal tool for maintaining data integrity 
+
+
+%%
 ---
+- Directive: Community perception (Agents, Languages, Perspectives)
+- Instrumental: Data and values (Monitoring, Reporting, Verification)
+- Ground: Blockchain accounting (Resource, Event, Agent)
+- Ideal: Evaluation (e.g Environmental, Social, Governance)
 
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than a product truely representing the health of a living ecosystem. 
 

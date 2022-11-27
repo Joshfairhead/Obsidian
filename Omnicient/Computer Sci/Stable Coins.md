@@ -1,7 +1,7 @@
 ---
 Tags: [Primitives]
 ---
-Related: [[Crypto Economic Primitives]] [[Omnicient/Monad Seeds/Economics]]
+Related: [[Crypto Economic Primitives]] [[Economic Markets]]
 
 
 ## Unpegged Stablecoins

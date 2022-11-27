@@ -1,7 +1,7 @@
 ---
 Tags: [Domains, Heuristics, Principals]
 ---
-Related: [[Ergodic]] [[Omnicient/Monad Seeds/Economics]] [[Behavior]] [[Maths]] [[Matching Behaviors & Goals Exercise]] [[Liquidity]]
+Related: [[Ergodic]] [[Economic Markets]] [[Behavior]] [[Maths]] [[Matching Behaviors & Goals Exercise]] [[Liquidity]]
 # Ergodic Economics
 
 - [The Copenhagen Experiment](https://ergodicityeconomics.com/2018/05/29/the-copenhagen-experiment/[[more-3248]])

@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Domains, Esoteric, Heuristics]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]]
+Related: [[Economic Markets]]
 
 # Cosmological Economics
 - [Cosmologic economics](https://www.cosmoeconomics.com)

@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[Gift-Market Continuum]] [[Roberto]]
+Related: [[Economic Markets]] [[Gift-Market Continuum]] [[Roberto]]
 # Contributionism
 
 ### Never worked... aliens...

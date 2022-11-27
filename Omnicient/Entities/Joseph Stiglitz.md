@@ -1,4 +1,4 @@
 ---
 Tags: [Person]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[The Price of Inequality]]
+Related: [[Economic Markets]] [[The Price of Inequality]]

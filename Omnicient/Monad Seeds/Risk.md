@@ -1,7 +1,7 @@
 ---
 Tags: [Principals, Heuristics]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] 
+Related: [[Economic Markets]] 
 
 
 # Risk

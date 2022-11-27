@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Principals]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[Meta Studies]] 
+Related: [[Economic Markets]] [[Meta Studies]] 
 # Mastering Econometrics
 
 - Ceteris Paribus = (all) other things equal

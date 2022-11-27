@@ -1,7 +1,7 @@
 ---
 Tags: [Frameworks, Domains]
 ---
-Related: [[HoloREA]] [[Omnicient/Monad Seeds/Economics]] [[Economic Space Agency]]
+Related: [[HoloREA]] [[Economic Markets]] [[Economic Space Agency]]
 
 # REA Accounting
 

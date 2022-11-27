@@ -1,7 +1,7 @@
 ---
 Tags: [Fundamentals, Domains, Indicators]
 ---
-Related: [[Trends]] [[Omnicient/Monad Seeds/Economics]] [[Statistics]] [[Insights]] [[Intelligence]]
+Related: [[Trends]] [[Economic Markets]] [[Statistics]] [[Insights]] [[Intelligence]]
 # Energy
 
 - [World Energy Investment](https://www.iea.org/reports/world-energy-investment-2019/financing-and-funding-trends#abstract)

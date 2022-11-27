@@ -1,7 +1,7 @@
 ---
 Tags: [Esoteric, Organisations, Networks]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[Cosmological Economics]]
+Related: [[Economic Markets]] [[Cosmological Economics]]
 
 # Sacred Science Institute
 

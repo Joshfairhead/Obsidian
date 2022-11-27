@@ -1,7 +1,7 @@
 ---
 Tags: [Designs]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[Ethical banking]] [[Banking]]
+Related: [[Economic Markets]] [[Ethical banking]] [[Banking]]
 # For product
 // Written in LENS, a pseudocode for smart contracts.  
 // This file is licensed under the GNU AGPL v3 or later.  

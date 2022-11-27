@@ -1,7 +1,7 @@
 ---
 Tags: [Organisations]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[Fintech]]
+Related: [[Economic Markets]] [[Fintech]]
 
 # Paypal
 

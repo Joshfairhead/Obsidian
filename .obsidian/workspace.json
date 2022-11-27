@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022-11-26.md",
+                "file": "Immanent/DailyNotes/2022-11-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c127551e8c35d2e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,17 +159,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "ff85e455ecb34631",
+  "active": "c127551e8c35d2e0",
   "lastOpenFiles": [
-    "Omnicient/Monad Seeds/Economics.md",
     "Immanent/Projects/LunarPunk_Labs/Product.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
-    "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
-    "Immanent/DailyNotes/2022-11-26.md",
-    "Immanent/DailyNotes/2022/2022-11-28.md",
-    "Immanent/DailyNotes/2022-11-25.md",
-    "Immanent/DailyNotes/2022-12-02.md",
+    "Omnicient/Monad Seeds/Economic Markets.md",
+    "Immanent/DailyNotes/2022-11-27.md",
+    "Immanent/DailyNotes/2022/2022-11-30.md",
     "Immanent/DailyNotes/2022/2022-11-29.md",
-    "Immanent/WorkBench/Refi DAO Notes.md"
+    "Immanent/DailyNotes/2022/2022-11-28.md",
+    "Immanent/DailyNotes/2022-11-26.md",
+    "Immanent/DailyNotes/2022-11-25.md",
+    "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md"
   ]
 }

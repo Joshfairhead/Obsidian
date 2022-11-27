@@ -1,7 +1,7 @@
 ---
 Tags: [Artifacts, Deliverables, Notes]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]]
+Related: [[Economic Markets]]
 
 # Gift-Market Continuum
 - Placing ways of interacting with each other into a map

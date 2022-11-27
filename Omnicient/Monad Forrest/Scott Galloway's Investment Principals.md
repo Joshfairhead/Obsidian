@@ -1,7 +1,7 @@
 ---
 Tags: [Principals]
 ---
-Related: [[Investment]] [[Omnicient/Monad Seeds/Economics]]
+Related: [[Investment]] [[Economic Markets]]
 # Scott Galloway's [[Investment]] Principals
 [Link](https://vimeo.com/580887138/e6388c3265)
 

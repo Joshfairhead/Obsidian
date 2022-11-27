@@ -1,7 +1,7 @@
 ---
 Tags: [Patterns, Tools]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[Ergodic Economics]] [[Crypto Economic Primitives]] [[Barter]] [[Market Manipulation]] [[Liquidity]] [[Banking]] [[Ethical banking]] [[Central Banking]] [[Front Running]] 
+Related: [[Economic Markets]] [[Ergodic Economics]] [[Crypto Economic Primitives]] [[Barter]] [[Market Manipulation]] [[Liquidity]] [[Banking]] [[Ethical banking]] [[Central Banking]] [[Front Running]] 
 # Currency
 
 - [New economy, new wealth](https://prezi.com/xmzld_-wayho/new-economy-new-wealth/) by Holochain founder Art Brock

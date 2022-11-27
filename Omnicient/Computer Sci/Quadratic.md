@@ -1,7 +1,7 @@
 ---
 Tags: [Primitives]
 ---
-Related: [[Crypto Economic Primitives]] [[Mechanism Design]] [[Omnicient/Monad Seeds/Economics]]
+Related: [[Crypto Economic Primitives]] [[Mechanism Design]] [[Economic Markets]]
 
 # Quadratic Applications
 

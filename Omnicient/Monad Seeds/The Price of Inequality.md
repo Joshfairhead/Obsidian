@@ -1,7 +1,7 @@
 ---
 Tags: [Indicators]
 ---
-Related: [[Omnicient/Monad Seeds/Economics]] [[Joseph Stiglitz]] 
+Related: [[Economic Markets]] [[Joseph Stiglitz]] 
 # The Price of Inequality
 
 

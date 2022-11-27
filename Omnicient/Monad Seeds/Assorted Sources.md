@@ -1,18 +1,18 @@
 ---
 Tags: [Index, Domains, Notes, Refactor]
 ---
-Related:  [[Omnicient/Monad Seeds/Economics]] [[Journals]]
+Related:  [[Economic Markets]] [[Journals]]
 
 # Assorted Sources / Leads
 
 - [Taylor and Francis open access](https://www.tandfonline.com/) [[Journals]]
 - [American council on science and health](https://www.acsh.org/)
-- [Marginal Revolution](https://marginalrevolution.com/) - Economics Blog [[Omnicient/Monad Seeds/Economics]]
+- [Marginal Revolution](https://marginalrevolution.com/) - Economics Blog [[Economic Markets]]
 - [The Rational Optimist](http://www.rationaloptimist.com/)
 - [APS Physics](https://www.aps.org/) - journal
 - [The New Atlantis](https://www.thenewatlantis.com/) - Journal for technology and society
 - [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)
-- [Reason](https://reason.com/) - freeminds and freemarkets [[Omnicient/Monad Seeds/Economics]]
+- [Reason](https://reason.com/) - freeminds and freemarkets [[Economic Markets]]
 - [Rockefeller University](https://phe.rockefeller.edu/) - Programme for the human enviroment
 - [Rand](https://www.rand.org/) - Objective analysis effective soloutions
 - [Ajph](https://ajph.aphapublications.org/) - American journal of public health

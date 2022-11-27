@@ -1,7 +1,7 @@
 ---
 Tags: [Designs, Deliverables, Artifacts, Refactor]
 ---
-Related: [[Omnicient/Monad Saplings/Design]] [[Persona screens]] [[Omnicient/Monad Seeds/Economics]]
+Related: [[Omnicient/Monad Saplings/Design]] [[Persona screens]] [[Economic Markets]]
 
 # Fund Manager Persona
 
