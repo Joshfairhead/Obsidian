@@ -32,7 +32,7 @@ When it comes to these scientific and technological realms, Markov / Friston bla
 
 Going back to our investor profiles, beta investors are generally happy with simplistic noun like instruments such as commodities due to their static (low risk) nature. Alpha investors on the other hand are seeking verb like volitility and consequentially look towards more complex speculative instruments in the persuit of asymetric returns. This is where 'living capital' starts to become an interesting pathway. 
 
-#### Living capital (What)
+#### Adaptive capital (What)
 Paradigms like natural capital accounting and payments for ecosystem services have had a rough start and tended towards controversy because much of lifes value is implicit in it's healthy function. This complex behaviour is extreamly hard to package into a product, so we might more easily bootstrap new markets from legacy paradigms. From carbon, to cobenefits... to living capital. 
 
 For the time being its easiest to codify noun like products for the institutional short head, as is the current state of regenerative finance with its carbon orientation. However, moving beyond such blunt instruments we can begin to augment these commodities with co-benefits in order to eventually compose new instruments through the aggrigation of cobenefits. This future however requires composible schemas.
@@ -54,10 +54,6 @@ To represent these standards in a composible way themselves, we can look back to
 
 This kind of archetecture is general enough to be instantiated for any given application; be it simple commodities or a chain of complex systems. In this manner we can consider markov blankets to be a form of interface that enables arbitrary input data to be composed, accounted for, certified and evaluated. 
 
-Looking back to our investor needs, we note that such a system can adapt to requirements across scales without disruption; from local monitoring, reporting and verification data to global market values like ESGs. Because there is an aggrigation of live data feeds getting evaluated from a baseline to ideal state, there is also an investible delta for market participants. Accounting for articulated values and then evaluating against the free energy principal also makes the instrument an unenclosable carrier; that which doesen't tend towards harmony fails as an investment vehicle and that which does suceeds. Regenerative activity correlates with financial return, thus funneling capital upstream. 
+Looking back to our investor needs, we note that such a system can adapt to requirements across scales without disruption; from local monitoring, reporting and verification data to global market values like ESGs. Because there is an aggrigation of live data feeds getting evaluated against an ideal state, there is also an investible delta for market participants to profit from. Accounting for a set of articulated values and then evaluating these against the free energy principal also makes the instrument an unenclosable carrier; that which doesen't tend towards harmony fails as an investment vehicle, while that which does suceeds. Regenerative activity correlates with financial return, thus funneling capital upstream. 
 
-
-
-
-
-
+Lets create a use case:
