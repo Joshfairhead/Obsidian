@@ -43,16 +43,18 @@ Paradigms like natural capital accounting and payments for ecosystem services ha
 
 For the time being its easiest to codify noun like products for the institutional short head; as is the current state of regenerative finance and its fixation on the carbon market. Moving beyond such instruments we can aggrigate these nouns with additional benefits towards the eventual composition of new instruments from the benefits alone. For this they will need to be codified cleanly.
 
-If for now ESG heuristics are considered aspirational values, we will need to measure, account for and evaluate them somehow. Distributed ledger technology is an ideal tool for maintaining data integrity 
+Distributed ledger technology is perhaps an ideal instrument for maintaining data integrity and availability but to keep things interoperable there are many considerations around the implementation detail. If for now ESG heuristics are considered to be our aspirational values, we will still need to measure, account for and evaluate progress towards them. Here we might lean on emerging tech standards: 
+
+- Ground: Data (Monitoring, Reporting, Verification)
+- Ideal: Evaluation criterea (e.g Environmental, Social, Governance)
+- Instrumental: Blockchain accounting (Resource, Event, Agent) 
+- Directive: Community perception (Agents, Languages, Perspectives)
+
+Such a tech stack would enable 
 
 
 %%
 ---
-- Directive: Community perception (Agents, Languages, Perspectives)
-- Instrumental: Data and values (Monitoring, Reporting, Verification)
-- Ground: Blockchain accounting (Resource, Event, Agent)
-- Ideal: Evaluation (e.g Environmental, Social, Governance)
-
 Beta investors, with their lower risk tolerance - will prefer the security of noun like instruments like co2 tonnes due to their lack of volitility. This is the easiest pathway to markets as a) the Natural Capital paradigm is already established, and b) because the design of such an instrument is more predictable and mechanistic than a product truely representing the health of a living ecosystem. 
 
 Alpha investors will generally be unsatisfied by the simplicity of noun like products; they hunt volitility in order to realise potential into profit. This trait of potential actualisation is desirable for regen markets as it's a mechanism that can be harnessed. From an economic perspective lets simply ask ourselves; where is the most unrealised potential? The long tail of environmental, social and governance causes. 
