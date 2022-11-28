@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-28.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-28.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-28.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,15 +185,15 @@
   },
   "active": "c127551e8c35d2e0",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Projects.md",
+    "Immanent/DailyNotes/2022/2022-11-28.md",
     "Immanent/DailyNotes/2022/2022-11-30.md",
     "Immanent/DailyNotes/2022/2022-11-29.md",
-    "Immanent/DailyNotes/2022/2022-11-28.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/Projects/LunarPunk_Labs/Product.md",
     "Immanent/DailyNotes/2022-11-27.md",
     "Immanent/Personal/NIF.md",
     "Immanent/WorkBench/Economics article cuts.md",
-    "Omnicient/Monad Seeds/Economic Markets.md",
-    "Immanent/DailyNotes/2022-11-26.md"
+    "Omnicient/Monad Seeds/Economic Markets.md"
   ]
 }
