@@ -11,7 +11,7 @@
 - Reconciling: Protocol | Community norms/values
 
 ### Tetrad: Common Action 
-- Directive: Community perception (Agents, Languages, Perspectives)
+- Directive: Community culture (Agents, Languages, Perspectives)
 - Instrumental: Data and values (Monitoring, Reporting, Verification)
 - Ground: Blockchain accounting (Resource, Event, Agent)
 - Ideal: Evaluation (e.g Environmental, Social, Governance)
