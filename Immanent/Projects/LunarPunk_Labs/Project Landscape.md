@@ -11,10 +11,10 @@
 - Reconciling: [[Processes]] - Culture, Narrative, Method,
 
 #### Tetrad: Action
-- Directive: Activly inferred ontologies as markov blankets
-- Instrumental: Input data (Monitoring, Reporting, Verification)
-- Ground: Accounting (Resource, Event, Agent)
-- Ideal: Value production (e.g Environmental, Social, Governance)
+- Directive: Senior
+- Instrumental: Junior
+- Ground: Community
+- Ideal: Experts
 
 #### Pentad: Org Significance
 - Essential: [[Advocacy]] [[Product]]
