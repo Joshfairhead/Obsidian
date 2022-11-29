@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df08e4458d67b443",
+            "id": "c127551e8c35d2e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022-11-27.md",
+                "file": "Immanent/DailyNotes/2022/2022-11-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c127551e8c35d2e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "09147a75d61b7af6",
             "type": "leaf",
             "state": {
@@ -54,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6632bb7e80aa7166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Economics article cuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
