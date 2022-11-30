@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-29.md",
+                "file": "Immanent/DailyNotes/2022/2022-11-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-29.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-29.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +159,7 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "c127551e8c35d2e0",
+  "active": "ff85e455ecb34631",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2022/2022-11-30.md",
     "Immanent/DailyNotes/2022/2022-11-29.md",
