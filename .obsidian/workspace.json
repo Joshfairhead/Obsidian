@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
+                "file": "Immanent/DailyNotes/2022-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
+                "file": "Immanent/DailyNotes/2022-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
+                "file": "Immanent/DailyNotes/2022-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +149,15 @@
   },
   "active": "ff85e455ecb34631",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Projects.md",
+    "Immanent/DailyNotes/2022-12-07.md",
     "Immanent/DailyNotes/2022/2022-12-01.md",
+    "Immanent/Projects/LunarPunk_Labs/Projects.md",
+    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
     "Immanent/DailyNotes/2022/2022-11-30.md",
     "Immanent/Projects/LunarPunk_Labs/Product.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/DailyNotes/2022/2022-11-29.md",
-    "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
     "Immanent/DailyNotes/2022/2022-11-28.md",
-    "Immanent/DailyNotes/2022-11-27.md",
-    "Immanent/Personal/NIF.md"
+    "Immanent/DailyNotes/2022-11-27.md"
   ]
 }
