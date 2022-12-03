@@ -11,10 +11,10 @@
 - Reconciling: [[Processes]] - Culture, Narrative, Method,
 
 #### Tetrad: Action
-- Directive: Senior
-- Instrumental: Junior
-- Ground: Community
-- Ideal: Experts
+- Directive: Perspectives (AD4M)
+- Instrumental: Accounting (REA)
+- Ground: Quantitive Measures (MRV)
+- Ideal: Qualitive Values (ESG / SDGs ect.)
 
 #### Pentad: Org Significance
 - Essential: [[Advocacy]] [[Product]]
