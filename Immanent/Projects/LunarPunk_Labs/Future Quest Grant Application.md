@@ -18,7 +18,7 @@ https://future.quest/submit
 
 #### Problem Description
 In one or two sentences describe the problem.
-- The efficacy of the ReFi movement is severly constrained by the politics of markets, science and technology. Effective intervention demands new sense-making capabilities that harmonise and integrate these multi-stakeholder landscapes; the challenge is governance coordination which requires communicating with - and educating - the community about the pragmatic intervention points to drive forward momentum in refi (beyond carbon). 
+- The efficacy of the ReFi movement is severly constrained by the politics of markets, science and technology. Effective intervention demands new sense-making capabilities that harmonise and integrate these multi-stakeholder landscapes; the challenge is governance coordination which requires communicating with, and educating, the community about pragmatic intervention points that drive forward momentum in refi (beyond carbon). 
 - %% The value of regeneration is implicit; it's embodied in the qualities of a well functioning ecosystem. The accounting and evaluation of such implicit qualities has become a bottleneck for place based regenerative economies because they lack ways to engage with the wider economy. We need ReFinancial Innovation! %%
 
 #### Solution Description
