@@ -14,19 +14,21 @@ https://future.quest/submit
 - LunarPunk_Labs
 
 #### Category
-- Place baced regenerative economies
+- Communication and education
 
 #### Problem Description
 In one or two sentences describe the problem.
+- The refi space needs to navigate and coordinate a multi-polar trap of markets, science and technology while harnessing the core essential values of people and place into protocols.  severly constrained by systemic biases and 
 - The value of regeneration is implicit; it's embodied in the qualities of a well functioning ecosystem. The accounting and evaluation of such implicit qualities has become a bottleneck for place based regenerative economies because they lack ways to engage with the wider economy. We need ReFinancial Innovation!
 
 #### Solution Description
 In one or two sentences describe the solution
+- We convene discussions
 - Make qualitative values investable by aggregating feeds into Markov blankets for active inferencing evaluation against the free energy principal; anything above unity (baseline) constitutes increasing harmony/regeneration. Such complex forms of eco-asset can warp market mechanisms into positive sum games that value the harmonisation of people and planet. 
 
 #### Concept Description
 In one or two sentences describe the quest to achieve said solution.
-- The specific function of LunarPunk_Labs is to facilitate conversations into data structures that enable impact evaluation. We are acting as a market maker that codifies espoused values into Markov blankets for state modeling and active inferencing. Our pipeline looks as follows: Convene projects > Demonstrate facilitation style > Sense making sessions for specific projects > Functional specifications articulated > Development hand off. 
+- The specific function of LunarPunk_Labs is to facilitate conversations into data structures that enable impact evaluation. We are acting as a market maker that codifies espoused values into Markov blankets for state modeling and active inferencing. Our pipeline looks as follows: Convene projects > Demonstrate facilitation style > Sense making sessions for specific projects > Articulating functional specifications for development > Development hand off. 
 
 #### Estimated CO2 (if known)
 How much CO2e would the project remove/prevent from atmosphere when fully developed? (in tonnes/year, eg. 2.4Mt/year)
@@ -40,11 +42,11 @@ How much CO2e would the project remove/prevent from atmosphere when fully develo
 
 #### Capital needs
 How much capital do you need right now?
-- $50k enables a pretotype before raising seed money to scale.
+- $35k 
 
 #### Talent needs (roles)
 What open roles are you looking to fill right now?
-- None due to bootstrapping budget. 
+- Open to opportunities
 
 #### Talent needs (gigs)
 What open gigs (bounties, projects, etc.) are you looking to fill right now?
