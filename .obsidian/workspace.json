@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
+                "file": "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/E-systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
+                "file": "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/E-systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
+                "file": "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/E-systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "ff85e455ecb34631",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
     "Immanent/DailyNotes/2022-12-04.md",
     "Immanent/Projects/LunarPunk_Labs/Project Landscape.md",
     "Immanent/DailyNotes/2022-12-06.md",
@@ -157,7 +158,6 @@
     "Immanent/DailyNotes/2022/2022-12-01.md",
     "Immanent/Projects/LunarPunk_Labs/Projects.md",
     "Immanent/DailyNotes/2022/2022-11-30.md",
-    "Immanent/Projects/LunarPunk_Labs/Product.md",
-    "Immanent/Projects/LunarPunk_Labs/Economics.md"
+    "Immanent/Projects/LunarPunk_Labs/Product.md"
   ]
 }
