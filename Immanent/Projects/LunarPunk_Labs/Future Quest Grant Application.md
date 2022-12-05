@@ -18,13 +18,13 @@ https://future.quest/submit
 
 #### Problem Description
 In one or two sentences describe the problem.
-- The refi space needs to navigate and coordinate a multi-polar trap of markets, science and technology while harnessing the core essential values of people and place into protocols.  severly constrained by systemic biases and 
+- The efficacy of the ReFi movement is severly constrined by the politics of markets, science and technology. The multi-polar nature of regenerative interventions demands new sense-making capabilities and path finding capacities; education and decision about pragmatic intervention points that are ultimatly systemic. 
 - The value of regeneration is implicit; it's embodied in the qualities of a well functioning ecosystem. The accounting and evaluation of such implicit qualities has become a bottleneck for place based regenerative economies because they lack ways to engage with the wider economy. We need ReFinancial Innovation!
 
 #### Solution Description
 In one or two sentences describe the solution
-- We convene discussions
-- Make qualitative values investable by aggregating feeds into Markov blankets for active inferencing evaluation against the free energy principal; anything above unity (baseline) constitutes increasing harmony/regeneration. Such complex forms of eco-asset can warp market mechanisms into positive sum games that value the harmonisation of people and planet. 
+- Coordinate conversations and channel them into semantic data structures that are composable.  
+- Make qualitative values investable by aggregating heuristics into Markov blankets for active inferencing and evaluation against the free energy principal; anything above unity (baseline) constitutes increasing harmony/regeneration. Such complex forms of eco-asset can warp market mechanisms into positive sum games that value the harmonisation of people and planet. 
 
 #### Concept Description
 In one or two sentences describe the quest to achieve said solution.
