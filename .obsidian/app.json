@@ -8,7 +8,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Immanent/WorkBench",
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
