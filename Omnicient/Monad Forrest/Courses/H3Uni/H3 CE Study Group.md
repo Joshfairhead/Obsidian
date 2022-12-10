@@ -1,0 +1,6 @@
+- H3
+	- Applying in life a guiding heuristics; where to start
+	- Finding the appropriate degree of concreteness
+	- Structuring essays and writing (6 laws of three?)
+- H3 
+	- Kim: how to bring in more creativity 

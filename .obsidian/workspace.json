@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-11-30.md",
+                "file": "Omnicient/Monad Forrest/Funding.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff85e455ecb34631",
+            "id": "6dd81ccaf91ae24b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-16.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-16.md",
+                "file": "Omnicient/Monad Forrest/Funding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-16.md",
+                "file": "Omnicient/Monad Forrest/Funding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,17 +146,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "ff85e455ecb34631",
+  "active": "c127551e8c35d2e0",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022-12-15.md",
-    "Immanent/DailyNotes/2022-12-16.md",
-    "Immanent/DailyNotes/2022-12-08.md",
-    "Immanent/DailyNotes/2022-12-09.md",
-    "Immanent/DailyNotes/2022-12-07.md",
-    "Immanent/DailyNotes/2022-12-14.md",
-    "Immanent/DailyNotes/2022-12-06.md",
-    "Immanent/Projects/LunarPunk_Labs/Future Quest Grant Application.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/E-systems.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/ESystems/Enneagram Course Session 3.md"
+    "Immanent/DailyNotes/Backlog.md",
+    "Immanent/DailyNotes/2022-12-12.md",
+    "Immanent/DailyNotes/2022/2022-11-30.md",
+    "Immanent/DailyNotes/2022/2022-11-10.md",
+    "Immanent/DailyNotes/2022/2022-11-13.md",
+    "Omnicient/Monad Saplings/Environmental Stewardship.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/H3 CE Study Group.md",
+    "Immanent/DailyNotes/2022/2022-11-16.md",
+    "Immanent/DailyNotes/2022/2022-11-17.md",
+    "Immanent/DailyNotes/2022/2022-11-28.md"
   ]
 }
