@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Personal/Home Address Lisbon.md",
+                "file": "Immanent/DailyNotes/2022-12-12.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Immanent/DailyNotes/Backlog.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Personal/Home Address Lisbon.md",
+                "file": "Immanent/DailyNotes/2022-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Personal/Home Address Lisbon.md",
+                "file": "Immanent/DailyNotes/2022-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +148,15 @@
   },
   "active": "c127551e8c35d2e0",
   "lastOpenFiles": [
+    "assets/Templates/TemplaterJS/Templates/DailyTemplate.md",
+    "assets/Templates/General.md",
+    "assets/Templates/Daily Template.md",
+    "Immanent/DailyNotes/2022-12-12.md",
+    "Immanent/Personal/Home Address Lisbon.md",
     "Immanent/Personal/Wise Account.md",
     "Immanent/Personal/N26 Address.md",
     "Immanent/DailyNotes/2022-12-16.md",
-    "Immanent/DailyNotes/2022-12-12.md",
     "Immanent/DailyNotes/Backlog.md",
-    "Immanent/DailyNotes/2023-01-17.md",
-    "Immanent/Projects/LunarPunk_Labs/Gitcoin Jan 13th.md",
-    "Immanent/DailyNotes/2022-12-10.md",
-    "Immanent/DailyNotes/2022-12-14.md",
-    "Immanent/DailyNotes/2023-06-12.md"
+    "Immanent/DailyNotes/2023-01-17.md"
   ]
 }

@@ -1,7 +1,3 @@
----
-Tags: [daily]
----
-Related: [[Buffer]]
 # {{date: dddd Do MMM (YYYY)}}
 
 ## Rituals
@@ -11,6 +7,6 @@ Related: [[Buffer]]
 ## Task Backlog
 ```dataview
 TASK FROM "Immanent/DailyNotes" 
-SORT date ASC
+SORT file.name ASC
 WHERE !completed
 ```
