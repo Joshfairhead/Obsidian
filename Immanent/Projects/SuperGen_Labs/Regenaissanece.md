@@ -1,0 +1,22 @@
+- Laurence manifesto / glass bead game
+- Concentration, contemplation, meditation
+- Gift economy / burning man
+- Seeds memes
+- Propolis (playground before the city)
+- SolarPunk dreams
+- Meta modern politics
+- "[The sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)"
+- Sovrign nature / digital twins
+- Adaptive personal policy
+	- Social Impact Bonds?
+- CEPTR narrative / protocol
+	- Unenclosable carriers
+- Cybernetics, Trust, interdisiplinary.
+- Cult appreciation
+	- Spaceship earth
+	- Wild wild country
+	- In bright axiom 
+- Semantic web/modularity
+- Gurdjieff / Bennet / "the work" / 4th way mysticism
+- Magick
+- JEDI

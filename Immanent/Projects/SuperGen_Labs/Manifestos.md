@@ -1,0 +1,24 @@
+- Intersect / Hackalong
+- Regenerative Science
+- Future agents
+- Fractionalised Sovereignty
+- Collective ownership (dynamic)
+- Regenaissance / Liminal village / metagame / game B / intellectual dark web / Liminal web
+- Boom lands
+- Cosmological Logistics
+- ToTheCosmos.org
+- Ministry of the Future / [future governance](http://futuregovernance.info/)
+- Digital Republics / Network states
+- Sea Stedding 
+- Grey Goo AI / Nano tech
+- Xerox Parc / Bell labs / Xanadu history
+	- Doug Englebart
+	- Ted Nelson
+- R350N8
+	- Reason comes from context
+- Unexpected / mysterious symbols
+	- Enneagrams
+	- Qualsystems
+	- General Systematics
+- Policy meets the populus
+- Data Feduciaries

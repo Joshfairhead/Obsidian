@@ -1,0 +1,3 @@
+- Notion Contextualisation
+	- Adding connective comments
+		- Meta data / Holochain DHT
