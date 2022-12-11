@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c127551e8c35d2e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2022-12-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6dd81ccaf91ae24b",
             "type": "leaf",
             "state": {
@@ -108,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +132,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "c127551e8c35d2e0",
+  "active": "6a25edb9f44c356d",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/Backlog.md",
     "Immanent/Projects/SuperGen_Labs/Manifestos.md",
-    "Immanent/DailyNotes/2022-12-12.md",
-    "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
-    "Immanent/Projects/SuperGen_Labs/Regenaissanece.md",
     "Immanent/Projects/SuperGen_Labs/Moon Dreams.md",
-    "Immanent/Projects/SuperGen_Labs/Open Contracts.md",
-    "assets/Templates/TemplaterJS/Templates/DailyTemplate.md",
-    "assets/Templates/General.md",
-    "assets/Templates/Daily Template.md",
-    "Immanent/Personal/Home Address Lisbon.md"
+    "Product /Shape up.md",
+    "Immanent/WorkBench/Regen Testimony.md",
+    "Immanent/Personal/Planner/Monday.md",
+    "Immanent/WorkBench/Active Inferrence Ontology.md",
+    "Immanent/Projects/R3solution/Job Satisfaction.md",
+    "Immanent/Personal/Save.md",
+    "Immanent/Personal/Archive/O2 issues.md"
   ]
 }
