@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/Personal/Personal Index.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -159,17 +160,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "6dd81ccaf91ae24b",
+  "active": "386e170f9d708357",
   "lastOpenFiles": [
-    "Immanent/Projects/Personal/Personal Index.md",
+    "Immanent/DailyNotes/2022/2022-12-12.md",
     "Immanent/DailyNotes/Backlog.md",
+    "Immanent/Projects/Personal/Personal Index.md",
+    "Immanent/DailyNotes/2022/2022-10-11.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunk Index.md",
     "Immanent/Projects/SuperGen_Labs/SuperGen Index.md",
-    "Immanent/DailyNotes/2022/2022-12-12.md",
     "Omnicient/Shape up.md",
     "Immanent/DailyNotes/2023/2023-05-15.md",
     "Immanent/DailyNotes/2023/2023-01-17.md",
-    "Immanent/DailyNotes/2022/2022-11-18.md",
-    "Immanent/DailyNotes/2022/2022-11-23.md"
+    "Immanent/DailyNotes/2022/2022-11-18.md"
   ]
 }
