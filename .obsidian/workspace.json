@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-16.md",
+                "file": "Immanent/Personal/Home Address Lisbon.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-16.md",
+                "file": "Immanent/Personal/Home Address Lisbon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-16.md",
+                "file": "Immanent/Personal/Home Address Lisbon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +148,15 @@
   },
   "active": "c127551e8c35d2e0",
   "lastOpenFiles": [
+    "Immanent/Personal/Wise Account.md",
+    "Immanent/Personal/N26 Address.md",
+    "Immanent/DailyNotes/2022-12-16.md",
     "Immanent/DailyNotes/2022-12-12.md",
     "Immanent/DailyNotes/Backlog.md",
     "Immanent/DailyNotes/2023-01-17.md",
     "Immanent/Projects/LunarPunk_Labs/Gitcoin Jan 13th.md",
     "Immanent/DailyNotes/2022-12-10.md",
     "Immanent/DailyNotes/2022-12-14.md",
-    "Immanent/DailyNotes/2022-12-16.md",
-    "Immanent/DailyNotes/2023-06-12.md",
-    "Immanent/DailyNotes/2023-05-15.md",
-    "Immanent/DailyNotes/2023-04-10.md"
+    "Immanent/DailyNotes/2023-06-12.md"
   ]
 }
