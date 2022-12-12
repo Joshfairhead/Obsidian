@@ -1,3 +1,8 @@
+## Accounts
+- Gitcoin DAI on [Trezor 5](https://etherscan.io/address/0x2Edaa86197A839792a9Befd71DafB328422be84E)
+
+---
+
 #### Monad
 - Markets
 #### Dyad
@@ -17,14 +22,15 @@
 
 ---
 #### Grants
-- 
+- Gitcoin
+- Giveth
 
 #### Protocols 
 - Regen community pool 
 - Cardano Catalyst Fund
 - Celo Climate Collective 
 - Parity pools 
-- Gitcoin Grants 
+- Protocol Labs
 
 #### Prizes
 - X-prize
