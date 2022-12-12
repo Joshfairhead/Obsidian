@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/Index/WeCo Index.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/WeCo/Regen RFP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae49936eae54d225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2023/2023-02-13.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/WeCo/Regen RFP.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/WeCo/Regen RFP.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,15 +150,15 @@
   },
   "active": "a44d43b78161814a",
   "lastOpenFiles": [
+    "Immanent/Projects/WeCo/Regen RFP.md",
+    "Immanent/DailyNotes/2022/2022-12-12.md",
     "Immanent/DailyNotes/Index/WeCo Index.md",
+    "Immanent/DailyNotes/2022/2022-12-15.md",
+    "Immanent/DailyNotes/2022/2022-12-16.md",
     "Immanent/DailyNotes/Backlog.md",
     "Immanent/DailyNotes/Index/LunarPunk Index.md",
     "Immanent/DailyNotes/2023/2023-02-13.md",
     "Immanent/DailyNotes/2023/2023-03-13.md",
-    "Immanent/DailyNotes/2023/2023-04-10.md",
-    "Immanent/DailyNotes/2023/2023-05-15.md",
-    "Immanent/DailyNotes/2023/2023-06-12.md",
-    "Immanent/DailyNotes/2022/2022-12-20.md",
-    "Immanent/DailyNotes/2023/2023-01-09.md"
+    "Immanent/DailyNotes/2023/2023-04-10.md"
   ]
 }
