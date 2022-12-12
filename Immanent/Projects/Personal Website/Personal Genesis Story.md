@@ -16,7 +16,7 @@ Related: [[Josh]] [[JoshFairhead]] [[Personal website]] [[Personal]]
 - For my efforts in all this I received a first class honours or 1:1 in the English educational system which entitled me to a free masters at the same university which took two years (part-time). There were a few interesting projects over this time and as I delved into the subject of subjectivity I learned for myself the universal laws of vibration and how "the octave never repeats"... read this to mean that pythagorean tuning is fractal and we like tubes because their intermodulation distortion is musical! 
 - Having worked on other peoples music for several years I decided to get self indulgent for my masters project by writing and recording my own concept album in 5.1 surround sound... I'm pretty happy with the whole package (lyrics, songwriting, musicianship and recording) but to be perfectly honest it wasn't as life affirming as the Fleas stuff I'd previously worked on. Still it scratched an itch and I got to wear many hats!
 - Post education I fell into live sound which broadened into running media centres and lights leading to work as a night club tech manager. This led me into forming a company providing these services and I ended up doing work with some pretty well known acts (one of the most notorious [dickheads in dance music](https://www.youtube.com/watch?v=8JAMkrzSRao) was a fan!). 
-    - [[Portfolio]]
+    - [[Egg Videos]]
         - [Boris Brejcha @ Egg London 2017 Pt. 1](https://www.youtube.com/watch?v=k0wpI_IxWzA)
         - [Erick Morillo @Egg LDN 2016](https://www.youtube.com/watch?v=8JAMkrzSRao)
         - [Egg London going off](https://www.youtube.com/watch?v=R5l3Bc19_A4)

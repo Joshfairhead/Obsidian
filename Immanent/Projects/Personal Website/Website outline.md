@@ -24,6 +24,4 @@ Related: [[Personal website]]
 | Activity | History | Aspirations |
 |---|---|---|
 | Present | Past | Future | <- describe above using
-| | C
-
- - 
+| | CV | |

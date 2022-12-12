@@ -18,16 +18,16 @@ j
 
 --- 
 ### Revathi Specific Requests (condensed):
-- [ ] Learning resources (previouly started)
-- [ ] Learning resources feedback mechanism
-- [ ] Community facillitation as a project
-- [ ] Community pool proposal process (previouly provided)
-- [ ] Twitter AMA with csDAOs
-- [ ] Cosmos ecosystem primer (markets, science, tech)
-- [ ] Regen ecosystem primer (people, places, protocols :: projects, locations, MRV)
-- [ ] Town Hall meetings (enDAOment community and lead links)
-- [ ] EnDAOment 'road map' process
-- [ ] OpenTeam newsletter feature
+- Learning resources (previouly started)
+- Learning resources feedback mechanism
+- Community facillitation as a project
+- Community pool proposal process (previouly provided)
+- Twitter AMA with csDAOs
+- Cosmos ecosystem primer (markets, science, tech)
+- Regen ecosystem primer (people, places, protocols :: projects, locations, MRV)
+- Town Hall meetings (enDAOment community and lead links)
+- EnDAOment 'road map' process
+- OpenTeam newsletter feature
 
 ### P2P Validator
 - Data module

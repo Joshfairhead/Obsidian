@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/Personal/Personal Website/Website outline.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enne",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Personal/Personal Website/Website outline.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Personal/Personal Website/Website outline.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,15 +136,15 @@
   },
   "active": "82d49e0d2ccefffa",
   "lastOpenFiles": [
-    "Immanent/Projects/Personal/Personal Website/Desires.md",
-    "Immanent/Projects/Personal/Personal Website/Movie Curation.md",
-    "Immanent/Projects/LunarPunk_Labs/Service level offerings.md",
-    "Immanent/Projects/Personal/Personal Kanban/Immanent Kanban.md",
-    "Immanent/_Meta/Enneagram/Assimilation.md",
+    "Immanent/DailyNotes/Index/_Meta/Enneagram/Assimilation.md",
+    "Immanent/DailyNotes/Buffer.md",
     "Immanent/DailyNotes/Backlog.md",
-    "Immanent/Projects/Research/Research.md",
-    "Omnicient/Monad Saplings/Obsidian.md",
-    "Immanent/Projects/Personal/Personal Kanban/Kanban Cards/Obsidian.md",
-    "Immanent/Projects/Personal/Personal Kanban/Kanban Cards/Capitalisms Trancendental Timemachine.md"
+    "Immanent/DailyNotes/Personal Tasks.md",
+    "Immanent/DailyNotes/Index/Personal Index.md",
+    "Immanent/DailyNotes/Index/SuperGen Index.md",
+    "Immanent/DailyNotes/Index/WeCo Index.md",
+    "Immanent/DailyNotes/Index/LunarPunk Index.md",
+    "Immanent/DailyNotes/Index/H3uni Index.md",
+    "Immanent/DailyNotes/Index/_Meta/Research Index.md"
   ]
 }

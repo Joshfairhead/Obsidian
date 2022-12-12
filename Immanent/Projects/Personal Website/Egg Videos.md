@@ -1,11 +1,7 @@
----
-Tags: [Personal, Artifacts]
----
 Related: [[Josh]] [[JoshFairhead]]
 
-# Portfolio links
-- [Boris Brejcha @ Egg London 2017 Pt. 1](https://www.youtube.com/watch?v=k0wpI_IxWzA)
 - [Erick Morillo @Egg LDN 2016](https://www.youtube.com/watch?v=8JAMkrzSRao)
+- [Boris Brejcha @ Egg London 2017 Pt. 1](https://www.youtube.com/watch?v=k0wpI_IxWzA)
 - [Egg London going off](https://www.youtube.com/watch?v=R5l3Bc19_A4)
 - [Boris Brejcha @ Egg London (01.07.2017)](https://www.youtube.com/watch?v=Yems6-_PWHk)
 - [WILL ATKINSON LIVE @ KEARNAGE - TRANCE SANCTUARY - EGG LONDON (18-11-2017)](https://www.youtube.com/watch?v=B03-YqPajYg)
