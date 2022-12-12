@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89e982d5b20a4086",
+        "id": "f1256306a345780b",
         "type": "tabs",
         "children": [
           {
-            "id": "386e170f9d708357",
+            "id": "82d49e0d2ccefffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "ff2ba323d55b35df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b985352df1c15f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/Events.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/Events.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/Events.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,17 +134,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "b985352df1c15f01",
+  "active": "82d49e0d2ccefffa",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/Backlog.md",
-    "Immanent/DailyNotes/2022/2022-12-12.md",
-    "Immanent/Projects/LunarPunk_Labs/LunarPunk Index.md",
-    "Immanent/Projects/Personal/Personal Tasks.md",
-    "Immanent/DailyNotes/2023/2023-06-12.md",
+    "Immanent/DailyNotes/2022/2022-12-15.md",
     "Immanent/DailyNotes/2022/2022-12-14.md",
-    "assets/Templates/Daily Template.md",
-    "Immanent/DailyNotes/2022-12-11.md",
-    "Immanent/DailyNotes/2023/2023-06-05.md",
-    "Immanent/DailyNotes/2022/2022-12-16.md"
+    "Immanent/DailyNotes/2022/2022-12-12.md",
+    "Immanent/DailyNotes/Personal Tasks.md",
+    "Immanent/DailyNotes/2022/2022-12-16.md",
+    "Immanent/DailyNotes/Backlog.md",
+    "Immanent/Projects/LunarPunk_Labs/LunarPunk Index.md",
+    "Immanent/DailyNotes/Connections.md",
+    "Immanent/DailyNotes/Events.md",
+    "Immanent/DailyNotes/2023/2023-06-12.md"
   ]
 }
