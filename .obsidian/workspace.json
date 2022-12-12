@@ -8,44 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dd81ccaf91ae24b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/DailyNotes/2022-12-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "386e170f9d708357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c64d7d32ef9e5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/LunarPunk Index.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "ff2ba323d55b35df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b985352df1c15f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +95,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-12.md",
+                "file": "Immanent/WorkBench/Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-12.md",
+                "file": "Immanent/WorkBench/Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,17 +153,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "386e170f9d708357",
+  "active": "b985352df1c15f01",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022/2022-12-14.md",
     "Immanent/DailyNotes/Backlog.md",
     "Immanent/DailyNotes/2022/2022-12-12.md",
-    "Immanent/DailyNotes/_Archive/2019/2019-11-06.md",
-    "Immanent/DailyNotes/2022-12-11.md",
-    "Immanent/Projects/Personal/Personal Index.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunk Index.md",
-    "Immanent/DailyNotes/2022/2022-10-11.md",
-    "Immanent/Projects/SuperGen_Labs/SuperGen Index.md",
-    "Omnicient/Shape up.md"
+    "Immanent/Projects/Personal/Personal Tasks.md",
+    "Immanent/DailyNotes/2023/2023-06-12.md",
+    "Immanent/DailyNotes/2022/2022-12-14.md",
+    "assets/Templates/Daily Template.md",
+    "Immanent/DailyNotes/2022-12-11.md",
+    "Immanent/DailyNotes/2023/2023-06-05.md",
+    "Immanent/DailyNotes/2022/2022-12-16.md"
   ]
 }
