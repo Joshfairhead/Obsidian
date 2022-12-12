@@ -4,7 +4,7 @@
 
 --- 
 
-## Upcoming
+## Upcoming Imperatives
 ```dataview
 TASK 
 FROM "Immanent/DailyNotes"
