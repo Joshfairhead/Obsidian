@@ -1,7 +1,7 @@
 ---
 Tags: [Artifacts, Esoteric]
 ---
-Realated: [[Qual Systems]] [[Enneagram]]
+Realated: [[Qual Systems]] [[Omnicient/Monad Saplings/Enneagram]]
 ## Number as architype
 - **Meta**
 	- **Open**

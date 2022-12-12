@@ -1,7 +1,7 @@
 ---
 Tags: [Index, Artifacts, Frameworks, Esoteric, Patterns, Heuristics]
 ---
-Related: [[Monads]] [[Dyads]] [[Tetrads]] [[QualSystems L2]] [[Qual Systems]] [[Second Order Science]] [[Enneagram]] [[Metaphysics]]
+Related: [[Monads]] [[Dyads]] [[Tetrads]] [[QualSystems L2]] [[Qual Systems]] [[Second Order Science]] [[Omnicient/Monad Saplings/Enneagram]] [[Metaphysics]]
 # Triads
 ### Accidents
 Quality Attribute: Dynamism

@@ -2,7 +2,7 @@
 Tags: [Course, Calls, Esoteric]
 ---
 # E-Systems
-Related: [[Enneagram]] [[H3uni]]
+Related: [[Omnicient/Monad Saplings/Enneagram]] [[H3uni]]
 
 - [Video](https://us02web.zoom.us/rec/share/OwlOW4b83wUR4pY2SyC3rmB5K_eLSAkXqbGamvjxwtRkApRrH7Dtpc1YuTMXCAa1.x-Zy3CPyVyf5hNcs)
     - Password: 91U8ZN&v

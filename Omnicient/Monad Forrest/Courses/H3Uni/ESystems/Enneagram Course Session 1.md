@@ -2,7 +2,7 @@
 Tags: [Course, Calls, Esoteric]
 ---
 # E-Systems
-Related: [[Enneagram]] [[H3uni]]
+Related: [[Omnicient/Monad Saplings/Enneagram]] [[H3uni]]
 
 
 - ![](assets/1626444290_29.pdf)

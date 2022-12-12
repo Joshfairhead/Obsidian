@@ -1,7 +1,7 @@
 ---
 Tags: [Patterns, Principals]
 ---
-Related: [[Magick]] [[Enneagram]] [[Qual Systems]] [[InterSect]] [[Being]]
+Related: [[Magick]] [[Omnicient/Monad Saplings/Enneagram]] [[Qual Systems]] [[InterSect]] [[Being]]
 # Open Magick
 Magic is synonomyous with secrets, whether we know it or not we go about unintentionally casting spells on eachother everyday. Open Magick considers the situation unavoidable due to the symbols (letters, words, pictures, models, frameworks) we use to convey meaning and communicate.
 

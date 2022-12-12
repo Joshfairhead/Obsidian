@@ -2,7 +2,7 @@
 Tags: [Index, Esoteric]
 ---
 
-Related: [[Enneagram]] [[H3uni]]
+Related: [[Omnicient/Monad Saplings/Enneagram]] [[H3uni]]
 
 ## E-Systems
 - [[Enneagram Course Session 1]]

@@ -115,7 +115,7 @@ Causality (Subjective/Objective in anticident or consequent)
 > 
 > _In the context of metaphysics_, the transcendent modal concept will be the one which has a pattern of the structure of its relations which most closely match that of Axiom III.
 
-- [UVSM](http://web.archive.org/web/20160725173516/http://www.magic-flight.com/pub/uvsm_1/imc_01.htm) [[Enneagram]] [[Qual Systems]] [[Triads]]
+- [UVSM](http://web.archive.org/web/20160725173516/http://www.magic-flight.com/pub/uvsm_1/imc_01.htm) [[Omnicient/Monad Saplings/Enneagram]] [[Qual Systems]] [[Triads]]
 
 
 ### Recommendations

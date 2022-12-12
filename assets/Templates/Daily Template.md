@@ -16,5 +16,5 @@ WHERE !completed AND contains(tags, "Event") AND contains(tags, "Call")
 ```dataview
 TASK FROM "Immanent/DailyNotes" 
 SORT file.name ASC
-WHERE !completed AND !contains(tags, "Event") AND !contains(tags, "Call")
+WHERE !completed AND !contains(text, "#Call") AND !contains(text, "#Event")
 ```

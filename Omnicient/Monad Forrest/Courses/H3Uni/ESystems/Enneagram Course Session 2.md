@@ -2,7 +2,7 @@
 Tags: [Course, Calls]
 ---
 # E-Systems
-Related: [[Enneagram]] [[H3uni]]
+Related: [[Omnicient/Monad Saplings/Enneagram]] [[H3uni]]
 
 
 - [Recording](https://us02web.zoom.us/rec/share/-qh30-sVnVmhcwV8WEA6Xg4LigDRR9DXBxTpqZgA-T5LGFjQgJSfz6gQE1lEin1w.BByRW0R8OCXNErRZ)

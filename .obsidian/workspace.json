@@ -13,13 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "Immanent/DailyNotes/Index/WeCo Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a44d43b78161814a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae49936eae54d225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/DailyNotes/2023/2023-02-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -96,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,17 +160,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "82d49e0d2ccefffa",
+  "active": "a44d43b78161814a",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/Index/_Meta/Enneagram/Assimilation.md",
-    "Immanent/DailyNotes/Buffer.md",
-    "Immanent/DailyNotes/Backlog.md",
-    "Immanent/DailyNotes/Personal Tasks.md",
-    "Immanent/DailyNotes/Index/Personal Index.md",
-    "Immanent/DailyNotes/Index/SuperGen Index.md",
     "Immanent/DailyNotes/Index/WeCo Index.md",
+    "Immanent/DailyNotes/Backlog.md",
     "Immanent/DailyNotes/Index/LunarPunk Index.md",
-    "Immanent/DailyNotes/Index/H3uni Index.md",
-    "Immanent/DailyNotes/Index/_Meta/Research Index.md"
+    "Immanent/DailyNotes/2023/2023-02-13.md",
+    "Immanent/DailyNotes/2023/2023-03-13.md",
+    "Immanent/DailyNotes/2023/2023-04-10.md",
+    "Immanent/DailyNotes/2023/2023-05-15.md",
+    "Immanent/DailyNotes/2023/2023-06-12.md",
+    "Immanent/DailyNotes/2022/2022-12-20.md",
+    "Immanent/DailyNotes/2023/2023-01-09.md"
   ]
 }
