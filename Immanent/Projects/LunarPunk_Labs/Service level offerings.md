@@ -1,9 +1,3 @@
----
-Tags: []
----
-Related: 
-# Service Level Offerings
-
 ## Initial Contact
 Preparation:
 - Discussion or comprehensive research to ingest general information

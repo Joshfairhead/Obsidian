@@ -1,9 +1,3 @@
----
-Tags: []
----
-Related: 
-# Curated upgrades list
-
 ## Liquids
 #### Hot
 - [Contigo Pinnacle](https://mycontigo.com/en/travel-mugs/pinnacle-matte-black) 300ml; Coffee

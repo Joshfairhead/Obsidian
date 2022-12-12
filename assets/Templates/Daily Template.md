@@ -6,7 +6,8 @@
 
 ## Upcoming
 ```dataview
-TASK FROM "Immanent/DailyNotes"
+TASK 
+FROM "Immanent/DailyNotes"
 SORT file.name ASC
 WHERE !completed AND contains(tags, "Event") AND contains(tags, "Call")
 ```

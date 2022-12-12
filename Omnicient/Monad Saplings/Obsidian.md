@@ -59,3 +59,10 @@ My custom setup:
 
 ### Comments on Publish
 - https://polyrain.dev/blogs/2021/Getting+comments+on+my+Obsidian+Publish+site
+
+### Wishes
+- Get Cron working to automate vault backup 
+- Learn to use Note Refactor
+- Vim Mode install / Learn
+- Create an inputs diagram
+- CSS

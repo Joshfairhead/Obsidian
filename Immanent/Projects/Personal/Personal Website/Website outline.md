@@ -13,16 +13,17 @@ Related: [[Personal website]]
 
 ## Level 3
 
-**Domains of my Essence**
+**Essential Values**
 
 | Activity | History | Aspirations |
 |---|---|---|
 | Present | Past | Future | <- describe above using
 
-**Domains of my Existance**
+**Existential Facts (profession?)** 
 
 | Activity | History | Aspirations |
 |---|---|---|
 | Present | Past | Future | <- describe above using
+| | C
 
  - 

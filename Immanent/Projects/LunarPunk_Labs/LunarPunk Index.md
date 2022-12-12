@@ -1,9 +1,4 @@
-## Unordered list
-```dataview
-TASK FROM "Immanent/DailyNotes" 
-SORT file.name ASC
-WHERE !completed AND contains(text, "#LunarPunk")
-```
+
 
 ## Assimilation
 ```dataview
@@ -12,11 +7,11 @@ SORT file.name ASC
 WHERE !completed AND contains(text, "#LunarPunk") AND contains(text, "#Assimilation")
 ```
 
-## Practice
+## Connection
 ```dataview
 TASK FROM "Immanent/DailyNotes" 
 SORT file.name ASC
-WHERE !completed AND contains(text, "#LunarPunk") AND contains(text, "#Practice")
+WHERE !completed AND contains(text, "#LunarPunk") AND contains(text, "#Connection") OR contains(text, "#Practice")
 ```
 
 ## Service
@@ -52,4 +47,13 @@ WHERE !completed AND contains(text, "#LunarPunk") AND contains(text, "#Submissio
 TASK FROM "Immanent/DailyNotes" 
 SORT file.name ASC
 WHERE !completed AND contains(text, "#LunarPunk") AND contains(text, "#Grace")
+```
+
+
+
+## Unordered tasks/projects list
+```dataview
+TASK FROM "Immanent" 
+SORT file.name ASC
+WHERE !completed AND contains(text, "#LunarPunk")
 ```
