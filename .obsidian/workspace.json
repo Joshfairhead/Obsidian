@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-12.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LunarPunk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-12.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-12.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,15 +137,15 @@
   },
   "active": "a44d43b78161814a",
   "lastOpenFiles": [
-    "Immanent/WorkBench/2022-12-12 Lunarpunk call.md",
-    "Immanent/DailyNotes/2022-12-13.md",
-    "Immanent/DailyNotes/Index/LunarPunk Index.md",
+    "Immanent/DailyNotes/2022/2022-12-14.md",
+    "Immanent/DailyNotes/2022/2022-12-13.md",
+    "Immanent/DailyNotes/Backlog.md",
     "Immanent/DailyNotes/2022/2022-12-12.md",
-    "Immanent/DailyNotes/2022-12-12.md",
-    "Immanent/DailyNotes/2022/2022-12-15.md",
-    "Immanent/Projects/WeCo/Regen RFP.md",
-    "Immanent/DailyNotes/Index/WeCo Index.md",
-    "Immanent/DailyNotes/2022/2022-12-16.md",
-    "Immanent/DailyNotes/Backlog.md"
+    "Immanent/DailyNotes/2023/2023-06-05.md",
+    "Immanent/DailyNotes/Index/Personal Index.md",
+    "Immanent/DailyNotes/Index/H3uni Index.md",
+    "Immanent/DailyNotes/Index/_Meta/Enneagram/Assimilation.md",
+    "Immanent/DailyNotes/2022-12-13.md",
+    "Immanent/DailyNotes/Index/WeCo Index.md"
   ]
 }
