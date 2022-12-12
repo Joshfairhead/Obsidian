@@ -1,0 +1,2 @@
+- [Bundle telegrams](https://docs.google.com/document/d/1g4PgjtGr7A14mLdIK7FFfxMF-jy3WAS6TZ_p7EFY9HI/edit)
+- Community [Notion](https://gitcoin.notion.site/Gitcoin-Community-Hub-f3b76b0142c143ca928d087ea6dd2945) for shilling Impact Certs etc.
