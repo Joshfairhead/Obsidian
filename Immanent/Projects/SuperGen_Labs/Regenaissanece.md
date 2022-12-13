@@ -3,6 +3,7 @@
 - Gift economy / burning man
 - Seeds memes
 - Propolis (playground before the city)
+- Investigative commedians (e.g. Dave Gorman)
 - SolarPunk dreams
 - Meta modern politics
 - "[The sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)"
