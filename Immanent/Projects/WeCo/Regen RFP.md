@@ -6,3 +6,6 @@
 - [ ] Basic sketching #WeCo 
 
 
+### Connections
+- Hyphen.earth for dashboard?
+- Jesu, Howard Biochar, RFP

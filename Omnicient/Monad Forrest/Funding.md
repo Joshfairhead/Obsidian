@@ -19,6 +19,7 @@ Note on raising funds (applicatons, pitches): https://www.ycombinator.com/howtoa
 - [Alpha growth grants aggrigator](https://alphagrowth.io/grants)
 - [Web3 Grants May 2022](https://refi-dao.notion.site/Web3-Grants-May-2022-6f5271d4b27a4200ac55906b6a2c07b1) RefiDAO
 - [Climate Collective](https://climate-collective.notion.site/climate-collective/Climate-Collective-Grant-Kit-7d20e3a02bba4121ac4d63b923935415)
+- [Climate Collective 2](https://medium.com/@ClimateCollective/introducing-the-climate-collectives-new-grants-program-2ec76b97318c)
 - [Growing Great Ideas](https://www.tnlcommunityfund.org.uk/funding/programmes/growing-great-ideas#section-4) - UK lottery; ecosystems focus
 - [Unicef grant](https://www.unicef.org/innovation/applyBlockchainCrypto)
 - [Microsoft Social Entrepreneurship](https://startups.microsoft.com/en-us/social-entrepreneurship/)
