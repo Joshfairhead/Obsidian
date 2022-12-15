@@ -5,11 +5,6 @@
 - [ ] Contact Dil about mutual credit lines #WeCo 
 - [ ] Basic sketching #WeCo 
 
-
-### Connections
-- Hyphen.earth for dashboard?
-- Jesu, Howard Biochar, RFP
-
 ---
 
 ### Ideation
@@ -29,6 +24,8 @@
 #### Synergies
 - Dil / Informal Systems
 - Ronen / Open Collective 
+- Hyphen.earth for dashboard?
+- Jesu, Howard Biochar, RFP
 
 Call Specs:
 - Compensating stewards, Scientists, Bioregions
