@@ -25,3 +25,23 @@ Allison Breakout room
 
 Credits from first principals
 Simplex dna (species data and meta registry)
+
+Good Grants
+- Clarity
+- Brevity
+
+HBAR Sustainable impact ecosystem, Hedera
+- LSE
+- Nivura
+- Google / bluechips
+
+dMRV "The Gaurdian" methodology digitisation; auditable unit
+TOLEM Marketplace
+
+
+---
+
+Climate change makers, invited this sunday to keep the conversation going  https://events.decentraland.org/event/?id=76cdca0a-8b69-42cf-a856-a14f8c5747b9
+We are presenting some cool things with a garden going > community biofabric  harmonized by the autonomous" music school
+
+Oz Katman - Impact oracle 
