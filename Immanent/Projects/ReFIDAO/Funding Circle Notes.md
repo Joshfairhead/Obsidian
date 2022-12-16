@@ -45,3 +45,7 @@ Climate change makers, invited this sunday to keep the conversation going  https
 We are presenting some cool things with a garden going > community biofabric  harmonized by the autonomous" music school
 
 Oz Katman - Impact oracle 
+
+---
+- [HBAR Foundation Scaling Impact Fund](https://www.hbarfoundation.org/blog-post/building-on-the-sif-ecosystem)
+- [_Automated Regression Market Makers_](https://medium.com/block-science/testing-armms-in-production-48a08afafdcc)
