@@ -24,3 +24,6 @@ Jari: Helps with founders mental health. Safe space, opening up when hurting. Ge
 ---
 
 Robin: When starting Kumu waited till ready to be a founder because running a company is extreme and stressful. Can only run the startup if he has the energy and it fits in his life and is enriched by the startup. culture, onvironment needs to be better than other places. Has one on ones with folks on a weekly basis. Has a coach to talk with to help fid answers within himself. Strong as a founder, strong for the team. Where theres struggle it becomes 
+
+
+-----

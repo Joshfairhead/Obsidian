@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
+                "file": "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
+                "file": "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
+                "file": "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,15 +137,15 @@
   },
   "active": "a44d43b78161814a",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022/2022-12-20.md",
     "Immanent/DailyNotes/2022/2022-12-16.md",
+    "Immanent/Projects/ReFIDAO/Refi DAO Notes.md",
+    "Immanent/DailyNotes/2022/2022-12-20.md",
+    "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
     "Immanent/DailyNotes/2022/2022-12-15.md",
     "Immanent/Projects/WeCo/Regen RFP.md",
     "Immanent/Projects/H3uni/H3 University.md",
     "Immanent/DailyNotes/2022/2022-12-14.md",
     "Immanent/Personal/Home Address Lisbon.md",
-    "Immanent/DailyNotes/Backlog.md",
-    "Omnicient/Monad Forrest/Funding.md",
-    "Immanent/DailyNotes/2022/2022-12-13.md"
+    "Immanent/DailyNotes/Backlog.md"
   ]
 }
