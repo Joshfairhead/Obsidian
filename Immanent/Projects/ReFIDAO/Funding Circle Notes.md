@@ -17,6 +17,7 @@ Right now in the current climate web 2 investors are down regulating funding gro
 How important in grant funding allocation criteria is it that the projects are focused on an early path to revenue over a growth play that would then monetise at a later stage.
 
 ---
+### Climate Collective
 
 Allison Breakout room
 - Data
@@ -30,15 +31,6 @@ Good Grants
 - Clarity
 - Brevity
 
-HBAR Sustainable impact ecosystem, Hedera
-- LSE
-- Nivura
-- Google / bluechips
-
-dMRV "The Gaurdian" methodology digitisation; auditable unit
-TOLEM Marketplace
-
-
 ---
 
 Climate change makers, invited this sunday to keep the conversation going  https://events.decentraland.org/event/?id=76cdca0a-8b69-42cf-a856-a14f8c5747b9
@@ -47,5 +39,15 @@ We are presenting some cool things with a garden going > community biofabric  ha
 Oz Katman - Impact oracle 
 
 ---
-- [HBAR Foundation Scaling Impact Fund](https://www.hbarfoundation.org/blog-post/building-on-the-sif-ecosystem)
-- [_Automated Regression Market Makers_](https://medium.com/block-science/testing-armms-in-production-48a08afafdcc)
+### Hedera 
+- [HBAR Foundation Sustainable Impact Fund](https://www.hbarfoundation.org/blog-post/building-on-the-sif-ecosystem)
+- [Guardian Repo](https://github.com/hashgraph/guardian)
+- [Automated Regression Market Makers](https://medium.com/block-science/testing-armms-in-production-48a08afafdcc)
+
+HBAR Sustainable impact ecosystem, Hedera
+- LSE
+- Nivura
+- Google / bluechips
+
+dMRV "The Gaurdian" methodology digitisation; auditable unit
+TOLEM Marketplace
