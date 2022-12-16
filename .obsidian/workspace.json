@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/WeCo/Regen RFP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc9dee5c4bce907b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/H3uni/H3 University.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/H3uni/H3 University.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/H3uni/H3 University.md",
+                "file": "Immanent/DailyNotes/2022/2022-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,17 +135,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "bc9dee5c4bce907b",
+  "active": "a44d43b78161814a",
   "lastOpenFiles": [
-    "Immanent/Projects/WeCo/Regen RFP.md",
     "Immanent/DailyNotes/2022/2022-12-15.md",
+    "Immanent/Projects/WeCo/Regen RFP.md",
+    "Immanent/Projects/H3uni/H3 University.md",
     "Immanent/DailyNotes/2022/2022-12-16.md",
     "Immanent/DailyNotes/2022/2022-12-14.md",
     "Immanent/DailyNotes/2022/2022-12-20.md",
     "Immanent/Personal/Home Address Lisbon.md",
     "Immanent/DailyNotes/Backlog.md",
     "Omnicient/Monad Forrest/Funding.md",
-    "Immanent/DailyNotes/2022/2022-12-13.md",
-    "Immanent/DailyNotes/2022/2022-12-12.md"
+    "Immanent/DailyNotes/2022/2022-12-13.md"
   ]
 }
