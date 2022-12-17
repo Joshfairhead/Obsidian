@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
+                "file": "Immanent/DailyNotes/Personal Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Personal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
+                "file": "Immanent/DailyNotes/Personal Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
+                "file": "Immanent/DailyNotes/Personal Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,15 +137,15 @@
   },
   "active": "a44d43b78161814a",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022/2022-12-12.md",
+    "Immanent/DailyNotes/Index/_Meta/Enneagram/Connection.md",
+    "Immanent/DailyNotes/Index/_Meta/Enneagram/Assimilation.md",
+    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 2.md",
+    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 3.md",
+    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 1.md",
     "Immanent/DailyNotes/2022/2022-12-16.md",
-    "Immanent/DailyNotes/2022/2022-12-20.md",
-    "Immanent/DailyNotes/2022-12-19.md",
-    "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
-    "Immanent/Projects/ReFIDAO/Refi DAO Notes.md",
     "Immanent/DailyNotes/2022/2022-12-15.md",
-    "Immanent/Projects/WeCo/Regen RFP.md",
-    "Immanent/Projects/H3uni/H3 University.md",
-    "Immanent/DailyNotes/2022/2022-12-14.md"
+    "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
+    "Immanent/DailyNotes/2022/2022-12-12.md",
+    "Immanent/DailyNotes/2022/2022-12-20.md"
   ]
 }
