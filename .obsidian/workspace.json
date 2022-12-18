@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/Intersect/Intersect Index.md",
+                "file": "Immanent/Personal/Planner/Week/Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Intersect/Intersect Index.md",
+                "file": "Immanent/Personal/Planner/Week/Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Intersect/Intersect Index.md",
+                "file": "Immanent/Personal/Planner/Week/Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,15 +150,15 @@
   },
   "active": "607c30912c1befa8",
   "lastOpenFiles": [
-    "Immanent/Personal/Planner/Week/Monday.md",
-    "Immanent/Personal/Planner/Physical Ecology.md",
-    "Immanent/Personal/Planner/Mental Ecology.md",
-    "Immanent/Personal/Planner/Emotional Ecology.md",
-    "Immanent/Personal/Planner/Week/Wednesday.md",
     "Immanent/Personal/Planner/Week/Saturday.md",
     "Immanent/Personal/Planner/Week/Friday.md",
-    "Immanent/Personal/Planner/Week/Sunday.md",
+    "Immanent/Personal/Planner/Week/Thursday.md",
+    "Immanent/Personal/Planner/Week/Wednesday.md",
     "Immanent/Personal/Planner/Week/Tuesday.md",
-    "Omnicient/Monad Forrest/Courses/H3Uni/Cosmic Ecology/Cosmic Ecology Index.md"
+    "Immanent/Personal/Planner/Week/Monday.md",
+    "Immanent/Personal/Planner/Week/Sunday.md",
+    "assets/Templates/TemplaterJS/Templates/Saturday.md",
+    "assets/Templates/TemplaterJS/Templates/Thursday.md",
+    "assets/Templates/TemplaterJS/Templates/Monday.md"
   ]
 }
