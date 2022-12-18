@@ -12,7 +12,7 @@ Related: [[Anthony Hodgeson]] [[Qual Systems]] [[Cosmic Ecology Index]] [[E-syst
     - Would like to work on the ontology problem via published output
         - Would like peer review for said work
     - Can help with video review and find others
-
+- [Being who you really are](assets/BeingWhoYouReallyAre.pdf)
 
 ### Anthonys recommendations
 - Henri Bortoft - _authentic and counterfeit wholeness_  
