@@ -4,12 +4,20 @@
 
 --- 
 
-## Upcoming Imperatives
+## Upcoming Calls
 ```dataview
 TASK 
 FROM "Immanent/DailyNotes"
 SORT file.name ASC
-WHERE !completed AND contains(tags, "Event") AND contains(tags, "Call")
+WHERE !completed AND contains(tags, "Call")
+```
+
+## Upcoming Events
+```dataview
+TASK 
+FROM "Immanent/DailyNotes"
+SORT file.name ASC
+WHERE !completed AND contains(tags, "Event") AND !contains(tags, "Call")
 ```
 
 ## Task Backlog

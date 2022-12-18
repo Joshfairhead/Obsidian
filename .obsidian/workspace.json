@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1256306a345780b",
+        "id": "3bd13bc979288091",
         "type": "tabs",
         "children": [
           {
-            "id": "a44d43b78161814a",
+            "id": "a97763d92445d99d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/Personal Tasks.md",
+                "file": "Immanent/Personal/Planner/Week/Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Personal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/Personal Tasks.md",
+                "file": "Immanent/Personal/Planner/Week/Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/Personal Tasks.md",
+                "file": "Immanent/Personal/Planner/Week/Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "a44d43b78161814a",
+  "active": "a97763d92445d99d",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/Index/_Meta/Enneagram/Connection.md",
-    "Immanent/DailyNotes/Index/_Meta/Enneagram/Assimilation.md",
-    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 2.md",
-    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 3.md",
-    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 1.md",
-    "Immanent/DailyNotes/2022/2022-12-16.md",
-    "Immanent/DailyNotes/2022/2022-12-15.md",
-    "Immanent/Projects/ReFIDAO/Funding Circle Notes.md",
-    "Immanent/DailyNotes/2022/2022-12-12.md",
-    "Immanent/DailyNotes/2022/2022-12-20.md"
+    "Immanent/Personal/Planner/Physical Ecology.md",
+    "Immanent/Personal/Planner/Mental Ecology.md",
+    "Immanent/Personal/Planner/Emotional Ecology.md",
+    "Immanent/Personal/Planner/Week/Wednesday.md",
+    "Immanent/Personal/Planner/Week/Monday.md",
+    "Immanent/Personal/Planner/Week/Saturday.md",
+    "Immanent/Personal/Planner/Week/Friday.md",
+    "Immanent/Personal/Planner/Week/Sunday.md",
+    "Immanent/Personal/Planner/Week/Tuesday.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/Cosmic Ecology/Cosmic Ecology Index.md"
   ]
 }
