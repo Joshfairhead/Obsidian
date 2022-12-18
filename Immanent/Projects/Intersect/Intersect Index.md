@@ -1,6 +1,7 @@
 ## Invitation
 - https://intersect.bonfire.link/
 
+
 ## Connections
 - [x] Regen Tech Community
 - [x] Dil / Informal systems
@@ -17,4 +18,3 @@
 - [ ] Roberto
 - [ ] ReFi DAO
 - [ ] Gitcoin Folk
-- [ ] 
