@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "229cc38a4e6cc3e0",
+  "active": "a97763d92445d99d",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/Index/LunarPunk Index.md",
+    "Immanent/DailyNotes/Backlog.md",
+    "Immanent/DailyNotes/2022/2022-12-19.md",
     "Immanent/Projects/Intersect/Intersect Index.md",
     "README.md",
-    "Immanent/DailyNotes/2022/2022-12-19.md",
     "Immanent/DailyNotes/2022/2022-12-20.md",
     "Immanent/DailyNotes/2022-12-18.md",
     "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
     "Immanent/Projects/H3uni/H3 University.md",
-    "Immanent/DailyNotes/Index/H3uni Index.md",
-    "assets/BEINGWHOYOUREALLYARE.pdf",
-    "Immanent/Personal/Planner/Week/Monday.md"
+    "Immanent/DailyNotes/Index/H3uni Index.md"
   ]
 }

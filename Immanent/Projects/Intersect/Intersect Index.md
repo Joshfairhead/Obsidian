@@ -1,3 +1,12 @@
+## Data View Tasks
+```dataview
+TASK 
+FROM "Immanent/DailyNotes"
+SORT file.name ASC
+WHERE !completed AND contains(tags, "Intersect")
+```
+---
+
 ## Invitation
 - https://intersect.bonfire.link/
 
@@ -17,4 +26,5 @@
 - [ ] Roberto
 - [ ] ReFi DAO
 - [ ] Gitcoin Folk
-- [ ] 
+
+
