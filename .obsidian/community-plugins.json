@@ -5,5 +5,6 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-advanced-slides",
-  "dataview"
+  "dataview",
+  "google-calendar"
 ]

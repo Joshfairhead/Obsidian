@@ -1,0 +1,23 @@
+{
+  "googleClientId": "",
+  "googleClientSecret": "",
+  "googleRefreshToken": "",
+  "useCustomClient": false,
+  "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
+  "refreshInterval": 10,
+  "showNotice": true,
+  "autoCreateEventNotes": true,
+  "autoCreateEventKeepOpen": false,
+  "importStartOffset": 1,
+  "importEndOffset": 1,
+  "defaultCalendar": "",
+  "calendarBlackList": [],
+  "insertTemplates": [],
+  "webViewDefaultColorMode": "dark",
+  "useDefaultTemplate": false,
+  "defaultTemplate": "",
+  "defaultFolder": "Immanent/WorkBench",
+  "activateDailyNoteAddon": false,
+  "dailyNoteDotColor": "#6aa1d8",
+  "debugMode": false
+}

@@ -5,11 +5,17 @@
   "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,
+  "enablePointer": false,
+  "enableTimeBar": false,
   "theme": "black",
   "highlightTheme": "zenburn",
   "transition": "slide",
   "transitionSpeed": "default",
   "controls": true,
   "progress": true,
-  "slideNumber": false
+  "slideNumber": false,
+  "showGrid": false,
+  "autoComplete": "inPreview",
+  "paneMode": "split",
+  "motm": "2022-12-19T00:31:04.968Z"
 }
