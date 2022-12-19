@@ -43,6 +43,4 @@ Templates for DailyNotes can be found in the assets folder. If were talking abou
 	- You can do this via github either via zipfile or with a git pull; just click the green button top right for both these options
 
 ### Conclusion
-Now you know the structure of my digital brain. May it's memes spread. 
-
-Ad Astra and To The Cosmos!
+Now you know the structure of my digital brain. May it's memes spread; Ad Astra and To The Cosmos!
