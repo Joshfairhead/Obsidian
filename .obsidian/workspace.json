@@ -13,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-06-12.md",
+                "file": "Immanent/DailyNotes/2022-12-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-06-12.md",
+                "file": "Immanent/DailyNotes/2022-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-06-12.md",
+                "file": "Immanent/DailyNotes/2022-12-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,17 +134,30 @@
     "direction": "horizontal",
     "width": 245.5
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "a97763d92445d99d",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2023/2023-06-05.md",
+    "Immanent/DailyNotes/2022/2022-12-20.md",
+    "Immanent/DailyNotes/2022-12-21.md",
+    "Immanent/Projects/WeCo/Regen RFP.md",
+    "Immanent/WorkBench/Untitled.md",
+    "Immanent/WorkBench/Untitled.canvas",
     "Immanent/DailyNotes/2023/2023-06-12.md",
+    "Immanent/DailyNotes/2023/2023-06-05.md",
     "Immanent/DailyNotes/2023/2023-01-09.md",
     "Immanent/DailyNotes/2023-01-10.md",
-    "Immanent/DailyNotes/2023/2023-01-17.md",
-    "Immanent/DailyNotes/2022/2022-12-20.md",
-    "Immanent/DailyNotes/2023-01-05.md",
-    "Immanent/DailyNotes/2022/2022-12-12.md",
-    "Immanent/DailyNotes/Index/LunarPunk Index.md",
-    "Immanent/DailyNotes/2022/2022-12-19.md"
+    "Immanent/DailyNotes/2023/2023-01-17.md"
   ]
 }
