@@ -11,8 +11,12 @@
             "id": "a6496220b3b9544b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/DailyNotes/Backlog.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/R3solution/Hope/Hope Triad.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/R3solution/Hope/Hope Triad.md",
+                "file": "Immanent/DailyNotes/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a25edb9f44c356d",
+  "active": "a6496220b3b9544b",
   "lastOpenFiles": [
+    "Immanent/Projects/R3solution/Hope/Hope Triad.md",
     "Immanent/Projects/R3solution/Habbit/Habbit Triad.md",
     "Immanent/Projects/R3solution/Habbit/Habbit Monad.md",
     "Immanent/Projects/R3solution/Ethics/Ethics Triad.md",
@@ -153,7 +158,6 @@
     "Immanent/Projects/R3solution/Dialectic/Dialectic Triad.md",
     "Immanent/Projects/R3solution/_Index/Triads.md",
     "Immanent/Projects/R3solution/Conscious/Conscious Triad.md",
-    "Immanent/Projects/R3solution/Conscience/Conscience Triad.md",
-    "Immanent/Projects/R3solution/Coding/Coding Triad.md"
+    "Immanent/Projects/R3solution/Conscience/Conscience Triad.md"
   ]
 }
