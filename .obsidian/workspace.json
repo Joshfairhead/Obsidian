@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "Immanent/WorkBench/2022 Reflections.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "Immanent/WorkBench/2022 Reflections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "Immanent/WorkBench/2022 Reflections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,8 @@
   },
   "active": "a6496220b3b9544b",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/Backlog.md",
+    "Immanent/WorkBench/2022 Reflections.md",
     "Immanent/Projects/R3solution/Hope/Hope Triad.md",
     "Immanent/Projects/R3solution/Habbit/Habbit Triad.md",
     "Immanent/Projects/R3solution/Habbit/Habbit Monad.md",
@@ -156,8 +158,6 @@
     "Immanent/Projects/R3solution/Ethics/Ethics Dyad.md",
     "Immanent/Projects/R3solution/Essence/Essence Triad.md",
     "Immanent/Projects/R3solution/Dialectic/Dialectic Triad.md",
-    "Immanent/Projects/R3solution/_Index/Triads.md",
-    "Immanent/Projects/R3solution/Conscious/Conscious Triad.md",
-    "Immanent/Projects/R3solution/Conscience/Conscience Triad.md"
+    "Immanent/Projects/R3solution/_Index/Triads.md"
   ]
 }
