@@ -54,6 +54,8 @@ WHERE !completed AND contains(tags, "Intersect")
 - Thom: visual interface options for unconference session suggestions!
 	- Human elements, being present to contribute
 	- Prompt engineering for generativity
+- Map jam on tools for generative engagement
+- Simon: Trust, investment, safety - positively!
 
 ### Intentional Requests
 - Prompt offers for opening ceremony
