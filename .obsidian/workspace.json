@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/Intersect/Intersect Index.md",
+                "file": "Immanent/DailyNotes/2023-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Intersect/Intersect Index.md",
+                "file": "Immanent/DailyNotes/2023-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Intersect/Intersect Index.md",
+                "file": "Immanent/DailyNotes/2023-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,8 @@
   },
   "active": "a6496220b3b9544b",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2023-01-04.md",
+    "Immanent/Projects/Intersect/Intersect Index.md",
     "Immanent/Personal/Planner/Week/Tuesday.md",
     "Immanent/Personal/Planner/Week/Monday.md",
     "assets/Templates/TemplaterJS/Templates/Monday.md",
@@ -156,8 +158,6 @@
     "Immanent/DailyNotes/Backlog.md",
     "Immanent/Projects/R3solution/Hope/Hope Triad.md",
     "Immanent/Projects/R3solution/Habbit/Habbit Triad.md",
-    "Immanent/Projects/R3solution/Habbit/Habbit Monad.md",
-    "Immanent/Projects/R3solution/Ethics/Ethics Triad.md",
-    "Immanent/Projects/R3solution/Ethics/Ethics Dyad.md"
+    "Immanent/Projects/R3solution/Habbit/Habbit Monad.md"
   ]
 }
