@@ -62,7 +62,7 @@ WHERE !completed AND contains(tags, "Intersect")
 - Coherent invitation, less chaos!
 
 ### Logistics Bomb
-- 29th or 30th?
+- 30th
 - Informal sync ups 
 - 
 

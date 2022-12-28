@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-05.md",
+                "file": "Immanent/Projects/Intersect/Intersect Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-05.md",
+                "file": "Immanent/Projects/Intersect/Intersect Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-05.md",
+                "file": "Immanent/Projects/Intersect/Intersect Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +149,15 @@
   },
   "active": "a6496220b3b9544b",
   "lastOpenFiles": [
+    "Omnicient/Artefacts (entropy)/InterSect.md",
+    "Immanent/DailyNotes/2022-12-28.md",
+    "Immanent/DailyNotes/2022-12-27.md",
+    "Immanent/DailyNotes/2023-01-05.md",
     "Immanent/DailyNotes/2023-01-04.md",
     "Immanent/Projects/Intersect/Intersect Index.md",
     "Immanent/Personal/Planner/Week/Tuesday.md",
     "Immanent/Personal/Planner/Week/Monday.md",
     "assets/Templates/TemplaterJS/Templates/Monday.md",
-    "Immanent/WorkBench/2022 Reflections.md",
-    "Immanent/DailyNotes/Backlog.md",
-    "Immanent/Projects/R3solution/Hope/Hope Triad.md",
-    "Immanent/Projects/R3solution/Habbit/Habbit Triad.md",
-    "Immanent/Projects/R3solution/Habbit/Habbit Monad.md"
+    "Immanent/WorkBench/2022 Reflections.md"
   ]
 }
