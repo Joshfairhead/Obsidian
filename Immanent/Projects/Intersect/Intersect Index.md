@@ -16,11 +16,12 @@ WHERE !completed AND contains(tags, "Intersect")
 - [x] Hackalong Tele
 - [ ] Hackalong Discord
 - [ ] H3University (futurestewards)
-- [ ] Laurence
+- [x] Laurence
 - [x] Thom
-- [ ] Jesse
+- [x] Jesse
 - [x] Fenix
 - [x] Ronen
+- [x] Ale
 - [ ] Bryan
 - [ ] Jeremy
 - [ ] Roberto
