@@ -1,0 +1,4 @@
+- Does the law of expansion (3-2-1) mean that the reconciler is used up in uniting the other two impulses? or is it only so in relation to two passive impulses?
+	- Does a specific instantiation of this relationship apply to myself, Maija, Anthony? 
+	- What implications does this have on our cosmic responsibilities? 
+		- For instance upon request my good friend Ronen presented whats alive for him in relation to 'effectively deploying effective strategy' at Open Collective. If he's 'discharged' some of the mandala he's been meditating on it feels like I have  a responsibility to repay him in some way. What have I unconsciously taken on with such a request? How do I assess responsible action?
