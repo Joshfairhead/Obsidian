@@ -1,0 +1,9 @@
+- [ ] Research Password manager #Horizon3uni 
+- [ ] Choose Password manager #Horizon3uni 
+- [ ] Get access to mail server for 2FA #Horizon3uni 
+- [ ] Test mail server delegation #Horizon3uni 
+- [ ] Test Anthonys zoom account #Horizon3uni 
+- [ ] Download recordings #Horizon3uni 
+- [ ] Backup recordings #Horizon3uni 
+- [ ] Edit recordings #Horizon3uni 
+- [ ] Upload recordings #Horizon3uni 

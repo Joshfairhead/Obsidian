@@ -1,0 +1,2 @@
+- [ ] Scrub Ronen from recordings #Intersect 
+- [ ] Upload videos to web #Intersect 

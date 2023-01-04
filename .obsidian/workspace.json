@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a38473a108e00f8",
+        "id": "dc464c34f98cac0d",
         "type": "tabs",
         "children": [
           {
-            "id": "a6496220b3b9544b",
+            "id": "4f803fa7f4563645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2022-12-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bdcc54f1d71db4e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "82d187557952c348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
+                "file": "Immanent/DailyNotes/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
+                "file": "Immanent/DailyNotes/2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
+                "file": "Immanent/DailyNotes/2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82d187557952c348",
+  "active": "4f803fa7f4563645",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2022-12-30.md",
-    "Immanent/DailyNotes/2023-01-04.md",
     "Immanent/DailyNotes/2023-01-05.md",
+    "Immanent/DailyNotes/2023-01-04.md",
+    "Immanent/Projects/Intersect/Intersect Invitations CRM.md",
+    "Immanent/Projects/H3uni/H3 University Index.md",
     "Immanent/Projects/Intersect/Intersect Index.md",
-    "Omnicient/Artefacts (entropy)/InterSect.md",
-    "Immanent/DailyNotes/2022-12-28.md",
-    "Immanent/DailyNotes/2022-12-27.md",
-    "Immanent/Personal/Planner/Week/Tuesday.md",
-    "Immanent/Personal/Planner/Week/Monday.md",
-    "assets/Templates/TemplaterJS/Templates/Monday.md"
+    "Immanent/Projects/H3uni/H3 Backlog.md",
+    "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
+    "Immanent/Projects/WeCo/Regen RFP.md",
+    "Immanent/Projects/Intersect/Calls/2022-12-27 Intersect Coordination Call.md",
+    "Immanent/Projects/Intersect/Intersect Backlog.md"
   ]
 }
