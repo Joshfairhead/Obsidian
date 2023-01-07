@@ -12,3 +12,4 @@
 	- Does a specific instantiation of this relationship apply to myself, Maija, Anthony? (feels related)
 		- What implications does this have in general when related to other cosmic responsibilities? 
 			- For instance upon request my good friend Ronen presented whats alive for him in relation to 'effectively deploying effective strategy' at Open Collective; If he's 'discharged' some part of a mandala thats important to him; what responsibility do I hold as a steward of the information shared? 
+- Is the reconciler consequent on the nullad?
