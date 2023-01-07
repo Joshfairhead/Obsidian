@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-11.md",
+                "file": "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-11.md",
+                "file": "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-11.md",
+                "file": "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f803fa7f4563645",
+  "active": "6a25edb9f44c356d",
   "lastOpenFiles": [
-    "Immanent/WorkBench/2022 Reflections.md",
-    "Immanent/WorkBench/2022-07-01.md",
+    "Immanent/DailyNotes/Index/H3uni Index.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/H3uni.md",
     "Immanent/DailyNotes/2023-01-10.md",
-    "Immanent/DailyNotes/2023/2023-01-09.md",
     "Immanent/DailyNotes/2023-01-12.md",
     "Immanent/DailyNotes/2023-01-11.md",
+    "Immanent/WorkBench/2022 Reflections.md",
+    "Immanent/WorkBench/2022-07-01.md",
+    "Immanent/DailyNotes/2023/2023-01-09.md",
     "Immanent/DailyNotes/2023-01-06.md",
-    "Immanent/DailyNotes/2023-01-04.md",
-    "Immanent/DailyNotes/2023-01-05.md",
-    "Immanent/DailyNotes/2023-01-13.md"
+    "Immanent/DailyNotes/2023-01-04.md"
   ]
 }
