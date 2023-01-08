@@ -2,10 +2,10 @@
 Tags: []
 ---
 Related: [[DeSci]]
-# Active Inferrence Ontology
+# Active Inference Ontology
 
- Paper link: https://zenodo.org/record/6320575#.YuQBRsHMKEt
-
+- [Markov blankets, information geometry and stochastic thermodynamics](https://royalsocietypublishing.org/doi/10.1098/rsta.2019.0159)
+- Paper link: https://zenodo.org/record/6320575#.YuQBRsHMKEt
 
 ### Notes
 > As decentralized communities of practice lack the coercive power which defines centralizing institutions, their continued existence relies entirely on the voluntary participation of members, and therefore necessitates an institutional structure facilitating and incentivizing participation.

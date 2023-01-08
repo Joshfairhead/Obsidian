@@ -1,4 +1,4 @@
-- References: [[Active Inferrence Ontology]] [[ActiveInferenceOntology.pdf]]
+- References: [[Active Inference Ontology]] [[ActiveInferenceOntology.pdf]]
 - [Ned](https://docs.google.com/document/d/1giZVMkFr186omN6esxJefkpfm_bTwQXST0_Wraz5KRU/edit)
 
 ## Introduction
