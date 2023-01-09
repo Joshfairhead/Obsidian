@@ -21,6 +21,24 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "25052525dac0c02d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06f493edeb516ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/Your Guide to Deep Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-09.md",
+                "file": "Immanent/WorkBench/Your Guide to Deep Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-09.md",
+                "file": "Immanent/WorkBench/Your Guide to Deep Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f803fa7f4563645",
+  "active": "06f493edeb516ad2",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2023-01-10.md",
     "Immanent/DailyNotes/2023/2023-01-09.md",
+    "Immanent/DailyNotes/2023-01-10.md",
     "Immanent/Personal/NIF.md",
     "Immanent/DailyNotes/2023-01-12.md",
     "Immanent/DailyNotes/2023-01-11.md",
