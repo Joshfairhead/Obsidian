@@ -1,18 +1,18 @@
-- Laurence manifesto / glass bead game
+- Laurence [manifesto](https://docs.google.com/document/u/1/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit?usp=drive_web&ouid=102906518489124983766) / glass bead game
 - Concentration, contemplation, meditation
 - Gift economy / burning man
 - Seeds memes
 - Propolis (playground before the city)
-- Investigative commedians (e.g. Dave Gorman)
+- Investigative comedians (e.g. Dave Gorman)
 - SolarPunk dreams
 - Meta modern politics
 - "[The sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)"
-- Sovrign nature / digital twins
+- Sovereign nature / digital twins
 - Adaptive personal policy
 	- Social Impact Bonds?
 - CEPTR narrative / protocol
 	- Unenclosable carriers
-- Cybernetics, Trust, interdisiplinary.
+- Cybernetics, Trust, interdisciplinary.
 - Cult appreciation
 	- Spaceship earth
 	- Wild wild country

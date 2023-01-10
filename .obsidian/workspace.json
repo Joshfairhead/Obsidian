@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-10.md",
+                "file": "Immanent/Projects/SuperGen_Labs/Regenaissanece.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-10.md",
+                "file": "Immanent/Projects/SuperGen_Labs/Regenaissanece.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-10.md",
+                "file": "Immanent/Projects/SuperGen_Labs/Regenaissanece.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,15 +150,15 @@
   },
   "active": "4f803fa7f4563645",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2023-01-11.md",
+    "Immanent/Projects/SuperGen_Labs/Manifestos.md",
+    "Immanent/Projects/SuperGen_Labs/Regenaissanece.md",
+    "Immanent/Projects/SuperGen_Labs/Archive/Moon Dreams.md",
+    "Immanent/Projects/SuperGen_Labs/Open Contracts.md",
+    "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
+    "Immanent/DailyNotes/Index/SuperGen Index.md",
     "Immanent/DailyNotes/2023-01-10.md",
+    "Immanent/DailyNotes/2023-01-11.md",
     "Immanent/DailyNotes/2023/2023-01-09.md",
-    "Immanent/DailyNotes/2023-01-13.md",
-    "Immanent/DailyNotes/2023-01-12.md",
-    "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
-    "Immanent/Projects/H3uni/H3 Backlog.md",
-    "Immanent/WorkBench/Your Guide to Deep Work.md",
-    "Immanent/Personal/NIF.md",
-    "Omnicient/Active Inference Ontology.md"
+    "Immanent/DailyNotes/2023-01-13.md"
   ]
 }

@@ -1,15 +1,15 @@
 - Self developing structure
 	- [Neri Oxman](https://www.media.mit.edu/people/neri/overview/)
 	- Generator functions
-	- Algorhythms
+	- Algorithms
 - Next Renaissance
 	- [Regenaissance](https://docs.google.com/document/u/1/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit?usp=drive_web&ouid=102906518489124983766)
-- The great modularity
+- The Great modularity
 - The Great integration
 - Personal book series
 - Semantic search
 - Personal data locker
-	- giordano.institute/
+	- Giordano.institute/
 	- [Machine economy](https://www.giordano.institute/the-machine-economy)
 	- Pull economy
 - Moving cities

@@ -20,5 +20,5 @@
 	- Enneagrams
 	- Qualsystems
 	- General Systematics
-- Policy meets the populus
-- Data Feduciaries
+- Policy meets the populous
+- Data Fiduciaries
