@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
+                "file": "Immanent/DailyNotes/2023-01-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
+                "file": "Immanent/DailyNotes/2023-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
+                "file": "Immanent/DailyNotes/2023-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,6 +150,7 @@
   },
   "active": "4f803fa7f4563645",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2023/2023-01-17.md",
     "Immanent/DailyNotes/2023-01-10.md",
     "Immanent/Projects/SuperGen_Labs/Archive/Moon Dreams.md",
     "Immanent/Projects/SuperGen_Labs/Manifestos.md",
@@ -158,7 +159,6 @@
     "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
     "Immanent/DailyNotes/Index/SuperGen Index.md",
     "Immanent/DailyNotes/2023-01-11.md",
-    "Immanent/DailyNotes/2023/2023-01-09.md",
-    "Immanent/DailyNotes/2023-01-13.md"
+    "Immanent/DailyNotes/2023/2023-01-09.md"
   ]
 }
