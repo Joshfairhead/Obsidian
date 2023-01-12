@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
+                "file": "Immanent/DailyNotes/2023-01-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
+                "file": "Immanent/DailyNotes/2023-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
+                "file": "Immanent/DailyNotes/2023-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,8 +150,8 @@
   },
   "active": "4f803fa7f4563645",
   "lastOpenFiles": [
-    "Immanent/WorkBench/Data Leadership Notes.md",
     "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
+    "Immanent/WorkBench/Data Leadership Notes.md",
     "Immanent/DailyNotes/2023-01-11.md",
     "Immanent/DailyNotes/2023-01-12.md",
     "Immanent/DailyNotes/2023-01-13.md",
