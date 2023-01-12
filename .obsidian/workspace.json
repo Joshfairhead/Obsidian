@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-12.md",
+                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-12.md",
+                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-12.md",
+                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,10 +150,10 @@
   },
   "active": "4f803fa7f4563645",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2023-01-12.md",
     "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
     "Immanent/WorkBench/Data Leadership Notes.md",
     "Immanent/DailyNotes/2023-01-11.md",
-    "Immanent/DailyNotes/2023-01-12.md",
     "Immanent/DailyNotes/2023-01-13.md",
     "Omnicient/Computer Sci/Holochain/Capabilities on Holochain.md",
     "Omnicient/Monad Saplings/Capabilities.md",
