@@ -4,10 +4,15 @@
 ### ToDO
 - [ ] Contact Dil about mutual credit lines #WeCo 
 - [ ] Basic sketching #WeCo 
-
+- [ ] Hooking up Laurence with Rishi / Maija, maybe Thom? Hooking up with James at WeCo
+- [ ] 
 ---
+### Specifications
 
-### Ideation
+
+
+
+### Design
 
 #### Idea 1
 1) Bioregion
