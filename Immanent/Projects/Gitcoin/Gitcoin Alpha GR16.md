@@ -1,3 +1,4 @@
 - [Bundle telegram links](https://docs.google.com/document/d/1g4PgjtGr7A14mLdIK7FFfxMF-jy3WAS6TZ_p7EFY9HI/edit)
 - [Google Doc](https://docs.google.com/document/d/1i2KABaoTVgJ0Nz4I8eV4k1JAzMebtAg92M7U7q9qrTw/edit#)
-- Community [Notion](https://gitcoin.notion.site/Gitcoin-Community-Hub-f3b76b0142c143ca928d087ea6dd2945) for shilling Impact Certs etc.
+- Gitcoin community [Notion](https://gitcoin.notion.site/Gitcoin-Community-Hub-f3b76b0142c143ca928d087ea6dd2945) for shilling Impact Certs etc.
+- Gitcoin community events [Notion](https://www.notion.so/Upcoming-Events-d749e53de96147a88a2f4864ea381afc)

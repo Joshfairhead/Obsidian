@@ -11,8 +11,12 @@
             "id": "ef07daab31e14439",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a25edb9f44c356d",
+  "active": "ef07daab31e14439",
   "lastOpenFiles": [
-    "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
-    "Immanent/WorkBench/Gitcoin Alpha Round.md",
-    "Immanent/DailyNotes/2023-01-16.md",
     "Immanent/DailyNotes/2023/2023-01-17.md",
+    "Immanent/WorkBench/Gitcoin Alpha Round.md",
+    "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
+    "Immanent/DailyNotes/2023-01-16.md",
     "Immanent/DailyNotes/2023-01-13.md",
     "Immanent/DailyNotes/2023/2023-01-09.md",
     "Immanent/DailyNotes/2023-01-22.md",
