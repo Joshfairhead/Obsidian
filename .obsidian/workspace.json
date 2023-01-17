@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023/2023-01-17.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,6 +150,7 @@
   "active": "01d7cf5e6589340f",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2023-01-20.md",
+    "Immanent/DailyNotes/2023-01-24.md",
     "Immanent/DailyNotes/2023/2023-01-17.md",
     "Immanent/DailyNotes/2023-01-16.md",
     "Immanent/Projects/WeCo/Regen RFP.md",
@@ -157,7 +158,6 @@
     "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
     "Immanent/WorkBench/Gitcoin Alpha Round.md",
     "Immanent/DailyNotes/2023-01-13.md",
-    "Immanent/DailyNotes/2023/2023-01-09.md",
-    "Immanent/DailyNotes/2023-01-22.md"
+    "Immanent/DailyNotes/2023/2023-01-09.md"
   ]
 }
