@@ -25,6 +25,7 @@ Coming soon:
 
 Homebrew:
 - Active Inference / Markov Blankets
+- [Holonics](https://github.com/wecollective/wiki/blob/main/new-wiki/holonics.md)
 - AD4M
 - Fracts 
 
