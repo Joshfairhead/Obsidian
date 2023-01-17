@@ -25,6 +25,8 @@ Coming soon:
 
 Homebrew:
 - Active Inference / Markov Blankets
+- AD4M
+- Fracts 
 
 --- 
 ### Design
@@ -40,8 +42,16 @@ Homebrew:
 - Stewards can hold context through the glass bead game
 
 **Idea 2**
+- Proof of regeneration and verification bundle
 - Urban Regeneartion e.g. [Jeremy](https://twitter.com/gospelofchange/status/1602559757587456000?s=61&t=X-Qo1Tj-OIAkMgk8Nol0zw)
 - Land ownership emissions; distributed ownership of a community land trust
+
+**Idea 3**
+- Social ecology credits, self similar structures 
+- Proof of care, proof of regeneration,
+- Metrics of social resonance on increasing scales; e.g. proof of meditation
+- DisCo
+
 
 ---
 ### ToDo
