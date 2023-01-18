@@ -75,6 +75,7 @@ Homebrew:
 - Chris / RTC / Regenerating Sonora LEHR gardens Arduino project
 
 ### Links
+- [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
 - [Gaia BioHabitat Commons](https://docs.google.com/presentation/d/13xWKMRdfa1vJauJCn8SQq9fQqP9EEVJOowg78PU9hwM/edit#slide=id.g14d6de67000_0_617)
 - [Blockscience propaganda](https://docs.google.com/presentation/d/1xvr_47iPlf1FTx7O2irqBGMCo-Z_7qdU/edit#slide=id.g89d5288067a441a_10)
