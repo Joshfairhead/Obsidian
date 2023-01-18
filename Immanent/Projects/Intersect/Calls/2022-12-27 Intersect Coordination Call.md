@@ -1,6 +1,7 @@
 
 ### Links
 - [Schedule / time table](https://docs.google.com/spreadsheets/d/12GQaUCCpwq8pkU-s8R18koTE_NU9xKDk2G1ew1tUriY/edit?usp=sharing)
+- 
 
 ### Intentional Offers
 - Maija: Yearly reflection Ritual opening ceremony
