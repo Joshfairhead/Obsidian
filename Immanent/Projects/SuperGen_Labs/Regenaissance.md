@@ -1,31 +1,4 @@
-- Liminal village / metagame / game B / Liminal web / intellectual dark web /
-- Laurence [manifesto](https://docs.google.com/document/u/1/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit?usp=drive_web&ouid=102906518489124983766) / glass bead game
-- Concentration, contemplation, meditation
-- Gift economy / burning man
-- Seeds memes
-- Propolis (playground before the city)
-- Investigative comedians (e.g. Dave Gorman)
-- SolarPunk dreams
-- Meta modern politics
-- "[The sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)"
-- Sovereign nature / digital twins
-- Adaptive personal policy
-	- Social Impact Bonds?
-- CEPTR narrative / protocol
-	- Unenclosable carriers
-- Cybernetics, Trust, interdisciplinary.
-- Cult appreciation
-	- Spaceship earth
-	- Wild wild country
-	- In bright axiom 
-- Semantic web/modularity
-- Gurdjieff / Bennet / "the work" / 4th way mysticism
-- Magick
-- JEDI
-
----
 ## Miro Outline
-
 - Regenaissance
 	- Philosophy
 		- [Manifesto](https://gitlab.com/the-sentient-commons/sentient-commons-outline)
@@ -79,3 +52,30 @@
 	- Gurdjieff / Bennet / "the work" / 4th way mysticism
 	- Magick
 	- JEDI
+
+---
+### Previous outline
+- Liminal village / metagame / game B / Liminal web / intellectual dark web /
+- Laurence [manifesto](https://docs.google.com/document/u/1/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit?usp=drive_web&ouid=102906518489124983766) / glass bead game
+- Concentration, contemplation, meditation
+- Gift economy / burning man
+- Seeds memes
+- Propolis (playground before the city)
+- Investigative comedians (e.g. Dave Gorman)
+- SolarPunk dreams
+- Meta modern politics
+- "[The sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)"
+- Sovereign nature / digital twins
+- Adaptive personal policy
+	- Social Impact Bonds?
+- CEPTR narrative / protocol
+	- Unenclosable carriers
+- Cybernetics, Trust, interdisciplinary.
+- Cult appreciation
+	- Spaceship earth
+	- Wild wild country
+	- In bright axiom 
+- Semantic web/modularity
+- Gurdjieff / Bennet / "the work" / 4th way mysticism
+- Magick
+- JEDI
