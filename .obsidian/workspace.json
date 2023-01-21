@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-20.md",
+                "file": "Immanent/DailyNotes/2023-01-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-20.md",
+                "file": "Immanent/DailyNotes/2023-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-20.md",
+                "file": "Immanent/DailyNotes/2023-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,15 +150,15 @@
   },
   "active": "ee6523b0f7e68e5f",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2023-01-18.md",
+    "Omnicient/Monad Forrest/Courses/H3Uni/2023-01-11 CESG.md",
+    "Immanent/DailyNotes/2023-01-22.md",
+    "Immanent/DailyNotes/2023/2023-01-17.md",
     "Immanent/DailyNotes/2023-01-20.md",
+    "Immanent/DailyNotes/2023-01-24.md",
+    "Immanent/DailyNotes/2023-01-18.md",
     "Immanent/Projects/H3uni/H3 University Index.md",
     "Immanent/Projects/Intersect/Intersect Index.md",
     "Immanent/Projects/Intersect/Calls/2022-12-27 Intersect Coordination Call.md",
-    "Immanent/Projects/Intersect/Intersect Invitations CRM.md",
-    "Immanent/Projects/Intersect/Intersect Backlog.md",
-    "Immanent/WorkBench/Context for Thom.md",
-    "Immanent/DailyNotes/2023-01-22.md",
-    "Immanent/DailyNotes/2023/2023-01-17.md"
+    "Immanent/Projects/Intersect/Intersect Invitations CRM.md"
   ]
 }
