@@ -1,12 +1,13 @@
+- [[Regenaissance]]
+	- Regenerative Science
+	- Bennet
+- Boom lands
 - Intersect / Hackalong
-- Regenerative Science
 - Future agents
 - Fractionalised Sovereignty
 - Collective ownership (dynamic)
-- Regenaissance / Liminal village / metagame / game B / intellectual dark web / Liminal web
-- Boom lands
 - Cosmological Logistics
-- ToTheCosmos.org
+	- ToTheCosmos.org
 - Ministry of the Future / [future governance](http://futuregovernance.info/)
 - Digital Republics / Network states
 - Sea Stedding 
