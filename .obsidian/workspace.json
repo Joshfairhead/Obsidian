@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee6523b0f7e68e5f",
+            "id": "63fb632361fabd95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/H3uni/DecisionDicipline.pdf"
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "assets/H3uni/DecisionDicipline.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/Backlog.md",
+                "file": "assets/H3uni/DecisionDicipline.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee6523b0f7e68e5f",
+  "active": "63fb632361fabd95",
   "lastOpenFiles": [
+    "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
+    "assets/H3uni/DecisionDicipline.pdf",
+    "Immanent/DailyNotes/2023-01-21.md",
+    "Immanent/Personal/Planner/Mental Ecology.md",
+    "Immanent/Personal/Planner/Week/Saturday.md",
+    "assets/H3uni/CosmicEcologyTriadicInquiryExercise.pdf",
+    "Immanent/DailyNotes/Backlog.md",
     "Immanent/DailyNotes/2023-01-22.md",
     "Immanent/DailyNotes/2023-01-10.md",
-    "Immanent/DailyNotes/2023-01-21.md",
-    "Immanent/Projects/SuperGen_Labs/SuperGen Index.md",
-    "Immanent/Projects/SuperGen_Labs/Regenaissance.md",
-    "Immanent/Projects/SuperGen_Labs/Manifestos.md",
-    "Immanent/Projects/SuperGen_Labs/Archive/Moon Dreams.md",
-    "Immanent/Projects/SuperGen_Labs/Data Feduciary Leadership.md",
-    "Immanent/Projects/SuperGen_Labs/Data Leadership Notes.md",
-    "Immanent/Projects/SuperGen_Labs/Open Contracts.md"
+    "Immanent/Projects/SuperGen_Labs/SuperGen Index.md"
   ]
 }

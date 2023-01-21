@@ -13,3 +13,4 @@
 		- What implications does this have in general when related to other cosmic responsibilities? 
 			- For instance upon request my good friend Ronen presented whats alive for him in relation to 'effectively deploying effective strategy' at Open Collective; If he's 'discharged' some part of a mandala thats important to him; what responsibility do I hold as a steward of the information shared? 
 - Is the reconciler consequent on the nullad?
+- Can one go meta with the decision discipline and place one of the six laws of three into the 'cosmic idea' place? What does expanding on the cosmic idea of expansion this lead to? what does concentrating on the cosmic idea of expansion lead to? What does expanding on local situation lead to? etc.
