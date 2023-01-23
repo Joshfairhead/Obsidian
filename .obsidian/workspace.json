@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/VIZN.md",
+                "file": "Immanent/DailyNotes/2023-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/VIZN.md",
+                "file": "Immanent/DailyNotes/2023-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/VIZN.md",
+                "file": "Immanent/DailyNotes/2023-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "26a7c20d8e15e84d",
   "lastOpenFiles": [
+    "Immanent/WorkBench/VIZN.md",
     "Omnicient/Monad Seeds/Pattern Language.md",
     "Omnicient/Entities/Christopher Alexander.md",
     "assets/H3uni/DecisionDicipline.pdf",
@@ -157,7 +158,6 @@
     "Immanent/Personal/Planner/Mental Ecology.md",
     "Immanent/Personal/Planner/Week/Saturday.md",
     "assets/H3uni/CosmicEcologyTriadicInquiryExercise.pdf",
-    "Immanent/DailyNotes/Backlog.md",
-    "Immanent/DailyNotes/2023-01-22.md"
+    "Immanent/DailyNotes/Backlog.md"
   ]
 }
