@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
+                "file": "Immanent/DailyNotes/2023-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
+                "file": "Immanent/DailyNotes/2023-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
+                "file": "Immanent/DailyNotes/2023-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +149,15 @@
   },
   "active": "26a7c20d8e15e84d",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2023-01-26.md",
     "assets/DynamicsTheGeometryOfBehaviour.pdf",
+    "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
     "Immanent/DailyNotes/2023-01-25.md",
     "Immanent/WorkBench/VIZN.md",
     "Omnicient/Monad Seeds/Pattern Language.md",
     "Omnicient/Entities/Christopher Alexander.md",
     "assets/H3uni/DecisionDicipline.pdf",
     "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
-    "Immanent/DailyNotes/2023-01-21.md",
-    "Immanent/Personal/Planner/Mental Ecology.md",
-    "Immanent/Personal/Planner/Week/Saturday.md"
+    "Immanent/DailyNotes/2023-01-21.md"
   ]
 }
