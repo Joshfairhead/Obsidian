@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a05efd309b61633f",
+        "id": "55095aabb034f933",
         "type": "tabs",
         "children": [
           {
-            "id": "63fb632361fabd95",
+            "id": "26a7c20d8e15e84d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/H3uni/DecisionDicipline.pdf"
+                "file": "Immanent/WorkBench/VIZN.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/H3uni/DecisionDicipline.pdf",
+                "file": "Immanent/WorkBench/VIZN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/H3uni/DecisionDicipline.pdf",
+                "file": "Immanent/WorkBench/VIZN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63fb632361fabd95",
+  "active": "26a7c20d8e15e84d",
   "lastOpenFiles": [
-    "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
+    "Omnicient/Monad Seeds/Pattern Language.md",
+    "Omnicient/Entities/Christopher Alexander.md",
     "assets/H3uni/DecisionDicipline.pdf",
+    "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
     "Immanent/DailyNotes/2023-01-21.md",
     "Immanent/Personal/Planner/Mental Ecology.md",
     "Immanent/Personal/Planner/Week/Saturday.md",
     "assets/H3uni/CosmicEcologyTriadicInquiryExercise.pdf",
     "Immanent/DailyNotes/Backlog.md",
-    "Immanent/DailyNotes/2023-01-22.md",
-    "Immanent/DailyNotes/2023-01-10.md",
-    "Immanent/Projects/SuperGen_Labs/SuperGen Index.md"
+    "Immanent/DailyNotes/2023-01-22.md"
   ]
 }
