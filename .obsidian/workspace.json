@@ -4,9 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55095aabb034f933",
+        "id": "b25f245a32dbbc92",
         "type": "tabs",
         "children": [
+          {
+            "id": "fb6bdb8bcd90ef03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/DailyNotes/2023-01-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "26a7c20d8e15e84d",
             "type": "leaf",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/DynamicsTheGeometryOfBehaviour.pdf",
+                "file": "Immanent/DailyNotes/2023-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/DynamicsTheGeometryOfBehaviour.pdf",
+                "file": "Immanent/DailyNotes/2023-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26a7c20d8e15e84d",
+  "active": "fb6bdb8bcd90ef03",
   "lastOpenFiles": [
+    "assets/DynamicsTheGeometryOfBehaviour.pdf",
     "Immanent/DailyNotes/2023-01-26.md",
     "Immanent/DailyNotes/2023-01-28.md",
-    "assets/DynamicsTheGeometryOfBehaviour.pdf",
     "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
     "Immanent/DailyNotes/2023-01-25.md",
     "Immanent/WorkBench/VIZN.md",
