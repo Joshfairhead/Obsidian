@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-25.md",
+                "file": "Immanent/DailyNotes/2023-01-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-25.md",
+                "file": "Immanent/DailyNotes/2023-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-01-25.md",
+                "file": "Immanent/DailyNotes/2023-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +160,15 @@
   },
   "active": "fb6bdb8bcd90ef03",
   "lastOpenFiles": [
-    "assets/DynamicsTheGeometryOfBehaviour.pdf",
-    "Immanent/DailyNotes/2023-01-26.md",
-    "Immanent/DailyNotes/2023-01-28.md",
-    "Immanent/Projects/Gitcoin/Gitcoin Alpha GR16.md",
     "Immanent/DailyNotes/2023-01-25.md",
-    "Immanent/WorkBench/VIZN.md",
-    "Omnicient/Monad Seeds/Pattern Language.md",
-    "Omnicient/Entities/Christopher Alexander.md",
-    "assets/H3uni/DecisionDicipline.pdf",
-    "Immanent/Projects/H3uni/H3 Questions Portfolio.md"
+    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 1.md",
+    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 3.md",
+    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 2.md",
+    "Immanent/DailyNotes/Index/_Meta/Enneagram/Grace.md",
+    "Immanent/DailyNotes/Index/_Meta/Enneagram/Manifestation.md",
+    "Immanent/DailyNotes/Index/_Meta/Enneagram/Service.md",
+    "Immanent/DailyNotes/2023-01-28.md",
+    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
+    "Immanent/Projects/LunarPunk_Labs/Operations.md"
   ]
 }
