@@ -16,4 +16,6 @@ Related: [[Cybernetics]]
 
 > The Structure of Scientific Revolutions was an important stimulus to what has since become known as ‘Science Studies’, in particular the Sociology of Scientific Knowledge (SSK)
 
->
+---
+### Links 
+- Neri Oxman; [age of entanglement](https://jods.mitpress.mit.edu/pub/ageofentanglement/release/1)

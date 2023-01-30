@@ -3,7 +3,7 @@ Tags: [Domains]
 ---
 Related: [[Academia]] [[Evidence based research]]
 # Journals
-
+- [MIT JoDS](https://jods.mitpress.mit.edu/pub/ageofentanglement/release/1)
 - [Cyclops Journal](https://www.cyclopsjournal.net/) - open journal
 - [Taylor and Francis open access](https://www.tandfonline.com/) [[Journals]]
 
