@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnicient/Monad Seeds/Journals.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Seeds/Journals.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Seeds/Journals.md",
+                "file": "Immanent/Projects/WeCo/Regen RFP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,6 +150,7 @@
   },
   "active": "26a7c20d8e15e84d",
   "lastOpenFiles": [
+    "Omnicient/Monad Seeds/Journals.md",
     "assets/DynamicsTheGeometryOfBehaviour.pdf",
     "Immanent/DailyNotes/2023-01-28.md",
     "Immanent/Personal/NIF.md",
@@ -158,7 +159,6 @@
     "Omnicient/Monad Saplings/Second Order Science.md",
     "Immanent/DailyNotes/2023-01-26.md",
     "Immanent/DailyNotes/2023-01-25.md",
-    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 1.md",
-    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 3.md"
+    "Immanent/DailyNotes/Index/_Meta/Horizons/Horizon 1.md"
   ]
 }

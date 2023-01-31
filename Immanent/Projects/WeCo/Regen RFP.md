@@ -64,7 +64,7 @@ Homebrew:
 - Design for next session
 - Hooking up with friends meetings
 - [ ] Basic sketching #WeCo 
-- [ ] Hooking up Laurence with Rishi / Maija, maybe Thom. #LunarPunk  
+- [x] Hooking up Laurence with Rishi / Maija, maybe Thom. #LunarPunk  
 - [ ] Hooking up with James at #WeCo 
 
 #### Synergies
