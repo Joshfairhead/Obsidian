@@ -1,5 +1,5 @@
 ### Meta Process / Narrative
-- Holonically speaking each step contains 7~ steps within it. 
+- Holonically speaking each step contains a further 7~ steps within it. 
 
 1) Specs
 2) Design
@@ -29,9 +29,7 @@ Homebrew:
 - [Holonics](https://github.com/wecollective/wiki/blob/main/new-wiki/holonics.md)
 - AD4M
 
---- 
-### Design
-**RFP Design Suggestions:**
+### Design Assembly Suggestions:
 - Protocol-Owned EcoAsset Treasury
 - Insurance Pools
 - Forward Contracts
@@ -39,8 +37,11 @@ Homebrew:
 - Compensating Indigeneous Land Stewardship, Bioregions, and Global South
 - Liquid Staking
 
+--- 
 
-**Idea 1**
+## Ideation 
+
+**Riff 1**
 1) Bioregion
 2) Stewards
 3) Community institutions
@@ -48,13 +49,12 @@ Homebrew:
 - Bioregion / Community can have a bidirectional 'token' stream
 - Stewards can hold context through the glass bead game
 
-**Idea 2**
+**Riff 2**
 - Proof of regeneration and verification bundle
 - Urban Regeneartion e.g. [Jeremy](https://twitter.com/gospelofchange/status/1602559757587456000?s=61&t=X-Qo1Tj-OIAkMgk8Nol0zw)
 - Land ownership emissions; distributed ownership of a community land trust 
-	- (Charlie at Recommons??)
 
-**Idea 3**
+**Riff 3**
 - Social ecology credits, self similar structures 
 - Proof of care, proof of regeneration,
 - Metrics of social resonance on increasing scales; e.g. proof of meditation
@@ -89,6 +89,7 @@ Homebrew:
 
 
 ---
+
 ### ToDo
 - [ ] Paraphrase and condense info in the RFP #LunarPunk 
 - Looking ahead to protypes
