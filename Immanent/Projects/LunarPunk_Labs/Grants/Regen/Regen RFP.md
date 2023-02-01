@@ -31,11 +31,28 @@ Homebrew:
 
 ### Design Assembly Suggestions:
 - Protocol-Owned EcoAsset Treasury
+	- There are a number of questions to answer in this scenario: 1) what percentage of emissions? 2) what percentage of a batch? 3) what would be the eligibility criteria for credit classes? 4) would the chain intend to hold these assets indefinitely, or would there be instances where the protocol would sell some portion of this treasury? 5) how would permanence be factored into treasury reserve management (credits have a limited lifetime, established in their credit class).
 - Insurance Pools
 - Forward Contracts
 - Compensating Scientific Contributors
 - Compensating Indigeneous Land Stewardship, Bioregions, and Global South
 - Liquid Staking
+
+### Submissions should include:
+-   Concise description of the tokenomic mechanism you would like to develop
+-   Project roadmap
+-   Overview of the team/organization/DAO
+-   Proposed budget/compensation structure
+
+### Regen Foundation funding paths:
+-   A REGEN token grant
+-   A Community Staking DAO grant (500k locked REGEN tokens) to fund the establishment of a Tokenomics DAO
+-   A token delegation (of REGEN, or potentially of ATOM and OSMO as well)
+
+### RND funding paths:
+-   Token grants with 1 year lock up of up to 200k REGEN
+-   $25k USD cash payment
+-   Token delegations
 
 --- 
 
@@ -59,6 +76,9 @@ Homebrew:
 - Proof of care, proof of regeneration,
 - Metrics of social resonance on increasing scales; e.g. proof of meditation
 - DisCo
+
+**Riff 4**
+- Composable credit classes 
 
 ---
 
