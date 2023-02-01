@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/RFP-X.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/RFP-X.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/RFP-X.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +149,9 @@
   },
   "active": "16850a5149a8ac04",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Immanent/Projects/SuperGen_Labs/VIZN.md",
-    "Immanent/WorkBench/RFP-X.md",
-    "Immanent/Projects/WeCo/Regen RFP.md",
     "Omnicient/Monad Seeds/Journals.md",
     "assets/DynamicsTheGeometryOfBehaviour.pdf",
     "Immanent/DailyNotes/2023-01-28.md",

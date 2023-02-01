@@ -25,14 +25,20 @@ Coming soon:
 
 Homebrew:
 - Active Inference / Markov Blankets
+- Fracts / Systematics
 - [Holonics](https://github.com/wecollective/wiki/blob/main/new-wiki/holonics.md)
 - AD4M
-- Fracts 
 
 --- 
 ### Design
-**Call Specs:**
-- Compensating stewards, Scientists, Bioregions
+**RFP Design Suggestions:**
+- Protocol-Owned EcoAsset Treasury
+- Insurance Pools
+- Forward Contracts
+- Compensating Scientific Contributors
+- Compensating Indigeneous Land Stewardship, Bioregions, and Global South
+- Liquid Staking
+
 
 **Idea 1**
 1) Bioregion
@@ -54,25 +60,7 @@ Homebrew:
 - Metrics of social resonance on increasing scales; e.g. proof of meditation
 - DisCo
 
-
 ---
-### ToDo
-- [ ] Paraphrase and condense info in the RFP #LunarPunk 
-- Looking ahead to protypes
-- Hardening specifications
-- Thinking final plan (Commonwealth proposal)
-- Design for next session
-- Hooking up with friends meetings
-- [ ] Basic sketching #WeCo 
-- [x] Hooking up Laurence with Rishi / Maija, maybe Thom. #LunarPunk  
-- [ ] Hooking up with James at #WeCo 
-
-#### Synergies
-- Dil / Informal Systems
-- Ronen / Open Collective 
-- Hyphen.earth for dashboard?
-- Jesu, Howard Biochar, RFP
-- Chris / RTC / Regenerating Sonora LEHR gardens Arduino project
 
 ### Links
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
@@ -89,3 +77,25 @@ Homebrew:
 - [Castela: The Citedel of Truth](https://docs.google.com/document/d/16FZnGeNaxPD32S_vvw5idHM0ULka_ObUpo1-c_x-LJU/edit) - generating conversation graphs
 - [Holonic Medium](https://docs.google.com/document/d/1hc7UMHlvaFpwaDPzcseTycUlHRIy1NlJpHfGQgB_c-I/edit#heading=h.nhvltdokqxbd)
 - [Towards Ecological Economics](https://medium.com/regen-network/towards-ecological-economics-de0c035e622e)
+
+---
+
+#### Synergies
+- Dil / Informal Systems
+- Ronen / Open Collective 
+- Hyphen.earth for dashboard?
+- Jesu, Howard Biochar, RFP
+- Chris / RTC / Regenerating Sonora LEHR gardens Arduino project
+
+
+---
+### ToDo
+- [ ] Paraphrase and condense info in the RFP #LunarPunk 
+- Looking ahead to protypes
+- Hardening specifications
+- Thinking final plan (Commonwealth proposal)
+- Design for next session
+- Hooking up with friends meetings
+- [ ] Basic sketching #WeCo 
+- [x] Hooking up Laurence with Rishi / Maija, maybe Thom. #LunarPunk  
+- [ ] Hooking up with James at #WeCo 
