@@ -10,7 +10,11 @@
 7) Quality control
 
 ---
-### Specifications as Constraints
+# RFP Information
+
+### Constraints
+Nature Based Solutions:
+> “actions to protect, regeneratively manage and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits”.
 
 Makes use of:
 - [EcoCredit Module](https://docs.regen.network/modules/ecocredit/), which allows for the management of ecological assets on Regen Ledger
@@ -23,13 +27,8 @@ Coming soon:
 - [Interchain accounts](https://ibc.cosmos.network/main/apps/interchain-accounts/overview.html) support
 - [Groups module](https://docs.cosmos.network/v0.46/modules/group/) (on-chain multisigs)
 
-Homebrew:
-- Active Inference / Markov Blankets
-- Fracts / Systematics
-- [Holonics](https://github.com/wecollective/wiki/blob/main/new-wiki/holonics.md)
-- AD4M
-
-### Design Assembly Suggestions:
+### Design Suggestions:
+- [Registry scope](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/regen-registry-scope)
 - Protocol-Owned EcoAsset Treasury
 	- There are a number of questions to answer in this scenario: 1) what percentage of emissions? 2) what percentage of a batch? 3) what would be the eligibility criteria for credit classes? 4) would the chain intend to hold these assets indefinitely, or would there be instances where the protocol would sell some portion of this treasury? 5) how would permanence be factored into treasury reserve management (credits have a limited lifetime, established in their credit class).
 - Insurance Pools
@@ -54,11 +53,37 @@ Homebrew:
 -   $25k USD cash payment
 -   Token delegations
 
+---
 --- 
+# Proposal
 
-## Ideation 
+### 1 Specifications / Constraints
+Makes use of:
+- [EcoCredit Module](https://docs.regen.network/modules/ecocredit/), which allows for the management of ecological assets on Regen Ledger
+	- MetaNFTs: Semantic / Systematic Eco-Credits and credit classes
+- [Data Module](https://docs.regen.network/modules/data/), which allows for the management of ecological data on Regen Ledger
+	- 
+- [Regen Registry](https://library.regen.network/v/regen-registry-program-guide/), which allows for the management of methodologies tied to EcoCredits
+- [Regen Marketplace](https://app.regen.network/), which creates an accessible user interface to interact with EcoCredits
 
-**Riff 1**
+Coming soon:
+- New [gov module](https://docs.cosmos.network/v0.46/modules/gov/03_messages.html#proposal-submission) capabilities (gov account can initiate any sdk.Msg)
+- [Interchain accounts](https://ibc.cosmos.network/main/apps/interchain-accounts/overview.html) support
+- [Groups module](https://docs.cosmos.network/v0.46/modules/group/) (on-chain multisigs)
+ 
+ Homebrewed additions:
+- Active Inference / Markov Blankets
+- Systematics / OualSystems / Fracts
+- Integrates / informs / informed by [[RFP-X]]
+- [Holonics](https://github.com/wecollective/wiki/blob/main/new-wiki/holonics.md)
+- AD4M
+
+### 2 Design
+Interesting threads from RFP:
+- Protocol-Owned EcoAsset Treasury
+- Compensating Scientific Contributors
+
+**Riff 1:** 
 1) Bioregion
 2) Stewards
 3) Community institutions
@@ -79,6 +104,23 @@ Homebrew:
 
 **Riff 4**
 - Composable credit classes 
+
+### 3 Pilot Projects
+- Regenerating Sonora / Arudinos
+- Jillian Hoveys PHD + Systematics
+- Agroforrest DAO
+- EthicHub
+- Kulshan Carbon Turst
+
+### 4 Product / Market / Management
+- Concise description of the tokenomic mechanism you would like to develop
+### 5 Perfected Designs (Functional specs?)
+- Project roadmap
+### 6 Planned Product
+- Overview of the team/organization/DAO
+### 7 Quality Control
+- Proposed budget/compensation structure
+
 
 ---
 
@@ -106,17 +148,3 @@ Homebrew:
 - Hyphen.earth for dashboard?
 - Jesu, Howard Biochar, RFP
 - Chris / RTC / Regenerating Sonora LEHR gardens Arduino project
-
-
----
-
-### ToDo
-- [ ] Paraphrase and condense info in the RFP #LunarPunk 
-- Looking ahead to protypes
-- Hardening specifications
-- Thinking final plan (Commonwealth proposal)
-- Design for next session
-- Hooking up with friends meetings
-- [ ] Basic sketching #WeCo 
-- [x] Hooking up Laurence with Rishi / Maija, maybe Thom. #LunarPunk  
-- [ ] Hooking up with James at #WeCo 
