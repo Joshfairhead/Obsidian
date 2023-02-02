@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1568595e0520180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/H3 PHD Proposals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/WorkBench/H3 PHD Proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/WorkBench/H3 PHD Proposals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16850a5149a8ac04",
+  "active": "a1568595e0520180",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+    "assets/H3uni/AnApproachToClarifyingPHDResearchV3.pdf",
+    "Immanent/WorkBench/H3 PHD Proposals.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/Projects/SuperGen_Labs/VIZN.md",
     "Omnicient/Monad Seeds/Journals.md",
     "assets/DynamicsTheGeometryOfBehaviour.pdf",
     "Immanent/DailyNotes/2023-01-28.md",
     "Immanent/Personal/NIF.md",
-    "Immanent/Personal/Home Address Lisbon.md",
-    "Immanent/Projects/LunarPunk_Labs/Science.md",
-    "Omnicient/Monad Saplings/Second Order Science.md"
+    "Immanent/Personal/Home Address Lisbon.md"
   ]
 }
