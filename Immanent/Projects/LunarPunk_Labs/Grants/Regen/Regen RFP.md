@@ -108,9 +108,8 @@ Interesting threads from RFP:
 ### 3 Pilot Projects
 - Regenerating Sonora / Arudinos
 - Jillian Hoveys PHD + Systematics
-- Agroforrest DAO
-- EthicHub
-- Kulshan Carbon Turst
+- Agroforestry: AgroforrestDAO / EthicHub
+- BioChar: Kulshan Carbon Turst / Jesu 
 
 ### 4 Product / Market / Management
 - Concise description of the tokenomic mechanism you would like to develop
@@ -118,13 +117,49 @@ Interesting threads from RFP:
 - Project roadmap
 ### 6 Planned Product
 - Overview of the team/organization/DAO
+	- Potential Partners (unstructured by Will)
+		- LunarPunk (Josh, Maija, Rishi, Noah)
+		- Soverign Nature Initiative (Ale, Cathrine, Paul)
+		- Regenerating Sonora (Chris, Evan, Kathy)
+		- Weco (Laurence, James)
+		- Spirit Tribe (Fenix, Swapneel)
+		- Liminal (Roberto, Laura, Jillian)
+		- Vision Labs (Thom)
+		- Unconventional (Ome)
+		- Open Collective (Ronen)
+		- Sensorica (Tim, Tibi)
+		- Commons Stack (Griff)
+		- H3Uni (Alfonso, Suzanne)
+		- ReFiDAO (John Elis)
+		- Agency (Jesse)
+		- EarthShot (Jeremey)
+		- Digital Gaia (Rafael)
+		- RMTerra (Pablo)
+		- Gijs
+	- Potential partners structured by function
+		- Place Based Community :: Liminal, Regenerating Sonora, Regen Civic Alliance, OASA / TDF, Refloresta, Kulshan, RMTerra
+		- Permaculture Pilots :: Chris, Jillian, Jesu, Gijs
+			- Carbon :: Biochar :: Kulshan, Jesu,
+			- Carbon :: Agroforrestry :: Coffee :: Gijs, coffee carbon collective
+		- Science :: Robin, Ned, Adina, Tibi, Tim, Bryan, Michelle
+		- Marketing :: Maija, Rishi, Fenix, Jesse, John Ash, John Elis, Pranav, Dave Forsten
+		- Business Development :: Community :: Fenix, Jillian, 
+		- Product :: Ronen, Thom, Laurence, Dil,
+			- Active Inference :: John Ash, Noah, Tim, Roberto
+		- Development :: Ome, James, Roberto, Habacuc, Noah
+			- Development :: Interface :: James, Maija
+			- Development :: BackEnd :: Roberto, Habacuc, Noah
+		- Ontology :: Michelle, Josh, Maija, Laurence, Chris
+		- Process Design :: Josh, Chris, Ome, Maija,
+
 ### 7 Quality Control
 - Proposed budget/compensation structure
+- References and Bibliography?
 
 
 ---
 
-### Links
+### References / Bibliography
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
 - [Gaia BioHabitat Commons](https://docs.google.com/presentation/d/13xWKMRdfa1vJauJCn8SQq9fQqP9EEVJOowg78PU9hwM/edit#slide=id.g14d6de67000_0_617)
@@ -147,4 +182,4 @@ Interesting threads from RFP:
 - Ronen / Open Collective 
 - Hyphen.earth for dashboard?
 - Jesu, Howard Biochar, RFP
-- Chris / RTC / Regenerating Sonora LEHR gardens Arduino project
+
