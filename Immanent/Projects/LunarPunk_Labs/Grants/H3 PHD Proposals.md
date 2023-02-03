@@ -113,67 +113,37 @@ Review and reflect on your notes and identify the tension that is likely to ener
 
   
 ---
-  
-
-  
 
 # **THE TRIAD**
 
-**What approach?**              
-
-**Finding the Energising questions**
-
- MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
+**What approach?** **Finding the Energising questions**: MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 
 **AFFIRMATION**
-
 -   What do you feel the developmental impetus is that is calling out for investigation and fresh thinking?
-
-  
-
-  
+	- How do we effectively evaluate and harmonise values?
+	- How do we bridge the gap from semantic web research, to implementation?
+	- What does the interface of everything look like?
+	- How can a semantic network be adaptive to practical language evolution? 
 
 **RECEPTIVITY**
-
 -   What do you see in the current literature and discussions that indicates this would be accessible to take on?
-
-  
-
-  
-
-  
+	- $5T in stranded assets looking for divestment
+	- $50T SDG funding gap
+	- REA accounting can handle all kinds of standards like ESGs, PES, Natural Capital and Nature based solutions. 
+	- MRV Sensors are a nightmare to interface
 
 **ENGAGEMENT**
+-   What questions have you come up with that could generate a proposition for research? 
+	- How do you make new markets?
+	- How do you ensure they are regenerative?
+	- How do you ensure they remain unenclosable?
 
--   What questions have you come up with that could generate a proposition for research?
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+---
 
 **THE TETRAD**
 
-**What field of work is required?** 
-
-         **Articulating Research Field**
+**What field of work is required?** **Articulating Research Field**
 
  MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 
