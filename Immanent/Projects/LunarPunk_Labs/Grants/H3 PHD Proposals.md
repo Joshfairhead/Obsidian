@@ -120,10 +120,10 @@ Review and reflect on your notes and identify the tension that is likely to ener
 
 **AFFIRMATION**
 -   What do you feel the developmental impetus is that is calling out for investigation and fresh thinking?
-	- How do we effectively evaluate and harmonise values?
-	- How do we bridge the gap from semantic web research, to implementation?
-	- What does the interface of everything look like?
-	- How can a semantic network be adaptive to practical language evolution? 
+	- How can a semantic network become adaptive to practical language evolution? 
+	- How do we effectively evaluate and harmonise values at local, bioregional and global scales?
+	- How do we bridge the gap from semantic web research to implementation?
+	- How would we interact with a cybernetic interface for earth?
 
 **RECEPTIVITY**
 -   What do you see in the current literature and discussions that indicates this would be accessible to take on?
