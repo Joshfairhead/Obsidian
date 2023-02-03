@@ -54,31 +54,43 @@ Review and reflect on your notes and identify a theme that you intuit could be a
 **The known / unknown boundary**: MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 -   What is the state of the known in this topic of inquiry?
 	- Cybernetics
-	- Artificial intelligence
-	- Augmented capabilities
-	- 
+			- Augmented capabilities
+				- Artificial intelligence
+					- Active inference
+						- Friston Blankets
+							- Systematics
+								- Distributed Hash Tables 
+									- Content addressable storage
+										- Digital Twins / Identities
 -   What are the unknown areas of interest?
+	- Environmental engineering
+	- Sensors and interfaces
 	- Free energy principal
 	- Friston blankets
-	- Active inference
-	- Environmental engineering
 	- Conservation
-	- Sensors and interfaces
+	- Social values
+	- Forms of capital / current-sees
+	- Psycho history
 -   What are the primary assumptions of the prevailing view of the topic?
 	- Free energy principal can act as a unifying consilience.
+	- Technology 
 -   What are you questioning about those primary assumptions?
-	- How does this work exactly? 
-	- What information feeds are needed for a friston blanket interface to make inferences? 
+	- How does FEP work exactly and how do they get implemented as Friston blankets? 
+	- What information feeds are needed for a Friston blanket interface to make inferences? 
 -   What is interesting for its own sake in this topic?
-	- Cognition and neurology, the workings of the gaia system.
+	- The essential values of people, place and protocols 
+	- Second order science, semantic technology, adaptive markets. 
+	- Cybernetics, cognition and neurology, the Gaian system.
 -   What is of interest in this topic from an external perspective?
-	- Conservation, Regeneration, making it all viable.
+	- Markets, science, technology
 -   What idea that could be different is attracting you?
-	- Semantic web: Qualitative composibility and search.
 	- Fluid adaptive society.
 	- Inner world, outer world fit.
-	- Markov blankets are a general substrate for mapping complexity. Systematising them adds semantic relevance to compossible classes of nodes. Data structured in such a way enables the comparison, translation and evaluation of non-fungible assets. Capital markets are seeking divest vehicles for oil and gas; let's make them adaptive to our planetary needs. Friston blankets and the free energy principle can ensure these new markets are adaptive to the flow of changing circumstances and programatically valued in proportion to real world fit. Claims about the world can be anchored on blockchains to maintain data integrity and transparency of methodologies used. Blockchains can augment truth claims by anchoring supporting data to maintain the transparency and integrity of codified methodologies used in the production of this capital.
+	- Semantic web: Qualitative composibility and search.
+	- Implementing Bennets Systematics for appropriate causes
+	- Markov blankets are a general substrate for mapping complexity. Systematising them adds semantic relevance to compossible classes of nodes. Data structured in such a way enables the comparison, translation and evaluation of non-fungible assets. Capital markets are seeking divest vehicles for oil and gas; let's make them adaptive to our planetary needs. Friston blankets and the free energy principle can ensure these new markets are adaptive to the flow of changing circumstances and programatically valued in proportion to real world fit. Truth claims about the world can be anchored on blockchains that maintain data integrity and transparency of methodologies used to produce capital. 
 -   What are the forces that would reject that idea?
+	- Those who dont understand it
 	- Current market makers
 	- Some market investors
 	- Some regulators like the SEC and FCA
@@ -86,10 +98,18 @@ Review and reflect on your notes and identify a theme that you intuit could be a
 
 Review and reflect on your notes and identify the tension that is likely to energise the research unifying focus for your research.
 1) Write notes in response to the contrasts identified in the pairs of questions
+	- Making essential values viable through the existential means of markets, science and technology.
 	- Technical vs Societal
-	- 
-2) Summarise them into one pair that feels like the impetus to make this a research field.
-3) Headline the pair in the Dyad Diagram.
+	- Outer vs inner world interface
+	- Viable vs vital
+	- Machine vs Environment
+	- Knowlege vs Understanding
+	- Truth and Justice
+3) Summarise them into one pair that feels like the impetus to make this a research field.
+	- Fit and function
+4) Headline the pair in the Dyad Diagram.
+	- Adaptive commons
+	- Augmenting reality
 
   
 ---
