@@ -7,9 +7,9 @@
 - What area of inquiry attracts you to take on a Ph.D.?
 	- Cognition, Neuroscience, Artificial Intellisense
 - Is there something that perplexes you that might be worth researching into?
-	- What kind of infrastructural engineering is needed to navigate the anthropocene
+	- What kind of infrastructural engineering is needed to successfully navigate the anthropocene?
 - Is there a topic in your studies or experience so far where the explanations given feel very unsatisfactory?
-	- "Generalised Hypercerts": nested and systematised Friston blankets. Semantic API layer of the anthroposcene.
+	- "Generalised Hypercerts": nested, systematised and compossible Friston blankets. Semantic API layer of the anthroposcene.
 
 Review and reflect on your notes and identify a theme that you intuit could be a unifying focus for your research?
 1) Write two or three words that summarise the possible focus and place in the centre of the Monad Diagram.
@@ -47,36 +47,57 @@ Review and reflect on your notes and identify a theme that you intuit could be a
 		- GIS / Sensors
 		- Tracking
 
+---
+
 # THE DYAD
 **Why research this universe of inquiry?** 
 **The known / unknown boundary**: MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 -   What is the state of the known in this topic of inquiry?
-	- Markov blankets are the most general substrate for mapping complexity. Systematising them adds semantic relevance to compossible classes of nodes. Data structured in such a way enables the comparison, translation and evaluation of non-fungible assets. Capital markets are already seeking new vehicles. The free energy principle can make these markets unenclosably regenerative. 
+	- Cybernetics
+	- Artificial intelligence
+	- Augmented capabilities
+	- 
 -   What are the unknown areas of interest?
+	- Free energy principal
+	- Friston blankets
+	- Active inference
+	- Environmental engineering
+	- Conservation
+	- Sensors and interfaces
 -   What are the primary assumptions of the prevailing view of the topic?
+	- Free energy principal can act as a unifying consilience.
 -   What are you questioning about those primary assumptions?
+	- How does this work exactly? 
+	- What information feeds are needed for a friston blanket interface to make inferences? 
 -   What is interesting for its own sake in this topic?
+	- Cognition and neurology, the workings of the gaia system.
 -   What is of interest in this topic from an external perspective?
+	- Conservation, Regeneration, making it all viable.
 -   What idea that could be different is attracting you?
+	- Semantic web: Qualitative composibility and search.
+	- Fluid adaptive society.
+	- Inner world, outer world fit.
+	- Markov blankets are a general substrate for mapping complexity. Systematising them adds semantic relevance to compossible classes of nodes. Data structured in such a way enables the comparison, translation and evaluation of non-fungible assets. Capital markets are seeking divest vehicles for oil and gas; let's make them adaptive to our planetary needs. Friston blankets and the free energy principle can ensure these new markets are adaptive to the flow of changing circumstances and programatically valued in proportion to real world fit. Claims about the world can be anchored on blockchains to maintain data integrity and transparency of methodologies used. Blockchains can augment truth claims by anchoring supporting data to maintain the transparency and integrity of codified methodologies used in the production of this capital.
 -   What are the forces that would reject that idea?
-
-  
+	- Current market makers
+	- Some market investors
+	- Some regulators like the SEC and FCA
+	- The network state :p
 
 Review and reflect on your notes and identify the tension that is likely to energise the research unifying focus for your research.
+1) Write notes in response to the contrasts identified in the pairs of questions
+	- Technical vs Societal
+	- 
+2) Summarise them into one pair that feels like the impetus to make this a research field.
+3) Headline the pair in the Dyad Diagram.
 
-(1) Write notes in response to the contrasts identified in the pairs of questions
-
-(2) Summarise them into one pair that feels like the impetus to make this a research field.
-
-(3) Headline the pair in the Dyad Diagram.
-
+  
+---
   
 
   
 
-  
-
-**THE TRIAD**
+# **THE TRIAD**
 
 **What approach?**              
 
