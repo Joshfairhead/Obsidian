@@ -1,0 +1,345 @@
+![](assets/H3uni/AnApproachToClarifyingPHDResearchV3.pdf)
+
+# THE MONAD
+**Universe of Inquiry (UOI)**: MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
+- What are you curious about that seems to be pointing to the possibility of new knowledge or and fresh interpretation?
+	- Active Inference Technology, Friston Blankets, General Systematics
+- What area of inquiry attracts you to take on a Ph.D.?
+	- Cognition, Neuroscience, Artificial Intellisense
+- Is there something that perplexes you that might be worth researching into?
+	- What kind of infrastructural engineering is needed to navigate the anthropocene
+- Is there a topic in your studies or experience so far where the explanations given feel very unsatisfactory?
+	- "Generalised Hypercerts": nested and systematised Friston blankets. Semantic API layer of the anthroposcene.
+
+Review and reflect on your notes and identify a theme that you intuit could be a unifying focus for your research?
+1) Write two or three words that summarise the possible focus and place in the centre of the Monad Diagram.
+	- Adaptive capital
+		- Semantically
+		- Compossible
+		- Adaptive
+		- Modular
+		- Perspectives
+2) Pick out four or five ideas from the rest of your notes that seem closest to or enriching towards the unifying centre and note them in the first circle.
+	- Semantically compossible eco-credits
+	- Blockchain / Active Inference "Hypercerts"
+		- Systematised Friston blankets 
+		- Generalised Impact Evaluators 
+3) In the second circle add any that are possibly relevant but more marginal
+	- Soverign Nature
+		- Free Energy Principle
+		- Conversation Graphs (CONSERVATION GRAPHS!)
+		- Nature Based Solutions
+	- Payment for Ecosystem Services
+	- Resource, Event, Agent accounting
+	- Eco-Credits
+		- Systematics
+		- Markov Blankets
+	- HyperCerts
+		- Impact Certificates
+		- Impact Evaluators
+4) Outside the second circle note the ideas that, although of interest at the start of this exercise, are irrelevant, distracting or could be confusing to the main focus.
+	- Physical internet
+	- Digital Twins
+	- MetaNFTs
+	- Data Integrity
+	- Bayesian Reasoning
+	- dMRV
+		- GIS / Sensors
+		- Tracking
+
+# THE DYAD
+**Why research this universe of inquiry?** 
+**The known / unknown boundary**: MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
+-   What is the state of the known in this topic of inquiry?
+	- Markov blankets are the most general substrate for mapping complexity. Systematising them adds semantic relevance to compossible classes of nodes. Data structured in such a way enables the comparison, translation and evaluation of non-fungible assets. Capital markets are already seeking new vehicles. The free energy principle can make these markets unenclosably regenerative. 
+-   What are the unknown areas of interest?
+-   What are the primary assumptions of the prevailing view of the topic?
+-   What are you questioning about those primary assumptions?
+-   What is interesting for its own sake in this topic?
+-   What is of interest in this topic from an external perspective?
+-   What idea that could be different is attracting you?
+-   What are the forces that would reject that idea?
+
+  
+
+Review and reflect on your notes and identify the tension that is likely to energise the research unifying focus for your research.
+
+(1) Write notes in response to the contrasts identified in the pairs of questions
+
+(2) Summarise them into one pair that feels like the impetus to make this a research field.
+
+(3) Headline the pair in the Dyad Diagram.
+
+  
+
+  
+
+  
+
+**THE TRIAD**
+
+**What approach?**              
+
+**Finding the Energising questions**
+
+ MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
+
+**AFFIRMATION**
+
+-   What do you feel the developmental impetus is that is calling out for investigation and fresh thinking?
+
+  
+
+  
+
+**RECEPTIVITY**
+
+-   What do you see in the current literature and discussions that indicates this would be accessible to take on?
+
+  
+
+  
+
+  
+
+**ENGAGEMENT**
+
+-   What questions have you come up with that could generate a proposition for research?
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+**THE TETRAD**
+
+**What field of work is required?** 
+
+         **Articulating Research Field**
+
+ MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
+
+  
+
+**IDEAL**
+
+What might a satisfying thesis look like, be able to do?
+
+  
+
+  
+
+**METHODS**
+
+What research methods will you need to utilise to develop  and articulate your thesis?
+
+  
+
+  
+
+  
+
+**PROVISIONAL TITLE**
+
+**SKILL**
+
+What existing skills and experience do you bring to bear; and what will you need to learn?
+
+  
+
+  
+
+  
+
+**RESOURCES**
+
+What access to resources do you need and what permissions to use them?
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+**THE PENTAD**
+
+**What potential value  ?**                                    
+
+**Identifying the possible significance**
+
+  MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
+
+  
+
+  
+
+**VALUE TO SOCIETY**
+
+What do you hope to be of value to society and the future?
+
+  
+
+**HIGEST POTENTIAL**
+
+What might your breakthrough achievement be?
+
+  
+
+**CENTRAL SIGNIFICANCE**
+
+What do you feel is the central significance of what you are attempting?
+
+  
+
+  
+
+  
+
+**PLACE IN THE FIELD**
+
+  
+
+  
+
+**MINIMUM REQUIREMENT**
+
+What is the minimum result you would like?
+
+  
+
+  
+
+  
+
+**ISSUES IN SOCIETY**
+
+What in society supplies the ground for your research?
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+**THE HEXAD**
+
+**Shaping the thesis**    
+
+**Bringing the angles together**
+
+ MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
+
+  
+
+**CORE VALUES**
+
+What is the ethical foundation of your research?
+
+  
+
+  
+
+**INTERNAL PRIORITIES**
+
+What are the three most important tasks of this research?
+
+  
+
+  
+
+**CONSTRUCTING   THE THESIS**
+
+**EXTERNAL CRITERIA**
+
+How will the quality and result of your research be judged?
+
+**INTERNAL RESOURCES**
+
+From where are you mostly drawing inspiration and energy from?
+
+**EXTERNAL OPTIONS**
+
+In what ways do you want your research presented?
+
+  
+
+  
+
+  
+
+**ESSENTIAL FACTS**
+
+What  is the tangible manifestation of your research going to be?
+
+  
+
+  
+
+  
+
+  
+
+**PROCESSING THE WHOLE PICTURE**
+
+  
+
+**ESSAY**
+
+  
+
+Drawing on the review you have made write a brief (500-800 word) essay distilling the narrative of your justification for taking on this research. Use the qualsystems as a take off but find your own narrative voice to convey that. You can try thisnout on your peers and your supervisor or other coach.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+**APPENDIX**

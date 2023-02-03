@@ -62,7 +62,8 @@ Makes use of:
 - [EcoCredit Module](https://docs.regen.network/modules/ecocredit/), which allows for the management of ecological assets on Regen Ledger
 	- MetaNFTs: Semantic / Systematic Eco-Credits and credit classes
 - [Data Module](https://docs.regen.network/modules/data/), which allows for the management of ecological data on Regen Ledger
-	- 
+	- Conversation graphs about methodology
+	- "MetaNFTs" Systematic / semantic links
 - [Regen Registry](https://library.regen.network/v/regen-registry-program-guide/), which allows for the management of methodologies tied to EcoCredits
 - [Regen Marketplace](https://app.regen.network/), which creates an accessible user interface to interact with EcoCredits
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/WorkBench/H3 PHD Proposals.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/H3 PHD Proposals.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/H3 PHD Proposals.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,9 +162,9 @@
   },
   "active": "a1568595e0520180",
   "lastOpenFiles": [
-    "assets/H3uni/AnApproachToClarifyingPHDResearchV3.pdf",
-    "Immanent/WorkBench/H3 PHD Proposals.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
+    "assets/H3uni/AnApproachToClarifyingPHDResearchV3.pdf",
     "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/Projects/SuperGen_Labs/VIZN.md",
     "Omnicient/Monad Seeds/Journals.md",
