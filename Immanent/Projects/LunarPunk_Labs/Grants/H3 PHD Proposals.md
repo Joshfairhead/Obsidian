@@ -5,11 +5,13 @@
 - What are you curious about that seems to be pointing to the possibility of new knowledge or and fresh interpretation?
 	- Active Inference Technology, Friston Blankets, General Systematics
 - What area of inquiry attracts you to take on a Ph.D.?
-	- Cognition, Neuroscience, Artificial Intellisense
+	- Computer science: Particularly architecting (and implementing) the semantic web. 
 - Is there something that perplexes you that might be worth researching into?
 	- What kind of infrastructural engineering is needed to successfully navigate the anthropocene?
 - Is there a topic in your studies or experience so far where the explanations given feel very unsatisfactory?
-	- "Generalised Hypercerts": nested, systematised and compossible Friston blankets. Semantic API layer of the anthroposcene.
+	- Semantic Interoperability
+	- Regenerative capital markets
+	- "Generalised Hypercerts"
 
 Review and reflect on your notes and identify a theme that you intuit could be a unifying focus for your research?
 1) Write two or three words that summarise the possible focus and place in the centre of the Monad Diagram.
@@ -20,11 +22,16 @@ Review and reflect on your notes and identify a theme that you intuit could be a
 		- Modular
 		- Perspectives
 2) Pick out four or five ideas from the rest of your notes that seem closest to or enriching towards the unifying centre and note them in the first circle.
-	- Semantically compossible eco-credits
-	- Blockchain / Active Inference "Hypercerts"
-		- Systematised Friston blankets 
-		- Generalised Impact Evaluators 
-3) In the second circle add any that are possibly relevant but more marginal
+	- Active Inference
+		- General Systematics
+		- Friston blankets 
+	- Blockchain 
+		- "Hypercerts" 
+		- "Impact Certificates"
+		- "Impact Markets"
+		- "Generalised Impact Evaluators"
+	- Practice based methodologies
+1) In the second circle add any that are possibly relevant but more marginal
 	- Soverign Nature
 		- Free Energy Principle
 		- Conversation Graphs (CONSERVATION GRAPHS!)
@@ -32,12 +39,7 @@ Review and reflect on your notes and identify a theme that you intuit could be a
 	- Payment for Ecosystem Services
 	- Resource, Event, Agent accounting
 	- Eco-Credits
-		- Systematics
-		- Markov Blankets
-	- HyperCerts
-		- Impact Certificates
-		- Impact Evaluators
-4) Outside the second circle note the ideas that, although of interest at the start of this exercise, are irrelevant, distracting or could be confusing to the main focus.
+2) Outside the second circle note the ideas that, although of interest at the start of this exercise, are irrelevant, distracting or could be confusing to the main focus.
 	- Physical internet
 	- Digital Twins
 	- MetaNFTs
