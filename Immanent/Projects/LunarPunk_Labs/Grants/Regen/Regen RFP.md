@@ -111,45 +111,52 @@ Interesting threads from RFP:
 - Jillian Hoveys PHD + Systematics
 - Agroforestry: AgroforrestDAO / EthicHub
 - BioChar: Kulshan Carbon Turst / Jesu 
+- Verification Bundle
 
 ### 4 Product / Market / Management
 - Concise description of the tokenomic mechanism you would like to develop
+	- Semantically compossible eco-credits; Hypercerts constructed from Markov/Friston blankets to match and mediate impact certificates with impact evaluators using General Systematics. 
+
 ### 5 Perfected Designs (Functional specs?)
 - Project roadmap
+	- H1: DAO 
+	- H2: Ledger Consortium (DAO 2 DAO)
+	- H3: Network State
+
 ### 6 Planned Product
 - Overview of the team/organization/DAO
 	- Potential Partners (unstructured by Will)
+		- H3 University (Anthony, Alfonso, Suzanne)
 		- LunarPunk (Josh, Maija, Rishi, Noah)
 		- Soverign Nature Initiative (Ale, Cathrine, Paul)
 		- Regenerating Sonora (Chris, Evan, Kathy)
 		- Weco (Laurence, James)
+		- Vision Labs (Thom)
 		- Spirit Tribe (Fenix, Swapneel)
 		- Liminal (Roberto, Laura, Jillian)
 		- Vision Labs (Thom)
+		- EarthShot (Jeremey)
 		- Unconventional (Ome)
 		- Open Collective (Ronen)
+		- Digital Gaia (Rafael)
 		- Sensorica (Tim, Tibi)
 		- Commons Stack (Griff)
-		- H3Uni (Alfonso, Suzanne)
 		- ReFiDAO (John Elis)
 		- Agency (Jesse)
-		- EarthShot (Jeremey)
-		- Digital Gaia (Rafael)
 		- RMTerra (Pablo)
-		- Gijs
 	- Potential partners structured by function
 		- Place Based Community :: Liminal, Regenerating Sonora, Regen Civic Alliance, OASA / TDF, Refloresta, Kulshan, RMTerra
 		- Permaculture Pilots :: Chris, Jillian, Jesu, Gijs
 			- Carbon :: Biochar :: Kulshan, Jesu,
-			- Carbon :: Agroforrestry :: Coffee :: Gijs, coffee carbon collective
-		- Science :: Robin, Ned, Adina, Tibi, Tim, Bryan, Michelle
+			- Carbon :: Agroforrestry :: Coffee :: Gijs, Pablo/RMTerra, coffee carbon collective
+		- Science :: Robin, Ned, Adina, Tibi, Tim, Bryan, Michelle, Gijs
 		- Marketing :: Maija, Rishi, Fenix, Jesse, John Ash, John Elis, Pranav, Dave Forsten
 		- Business Development :: Community :: Fenix, Jillian, 
 		- Product :: Ronen, Thom, Laurence, Dil,
-			- Active Inference :: John Ash, Noah, Tim, Roberto
-		- Development :: Ome, James, Roberto, Habacuc, Noah
+			- Active Inference :: John Ash, Noah, Tim, Roberto, Digital Gaia
+		- Development :: Ome, James, Roberto, Habacuc, Noah, Greg
 			- Development :: Interface :: James, Maija
-			- Development :: BackEnd :: Roberto, Habacuc, Noah
+			- Development :: BackEnd :: Noah, Greg, Roberto, Habacuc, 
 		- Ontology :: Michelle, Josh, Maija, Laurence, Chris
 		- Process Design :: Josh, Chris, Ome, Maija,
 

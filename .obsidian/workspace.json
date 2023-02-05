@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Immanent/DailyNotes/2023-02-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ba3d016c3e03224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1568595e0520180",
+  "active": "8ba3d016c3e03224",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/DailyNotes/2023-02-04.md",
     "Immanent/DailyNotes/2023-02-09.md",
     "Immanent/DailyNotes/2023-02-08.md",
-    "Immanent/DailyNotes/2023-02-14.md",
-    "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
-    "Immanent/DailyNotes/2023/2023-02-13.md",
     "Immanent/DailyNotes/2023-02-15.md",
+    "Immanent/DailyNotes/2023-02-14.md",
+    "Immanent/DailyNotes/2023/2023-02-13.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
     "Immanent/DailyNotes/2023/2023-06-12.md",
-    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
-    "assets/H3uni/AnApproachToClarifyingPHDResearchV3.pdf",
-    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md"
+    "assets/H3uni/AnApproachToClarifyingPHDResearchV3.pdf"
   ]
 }

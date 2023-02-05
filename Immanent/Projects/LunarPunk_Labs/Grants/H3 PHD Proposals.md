@@ -90,7 +90,7 @@ Review and reflect on your notes and identify a theme that you intuit could be a
 	- Inner world, outer world fit.
 	- Semantic web: Qualitative composibility and search.
 	- Implementing Bennets Systematics for appropriate causes
-	- Markov blankets are a general substrate for mapping complexity. Systematising them adds semantic relevance to compossible classes of nodes. Data structured in such a way enables the comparison, translation and evaluation of non-fungible assets. Capital markets are seeking divest vehicles for oil and gas; let's make them adaptive to our planetary needs. Friston blankets and the free energy principle can ensure these new markets are adaptive to the flow of changing circumstances and programatically valued in proportion to real world fit. Truth claims about the world can be anchored on blockchains that maintain data integrity and transparency of methodologies used to produce capital. 
+	- Markov blankets are a general substrate for mapping complexity. Systematising them adds semantic relevance to compossible classes of nodes. Data structured in such a way enables the comparison, translation and evaluation of non-fungible assets. Capital markets are seeking divestment vehicles for oil and gas; let's make them adaptive to our planetary needs. Friston blankets and the free energy principle can ensure these new markets are adaptive to the flow of changing circumstances and programatically valued in proportion to real world fit. Truth claims about the world can be anchored on blockchains that maintain data integrity and transparency of methodologies used to produce capital. 
 -   What are the forces that would reject that idea?
 	- Those who dont understand it
 	- Current market makers
