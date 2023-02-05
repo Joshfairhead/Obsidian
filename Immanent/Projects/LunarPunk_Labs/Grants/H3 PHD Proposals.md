@@ -188,19 +188,20 @@ MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 
 **HIGEST POTENTIAL**
 - What might your breakthrough achievement be?
-	- Systematics and F
+	- Compossible eco-credits
 
 **CENTRAL SIGNIFICANCE**
 - What do you feel is the central significance of what you are attempting?
-  
-**PLACE IN THE FIELD**
-
+	- Systematics and Friston blankets make things possible
 
 **MINIMUM REQUIREMENT**
-- What is the minimum result you would like?  
+- What is the minimum result you would like?
+	- Better forms of capital and currency
 
 **ISSUES IN SOCIETY**
 - What in society supplies the ground for your research?
+	- Capital is down stream from value creation
+	- 
 
   
 
