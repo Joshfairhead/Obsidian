@@ -143,121 +143,64 @@ Review and reflect on your notes and identify the tension that is likely to ener
 
 ---
 
-**THE TETRAD**
+# **THE TETRAD**
 
 **What field of work is required?** **Articulating Research Field**
-
- MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
-
-  
+MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 
 **IDEAL**
-
-What might a satisfying thesis look like, be able to do?
-
-  
-
-  
-
-**METHODS**
-
-What research methods will you need to utilise to develop  and articulate your thesis?
-
-  
-
-  
-
-  
-
-**PROVISIONAL TITLE**
-
-**SKILL**
-
-What existing skills and experience do you bring to bear; and what will you need to learn?
-
-  
-
-  
-
-  
+- What might a satisfying thesis look like, be able to do?
+	- Proposes a mechanism that accounts for, and evaluate, both qualitative and quantitive measurement.
 
 **RESOURCES**
+- What access to resources do you need and what permissions to use them?
+	- Funding to pay the bills
+	- Active Inference researchers
+	- Facilitators that get the epistemology
+	- Development resources / Computer scientist
+	- Pilot projects
 
-What access to resources do you need and what permissions to use them?
+**METHODS**
+- What research methods will you need to utilise to develop and articulate your thesis?
+	- Qualitative systems thinking and systematics. 
+	- Enneagrams
+	- Bayesian Inference
 
-  
+**SKILL**
+- What existing skills and experience do you bring to bear; and what will you need to learn?
+	- Thorough understanding of next generation information technology architecture
+	- Decent enough grip on qualitative systems
+	- No/little understanding of markov/friston blankets
 
-  
+ **PROVISIONAL TITLE**
+- Adaptive capital 
 
-  
 
-  
 
-  
+# **THE PENTAD**
 
-  
-
-  
-
-  
-
-  
-
-  
-
-**THE PENTAD**
-
-**What potential value  ?**                                    
-
-**Identifying the possible significance**
-
-  MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
-
-  
-
-  
+**What potential value ?** **Identifying the possible significance**
+MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 
 **VALUE TO SOCIETY**
-
-What do you hope to be of value to society and the future?
-
-  
+- What do you hope to be of value to society and the future?
+	- Semantically composible internet
 
 **HIGEST POTENTIAL**
-
-What might your breakthrough achievement be?
-
-  
+- What might your breakthrough achievement be?
+	- Systematics and F
 
 **CENTRAL SIGNIFICANCE**
-
-What do you feel is the central significance of what you are attempting?
-
+- What do you feel is the central significance of what you are attempting?
   
-
-  
-
-  
-
 **PLACE IN THE FIELD**
 
-  
-
-  
 
 **MINIMUM REQUIREMENT**
-
-What is the minimum result you would like?
-
-  
-
-  
-
-  
+- What is the minimum result you would like?  
 
 **ISSUES IN SOCIETY**
-
-What in society supplies the ground for your research?
+- What in society supplies the ground for your research?
 
   
 
