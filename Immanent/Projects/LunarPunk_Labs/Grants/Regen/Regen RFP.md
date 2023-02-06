@@ -193,22 +193,36 @@ Interesting threads from RFP:
 
 ---
 ---
-# Proposal: "REGEN 2.0"
+# Proposal: "REGEN 2.0: Adaptive Capital "
 
-#### Background
-To briefly preface this proposal submission with some context; the team at LunarPunk_Labs have for some time been preoccupied with the realisation of the semantic web. We have previously won the digital identity track at the worlds largest hackathon and specialise in semantic frameworks. This technology is highly general but to find traction it needs to fit within an appropriate context. 
+## Background
+To briefly preface this proposal submission with some context, the team at LunarPunk_Labs have been preoccupied with the realisation of the semantic web. We have previously won the digital identity track at the worlds largest hackathon and specialise in systematic frameworks. 
+
+## Description of Tokenomic Mechanism
+Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we need consider the existential domains of markets, science and technology. 
+
+**Market Assumptions**
+It's our belief that markets are seeking to divest themselves from degenerate commodities to regenerative vehicles; they are just constrained by a lack appropriate vehicles. Due to the "stranded assets" trading on Wall St. books, there is at minimum a $5T opportunity for transformation if we adequately address their pain points. 
+
+**Scientific Assumptions**
+For such divestment vehicles to meet market demands we need to be able to provide audible proof and third party verification. 
 
 
-#### Description of Tokenomic Mechanism
 
 
-#### Project Roadmap
+
+Monad: Adaptive Capital
+Dyad: Qualitative | Quantitive
+Triad: Impact Evaluators | Impact Certificates | HyperCerts
+Tetrad: AD4M | FEP | MRV | REA | 
+Pentad: 
 
 
-#### Agents Involved
+
+## Agents Involved
 
 
-#### Proposed Budget and Compensation Structure
+## Proposed Budget and Compensation Structure
 Regen Foundation can fund this work through any combination of the following:
 -   A REGEN token grant
 -   A Community Staking DAO grant (500k locked REGEN tokens) to fund the establishment of a Tokenomics DAO
