@@ -202,11 +202,10 @@ To briefly preface this proposal submission with some context, the team at Lunar
 Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we need consider the existential domains of markets, science and technology. 
 
 **Market Assumptions**
-It's our belief that markets are seeking to divest themselves from degenerate commodities to regenerative vehicles; they are just constrained by a lack appropriate vehicles. Due to the "stranded assets" trading on Wall St. books, there is at minimum a $5T opportunity for transformation if we adequately address their pain points. 
+It's our belief that markets are seeking to divest themselves from degenerate commodities to more regenerative investment vehicles; they are however constrained by a lack appropriate pathways. We confidently assert this as it's known that there are $5T of "stranded assets" trading on Wall St. books, which in our opinion represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [[Economics]]
 
 **Scientific Assumptions**
-For such divestment vehicles to meet market demands we need to be able to provide audible proof and third party verification. 
-
+There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian) and empiric verification (inductive wisdom/Goethian). Regenerative science integrates both approaches to Truth through abductive reasoning based on known priors (Bayesian inferrence). It would seem that active inference augmented by general systematics are a hand and glove fit for this task.  
 
 
 
