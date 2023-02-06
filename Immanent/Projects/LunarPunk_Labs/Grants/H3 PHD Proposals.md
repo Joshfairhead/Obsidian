@@ -184,7 +184,7 @@ MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 
 **VALUE TO SOCIETY**
 - What do you hope to be of value to society and the future?
-	- Semantically composible internet
+	- Semantically composible infrastructure
 
 **HIGEST POTENTIAL**
 - What might your breakthrough achievement be?
@@ -196,7 +196,7 @@ MAKE NOTES IN RESPONSE TO THE FOLLOWING QUESTIONS:
 
 **MINIMUM REQUIREMENT**
 - What is the minimum result you would like?
-	- Better forms of capital and currency
+	- Proof of concept that systematics can enable the translation of quantity to quality
 
 **ISSUES IN SOCIETY**
 - What in society supplies the ground for your research?

@@ -55,7 +55,7 @@ Coming soon:
 
 ---
 --- 
-# Proposal
+# Proposal Hacking
 
 ### 1 Specifications / Constraints
 Makes use of:
@@ -191,3 +191,30 @@ Interesting threads from RFP:
 - Hyphen.earth for dashboard?
 - Jesu, Howard Biochar, RFP
 
+---
+---
+# Proposal: "REGEN 2.0"
+
+#### Background
+To briefly preface this proposal submission with some context; the team at LunarPunk_Labs have for some time been preoccupied with the realisation of the semantic web. We have previously won the digital identity track at the worlds largest hackathon and specialise in semantic frameworks. This technology is highly general but to find traction it needs to fit within an appropriate context. 
+
+
+#### Description of Tokenomic Mechanism
+
+
+#### Project Roadmap
+
+
+#### Agents Involved
+
+
+#### Proposed Budget and Compensation Structure
+Regen Foundation can fund this work through any combination of the following:
+-   A REGEN token grant
+-   A Community Staking DAO grant (500k locked REGEN tokens) to fund the establishment of a Tokenomics DAO
+-   A token delegation (of REGEN, or potentially of ATOM and OSMO as well)
+
+RND, Inc. can fund this work through a combination of:
+-   Token grants with 1 year lock up of up to 200k REGEN
+-   $25k USD cash payment
+-   Token delegations
