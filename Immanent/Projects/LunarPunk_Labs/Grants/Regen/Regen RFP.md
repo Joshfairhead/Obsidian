@@ -199,16 +199,19 @@ Interesting threads from RFP:
 To briefly preface this proposal submission with some context, the team at LunarPunk_Labs have been preoccupied with the realisation of the semantic web. We have previously won the digital identity track at the worlds largest hackathon and specialise in systematic frameworks. 
 
 ## Description of Tokenomic Mechanism
-Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we need consider the existential domains of markets, science and technology. 
+Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we first need consider the existential domains of markets, science and technology. 
 
 **Market Assumptions**
 It's our belief that markets are seeking to divest themselves from degenerate commodities to more regenerative investment vehicles; they are however constrained by a lack appropriate pathways. We confidently assert this as it's known that there are $5T of "stranded assets" trading on Wall St. books, which in our opinion represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [[Economics]]
 
 **Scientific Assumptions**
-There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian) and empiric verification (inductive wisdom/Goethian). Regenerative science integrates both approaches to Truth through abductive reasoning based on known priors (Bayesian inferrence). It would seem that active inference augmented by general systematics are a hand and glove fit for this task.  
+There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inferrence). Such truth claims are essentially perspectives.
+
+**Technological Assumptions**
 
 
 
+As such it would seem that active inference augmented by general systematics are a hand and glove fit for this task. 
 
 Monad: Adaptive Capital
 Dyad: Qualitative | Quantitive
