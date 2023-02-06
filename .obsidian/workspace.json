@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stranded assets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,15 +174,15 @@
   },
   "active": "16850a5149a8ac04",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
+    "Omnicient/Monad Forrest/Courses/Capra Course/Capra course lecture 11.md",
+    "Immanent/DailyNotes/_Archive/2020/2020-12-01.md",
+    "Immanent/DailyNotes/_Archive/2020/2020-05-11.md",
+    "Immanent/WorkBench/Bill McKibben.md",
+    "Immanent/WorkBench/stranded assets.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
     "Immanent/DailyNotes/2023-02-04.md",
     "Immanent/DailyNotes/2023-02-09.md",
-    "Immanent/DailyNotes/2023-02-08.md",
-    "Immanent/DailyNotes/2023-02-15.md",
-    "Immanent/DailyNotes/2023-02-14.md",
-    "Immanent/DailyNotes/2023/2023-02-13.md",
-    "Immanent/DailyNotes/2023/2023-06-12.md",
-    "assets/H3uni/AnApproachToClarifyingPHDResearchV3.pdf"
+    "Immanent/DailyNotes/2023-02-08.md"
   ]
 }
