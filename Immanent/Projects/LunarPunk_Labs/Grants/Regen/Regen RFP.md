@@ -208,7 +208,7 @@ It's our belief that markets are seeking to divest themselves from degenerate co
 There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inferrence). Such truth claims are essentially perspectives.
 
 **Technological Assumptions**
-
+From a practical standpoint, the story of computers starts with Claude Shann
 
 
 As such it would seem that active inference augmented by general systematics are a hand and glove fit for this task. 
