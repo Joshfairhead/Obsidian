@@ -211,7 +211,10 @@ When it comes to addressing the markets with integrity, we need to incorporate t
 From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents - speaking languages -  express their preference and perspectives. As technical architecture, this foundation allows us to encode other frameworks and in particular we believe that the language of "general systematics" is a transparent epistemology for modelling the world functionally. Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs and beyond. This architecture is particularly elegant because it enables semantic translation and ad hoc composibility.
 
 
+## Technical Dynamics
+There are three abstract technical mechanisms that we can lean on in relation to integrating quantity with quality; Impact certificates, Impact evaluators and HyperCerts. We believe that all three can be composed from Markov blankets as a universal substrate and further systematised to enable semantic interoperability. 
 
+An Impact certificate essentially articulates a methodology and how to read the measures in a machine readable format - these are means. Evaluation criterea can be codified in a similar format to express values as ends. 
 
 
 
