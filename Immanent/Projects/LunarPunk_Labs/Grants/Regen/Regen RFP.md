@@ -199,16 +199,21 @@ Interesting threads from RFP:
 To briefly preface this proposal submission with some context, the team at LunarPunk_Labs have been preoccupied with the realisation of the semantic web. We have previously won the digital identity track at the worlds largest hackathon and specialise in systematic frameworks. 
 
 ## Description of Tokenomic Mechanism
-Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we first need consider the existential domains of markets, science and technology. 
+Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we first need consider the existential domains of markets, science and technology - while holding in mind the guiding principals 
 
 **Market Assumptions**
 It's our belief that markets are seeking to divest themselves from degenerate commodities to more regenerative investment vehicles; they are however constrained by a lack appropriate pathways. We confidently assert this as it's known that there are $5T of "stranded assets" trading on Wall St. books, which in our opinion represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [[Economics]]
 
 **Scientific Assumptions**
-There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inferrence). Such truth claims are essentially perspectives.
+When it comes to addressing the markets with integrity, we need to incorporate truth claims. There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inference). Such truth claims are essentially perspectives, which brings up questions of frame and representation. [Ontological design](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107?gi=8c7bbd1fb970).  
 
 **Technological Assumptions**
-From a practical standpoint, the story of computers starts with Claude Shann
+From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents - speaking languages -  express their preference and perspectives. As technical architecture, this foundation allows us to encode other frameworks.
+
+### Design
+The technology proposition is motivated 
+
+
 
 
 As such it would seem that active inference augmented by general systematics are a hand and glove fit for this task. 
