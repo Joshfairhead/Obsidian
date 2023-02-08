@@ -198,7 +198,7 @@ Interesting threads from RFP:
 ## Background
 To briefly preface this proposal submission with some context, the team at LunarPunk_Labs have been focused on the realisation of the semantic web for the past 4 years. As a distributed team have previously won the digital identity track at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks. 
 
-## Description of Tokenomic Mechanism
+## Specifications as constraints
 Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we first need consider the existential domains of markets, science and technology - while holding in mind the essential values of people, planet and protocols.
 
 **Market Assumptions**
@@ -208,16 +208,23 @@ The notion that markets are seeking pathways for divestment from degenerate comm
 When it comes to addressing the markets with integrity, we need to incorporate truth claims. There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inference). Such truth claims are essentially perspectives, which brings up questions of frame and representation. [Ontological design](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107?gi=8c7bbd1fb970).  
 
 **Technological Assumptions**
-From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents - speaking languages -  express their preference and perspectives. As technical architecture, this foundation allows us to encode other frameworks and in particular we believe that the language of "general systematics" is a transparent epistemology for modelling the world functionally. Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs and beyond. This architecture is particularly elegant because it enables semantic translation and ad hoc composibility.
+From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents, speaking their language of preference, express perspectives on 'Truth'. 
 
+As a technical architecture, this foundational 'meta ontology' allows us to encode other frameworks as languages, and in particular we believe that encoding "general systematics" is a transparent epistemology that can act as a functional backbone for modelling any scenario. 
 
-## Technical Dynamics
-There are three abstract technical mechanisms that we can lean on in relation to integrating quantity with quality; Impact certificates, Impact evaluators and HyperCerts. We believe that all three can be composed from Markov blankets as a universal substrate and further systematised to enable semantic interoperability. 
+Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility.
 
-An Impact certificate essentially articulates a methodology and how to read the measures in a machine readable format - these are means. Evaluation criterea can be codified in a similar format to express values as ends. 
+## Technical Design
+As far as design goes, there are three technical mechanisms that we can lean on in relation to integrating quantity with quality:
+- Impact evaluators (+)
+- Markov blankets (=)
+- Impact certificates (-)
 
+Markov blankets act as a form of general substrate and which can then be further systematised with metadata to enable semantic interoperability - this is a general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
 
+An Impact certificate essentially articulates a methodology in a machine readable format - these certificates represent a means, while evaluation criteria codified in a similar format can express values as ends. The thorny issue at this point is accessibility as most humans don't read code, let alone have the technical skills to deploy credit classes through a CLI, which is where the world of interface design arises.
 
+When it comes to open science, there is movement towards making papers more accessible (as well as machine readable) by encoding them as 'conversation graphs'. Taking such a concept one step further it's easy enough to imagine a form of bespoke consulting where living conversations are represented as functional geometries (e.g. "source, question, claim, proof") that aid the process of communal understanding. 
 
 
 
