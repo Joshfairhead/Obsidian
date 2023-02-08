@@ -227,9 +227,12 @@ An Impact certificate essentially articulates a methodology in a machine readabl
 Taking such a concept one step further it's easy enough to imagine a form of bespoke consulting where any conversation is represented as functional geometries that aid the processes of communal understanding. When the discussion reaches consensus (on Credit methodology or class, DAO design, evaluation criteria etc.) we can use the interface to easily anchor data on chain. Any subsequent discussion (with or with out a facilitator) can be updated through such an interface and easily merged. This data can be aggregated as a form of capital and issued as eco-credits, which would help democratise access to technology in a significant way. Such a process can even be gamified to make the process fun and rewarding!
 
 ## Technical Specifics
-From the interface level comes the functional specifications for chain integration. Using the AD4M ontology we describe general systematics as a set metadata standards. We then describe both the data module and eco-credit modules in this 'language' to make them functionally compatible. 
+From the interface level comes the functional specifications for chain integration. Using the AD4M ontology we can use general systematics to describe a set of metadata standards. We then describe both the data module and eco-credit modules in this 'language' to make them functionally compatible. For added precision, we may wish to add other ontologies for translating quantity (data module claims) to quality (eco-credit attestations). 
 
-At this point we may want to add other ontologies for translating quantity (data module) to quality (eco-credits). Naturally we need an accounting and evaluation 
+Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact certificates. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for Impact Evaluators. 
+
+
+
 
 
 Monad: Adaptive Capital
