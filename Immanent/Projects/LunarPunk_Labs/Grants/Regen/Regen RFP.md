@@ -129,6 +129,7 @@ RND, Inc. can fund this work through a combination of:
 
 
 ### References / Bibliography
+- [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
 - [Gaia BioHabitat Commons](https://docs.google.com/presentation/d/13xWKMRdfa1vJauJCn8SQq9fQqP9EEVJOowg78PU9hwM/edit#slide=id.g14d6de67000_0_617)
@@ -143,11 +144,10 @@ RND, Inc. can fund this work through a combination of:
 - [Castela: The Citedel of Truth](https://docs.google.com/document/d/16FZnGeNaxPD32S_vvw5idHM0ULka_ObUpo1-c_x-LJU/edit) - generating conversation graphs
 - [Holonic Medium](https://docs.google.com/document/d/1hc7UMHlvaFpwaDPzcseTycUlHRIy1NlJpHfGQgB_c-I/edit#heading=h.nhvltdokqxbd)
 - [Towards Ecological Economics](https://medium.com/regen-network/towards-ecological-economics-de0c035e622e)
-
-
-
-
-
+- [The emporers new markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
+- [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
+- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
+- 
 
 
 
