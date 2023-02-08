@@ -16,7 +16,11 @@
 To briefly preface this proposal submission with some context, the team at LunarPunk_Labs have been focused on the realisation of the semantic web for the past 4 years. As a distributed team we have previously won the digital identity track at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Weco on the other hand have been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. Their work to date has previously been funded by Eric Harris Brown (of CEPTR). 
 
 ## Specifications as constraints
-Adaptive Capital is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values. For such a project to find traction we first need consider the existential domains of markets, science and technology - while holding in mind the essential values of people, planet and protocols.
+Nature Based Solutions are defined by the Regen Registry in the following way:
+
+> Actions to protect, regeneratively manage and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits”.
+
+Consequentially, "Adaptive Capital" is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values and outcomes. For such a project to find traction need to consider the existential domains of markets, science and technology; while holding in mind the essential values of people, planet and protocols. Let's explore:
 
 **Market Assumptions**
 The notion that markets are seeking pathways for divestment from degenerate commodities to more regenerative investment vehicles is getting wider traction. However the divesment is constrained by a lack of said pathways. We confidently assert this as it's known that there are $5T of "stranded assets" trading on Wall St. books, which in our opinion represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [[Economics]]
@@ -31,8 +35,8 @@ As a technical architecture, this foundational 'meta ontology' allows us to enco
 
 Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility.
 
-## Technical Design
-As far as design goes, there are three technical mechanisms that we can lean on in relation to integrating quantity with quality:
+## Technical Infrastructure
+As far as design goes, there are three technical mechanisms that we can lean on in relation to our goal of integrating quantity with quality:
 - Impact evaluators (+)
 - Markov blankets (=)
 - Impact certificates (-)
@@ -47,19 +51,19 @@ From the interface level comes the functional specifications for chain integrati
 
 Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact evaluation. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for impact certificates. The beauty of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
 
-For example we can extend MRV to be a tetradic geometry of:
+For example we can extend the triadic geometry MRV to be a tetradic geometry for more detailed resolution. The following was articulated by the dMeter community:
 - Directive: Human-sensing (Personal data stores, phone images, self reported data)
 - Instrumental: Remote-sensing (IOT sensors, devices)
 - Ideal: Sky-sensing (satellite, drones, aerial)
 - Ground: Reputation-sensing (identity, community trust)
 
-Naturally such an extension has many overlaps with REA accounting and the frame could be super imposed to increase the resolution of evaluation criteria. 
+Such an extension has many overlaps with REA accounting and the frame could be super imposed to increase the resolution of evaluation criteria. 
 
 ## Pilot Project(s)
 To bring these technologies to market requires pilot projects. There are obviously a number of great projects in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning centre and high school tech club working with Arudino sensors. 
 
 ### Regenerating Sonora Use Case
-Starting from the LEHR gardens, we assess possibilities. It's decided that the quintessential step forward is to automate the gardens water timers. A group of local high schoolers automate the timers using their Arduino kits. Through the Weco interface, these data level streams are hooked up to a storage medium of choice like Filecoin green and anchored with the Regen DataModule. 
+Starting from the LEHR gardens, we assess possibilities. It's decided that the quintessential step forward is to automate the gardens water timers. A group of local high schoolers automate the timers using their Arduino kits. Through the Weco interface, these data level streams are hooked up to a storage medium of choice like Filecoin Green and anchored with the Regen DataModule. 
 
 As the students add other sensors to augment the timers with feedback loops, these are added to the systematic interface. These feedback loops are assessed using active inferencing; are the gardens growing better with the automation or worse? Student determinations may well be best guesses, rather than institutional best practice, but a credit can be issued none the less using the eco-credit module. 
 
@@ -71,6 +75,7 @@ As the student group develops a reputation for making strong decisions around th
 ## Technical Roadmap
 
 ### Horizon one
+- DAO Codification
 - Finishing the interface plugin for Weco/Obsidian
 
 ### Horizon two
@@ -79,7 +84,15 @@ As the student group develops a reputation for making strong decisions around th
 - Integrating Regen's eco-credit module as a perspective
 
 ### Horizon three
-- Integrating 
+-  
+
+---
+
+## Organisational Teams
+WeCo.io - Interface
+VISN_Labs - Product
+LunarPunk_Labs - Operations
+Regenerating Sonora - Community
 
 ## Organisational Roadmap
 
@@ -97,11 +110,6 @@ As the student group develops a reputation for making strong decisions around th
 	- Regenerative Blue fund for Registry 2.0
 
 
-## Teams Involved
-WeCo.io - Interface
-VISN_Labs - Product
-LunarPunk_Labs - Operations
-Regenerating Sonora - Community
 
 
 ## Proposed Budget and Compensation Structure
@@ -223,7 +231,7 @@ Interesting threads from RFP:
 - Protocol-Owned EcoAsset Treasury
 - Compensating Scientific Contributors
 
-**Riff 1:** 
+**Riff A:** 
 1) Bioregion
 2) Stewards
 3) Community institutions
@@ -231,18 +239,18 @@ Interesting threads from RFP:
 - Bioregion / Community can have a bidirectional 'token' stream
 - Stewards can hold context through the glass bead game
 
-**Riff 2**
+**Riff B**
 - Proof of regeneration and verification bundle
 - Urban Regeneartion e.g. [Jeremy](https://twitter.com/gospelofchange/status/1602559757587456000?s=61&t=X-Qo1Tj-OIAkMgk8Nol0zw)
 - Land ownership emissions; distributed ownership of a community land trust 
 
-**Riff 3**
+**Riff C**
 - Social ecology credits, self similar structures 
 - Proof of care, proof of regeneration,
 - Metrics of social resonance on increasing scales; e.g. proof of meditation
 - DisCo
 
-**Riff 4**
+**Riff D**
 - Composable credit classes 
 
 ### 3 Pilot Projects
