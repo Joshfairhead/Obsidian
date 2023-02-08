@@ -56,18 +56,46 @@ For example we can extend MRV to be a tetradic geometry of:
 Naturally such an extension has many overlaps with REA accounting and the frame could be super imposed to increase the resolution of evaluation criteria. 
 
 ## Pilot Project(s)
-To bring these technologies to market requires pilot projects. There are obviously a number of great projects in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacitty. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning centre and high school tech club working with Arudino sensors. 
+To bring these technologies to market requires pilot projects. There are obviously a number of great projects in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning centre and high school tech club working with Arudino sensors. 
 
 ### Regenerating Sonora Use Case
 Starting from the LEHR gardens, we assess possibilities. It's decided that the quintessential step forward is to automate the gardens water timers. A group of local high schoolers automate the timers using their Arduino kits. Through the Weco interface, these data level streams are hooked up to a storage medium of choice like Filecoin green and anchored with the Regen DataModule. 
 
 As the students add other sensors to augment the timers with feedback loops, these are added to the systematic interface. These feedback loops are assessed using active inferencing; are the gardens growing better with the automation or worse? Student determinations may well be best guesses, rather than institutional best practice, but a credit can be issued none the less using the eco-credit module. 
 
-At some point in the future a soil scientist recommends measuring Brix values instead of the students best guess. The students put in new sensors and update their eco-credits underlying methodology using the geometric interface. Active inference engines suggest that these changes are beneficial to the gardens, which is automatically published on chain as supporting data and consequentially the credit gains value in the market. 
+At some point in the future a soil scientist recommends measuring Brix values instead of the students best guess, and someone smart also suggests tracking pollinators. The students put in new sensors and update their eco-credits underlying methodology using the geometric interface. Active inference engines suggest that these changes are beneficial to the gardens in reference to a stipulated outcome of vegetation growth, which is then automatically published on chain as supporting data. Consequentially the credit gains value in the market and efforts are rewarded.
 
-As the student group develops a reputation for making strong decisions around the growing LEHR gardens, it becomes apparent that this is an investment opportunity to market participants. The students reserve pool grows in value thanks to this speculative activity, and consequentially so have the funds to scale operations into new locations. 
+As the student group develops a reputation for making strong decisions around the growing LEHR gardens, it becomes apparent that this is an investment opportunity to market participants. The students reserve pool grows in value thanks to this speculative activity, and consequentially so have the funds to scale operations into new locations. Both investors and the wider Regenerative movement benefit. 
 
 --- 
+## Technical Roadmap
+
+### Horizon one
+- Finishing the interface plugin for Weco/Obsidian
+
+### Horizon two
+- Describing systematics as an AD4M Language
+- Integrating Regen's data module as a perspective
+- Integrating Regen's eco-credit module as a perspective
+
+### Horizon three
+- Integrating 
+
+## Organisational Roadmap
+
+### Horizon one
+- LunarPunk_Labs 
+	- DAO Structure
+		- (+) Place based communities
+		- (=) Marketing, communications, advocacy
+		- (-) Technical infrastructure
+### Horizon two
+- H3 University
+	- Consortium Governance
+### Horizon three
+- Giordano Bruno Institute
+	- Regenerative Blue fund for Registry 2.0
+
 
 ## Teams Involved
 WeCo.io - Interface
@@ -230,7 +258,7 @@ Interesting threads from RFP:
 
 ### 5 Perfected Designs (Functional specs?)
 - Project roadmap
-	- H1: DAO 
+	- H1: DAO design
 	- H2: Ledger Consortium (DAO 2 DAO)
 	- H3: Network State
 
