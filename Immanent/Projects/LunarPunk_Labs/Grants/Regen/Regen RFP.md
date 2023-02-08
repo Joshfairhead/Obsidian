@@ -214,34 +214,35 @@ As a technical architecture, this foundational 'meta ontology' allows us to enco
 
 Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility.
 
-## Technical Design
+## Technical Overview
 As far as design goes, there are three technical mechanisms that we can lean on in relation to integrating quantity with quality:
 - Impact evaluators (+)
 - Markov blankets (=)
 - Impact certificates (-)
 
-Markov blankets act as a form of general substrate and which can then be further systematised with metadata to enable semantic interoperability - this is a general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
+Markov blankets act as a form of general substrate and which can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
 
-An Impact certificate essentially articulates a methodology in a machine readable format - these certificates represent a means, while evaluation criteria codified in a similar format can express values as ends. The thorny issue at this point is accessibility as most humans don't read code, let alone have the technical skills to deploy credit classes through a CLI, which is where the world of interface design arises.
+An Impact certificate essentially articulates a methodology in a machine readable format - these certificates represent a means, while evaluation criteria codified in a similar format can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs' (in a geometry of "source, question, claim, proof"). 
 
-When it comes to open science, there is movement towards making papers more accessible (as well as machine readable) by encoding them as 'conversation graphs'. Taking such a concept one step further it's easy enough to imagine a form of bespoke consulting where living conversations are represented as functional geometries (e.g. "source, question, claim, proof") that aid the process of communal understanding. 
+Taking such a concept one step further it's easy enough to imagine a form of bespoke consulting where any conversation is represented as functional geometries that aid the processes of communal understanding. When the discussion reaches consensus (on Credit methodology or class, DAO design, evaluation criteria etc.) we can use the interface to easily anchor data on chain. Any subsequent discussion (with or with out a facilitator) can be updated through such an interface and easily merged. This data can be aggregated as a form of capital and issued as eco-credits, which would help democratise access to technology in a significant way. Such a process can even be gamified to make the process fun and rewarding!
 
+## Technical Specifics
+From the interface level comes the functional specifications for chain integration. Using the AD4M ontology we describe general systematics as a set metadata standards. We then describe both the data module and eco-credit modules in this 'language' to make them functionally compatible. 
 
+At this point we may want to add other ontologies for translating quantity (data module) to quality (eco-credits). Naturally we need an accounting and evaluation 
 
-
-
-As such it would seem that active inference augmented by general systematics are a hand and glove fit for this task. 
 
 Monad: Adaptive Capital
 Dyad: Qualitative | Quantitive
 Triad: Impact Evaluators | Impact Certificates | HyperCerts
 Tetrad: AD4M | FEP | MRV | REA | 
-Pentad: 
+Pentad: Markov blankets | Data module | Eco-credit module |
 
 
 
 ## Agents Involved
-
+Operations: LunarPunk_Labs 
+Interface: WeCo
 
 ## Proposed Budget and Compensation Structure
 Regen Foundation can fund this work through any combination of the following:
