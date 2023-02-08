@@ -59,6 +59,7 @@ For example we can extend the triadic geometry MRV to be a tetradic geometry for
 
 Such an extension has many overlaps with REA accounting and the frame could be super imposed to increase the resolution of evaluation criteria. 
 
+---
 ## Pilot Project(s)
 To bring these technologies to market requires pilot projects. There are obviously a number of great projects in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning centre and high school tech club working with Arudino sensors. 
 
@@ -75,16 +76,17 @@ As the student group develops a reputation for making strong decisions around th
 ## Technical Roadmap
 
 ### Horizon one
-- DAO Codification
 - Finishing the interface plugin for Weco/Obsidian
 
 ### Horizon two
-- Describing systematics as an AD4M Language
+- DAO Codification w/Cosmos Groups Module and `authz` function
+- Describing general systematics as an AD4M Language
 - Integrating Regen's data module as a perspective
 - Integrating Regen's eco-credit module as a perspective
 
 ### Horizon three
--  
+- Anchoring pilot data on chain with the data module
+- Issuing systematics as a semantic credit class and minting pilot eco-credits
 
 ---
 
@@ -99,17 +101,15 @@ Regenerating Sonora - Community
 ### Horizon one
 - LunarPunk_Labs 
 	- DAO Structure
-		- (+) Place based communities
-		- (=) Marketing, communications, advocacy
-		- (-) Technical infrastructure
+		- (+) Applied Science: Place based communities 
+		- (=) Markets: Communications and advocacy
+		- (-) Technology: Distributed Infrastructure 
 ### Horizon two
 - H3 University
 	- Consortium Governance
 ### Horizon three
 - Giordano Bruno Institute
-	- Regenerative Blue fund for Registry 2.0
-
-
+	- Regenerative blue fund as Registry 2.0
 
 
 ## Proposed Budget and Compensation Structure
@@ -291,19 +291,20 @@ Interesting threads from RFP:
 		- Commons Stack (Griff)
 		- ReFiDAO (John Elis)
 		- Agency (Jesse)
+		- Verification Infrastructure Bundle (Joe)
 		- Trees and BioChar
 			- Kulshan Carbon Trust (Howard)
 			- Reverdecer (Jesu)
 			- RMTerra (Pablo)
 			- Reflorista (Susana Guimarães)
-			
-	- Potential partners structured by function
+	- Potential partners structured by role / function:
 		- Place Based Community :: Liminal, Regenerating Sonora, Regen Civic Alliance, OASA / TDF, Refloresta, Kulshan, RMTerra
 		- Permaculture Pilots :: Chris, Jillian, Jesu, Gijs
 			- Carbon :: Biochar :: Kulshan, Jesu,
 			- Carbon :: Agroforrestry :: Coffee :: Gijs, Pablo/RMTerra, coffee carbon collective
 		- Science :: Robin, Ned, Adina, Tibi, Tim, Bryan, Michelle, Gijs
 		- Marketing :: Maija, Rishi, Fenix, Jesse, John Ash, John Elis, Pranav, Dave Forsten
+		- Fund Raising :: Fenix, Rishi, Letty
 		- Business Development :: Community :: Fenix, Jillian, 
 		- Product :: Ronen, Thom, Laurence, Dil,
 			- Active Inference :: John Ash, Noah, Tim, Roberto, Digital Gaia
