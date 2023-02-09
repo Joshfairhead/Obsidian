@@ -7,14 +7,14 @@ Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]]
 - [Meeting Recording](https://us02web.zoom.us/rec/share/n-AiV6UzZs1e0adDE1xdoZtNc--FGJEsiVxsxfCVOMtjTFPi3gYiT2Vy_ox-TXBD.Ytrr99ZsBhmGAKmu)
     - Access Passcode: 0MY@ufEV
 - Slides
-    - ![](assets/1626444268_18.pdf)
+    - ![](QS-M1_NumberQualitiesPerception.pdf)
 - Workbook
     - ![](assets/1626444269_19.pdf)
 - Screen grabs
-    - ![](assets/1626444271_20.png)
-    - ![](assets/1626444272_21.png)
-    - ![](assets/1626444274_22.png)
-    - ![](assets/1626444275_23.png)
+    - ![](1626444271_20.png)
+    - ![](1626444272_21.png)
+    - ![](1626444274_22.png)
+    - ![](1626444275_23.png)
 
 ### Notes(?)
 - What does it mean to know something?

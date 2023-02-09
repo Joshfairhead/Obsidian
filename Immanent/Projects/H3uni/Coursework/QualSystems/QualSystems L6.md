@@ -9,7 +9,7 @@ Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]]
 	- 9B%X13At
 
 ### Slides
-![](assets/1626444228_8.pdf)
+![](QS-M6_TheComplexQualsystems.pdf)
 
 
 

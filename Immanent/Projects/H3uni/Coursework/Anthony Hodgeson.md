@@ -24,4 +24,4 @@ Related: [[H3uni]]
 - ![](Praxis%20Learning%20Cycl.pdf)
 
 #### An Image of Global Integrity: The parameters of an enlightened global society
-- ![](assets/1626444209_3.pdf)
+- ![](AnImageOfGlobalIntegrityTheParamatersOfAnEnlightenedGlobalSociety.pdf)

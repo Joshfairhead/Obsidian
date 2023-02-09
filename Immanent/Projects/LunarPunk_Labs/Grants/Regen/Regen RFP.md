@@ -104,17 +104,25 @@ Sovereign Nature Initiative - Backend (?)
 
 ### Horizon one
 - LunarPunk_Labs 
-	- DAO Structure
+	- DAO Structure as a viable systems model
 		- (=) Markets: Communications and advocacy
-			- Advocacy
-			- Community
-			- Sales
-			- Communication
-			- Fundraising
+			- Purpose: Advocacy
+			- Intelligence: Community
+			- Operations: Sales and onboarding
+			- Task: Communication
+			- Resourcing: Fundraising
 		- (+) Applied Science: Place based communities 
-			- Education
-			- 
+			- Purpose: Empirical understanding
+			- Intelligence: Field learning
+			- Operations: Epistemology
+			- Task: Lab Learning
+			- Resourcing: Rational inferences
 		- (-) Technology: Distributed Infrastructure 
+			- Purpose: Interface
+			- Intelligence: Impact e
+			- Operations: 
+			- Task: 
+			- Resourcing:
 ### Horizon two
 - H3 University
 	- Consortium Governance

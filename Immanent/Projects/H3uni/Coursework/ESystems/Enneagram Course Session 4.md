@@ -6,7 +6,7 @@ Related: [[Omnicient/Monad Saplings/Enneagram]] [[H3uni]]
 
 - [Video](https://us02web.zoom.us/rec/share/OwlOW4b83wUR4pY2SyC3rmB5K_eLSAkXqbGamvjxwtRkApRrH7Dtpc1YuTMXCAa1.x-Zy3CPyVyf5hNcs)
     - Password: 91U8ZN&v
-    - ![](assets/1626444306_37.pdf)
+    - ![](1626444306_37.pdf)
 - Email
     - A question was asked about the difficult times we are going through and could the enneagram shed light on this. My response was that although there must be possibilities for that I did not know of a specific study. Mainly it is a vehicle to help us with the transition in relation to pour specific lived projects.
     - What is needed is a better understanding of Epochs and the Greater Present Moment. I gave a one day seminar on this in the Dundee Discovery Centre (adjoining the original exploration ship __Discovery__) with the International Futures Forum (IFF) some dozen years ago. Those interested might find the videos a useful perspective. Here are the links:

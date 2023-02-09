@@ -9,7 +9,7 @@ Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]]
 	- 91DjydJ=h
 
 #### Slides
-![](assets/1626444235_11.pdf)
+![](QS-M3_TheIntermediateQualsystems.pdf)
 ![](assets/1626444237_12.pdf)
 
 #### Chat Notes

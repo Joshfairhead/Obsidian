@@ -12,6 +12,6 @@ Related: [[Qual Systems]] [[H3uni]] [[Anthony Hodgeson]] [[Principals]]
     - [Carlo Rovelli](https://physicsworld.com/a/carlo-rovelli-the-author-of-the-order-of-time-discusses-perhaps-the-greatest-mystery/)
  	-  [[Qualsystems L5 Call Chatlog]]
 - Slides
-    - ![](assets/1626444287_28.pdf)
+    - ![](QS-M5_ThecCosmicLawsUnfolding.pdf)
 
 

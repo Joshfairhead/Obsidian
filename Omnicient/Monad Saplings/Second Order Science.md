@@ -6,7 +6,7 @@ Related: [[Cybernetics]]
 
 # Second Order Science
 - [[Anthony Hodgeson]] Implications of Second-Order Cybernetics
-    - ![](assets/1626444204_0.pdf)
+    - ![](SomeImplicationsOfSeconOrderCybernetics.pdf)
 
 
 #### Quotes

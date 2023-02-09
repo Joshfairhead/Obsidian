@@ -15,7 +15,7 @@ Related: [[H3uni]] [[Capra Course]] [[E-systems]] [[Qual Systems]] [[Second Orde
 - [Introduction to Sociocybernetics (Part 1): Third Order Cybernetics and a Basic Framework for Society](https://papiro.unizar.es/ojs/index.php/rc51-jos/article/download/623/633)
     - ![](assets/1626444249_15.pdf)
 - [[Anthony Hodgeson]] Implications of Second-Order Cybernetics
-    - ![](assets/1626444251_16.pdf)
+    - ![](1626444251_16.pdf)
 - [[Deleuze & Guattari]] [[Schizoanalysis]]
 
 #### Writing
