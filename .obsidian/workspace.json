@@ -39,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
+                "file": "Immanent/Projects/R3solution/Learning/Learning Dyad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/R3solution/Learning/Learning Dyad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/R3solution/Learning/Learning Dyad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,17 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16850a5149a8ac04",
+  "active": "8ba3d016c3e03224",
   "lastOpenFiles": [
+    "Immanent/Projects/R3solution/Learning/Learning Triad.md",
+    "assets/H3uni/Praxis Learning Cycle.pdf",
+    "assets/H3uni/Hodgson2018Second-OrderAnticipatorySystem.pdf",
+    "Immanent/Projects/LunarPunk_Labs/Grants/H3 PHD Proposals.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Immanent/DailyNotes/2023-02-08.md",
     "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
     "Immanent/DailyNotes/2023-03-08.md",
-    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Omnicient/Monad Seeds/Quantum Computing.md",
-    "Immanent/Projects/LunarPunk_Labs/Economics.md",
-    "Omnicient/Monad Forrest/Courses/Capra Course/Capra course lecture 11.md",
-    "Immanent/DailyNotes/_Archive/2020/2020-12-01.md",
-    "Immanent/DailyNotes/_Archive/2020/2020-05-11.md",
-    "Immanent/WorkBench/Bill McKibben.md"
+    "Immanent/Projects/LunarPunk_Labs/Economics.md"
   ]
 }

@@ -70,13 +70,16 @@ As the students add other sensors to augment the timers with feedback loops, the
 
 At some point in the future a soil scientist recommends measuring Brix values instead of the students best guess, and someone smart also suggests tracking pollinators. The students put in new sensors and update their eco-credits underlying methodology using the geometric interface. Active inference engines suggest that these changes are beneficial to the gardens in reference to a stipulated outcome of vegetation growth, which is then automatically published on chain as supporting data. Consequentially the credit gains value in the market and efforts are rewarded.
 
-As the student group develops a reputation for making strong decisions around the growing LEHR gardens, it becomes apparent that this is an investment opportunity to market participants. The students reserve pool grows in value thanks to this speculative activity, and consequentially so have the funds to scale operations into new locations. Both investors and the wider Regenerative movement benefit. 
+As the student group develops a reputation for making strong decisions around the growing LEHR gardens, it becomes apparent that this is an investment opportunity to market participants. The students reserve pool grows in value thanks to this speculative activity, and consequentially so have the funds to scale operations into new locations. Both investors and the wider Regenerative movement benefit!
+
+But that's not all, the students realise that the LEHR gardens have been an anchor point around which the community practices have grown, bringing wellbeing and vibrancy to their community. They use the interface to codify their processes as a state model, which they augment their original model with as co-benefits. This reveals the more implicit aspects of their work, which is typically invisible to the bottom line of profits. These indicators help guide ethical investors and corporate responsibility funds to their project. 
+
 
 --- 
 ## Technical Roadmap
 
 ### Horizon one
-- Finishing the interface plugin for Weco/Obsidian
+- Finishing the Systematic interface plugin for Weco/Obsidian
 
 ### Horizon two
 - DAO Codification w/Cosmos Groups Module and `authz` function
@@ -90,19 +93,27 @@ As the student group develops a reputation for making strong decisions around th
 
 ---
 
-## Organisational Teams
+## Teams Involved
 WeCo.io - Interface
 VISN_Labs - Product
 LunarPunk_Labs - Operations
 Regenerating Sonora - Community
+Sovereign Nature Initiative - Backend (?)
 
 ## Organisational Roadmap
 
 ### Horizon one
 - LunarPunk_Labs 
 	- DAO Structure
-		- (+) Applied Science: Place based communities 
 		- (=) Markets: Communications and advocacy
+			- Advocacy
+			- Community
+			- Sales
+			- Communication
+			- Fundraising
+		- (+) Applied Science: Place based communities 
+			- Education
+			- 
 		- (-) Technology: Distributed Infrastructure 
 ### Horizon two
 - H3 University
@@ -128,7 +139,7 @@ RND, Inc. can fund this work through a combination of:
 
 
 
-### References / Bibliography
+## References / Bibliography
 - [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
