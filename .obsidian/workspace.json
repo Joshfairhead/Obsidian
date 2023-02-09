@@ -47,6 +47,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "771b96eb3d45e03b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6f9f02ca6bcd60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/ACCM1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+                "file": "Immanent/WorkBench/ACCM1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+                "file": "Immanent/WorkBench/ACCM1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ba3d016c3e03224",
+  "active": "8f6f9f02ca6bcd60",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/DailyNotes/2023-02-09.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Immanent/DailyNotes/2023-02-08.md",
@@ -184,7 +203,6 @@
     "assets/H3uni/1626444294_31.png",
     "assets/H3uni/1626444296_32.png",
     "assets/H3uni/1626444298_33.png",
-    "assets/H3uni/1626444300_34.png",
-    "assets/H3uni/1626444301_35.png"
+    "assets/H3uni/1626444300_34.png"
   ]
 }
