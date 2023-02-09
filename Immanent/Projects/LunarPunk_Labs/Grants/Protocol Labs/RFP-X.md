@@ -7,6 +7,7 @@
 
 ---
 # [Template](https://docs.google.com/document/d/1udJj6NM3-onBN8mXy0A3XDEzaSgv0kHGy-6vNK8iQl0/view)
+- [Thoms doc](https://docs.google.com/document/d/1sw33nu8eNqh2_-BLsPz7BDswFYCEgUE9kvEtHzFFe8M/edit#)
 ---
 
 # Title: Systematic Semantics 
