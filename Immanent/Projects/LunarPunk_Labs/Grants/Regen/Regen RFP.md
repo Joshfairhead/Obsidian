@@ -105,7 +105,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - Discussing methodology specifics on weco.io as a practice based community currency
 
 ### Horizon two
-- DAO Codification w/Cosmos Groups Module and `authz` function
+- DAO Codification w/Cosmos Groups Module and `authz` function (viable systems model structure)
 - Describing general systematics as an AD4M Language
 - Integrating Regen's data module as a perspective
 - Integrating Regen's eco-credit module as a perspective
@@ -116,12 +116,12 @@ This particular methodology is currently being demonstrated as both the H3uni co
 
 ---
 
-## Teams Involved
-WeCo.io - Interface
-VISN_Labs - Product
-LunarPunk_Labs - Operations
-Regenerating Sonora - Community
-Sovereign Nature Initiative - Backend integration
+## Team organisation
+Purpose :: Interface :: WeCo.io
+Intelligence :: Community :: Regenerating Sonora
+Operations :: Logistics & Coordination ::  LunarPunk_Labs
+Coordination Task :: Product :: VISN_Labs
+Resourcing :: Backend integration :: Sovereign Nature Initiative
 
 ## Organisational Roadmap
 
