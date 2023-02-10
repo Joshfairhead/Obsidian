@@ -102,7 +102,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 
 ### Horizon one
 - Finishing the Systematic interface plugin for Weco/Obsidian
-- Discussing methodology specifics on weco.io as a practice based community currency
+- Discussing methodology specifics on Weco.io as a practice based community currency
 
 ### Horizon two
 - DAO Codification w/Cosmos Groups Module and `authz` function (viable systems model structure)
@@ -116,7 +116,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 
 ---
 
-## Team Organisation
+## Teams as Viable System
 - Purpose :: Interface :: WeCo.io
 - Intelligence :: Community :: Regenerating Sonora
 - Operations :: Logistics & Coordination ::  LunarPunk_Labs
