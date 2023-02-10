@@ -95,13 +95,14 @@ Paramater Groupings:
 - Perceiving qualities
 - Mental repatterining
 
-This particular methodology is alive and being used 
+This particular methodology is alive and the process is currently being demonstrated as both the H3uni course with documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards). You can keep up with the progress [here](https://weco.io/s/lunarpunklabs/posts).
 
 --- 
-## Technical Roadmap
+## Roadmap
 
 ### Horizon one
 - Finishing the Systematic interface plugin for Weco/Obsidian
+- Discussing methodology specifics on weco.io as a practice based community currency
 
 ### Horizon two
 - DAO Codification w/Cosmos Groups Module and `authz` function
@@ -110,7 +111,7 @@ This particular methodology is alive and being used
 - Integrating Regen's eco-credit module as a perspective
 
 ### Horizon three
-- Anchoring pilot data on chain with the data module
+- Anchoring Regenerating Sonoras pilot data on chain with the data module
 - Issuing systematics as a semantic credit class and minting pilot eco-credits
 
 ---
@@ -120,7 +121,7 @@ WeCo.io - Interface
 VISN_Labs - Product
 LunarPunk_Labs - Operations
 Regenerating Sonora - Community
-Sovereign Nature Initiative - Backend (?)
+Sovereign Nature Initiative - Backend integration
 
 ## Organisational Roadmap
 
