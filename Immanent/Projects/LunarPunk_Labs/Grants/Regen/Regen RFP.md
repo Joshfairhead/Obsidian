@@ -95,7 +95,7 @@ Paramater Groupings:
 - Perceiving qualities
 - Mental repatterining
 
-This particular methodology is alive and the process is currently being demonstrated as both the H3uni course with documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards). You can keep up with the progress [here](https://weco.io/s/lunarpunklabs/posts).
+This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards). You can keep up with the teams progress [here](https://weco.io/s/lunarpunklabs/posts).
 
 --- 
 ## Roadmap
