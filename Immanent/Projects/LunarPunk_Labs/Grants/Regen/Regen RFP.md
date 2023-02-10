@@ -35,21 +35,21 @@ As a technical architecture, this foundational 'meta ontology' allows us to enco
 
 Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility.
 
-## Technical Infrastructure
-As far as design goes, there are three technical mechanisms that we can lean on in relation to our goal of integrating quantity with quality:
+## General Technical Infrastructure
+As far as necessary infrastructure design goes, there are three technical mechanisms that we can lean on in relation to our goal of integrating quantity with quality:
 - Impact evaluators (+)
 - Markov blankets (=)
 - Impact certificates (-)
 
 Markov blankets act as a form of general substrate and which can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
 
-An Impact certificate essentially articulates a methodology in a machine readable format - these certificates represent a means, while evaluation criteria codified in a similar format can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs' (in a geometry of "source, question, claim, proof"). 
+An Impact certificate essentially articulates a methodology in a machine readable format - these certificates represent a means, while evaluation criteria codified in a similar format of parametric groupings can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs' (in a geometry of "source, question, claim, proof"). 
 
 Taking such a concept one step further it's easy enough to imagine a form of bespoke consulting where any conversation is represented as functional geometries that aid the processes of communal understanding. When the discussion reaches consensus (on Credit methodology or class, DAO design, evaluation criteria etc.) we can use the interface to easily anchor data on chain. Any subsequent discussion (with or with out a facilitator) can be updated through such an interface and easily merged. This data can be aggregated as a form of capital and issued as eco-credits, which would help democratise access to technology in a significant way. Such a process can even be gamified to make the process fun and rewarding!
 
 From the interface level comes the functional specifications for chain integration. Using the AD4M ontology we can use general systematics to describe a set of metadata standards. We then describe both the data module and eco-credit modules in this 'language' to make them functionally compatible. For added precision, we may wish to add other ontologies for translating quantity (data module claims) to quality (eco-credit attestations). 
 
-Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact evaluation. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for impact certificates. The beauty of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
+Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact evaluation. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for impact certificates. The elegasre of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
 
 For example we can extend the triadic geometry MRV to be a tetradic geometry for more detailed resolution. The following was articulated by the dMeter community:
 - Directive: Human-sensing (Personal data stores, phone images, self reported data)
@@ -57,13 +57,15 @@ For example we can extend the triadic geometry MRV to be a tetradic geometry for
 - Ideal: Sky-sensing (satellite, drones, aerial)
 - Ground: Reputation-sensing (identity, community trust)
 
-Such an extension has many overlaps with REA accounting and the frame could be super imposed to increase the resolution of evaluation criteria. 
+Such an extension has many overlaps with REA accounting and the above frame can be superimposed to increase the resolution of evaluation criteria. 
 
 ---
-## Pilot Project(s)
-To bring these technologies to market requires pilot projects. There are obviously a number of great projects in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning centre and high school tech club working with Arudino sensors. 
+## Specific Tokenomic Mechanisms
+The above is general infrastructure for composing specific credits. The particular credit design is dependent on the parametric groupings instantiated around a use case or pilot project. To bring these technologies to market requires pilot projects. 
 
-### Regenerating Sonora Use Case
+There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning centre and high school tech club working with Arudino sensors. 
+
+#### Regenerating Sonora Use Case
 Starting from the LEHR gardens, we assess possibilities. It's decided that the quintessential step forward is to automate the gardens water timers. A group of local high schoolers automate the timers using their Arduino kits. Through the Weco interface, these data level streams are hooked up to a storage medium of choice like Filecoin Green and anchored with the Regen DataModule. 
 
 As the students add other sensors to augment the timers with feedback loops, these are added to the systematic interface. These feedback loops are assessed using active inferencing; are the gardens growing better with the automation or worse? Student determinations may well be best guesses, rather than institutional best practice, but a credit can be issued none the less using the eco-credit module. 
@@ -72,8 +74,28 @@ At some point in the future a soil scientist recommends measuring Brix values in
 
 As the student group develops a reputation for making strong decisions around the growing LEHR gardens, it becomes apparent that this is an investment opportunity to market participants. The students reserve pool grows in value thanks to this speculative activity, and consequentially so have the funds to scale operations into new locations. Both investors and the wider Regenerative movement benefit!
 
-But that's not all, the students realise that the LEHR gardens have been an anchor point around which the community practices have grown, bringing wellbeing and vibrancy to their community. They use the interface to codify their processes as a state model, which they augment their original model with as co-benefits. This reveals the more implicit aspects of their work, which is typically invisible to the bottom line of profits. These indicators help guide ethical investors and corporate responsibility funds to their project. 
+But that's not all, the students realise that the LEHR gardens have been an anchor point around which the community practices have grown which has brought wellbeing and vibrancy to their community. They use the interface to codify their activities as a state model, which they use to augment their commodity model as co-benefits. This reveals the more implicit aspects of their work, which is typically invisible to the bottom line of profits. These indicators help guide ethical investors and corporate responsibility funds to their project. 
 
+### Community Capital
+An example methodology our students might use for codifying their co-benefits is the H3uni framework deployed on the current course "The art of creative collaboration". This particular practice based methodology groups eight sets of parameters under four framing conditions. 
+
+Framing conditions:
+- Directive: Process
+- Instrumental: Method
+- Ideal: Task
+- Ground: Context
+
+Paramater Groupings:
+- Self awareness
+- Empathetic appreciation
+- Group dynamics
+- Interactive skill
+- Cognitive framing
+- Visualisation skill
+- Perceiving qualities
+- Mental repatterining
+
+This particular methodology is alive and being used 
 
 --- 
 ## Technical Roadmap
@@ -168,171 +190,6 @@ RND, Inc. can fund this work through a combination of:
 - [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
 - 
 
+## Quality Control
 
 
-
-
----
----
----
-# Hack Pad Ideation
----
-# RFP Information
-
-### Constraints
-Nature Based Solutions:
-> “actions to protect, regeneratively manage and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits”.
-
-Makes use of:
-- [EcoCredit Module](https://docs.regen.network/modules/ecocredit/), which allows for the management of ecological assets on Regen Ledger
-- [Data Module](https://docs.regen.network/modules/data/), which allows for the management of ecological data on Regen Ledger
-- [Regen Registry](https://library.regen.network/v/regen-registry-program-guide/), which allows for the management of methodologies tied to EcoCredits
-- [Regen Marketplace](https://app.regen.network/), which creates an accessible user interface to interact with EcoCredits
-
-Coming soon:
-- New [gov module](https://docs.cosmos.network/v0.46/modules/gov/03_messages.html#proposal-submission) capabilities (gov account can initiate any sdk.Msg)
-- [Interchain accounts](https://ibc.cosmos.network/main/apps/interchain-accounts/overview.html) support
-- [Groups module](https://docs.cosmos.network/v0.46/modules/group/) (on-chain multisigs)
-
-### Design Suggestions:
-- [Registry scope](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/regen-registry-scope)
-- Protocol-Owned EcoAsset Treasury
-	- There are a number of questions to answer in this scenario: 1) what percentage of emissions? 2) what percentage of a batch? 3) what would be the eligibility criteria for credit classes? 4) would the chain intend to hold these assets indefinitely, or would there be instances where the protocol would sell some portion of this treasury? 5) how would permanence be factored into treasury reserve management (credits have a limited lifetime, established in their credit class).
-- Insurance Pools
-- Forward Contracts
-- Compensating Scientific Contributors
-- Compensating Indigeneous Land Stewardship, Bioregions, and Global South
-- Liquid Staking
-
-### Submissions should include:
--   Concise description of the tokenomic mechanism you would like to develop
--   Project roadmap
--   Overview of the team/organization/DAO
--   Proposed budget/compensation structure
-
-### Regen Foundation funding paths:
--   A REGEN token grant
--   A Community Staking DAO grant (500k locked REGEN tokens) to fund the establishment of a Tokenomics DAO
--   A token delegation (of REGEN, or potentially of ATOM and OSMO as well)
-
-### RND funding paths:
--   Token grants with 1 year lock up of up to 200k REGEN
--   $25k USD cash payment
--   Token delegations
-
---- 
-# Proposal Hacking
-
-### 1 Specifications / Constraints
-Makes use of:
-- [EcoCredit Module](https://docs.regen.network/modules/ecocredit/), which allows for the management of ecological assets on Regen Ledger
-	- MetaNFTs: Semantic / Systematic Eco-Credits and credit classes
-- [Data Module](https://docs.regen.network/modules/data/), which allows for the management of ecological data on Regen Ledger
-	- Conversation graphs about methodology
-	- "MetaNFTs" Systematic / semantic links
-- [Regen Registry](https://library.regen.network/v/regen-registry-program-guide/), which allows for the management of methodologies tied to EcoCredits
-- [Regen Marketplace](https://app.regen.network/), which creates an accessible user interface to interact with EcoCredits
-
-Coming soon:
-- New [gov module](https://docs.cosmos.network/v0.46/modules/gov/03_messages.html#proposal-submission) capabilities (gov account can initiate any sdk.Msg)
-- [Interchain accounts](https://ibc.cosmos.network/main/apps/interchain-accounts/overview.html) support
-- [Groups module](https://docs.cosmos.network/v0.46/modules/group/) (on-chain multisigs)
- 
- Homebrewed additions:
-- Active Inference / Markov Blankets
-- Systematics / OualSystems / Fracts
-- Integrates / informs / informed by [[RFP-X]]
-- [Holonics](https://github.com/wecollective/wiki/blob/main/new-wiki/holonics.md)
-- AD4M
-
-### 2 Design
-Interesting threads from RFP:
-- Protocol-Owned EcoAsset Treasury
-- Compensating Scientific Contributors
-
-**Riff A:** 
-1) Bioregion
-2) Stewards
-3) Community institutions
-
-- Bioregion / Community can have a bidirectional 'token' stream
-- Stewards can hold context through the glass bead game
-
-**Riff B**
-- Proof of regeneration and verification bundle
-- Urban Regeneartion e.g. [Jeremy](https://twitter.com/gospelofchange/status/1602559757587456000?s=61&t=X-Qo1Tj-OIAkMgk8Nol0zw)
-- Land ownership emissions; distributed ownership of a community land trust 
-
-**Riff C**
-- Social ecology credits, self similar structures 
-- Proof of care, proof of regeneration,
-- Metrics of social resonance on increasing scales; e.g. proof of meditation
-- DisCo
-
-**Riff D**
-- Composable credit classes 
-
-### 3 Pilot Projects
-- Regenerating Sonora / Arudinos
-- Jillian Hoveys PHD + Systematics
-- Agroforestry: AgroforrestDAO / EthicHub
-- BioChar: Kulshan Carbon Turst / Jesu 
-- Verification Bundle
-
-### 4 Product / Market / Management
-- Concise description of the tokenomic mechanism you would like to develop
-	- Semantically compossible eco-credits; Hypercerts constructed from Markov/Friston blankets to match and mediate impact certificates with impact evaluators using General Systematics. 
-
-### 5 Perfected Designs (Functional specs?)
-- Project roadmap
-	- H1: DAO design
-	- H2: Ledger Consortium (DAO 2 DAO)
-	- H3: Network State
-
-### 6 Planned Product
-- Overview of the team/organization/DAO
-	- Potential Partners (unstructured by Will)
-		- H3 University (Anthony, Alfonso, Suzanne)
-		- LunarPunk (Josh, Maija, Rishi, Noah)
-		- Soverign Nature Initiative (Ale, Cathrine, Paul)
-		- Regenerating Sonora (Chris, Evan, Kathy)
-		- Weco (Laurence, James)
-			- Hyphen.earth for oracle feeds?
-		- Vision Labs (Thom)
-		- Spirit Tribe (Fenix, Swapneel)
-		- Liminal (Roberto, Laura, Jillian)
-		- Vision Labs (Thom)
-		- EarthShot (Jeremey)
-		- Unconventional (Ome)
-		- Open Collective (Ronen)
-		- Digital Gaia (Rafael)
-		- Sensorica (Tim, Tibi)
-		- Commons Stack (Griff)
-		- ReFiDAO (John Elis)
-		- Agency (Jesse)
-		- Verification Infrastructure Bundle (Joe)
-		- Trees and BioChar
-			- Kulshan Carbon Trust (Howard)
-			- Reverdecer (Jesu)
-			- RMTerra (Pablo)
-			- Reflorista (Susana Guimarães)
-	- Potential partners structured by role / function:
-		- Place Based Community :: Liminal, Regenerating Sonora, Regen Civic Alliance, OASA / TDF, Refloresta, Kulshan, RMTerra
-		- Permaculture Pilots :: Chris, Jillian, Jesu, Gijs
-			- Carbon :: Biochar :: Kulshan, Jesu,
-			- Carbon :: Agroforrestry :: Coffee :: Gijs, Pablo/RMTerra, coffee carbon collective
-		- Science :: Robin, Ned, Adina, Tibi, Tim, Bryan, Michelle, Gijs
-		- Marketing :: Maija, Rishi, Fenix, Jesse, John Ash, John Elis, Pranav, Dave Forsten
-		- Fund Raising :: Fenix, Rishi, Letty
-		- Business Development :: Community :: Fenix, Jillian, 
-		- Product :: Ronen, Thom, Laurence, Dil,
-			- Active Inference :: John Ash, Noah, Tim, Roberto, Digital Gaia
-		- Development :: Ome, James, Roberto, Habacuc, Noah, Greg
-			- Development :: Interface :: James, Maija
-			- Development :: BackEnd :: Noah, Greg, Roberto, Habacuc, 
-		- Ontology :: Michelle, Josh, Maija, Laurence, Chris
-		- Process Design :: Josh, Chris, Ome, Maija,
-
-### 7 Quality Control
-- Proposed budget/compensation structure
-- References and Bibliography?

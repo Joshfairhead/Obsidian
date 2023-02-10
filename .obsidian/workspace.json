@@ -32,39 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ba3d016c3e03224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "771b96eb3d45e03b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f6f9f02ca6bcd60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/WorkBench/ACCM1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/ACCM1.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/ACCM1.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,17 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f6f9f02ca6bcd60",
+  "active": "16850a5149a8ac04",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
-    "Immanent/DailyNotes/2023-02-09.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Regen RFP Hack Pad.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+    "Immanent/WorkBench/ACCM1.md",
+    "Immanent/DailyNotes/2023-02-09.md",
     "Immanent/DailyNotes/2023-02-08.md",
     "assets/H3uni/1626444290_29.pdf",
     "assets/H3uni/1626444292_30.png",
     "assets/H3uni/1626444294_31.png",
-    "assets/H3uni/1626444296_32.png",
-    "assets/H3uni/1626444298_33.png",
-    "assets/H3uni/1626444300_34.png"
+    "assets/H3uni/1626444296_32.png"
   ]
 }
