@@ -116,15 +116,14 @@ This particular methodology is currently being demonstrated as both the H3uni co
 
 ---
 
-## Team organisation
-Purpose :: Interface :: WeCo.io
-Intelligence :: Community :: Regenerating Sonora
-Operations :: Logistics & Coordination ::  LunarPunk_Labs
-Coordination Task :: Product :: VISN_Labs
-Resourcing :: Backend integration :: Sovereign Nature Initiative
+## Team Organisation
+- Purpose :: Interface :: WeCo.io
+- Intelligence :: Community :: Regenerating Sonora
+- Operations :: Logistics & Coordination ::  LunarPunk_Labs
+- Coordination Task :: Product :: VISN_Labs
+- Resourcing :: Backend integration :: Sovereign Nature Initiative
 
-## Organisational Roadmap
-
+## DAO Roadmap
 ### Horizon one
 - LunarPunk_Labs 
 	- DAO Structure as a viable systems model
