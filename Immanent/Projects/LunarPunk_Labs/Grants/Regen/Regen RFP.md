@@ -189,7 +189,7 @@ RND, Inc. can fund this work through a combination of:
 - [The emporers new markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
 - [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
 - [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
-- 
+- PurplePill.vision
 
 ## Quality Control
 
