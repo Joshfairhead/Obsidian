@@ -10,7 +10,7 @@
 - [Thoms doc](https://docs.google.com/document/d/1sw33nu8eNqh2_-BLsPz7BDswFYCEgUE9kvEtHzFFe8M/edit#)
 ---
 
-# Title: Systematic Semantics 
+# Semantic Networks for Practical Language Evolution 
 LunarPunk_Labs and H3uni
 
 # Problem and solution
