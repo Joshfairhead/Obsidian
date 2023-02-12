@@ -47,8 +47,9 @@ In regards to predictive capacities, the nascent field of [active inferencing](h
 This research proposal is centered around the semantic web has a clear technical link to the open problem statement of “relaxing the traditional ‘web’ assumptions of a single origin to engage with the possibilities of pre-distributed CDN or content-addressed data.” It especially ties in well with recent work on [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/) published from the [Network Goods](https://research.protocol.ai/groups/network-goods/) research group. The Hypercerts [community](https://hypercerts.xyz/) also seems particularly fertile in regards to discussions around model development and “Digital Twins”.
 
 # Impact
+> You can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both. - Bill McKibben
 
-Without an implementation plan this proposal means little, we need to generate traction which comes from marketing and technological development. To those ends we believe that coordinating development around the Regen Ledgers data-module and eco-credit modules are a pragmatic pathway and have submitted this governance proposal to the networks forum on commonwealth, along with a [background primer on ecosystem function from a market context](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
+Without an implementation plan this research proposal means pretty little, we need to generate traction which comes from marketing and technological development. To those ends we believe that coordinating development around the Regen Ledgers data-module and eco-credit modules are a pragmatic pathway and have submitted this governance proposal to the networks forum on commonwealth, along with a [background primer on ecosystem function from a market context](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
 
 At the moment accounting for impact in regenerative capital markets is particularly difficult from a quantitive standpoint as we are essentially trying to measure implicit values. Assuming the implementation plan linked above succeeds, we will actually be able to make such comparisons, which is a notion transformative enough to reshape entire capital markets; particularly to the financial benefits of proletariat stewards practicing Nature Based Solutions. Aside from these more grounded and pressing needs, we might consider the possibilities for society that are available should it transform into a fully fledged semantic web; perhaps a “[sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)” or truely [Open Collective](https://opencollective.com/lunarpunk_labs) will emerge through interaction with our peers at [informal systems](https://informal.systems/)!
 
@@ -58,17 +59,17 @@ In regards to advancing the field, a synthesis between General Systematics and F
 
 In theory, science can be categorised both necessarily and sufficiently as three fundamental forms of reasoning; rational proof (deductive logic/Baconian method), empiric verification (inductive wisdom/Goethian method) and abductive insights that synthesise the known priors of means towards an end or outcome like Hume's Guillotine (Bayesian Inference). We seek to employ all three methods in our research. Below is a the application of a proposed methodology from H3uni with [strong explanatory power](https://en.wikipedia.org/wiki/Karl_Popper) and [living community of practice](https://en.wikipedia.org/wiki/Thomas_Kuhn).
 
-1. Research Process: Facilitating discussions with [methodologies derived from general systematics](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987) as applied research into the drivers of practical language evolution. Proof of concept testing as a "weave" on [weco.io](https://weco.io/p/3528).
+1. **Research Process:** Facilitating discussions with [methodologies derived from general systematics](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987) as applied research into the drivers of practical language evolution. Proof of concept testing as a "weave" on [weco.io](https://weco.io/p/3528).
    
-2. Research Methods: Specific instantiations of systematics like this outline applied as an [active inference ontology](https://zenodo.org/record/6320575#.Y-hMMBPP2Es), data sets to include the Regen Network and Registry. 
+2. **Research Methods:** Specific instantiations of systematics like this outline applied as an [active inference ontology](https://zenodo.org/record/6320575#.Y-hMMBPP2Es), data sets to include the Regen Network and Registry. 
 
-4. Research Context: Comparative study of the relevant domains:
+4. **Research Context:** Comparative study of the relevant domains:
 	1.  Exhaustive review of General Systematics and Active Inference literature
 	2.  Deepening research into the domains of Interaction design and representation
 
-4. Research Task: Increasing the semantic efficiency of LLMs by examining the total harmonic distortion of overlapping ontological perspectives assessed through the statistical measurement of linguistic clusters. 
+4. **Research Task:** Increasing the semantic efficiency of LLMs by examining the total harmonic distortion of overlapping ontological perspectives assessed through the statistical measurement of linguistic clusters. 
 
-In parallel it will be necessary to drive implementation by championing the proposed implementation plan and generating stakeholder buy in:
+In parallel it will be necessary to drive the implementation by championing the proposal and generating stakeholder buy in:
 1.  Regen community calls
 2.  Hypercerts community calls
 3.  Network Goods community calls
@@ -80,12 +81,14 @@ In parallel it will be necessary to drive implementation by championing the prop
 
 Date: 2020-01-01
 Deliverables:
--   Articulate methodology in a group context looking towards its further documentation
--   Practice the methodology techniques and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
--   Generate a research report of results to provide the pilot project 
--   Pilot project experimentation
--   Development of technology informed by research and results in the field
--
+- Articulate methodology in a group context looking towards its further documentation
+- Practice the methodology techniques and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
+- Generate a research report of results to provide the pilot project 
+- Pilot project experimentation
+- Development of technology informed by research and results in the field
+
+
+
 Long-form description… Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## M2: <title> 
@@ -97,52 +100,32 @@ Deliverables:
 
 Long-form description… Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-  
-  
-  
-  
 
-—
 
-References
+---
 
-  
+
+# References
 
 [https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
 
-  
-
 $1T stranded assets number: [https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
 
-  
-
 Leading research on stranded assets:
-
 https://www.smithschool.ox.ac.uk/
 
-  
+
+---
 
 From notes: 
-
 - **Co2 in the atmosphere has now passed 400ppm and climate scientists have agree that the safe level to avoid climate catastrophe is 350ppm**
-
                  - 417ppm in 2020
-
              - To reduce the greenhouse gasses to 350ppm means cutting global Co2 emissions by 80% by 2020
-
              - The other important number to remember is the safe absolute amount of Co2 that we can emit into the atmosphere and still stay at a safe level. Thats a very large number; 565 gigatons (billions of tons) of Co2... but the important fact to remember is that this number represents only 20% of the reserves that the proven reserves that the fossil fuel company have in the ground and listed as assets that they plan to burn!
-
              - **So this means that to avoid global climate collapse the fossil fuel companies need to keep 80% of their assets (proven reserves) in the ground. **
-
              - This explains why big oil and big coal fight so hard against restrictions on carbon emissions, even to the extent of systematically denying climate science and orchestrating publicity campaigns against climate science and undermining it, because they don't want to turn to 80% of their assets into whats called **"stranded assets"**
-
              - **Once the financial markets know that 80% of these assets will stay in the ground, they're not worth anything - so the shares drop by 80%, which for them is a catastrophe of course!**
-
              - One of the most eloquent writers on climate change is [[Bill McKibben]] and in the systems view of life book we cite numerous articles of his - and he writes **"you can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both."**
-
-  
-  
-
 — 
 
 Regen RFP: 
@@ -150,45 +133,17 @@ Regen RFP: 
   
   
 
-—
-
-Hacking
-
-  
+—- 
+## Hacking
 
 The two major fields of research that informs our inquiry into outperformance retrieval time are:  
 
-  
-
 [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems) is a second order science that has been in development since at least 1955 by the British scientist John Bennett. The field can be thought of as an epistemological framework for ontological design that rests adjacent to cybernetic control theories. 
-
-  
 
 [Active Inference](https://mitpress.mit.edu/9780262045353/active-inference/) is a means of understanding sentience from the perspective of minimizing free energy or surprise. It’s a form of abductive or Bayseian reasoning pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston).
 
-  
-
-Web3 Technology is a means Doug Englebart, Ted Nelson, Xerox Parc.
-
-  
-
 [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/), and [finding desirable results on the web is like searching for a needle in a Google whack](https://en.wikipedia.org/wiki/Dave_Gorman%27s_Googlewhack_Adventure). 
 
-  
-  
-
-Hacking: >> The web is still in the dark ages and needs illumination, yet standards are emergent and arise out of traction. The first assessment we need to make is
-
-Relevance is a matter of semantics; meaning in the context of values and purpose.
-
--   Semantic web (AD4M)
-    
--   General systematicis
-    
--   Active inference / Friston Blankets / Free Energy Principle
-    
-
-  
   
 
 -   Explain how the problem relates to Protocol Labs’ [open problems](https://github.com/protocol/research/blob/master/README.md) or [recent research activities](https://research.protocol.ai/publications/). We seldom fund proposals without a clear technical link to one of our [active research groups](https://research.protocol.ai/groups/), so please indicate the group or researcher(s) that you consider the closest to your work.
