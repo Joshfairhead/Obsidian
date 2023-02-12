@@ -99,8 +99,9 @@ Deliverables:
 6. Submission is made to the network via an on chain vote
 7. Proposal passes or fails based on validator 
 
-Budget: $35k Research budget for LunarPunk labs
-
+Budget: 
+- $25k Research budget from RND. Inc to LunarPunk_Labs
+- Token grant to partners from Regen Foundation
 
 ## M2: Design
 Start Date: 2023-05-23
@@ -113,25 +114,19 @@ Deliverables:
 6. Engineering on pilot project begins as community discuss documentation
 7. Updates submitted to Commonwealth, Protocol Labs and Regen community
 
-Budget: $35k from Protocol Labs to H3uni
+Budget: 
+- $35k from Protocol Labs to H3uni
+- Token delegation from Regen Foundation to partners
 
 ## M3: Pilot Project
-Budget: $25k from Rege
+Budget: 
+- 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
+## M4: Tokenomics DAO
+Budget: 
+- 500k locked REGEN tokens to initiate the csDAO structure.
+- Contributions for Protocol Labs to sustain traction
 
----
-
-## Implemantation plan budget options
-
-Regen Foundation can fund this work through any combination of the following:
-- A REGEN token grant
-- A Community Staking DAO grant (500k locked REGEN tokens) to fund the establishment of a Tokenomics DAO
-- A token delegation (of REGEN, or potentially of ATOM and OSMO as well)
-
-RND, Inc. can fund this work through a combination of:
--   Token grants with 1 year lock up of up to 200k REGEN
--   $25k USD cash payment
--   Token delegations
 
 
 ---
