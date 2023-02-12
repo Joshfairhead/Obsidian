@@ -89,22 +89,22 @@ Deliverables:
 7. Quality control
 
 ## M1: Functional Specifications
-Start Date: 2023-04-04
+Start Date: 2023-04-06
 Deliverables:
 1. Submitting the Implementation proposal to Commonwealth.im in parallel to this RFP-X
 2. A date and location for public sense making is shared with partners and community
 3. Presentation on the state of affairs and public sense making session in consortium format
 4. Working with Implementation partners to align on functional specifications
 5. Public presentation of engineering documentation to Regen Community and Network Goods team
-6. Submission is made to the network via an on chain vote
-7. Proposal passes or fails based on validator 
+6. Submission is made to the network via an on chain vote (two weeks deliberation time)
+7. Proposal passes or fails based on validator determinations
 
 Budget: 
 - $25k Research budget from RND. Inc to LunarPunk_Labs
 - Token grant to partners from Regen Foundation
 
 ## M2: Design
-Start Date: 2023-05-23
+Start Date: 2023-07-17
 Deliverables:
 1. Articulate the precise eco-credit methodology and share in a group context
 2. Practice the methodology technique and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
@@ -118,6 +118,8 @@ Budget:
 - $35k from Protocol Labs to H3uni
 - Token delegation from Regen Foundation to partners
 
+## Break and plan reassessment
+
 ## M3: Pilot Project
 Budget: 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
@@ -125,11 +127,15 @@ Budget:
 ## M4: Tokenomics DAO
 Budget: 
 - 500k locked REGEN tokens to initiate the csDAO structure.
-- Contributions for Protocol Labs to sustain traction
+- Contributions from Protocol Labs to sustain traction
 
+# Current Parnterships as Viable Systems Model
+- Purpose :: Interface :: WeCo.io
+- Intelligence :: Community :: Regenerating Sonora
+- Operations :: Community Logistics & Coordination ::  LunarPunk_Labs
+- Coordination Task :: Product :: VISN_Labs
+- Resourcing :: Backend integration :: Sovereign Nature Initiative
 
-
----
 
 
 # References
@@ -142,20 +148,7 @@ Leading research on stranded assets:
 https://www.smithschool.ox.ac.uk/
 
 
----
 
-From notes: 
-- **Co2 in the atmosphere has now passed 400ppm and climate scientists have agree that the safe level to avoid climate catastrophe is 350ppm**
-                 - 417ppm in 2020
-             - To reduce the greenhouse gasses to 350ppm means cutting global Co2 emissions by 80% by 2020
-             - The other important number to remember is the safe absolute amount of Co2 that we can emit into the atmosphere and still stay at a safe level. Thats a very large number; 565 gigatons (billions of tons) of Co2... but the important fact to remember is that this number represents only 20% of the reserves that the proven reserves that the fossil fuel company have in the ground and listed as assets that they plan to burn!
-             - **So this means that to avoid global climate collapse the fossil fuel companies need to keep 80% of their assets (proven reserves) in the ground. **
-             - This explains why big oil and big coal fight so hard against restrictions on carbon emissions, even to the extent of systematically denying climate science and orchestrating publicity campaigns against climate science and undermining it, because they don't want to turn to 80% of their assets into whats called **"stranded assets"**
-             - **Once the financial markets know that 80% of these assets will stay in the ground, they're not worth anything - so the shares drop by 80%, which for them is a catastrophe of course!**
-             - One of the most eloquent writers on climate change is [[Bill McKibben]] and in the systems view of life book we cite numerous articles of his - and he writes **"you can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both."**
-— 
-
-Regen RFP: 
 
   
   
@@ -171,6 +164,14 @@ The two major fields of research that informs our inquiry into outperformance re
 
 [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/), and [finding desirable results on the web is like searching for a needle in a Google whack](https://en.wikipedia.org/wiki/Dave_Gorman%27s_Googlewhack_Adventure). 
 
-  
+---
 
--   Explain how the problem relates to Protocol Labs’ [open problems](https://github.com/protocol/research/blob/master/README.md) or [recent research activities](https://research.protocol.ai/publications/). We seldom fund proposals without a clear technical link to one of our [active research groups](https://research.protocol.ai/groups/), so please indicate the group or researcher(s) that you consider the closest to your work.
+From notes: 
+- **Co2 in the atmosphere has now passed 400ppm and climate scientists have agree that the safe level to avoid climate catastrophe is 350ppm**
+                 - 417ppm in 2020
+             - To reduce the greenhouse gasses to 350ppm means cutting global Co2 emissions by 80% by 2020
+             - The other important number to remember is the safe absolute amount of Co2 that we can emit into the atmosphere and still stay at a safe level. Thats a very large number; 565 gigatons (billions of tons) of Co2... but the important fact to remember is that this number represents only 20% of the reserves that the proven reserves that the fossil fuel company have in the ground and listed as assets that they plan to burn!
+             - **So this means that to avoid global climate collapse the fossil fuel companies need to keep 80% of their assets (proven reserves) in the ground. **
+             - This explains why big oil and big coal fight so hard against restrictions on carbon emissions, even to the extent of systematically denying climate science and orchestrating publicity campaigns against climate science and undermining it, because they don't want to turn to 80% of their assets into whats called **"stranded assets"**
+             - **Once the financial markets know that 80% of these assets will stay in the ground, they're not worth anything - so the shares drop by 80%, which for them is a catastrophe of course!**
+             - One of the most eloquent writers on climate change is [[Bill McKibben]] and in the systems view of life book we cite numerous articles of his - and he writes **"you can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both."**

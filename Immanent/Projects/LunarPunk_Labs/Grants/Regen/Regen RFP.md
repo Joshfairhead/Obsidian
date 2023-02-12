@@ -116,7 +116,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 
 ---
 
-## Teams as Viable System
+## DAO teams as Viable System
 - Purpose :: Interface :: WeCo.io
 - Intelligence :: Community :: Regenerating Sonora
 - Operations :: Logistics & Coordination ::  LunarPunk_Labs
