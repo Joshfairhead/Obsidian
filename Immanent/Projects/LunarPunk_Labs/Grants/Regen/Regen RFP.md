@@ -14,28 +14,32 @@
 https://odyssey.org/past-editions/odyssey-2020/self-sovereign-identity-in-action/
 
 ## Background
-To briefly preface this proposal submission with some context, the team at LunarPunk_Labs are focused on bridging research and implementation and have been focused on the realisation of the semantic web for the past 4 years. As a distributed team we have previously won the digital identity track at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Weco on the other hand have been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. Their work to date has previously been funded by Eric Harris Brown (of CEPTR). 
+To briefly preface this proposal submission with some context, the team at LunarPunk_Labs are focused on bridging research and implementation are essentially proposing and ecosystem partnership between Regen Network and Protocol Labs.  As a distributed team we have previously [won the digital identity track](https://www.youtube.com/watch?v=vHhzJpDTEMs) at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
 
+Weco has been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. The interface is designed as a social network with a modular plugin architecture. Their work to date has previously been funded by Eric Harris Brown of CEPTR notoriety. 
+
+---
 ## Specifications as constraints
 Nature Based Solutions are defined by the Regen Registry in the following way:
 
 > Actions to protect, regeneratively manage and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits”.
 
-Consequentially, "Adaptive Capital" is a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of integrating quantitive measures with qualitative values and outcomes. For such a project to find traction need to consider the existential domains of markets, science and technology; while holding in mind the essential values of people, planet and protocols. Let's explore:
+Consequentially, "Adaptive Capital" is a proposition for valuing living ecosystems through  amulti-perspective architecture and the free energy principal; this is a means of integrating quantitive measures with qualitative values and outcomes. For such a project to find traction need to consider the existential domains of markets, science and technology; while holding in mind the essential values of people, planet and protocols. Let's explore:
 
 **Market Assumptions**
-The notion that markets are seeking pathways for divestment from degenerate commodities to more regenerative investment vehicles is getting wider traction. However the divesment is constrained by a lack of said pathways. We confidently assert this as it's known that there are $5T of "stranded assets" trading on Wall St. books, which in our opinion represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [[Economics]]
+Markets are seeking pathways for divestment from degenerate commodities to more regenerative investment vehicles is getting wider traction. However the divesment is constrained by a lack of said pathways and itst's estimated that there are $5T of "stranded assets" trading on Wall St. books. In our  opinion, this represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [Here is a primer we wrote on ecosystem economics](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
 
 **Scientific Assumptions**
-When it comes to addressing the markets with integrity, we need to incorporate truth claims. There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inference). Such truth claims are essentially perspectives, which brings up questions of frame and representation; according to Khun science is a community of practice, while according to Popper it's about the explanatory power of a framework. [Ontological design](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107?gi=8c7bbd1fb970).  
+When it comes to addressing the markets with integrity, we need to incorporate truth claims. There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inference). Such truth claims are essentially perspectives, which brings up questions of frame and [representation](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107?gi=8c7bbd1fb970); according to Khun science is a community of practice, while according to Popper it's about the explanatory power of a framework. We consequentially need to represent ontological preferences in a transparent frame or epistemology. For that we rely on the second order science of general systematics.  
 
 **Technological Assumptions**
 From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents, speaking their language of preference, express perspectives on 'Truth'. 
 
-As a technical architecture, this foundational 'meta ontology' allows us to encode other frameworks as languages, and in particular we believe that encoding "general systematics" is a transparent epistemology that can act as a functional backbone for modelling any scenario. 
+As a technical architecture, this foundational 'meta ontology' allows us to encode other frameworks as perspectives; and in particular we believe that encoding "general systematics" is a transparent epistemology that can act as a functional backbone for modelling any scenario. 
 
 Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility.
 
+---
 ## General Technical Infrastructure
 As far as necessary infrastructure design goes, there are three technical mechanisms that we can lean on in relation to our goal of integrating quantity with quality:
 - Impact evaluators (+)
@@ -44,15 +48,15 @@ As far as necessary infrastructure design goes, there are three technical mechan
 
 Markov blankets act as a form of general substrate and which can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
 
-An Impact certificate essentially articulates a methodology in a machine readable format - these certificates represent a means, while evaluation criteria codified in a similar format of parametric groupings can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs' (in a geometry of "source, question, claim, proof"). 
+An Impact certificate essentially articulates a given methodology in a machine readable format. These certificates represent a means, while evaluation criteria codified in a similar format of parametric groupings can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs' (represented in a geometry of "source, question, claim, proof"). 
 
 Taking such a concept one step further it's easy enough to imagine a form of bespoke consulting where any conversation is represented as functional geometries that aid the processes of communal understanding. When the discussion reaches consensus (on Credit methodology or class, DAO design, evaluation criteria etc.) we can use the interface to easily anchor data on chain. Any subsequent discussion (with or with out a facilitator) can be updated through such an interface and easily merged. This data can be aggregated as a form of capital and issued as eco-credits, which would help democratise access to technology in a significant way. Such a process can even be gamified to make the process fun and rewarding!
 
-From the interface level comes the functional specifications for chain integration. Using the AD4M ontology we can use general systematics to describe a set of metadata standards. We then describe both the data module and eco-credit modules in this 'language' to make them functionally compatible. For added precision, we may wish to add other ontologies for translating quantity (data module claims) to quality (eco-credit attestations). 
+From the interface level comes the functional specifications for chain integration. Using the AD4M ontology we can use general systematics to describe a set of metadata standards. We then describe both the data module and eco-credit modules as 'languages' to make them functionally compatible. For added precision, we may wish to add other ontologies for translating quantity (data module claims) to quality (eco-credit attestations). 
 
-Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact evaluation. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for impact certificates. The elegasre of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
+Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact evaluation. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for impact certificates. The elegance of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
 
-For example we can extend the triadic geometry MRV to be a tetradic geometry for more detailed resolution. The following was articulated by the dMeter community:
+For example we can extend the triadic geometry MRV to be a tetradic geometry for more detailed resolution. For example, the following was articulated by the dMeter community:
 - Directive: Human-sensing (Personal data stores, phone images, self reported data)
 - Instrumental: Remote-sensing (IOT sensors, devices)
 - Ideal: Sky-sensing (satellite, drones, aerial)
@@ -61,13 +65,13 @@ For example we can extend the triadic geometry MRV to be a tetradic geometry for
 Such an extension has many overlaps with REA accounting and the above frame can be superimposed to increase the resolution of evaluation criteria. 
 
 ---
-## Specific Tokenomic Mechanisms
+## Specific Tokenomic Mechanism(s)
 The above is general infrastructure for composing specific credits. The particular credit design is dependent on the parametric groupings instantiated around a use case or pilot project. To bring these technologies to market requires pilot projects. 
 
-There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning centre and high school tech club working with Arudino sensors. 
+There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions around them are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors. 
 
 #### Regenerating Sonora Use Case
-Starting from the LEHR gardens, we assess possibilities. It's decided that the quintessential step forward is to automate the gardens water timers. A group of local high schoolers automate the timers using their Arduino kits. Through the Weco interface, these data level streams are hooked up to a storage medium of choice like Filecoin Green and anchored with the Regen DataModule. 
+Starting from the LEHR gardens, we assess possibilities. It's decided that the key step forward is to automate the gardens water timers. A group of local high schoolers automate the timers using their Arduino kits. Through the Weco interface, these data level streams are hooked up to a storage medium of choice like Filecoin Green and anchored with the Regen DataModule. 
 
 As the students add other sensors to augment the timers with feedback loops, these are added to the systematic interface. These feedback loops are assessed using active inferencing; are the gardens growing better with the automation or worse? Student determinations may well be best guesses, rather than institutional best practice, but a credit can be issued none the less using the eco-credit module. 
 
@@ -99,12 +103,12 @@ An example methodology our students might use for codifying their co-benefits is
 This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards in a sequence). You can keep up with the teams progress [here](https://weco.io/p/3528).
 
 --- 
-# Roadmap
+# Roadmap and Budget
 
 #### Meta
 1. Lead: LunarPunk_Labs as a implementation DAO
 2. Serve: H3uni.org as an educational consortium of methodology developers 
-3. Support: Giordano.institute and Regen Network as semantic bluefunds
+3. Support: Protocol Labs and Regen Network as semantic bluefunds
 
 ### Milestone 1: Functional Specifications
 **Start Date:** 2023-04-06
@@ -155,18 +159,16 @@ This particular methodology is currently being demonstrated as both the H3uni co
 
 ### Milestone five: Engineering
 - Interface design for functionally encoding community conversations
-- Describing general systematics as an AD4M Language
-- Integrating Regen's data module as a perspective
-- Integrating Regen's eco-credit module as a perspective
+- Describing general systematics as an AD4M perspective
+- Integrating Regen's data module as an AD4M language
+- Integrating Regen's eco-credit module as an AD4M perspective
 
 ### Milestone six: Perfected Designs
 - Anchoring partner data on chain with the Regen data module
 - Minting eco-credits for pilot project partners
 
 ### Milestone seven: Quality Control
-- Issuing general systematics as a semantic credit class 
-
----
+- Issuing general systematics as a semantic credit class upon Registry sign off.
 
 ## DAO teams as Viable System
 - Purpose :: Pilot Project :: Regenerating Sonora 
@@ -194,22 +196,6 @@ This particular methodology is currently being demonstrated as both the H3uni co
 	- Operations: Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics, Facillitation
 	- Coordination Task: Communications
 	- Resourcing: Fundraising, Economics, Legal, Administration, 
-
-
-
-## Proposed Budget and Compensation Structure
-
-%%
-Regen Foundation can fund this work through any combination of the following:
--   A REGEN token grant
--   A Community Staking DAO grant (500k locked REGEN tokens) to fund the establishment of a Tokenomics DAO
--   A token delegation (of REGEN, or potentially of ATOM and OSMO as well)
-
-RND, Inc. can fund this work through a combination of:
--   Token grants with 1 year lock up of up to 200k REGEN
--   $25k USD cash payment
--   Token delegations
-%%
 
 ## References / Bibliography
 - [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)

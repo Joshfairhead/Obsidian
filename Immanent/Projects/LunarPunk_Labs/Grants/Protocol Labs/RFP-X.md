@@ -12,11 +12,11 @@ Review Rubric:
 
 ### [LunarPunk_Labs](lunapunklabs.org) - [University of the Third Horizon](h3uni.org)
 
-1. **Research question**: How do we Increase relevance on the web and effectively bridge the gap from research to implementation?  
+1. **Research question**: How do we increase relevance on internet to aid knowledge and understanding while effectively bridging the gap from research to implementation?  
 
-4. **Research problem statement**: Outperformance is retrieval time; to keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we must improve the efficiency of our representational capacities to feed our capabilities of search and retrieval at the protocol level.  
+4. **Research problem statement**: To keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we must improve the efficiency of our representational capacities, consequentially feeding the capabilities of search and retrieval at the protocol level, thereby increasing relevance. There is a deep need for functional semantic models. 
 
-3. **Proposed solution**: Semantically composable eco-credits; systemically structured Friston blankets used to create composable credit classes by representing community discourses as epistemologically transparent functional models. By providing precise algorithmic insights into relevant materials for [venture management and discovery](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/LunarPunk_Labs/Economics.md) we can harness market demand as a whole to drive vertical adoption of the technology stack, while also simultaneously divesting capital upstream to regenerative projects through the propagation of knowledge graphs. We might call this design ‘adaptive capital’ for simplicity or fit it under a pre-existing memeplex like ‘hypercerts’.
+3. **Proposed solution**: Drive protocol adoption through semantically composable eco-credits who's parametric groupings are determined through community conversation. To do this we propose looking at interface design and using functional information geometry to systematically construct Friston blankets for active inferencing. These models are epistemologically transparent, so can be made accessible and democratised through the interface layer.  By providing precise algorithmic insights into relevant materials for [venture management and discovery](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/LunarPunk_Labs/Economics.md) we can harness market demand as a whole to drive vertical adoption of the technology stack, while also simultaneously divesting capital upstream to regenerative projects through the propagation of knowledge graphs. We might call this design ‘adaptive capital’ for simplicity or fit it under a pre-existing memeplex like ‘hypercerts’.
 
 # Related work 
 

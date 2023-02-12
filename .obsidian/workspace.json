@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "odyssey",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,17 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16850a5149a8ac04",
+  "active": "6a25edb9f44c356d",
   "lastOpenFiles": [
-    "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+    "Immanent/WorkBench/().md",
+    "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
     "Omnicient/Artefacts (entropy)/Odyssey Momentum.md",
     "Omnicient/Artefacts (entropy)/Odyssey Momentum Presie.md",
-    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/Projects/Archive/Regen Foundation/Product/Community Pool Proposal Process.md",
     "Immanent/WorkBench/stranded assets.md",
     "Immanent/DailyNotes/_Archive/2020/2020-05-11.md",
-    "Immanent/DailyNotes/_Archive/2020/2020-12-01.md",
-    "Omnicient/Monad Forrest/Courses/Capra Course/Capra course lecture 11.md"
+    "Immanent/DailyNotes/_Archive/2020/2020-12-01.md"
   ]
 }
