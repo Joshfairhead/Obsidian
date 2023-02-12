@@ -22,11 +22,11 @@ Review Rubric:
 
 ## Problem framing
 
-The semantic web is politically a hard problem because it requires a confluence of factors to emerge across disciplines in a goldilocks zone of coalescence. The key question is what innovations are needed to bridge the gap between research and implementation?
+The semantic web is a hard problem because it requires a confluence of factors to emerge across disciplines. The key question is what innovations are needed to bridge the gap between research and implementation?
 
 ## State of art(s)
 
-Over the years there has been a plethora of research on the semantic web and related topics but from the perspective of this author centers around is Doug Englebarts “[Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138/)” and his many other innovations at Xerox Parc. Thankfully these ideas are once again gaining the attention they dearly deserve; even with a fresh and funky twist!
+Over the years there has been a plethora of research on the semantic web and related topics but from the perspective of this author centres around is Doug Englebarts “[Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138/)” and his many other innovations at Xerox Parc. Thankfully these ideas are once again gaining the attention they dearly deserve; even with a fresh and funky twist!
 
 #### **Interface Design**
 Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of representation and interaction design. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast, yet the field still has plenty of scope for development.
@@ -145,7 +145,7 @@ This milestone is a commoning phase where stakeholders are convened along with c
 
 # References
 - [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
-- 
+- [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
 
 - [$1T stranded assets number](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
 - [Leading research on stranded assets](https://www.smithschool.ox.ac.uk/)
