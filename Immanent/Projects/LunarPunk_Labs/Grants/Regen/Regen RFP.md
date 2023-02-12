@@ -117,11 +117,11 @@ This particular methodology is currently being demonstrated as both the H3uni co
 ---
 
 ## DAO teams as Viable System
-- Purpose :: Interface :: WeCo.io
-- Intelligence :: Community :: Regenerating Sonora
-- Operations :: Logistics & Coordination ::  LunarPunk_Labs
-- Coordination Task :: Product :: VISN_Labs
-- Resourcing :: Backend integration :: Sovereign Nature Initiative
+- Purpose :: Community :: Sovrign Nature Initiative 
+- Intelligence :: Interface :: WeCo.io
+- Operations :: Logistics & Coordination ::  LunarPunk_Labs 
+- Coordination Task :: Backend Integration :: Regen Network 
+- Resourcing :: Pilot Product :: Regenerating Sonora / VIZN_Labs
 
 ## DAO Roadmap
 ### Horizon one

@@ -28,13 +28,13 @@ The semantic web is politically a hard problem because it requires a confluence 
 
 Over the years there has been a plethora of research on the semantic web and related topics but from the perspective of this author centers around is Doug Englebarts “[Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138/)” and his many other innovations at Xerox Parc. Thankfully these ideas are once again gaining the attention they dearly deserve; even with a fresh and funky twist!
 
-**Interface Design**
+#### **Interface Design**
 Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of representation and interaction design. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast, yet the field still has plenty of scope for development.
 
-**Data Security and Network Integrity**
+#### **Data Security and Network Integrity**
 When considering a vision of a free and open internet that serves humanity, the most fundamental first principle to consider is the software security model. This model dictates a set of design affordances through the principle of inheritance. With the growing shift in preferences from centralized to decentralized computing, we have inadvertently started to re-adopt a [“capabilities”](https://www.youtube.com/watch?v=qZ2LltOmD5A&t) oriented security model at the network level. This architecture can be seen manifesting in the form of cryptographic tokens that are stored on distributed ledgers and controlled through wallet addresses - but it’s potential is mostly nascent and unrealised. 
 
-**Algorithmic intelligence**
+#### **Algorithmic intelligence**
 Between interfaces and distributed data storage lie algorithmic programmes; a primitive form of associative intelligence particularly useful for search and retrieval. There has been plenty of [discussion and dissent](https://nooscope.ai/) regarding “artificial intelligence” and “cybernetics” over the years but regardless of their interdisciplinary politics, both fields have grown considerably and are ripe for a meaningful confluence as the semantic web.  
 
 In regards to classification, a fruitful area of research is John Bennetts [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems). This is a second order science for qualitative parametric groupings that has been in continuous development since 1955 amongst a number of communities worldwide. Relevant collaborators of his were Buckminster Fuller, David Bohm and Stafford Beer. His tool for classification can be conceived of as a frame for constructing functional ontological groupings in a very elegant manner that also seems suitable for implementation on [appropriate distributed ledger technology](https://ad4m.dev/). 
@@ -49,9 +49,9 @@ This research proposal is centered around the semantic web has a clear technical
 # Impact
 > You can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both. - Bill McKibben
 
-Without an implementation plan this research proposal means pretty little, we need to generate traction which comes from marketing and technological development. To those ends we believe that coordinating development around the Regen Ledgers data-module and eco-credit modules are a pragmatic pathway and have submitted this governance proposal to the networks forum on commonwealth, along with a [background primer on ecosystem function from a market context](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
+Without an implementation plan this research proposal means pretty little, we need to generate traction which comes from marketing and porduct development. To those ends we believe that coordinating development around the Regen Ledgers data-module and eco-credit modules are a pragmatic pathway and have submitted this governance proposal to the networks forum on commonwealth, along with a [background primer on ecosystem function from a market context](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
 
-At the moment accounting for impact in regenerative capital markets is particularly difficult from a quantitive standpoint as we are essentially trying to measure implicit values. Assuming the implementation plan linked above succeeds, we will actually be able to make such comparisons, which is a notion transformative enough to reshape entire capital markets; particularly to the financial benefits of proletariat stewards practicing Nature Based Solutions. Aside from these more grounded and pressing needs, we might consider the possibilities for society that are available should it transform into a fully fledged semantic web; perhaps a “[sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)” or truely [Open Collective](https://opencollective.com/lunarpunk_labs) will emerge through interaction with our peers at [informal systems](https://informal.systems/)!
+At the moment accounting for impact in regenerative capital markets is particularly difficult from a quantitive standpoint as we are essentially trying to measure implicit values. Assuming the implementation plan linked above succeeds, we will actually be able to make such comparisons, which is a notion transformative enough to reshape entire capital markets; particularly to the financial benefits of proletariat stewards practicing Nature Based Solutions. Aside from these more grounded and pressing needs, we might consider the possibilities for society that are available should it transform into a fully fledged semantic web; perhaps a “[sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)” or truly [Open Collective](https://opencollective.com/lunarpunk_labs) will emerge through interaction with our peers at [informal systems](https://informal.systems/)!
 
 In regards to advancing the field, a synthesis between General Systematics and Friston blankets has never been undertaken, though an exhaustive literature review of cognition and wholeness has yet to be undertaken by the author. 
 
@@ -77,20 +77,20 @@ In parallel it will be necessary to drive the implementation by championing the 
 5.  Active Inference Institute / Complexity Weekend calls
 
 # Milestones
-## M0: Meta
-Start Date: NOW!
-Deliverables: 
+### M0: Meta
+**Start Date:** NOW!
+**Deliverables:** 
 1. Specs
 2. Design
-3. Pilot sample
-4. Product/Market/Management
+3. Pilot project
+4. Tokenomics DAO
 5. Perfected designs
 6. Planned product
 7. Quality control
 
-## M1: Functional Specifications
-Start Date: 2023-04-06
-Deliverables:
+### M1: Functional Specifications
+**Start Date:** 2023-04-06
+**Deliverables:**
 1. Submitting the Implementation proposal to Commonwealth.im in parallel to this RFP-X
 2. A date and location for public sense making is shared with partners and community
 3. Presentation on the state of affairs and public sense making session in consortium format
@@ -99,13 +99,16 @@ Deliverables:
 6. Submission is made to the network via an on chain vote (two weeks deliberation time)
 7. Proposal passes or fails based on validator determinations
 
-Budget: 
+**Statement:** 
+This milestone is a commoning phase where stakeholders are convened along with community contributors.  
+
+**Budget:** 
 - $25k Research budget from RND. Inc to LunarPunk_Labs
 - Token grant to partners from Regen Foundation
 
-## M2: Design
-Start Date: 2023-07-17
-Deliverables:
+### M2: Design
+**Start Date:** 2023-07-17
+**Deliverables:**
 1. Articulate the precise eco-credit methodology and share in a group context
 2. Practice the methodology technique and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
 3. Research presentation of methodology results provided to pilot partners 
@@ -114,64 +117,49 @@ Deliverables:
 6. Engineering on pilot project begins as community discuss documentation
 7. Updates submitted to Commonwealth, Protocol Labs and Regen community
 
-Budget: 
+**Budget:** 
 - $35k from Protocol Labs to H3uni
 - Token delegation from Regen Foundation to partners
 
-## Break and plan reassessment
-
-## M3: Pilot Project
-Budget: 
+# Break and reflection
+## Tentative plan
+### M3: Pilot Project
+**Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
-## M4: Tokenomics DAO
-Budget: 
+### M4: Tokenomics DAO
+**Budget:** 
 - 500k locked REGEN tokens to initiate the csDAO structure.
 - Contributions from Protocol Labs to sustain traction
 
-# Current Parnterships as Viable Systems Model
+# Peer Parnterships as Viable System
 - Purpose :: Interface :: WeCo.io
-- Intelligence :: Community :: Regenerating Sonora
-- Operations :: Community Logistics & Coordination ::  LunarPunk_Labs
-- Coordination Task :: Product :: VISN_Labs
-- Resourcing :: Backend integration :: Sovereign Nature Initiative
+- Intelligence :: Product :: VISN_Labs
+- Operations :: Community Facillitation, Logistics & Coordination ::  LunarPunk_Labs
+- Coordination Task :: Pilot Project :: Regenerating Sonora credit development
+- Resourcing :: Backend integration :: Sovereign Nature Initiative / Gitcoin Verification Infrastructure Bundle
 
-
+# Traction
+- GR15 Marketing
+- Refi DAO founders circles
+- Future Quest grant top 100 grantee
+- GItcoin Verification Infrastructure bundle 
 
 # References
+- 
+- [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
+- 
 
-[https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
-
-$1T stranded assets number: [https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
-
-Leading research on stranded assets:
-https://www.smithschool.ox.ac.uk/
-
-
+- [$1T stranded assets number](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
+- [Leading research on stranded assets](https://www.smithschool.ox.ac.uk/)
+- [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
 
 
-  
-  
-
-—- 
-## Hacking
-
-The two major fields of research that informs our inquiry into outperformance retrieval time are:  
-
-[General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems) is a second order science that has been in development since at least 1955 by the British scientist John Bennett. The field can be thought of as an epistemological framework for ontological design that rests adjacent to cybernetic control theories. 
-
-[Active Inference](https://mitpress.mit.edu/9780262045353/active-inference/) is a means of understanding sentience from the perspective of minimizing free energy or surprise. It’s a form of abductive or Bayseian reasoning pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston).
-
-[Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/), and [finding desirable results on the web is like searching for a needle in a Google whack](https://en.wikipedia.org/wiki/Dave_Gorman%27s_Googlewhack_Adventure). 
-
----
-
-From notes: 
-- **Co2 in the atmosphere has now passed 400ppm and climate scientists have agree that the safe level to avoid climate catastrophe is 350ppm**
-                 - 417ppm in 2020
-             - To reduce the greenhouse gasses to 350ppm means cutting global Co2 emissions by 80% by 2020
-             - The other important number to remember is the safe absolute amount of Co2 that we can emit into the atmosphere and still stay at a safe level. Thats a very large number; 565 gigatons (billions of tons) of Co2... but the important fact to remember is that this number represents only 20% of the reserves that the proven reserves that the fossil fuel company have in the ground and listed as assets that they plan to burn!
-             - **So this means that to avoid global climate collapse the fossil fuel companies need to keep 80% of their assets (proven reserves) in the ground. **
-             - This explains why big oil and big coal fight so hard against restrictions on carbon emissions, even to the extent of systematically denying climate science and orchestrating publicity campaigns against climate science and undermining it, because they don't want to turn to 80% of their assets into whats called **"stranded assets"**
-             - **Once the financial markets know that 80% of these assets will stay in the ground, they're not worth anything - so the shares drop by 80%, which for them is a catastrophe of course!**
-             - One of the most eloquent writers on climate change is [[Bill McKibben]] and in the systems view of life book we cite numerous articles of his - and he writes **"you can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both."**
+**Links from H3uni:**
+- [Panarchy: Theory and Application](https://link.springer.com/article/10.1007/s10021-013-9744-2)  
+- [Robert Knowles, The Leadership Dance](https://www.google.com/search?q=the+leadership+dance+enneagram&client=firefox-b-d&sxsrf=AJOqlzXh833qcoeOFlFluNnHn560XoQ1IA:1675883705422&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjet8in0Yb9AhUGU6QEHSIgDi0Q_AUoAnoECAEQBA&biw=1440&bih=709&dpr=1#imgrc=XG24T0-zMmWY9M)
+- [Deep Time Walk](https://www.deeptimewalk.org/)  
+- [Charles Langmuir](https://www.youtube.com/watch?v=1srN5_IEXK8) 
+- [Charles Langmuir 2](https://youtu.be/EtSdJjbtqNw)
+- [Futures Journal](https://www.sciencedirect.com/journal/futures)
+- [Beyond postnormal times: The future of creativity and the creativity of the future](https://www.sciencedirect.com/science/article/abs/pii/S0016328710002405)
