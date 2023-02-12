@@ -11,9 +11,10 @@
 
 ---
 # Proposal: "REGEN 2.0: Adaptive Capital "
+https://odyssey.org/past-editions/odyssey-2020/self-sovereign-identity-in-action/
 
 ## Background
-To briefly preface this proposal submission with some context, the team at LunarPunk_Labs have been focused on the realisation of the semantic web for the past 4 years. As a distributed team we have previously won the digital identity track at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Weco on the other hand have been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. Their work to date has previously been funded by Eric Harris Brown (of CEPTR). 
+To briefly preface this proposal submission with some context, the team at LunarPunk_Labs are focused on bridging research and implementation and have been focused on the realisation of the semantic web for the past 4 years. As a distributed team we have previously won the digital identity track at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Weco on the other hand have been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. Their work to date has previously been funded by Eric Harris Brown (of CEPTR). 
 
 ## Specifications as constraints
 Nature Based Solutions are defined by the Regen Registry in the following way:
@@ -98,7 +99,7 @@ An example methodology our students might use for codifying their co-benefits is
 This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards in a sequence). You can keep up with the teams progress [here](https://weco.io/p/3528).
 
 --- 
-## Roadmap
+# Roadmap
 
 #### Meta
 1. Lead: LunarPunk_Labs as a implementation DAO

@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "odyssey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,15 +177,15 @@
   },
   "active": "16850a5149a8ac04",
   "lastOpenFiles": [
-    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+    "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Omnicient/Artefacts (entropy)/Odyssey Momentum.md",
+    "Omnicient/Artefacts (entropy)/Odyssey Momentum Presie.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/Projects/Archive/Regen Foundation/Product/Community Pool Proposal Process.md",
     "Immanent/WorkBench/stranded assets.md",
     "Immanent/DailyNotes/_Archive/2020/2020-05-11.md",
     "Immanent/DailyNotes/_Archive/2020/2020-12-01.md",
-    "Omnicient/Monad Forrest/Courses/Capra Course/Capra course lecture 11.md",
-    "Immanent/Projects/LunarPunk_Labs/Economics.md",
-    "Immanent/Projects/Archive/Regen Foundation/Product/Commonwealth Proposals.md",
-    "Immanent/Projects/LunarPunk_Labs/Marketing.md"
+    "Omnicient/Monad Forrest/Courses/Capra Course/Capra course lecture 11.md"
   ]
 }
