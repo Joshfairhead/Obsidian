@@ -77,29 +77,61 @@ In parallel it will be necessary to drive the implementation by championing the 
 5.  Active Inference Institute / Complexity Weekend calls
 
 # Milestones
-## M1: Proof of concept   
+## M0: Meta
+Start Date: NOW!
+Deliverables: 
+1. Specs
+2. Design
+3. Pilot sample
+4. Product/Market/Management
+5. Perfected designs
+6. Planned product
+7. Quality control
 
-Date: 2020-01-01
+## M1: Functional Specifications
+Start Date: 2023-04-04
 Deliverables:
-- Articulate methodology in a group context looking towards its further documentation
-- Practice the methodology techniques and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
-- Generate a research report of results to provide the pilot project 
-- Pilot project experimentation
-- Development of technology informed by research and results in the field
+1. Submitting the Implementation proposal to Commonwealth.im in parallel to this RFP-X
+2. A date and location for public sense making is shared with partners and community
+3. Presentation on the state of affairs and public sense making session in consortium format
+4. Working with Implementation partners to align on functional specifications
+5. Public presentation of engineering documentation to Regen Community and Network Goods team
+6. Submission is made to the network via an on chain vote
+7. Proposal passes or fails based on validator 
+
+Budget: $35k Research budget for LunarPunk labs
 
 
-
-Long-form description… Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## M2: <title> 
-
-Date: 2020-01-01
+## M2: Design
+Start Date: 2023-05-23
 Deliverables:
--   Deliverable 3
--   Deliverable 4
+1. Articulate the precise eco-credit methodology and share in a group context
+2. Practice the methodology technique and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
+3. Research presentation of methodology results provided to pilot partners 
+4. Working with place based community facilitators to align on methodology practice
+5. Methodology documentation published
+6. Engineering on pilot project begins as community discuss documentation
+7. Updates submitted to Commonwealth, Protocol Labs and Regen community
 
-Long-form description… Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Budget: $35k from Protocol Labs to H3uni
 
+## M3: Pilot Project
+Budget: $25k from Rege
+
+
+---
+
+## Implemantation plan budget options
+
+Regen Foundation can fund this work through any combination of the following:
+- A REGEN token grant
+- A Community Staking DAO grant (500k locked REGEN tokens) to fund the establishment of a Tokenomics DAO
+- A token delegation (of REGEN, or potentially of ATOM and OSMO as well)
+
+RND, Inc. can fund this work through a combination of:
+-   Token grants with 1 year lock up of up to 200k REGEN
+-   $25k USD cash payment
+-   Token delegations
 
 
 ---
