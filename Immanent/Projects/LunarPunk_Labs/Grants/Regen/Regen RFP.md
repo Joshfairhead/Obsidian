@@ -79,13 +79,13 @@ But that's not all, the students realise that the LEHR gardens have been an anch
 ### Community Capital
 An example methodology our students might use for codifying their co-benefits is the H3uni framework deployed on the current course "The art of creative collaboration". This particular practice based methodology groups eight sets of parameters under four framing conditions. 
 
-Framing conditions:
+**Framing conditions:**
 - Directive: Process
 - Instrumental: Method
 - Ideal: Task
 - Ground: Context
 
-Paramater Groupings:
+**Paramater Groupings:**
 - Self awareness
 - Empathetic appreciation
 - Group dynamics
@@ -100,11 +100,18 @@ This particular methodology is currently being demonstrated as both the H3uni co
 --- 
 ## Roadmap
 
+#### Meta
+1) Lead: LunarPunk_Labs as a implementation DAO
+2) Serve: H3uni.org as an educational consortium of methodology developers 
+3) Support: Giordano.institute and Regen Network as semantic bluefunds
+
 ### Horizon one
-- Finishing the Systematic interface plugin for Weco/Obsidian
-- Discussing methodology specifics on Weco.io as a practice based community currency
+- Generating stakeholder buy in
+- Research grant application with Protocol Labs
+- Systematic interface plugin for Weco/Obsidian
 
 ### Horizon two
+- Discussing methodology specifics on Weco.io as a practice based community currency
 - DAO Codification w/Cosmos Groups Module and `authz` function (viable systems model structure)
 - Describing general systematics as an AD4M Language
 - Integrating Regen's data module as a perspective
@@ -123,34 +130,28 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - Coordination Task :: Product :: VIZN_Labs
 - Resourcing :: Engineering :: Sovrign Nature Initiative 
 
-## DAO Roadmap
+## Additional Roles 
 ### Horizon one
-- LunarPunk_Labs 
-	- DAO Structure as a viable systems model
-		- (-) Technology 
-			- Purpose: Interface, Social Graph, Semantic web, Quality Assurance
-			- Intelligence: Impact evaluators, Active Inference, Attestations
-			- Operations: Devops, Facilitation
-			- Coordination Task: Impact Certificates, Claims
-			- Resourcing: Research and Development, Ledger Security, Credits
-		- (=) Markets
-			- Purpose: Advocacy, Partnerships, Compliance, 
-			- Intelligence: Community facilitation
-			- Operations: Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics 
-			- Coordination Task: Communications
-			- Resourcing: Fundraising, Economics, Legal, Administration, 
-		- (+) Applied Science: Place based communities 
-			- Purpose: Empirical understanding, Education
-			- Intelligence: Field learning, Pilot projects, DataScience
-			- Operations: Facilitated Onboarding
-			- Coordination Task: Lab Learning, Design
-			- Resourcing: Rational inferences, Decision Science
-### Horizon two
-- H3 University
-	- Consortium Governance
-### Horizon three
-- Giordano Bruno Institute
-	- Regenerative blue fund as Registry 2.0
+- Organisation scaling as a VSM
+	- (-) Technology 
+		- Purpose: Interface, Social Graph, Semantic web, Quality Assurance
+		- Intelligence: Impact evaluators, Active Inference, Attestations
+		- Operations: Devops, Facilitation
+		- Coordination Task: Impact Certificates, Claims
+		- Resourcing: Research and Development, Ledger Security, Credits
+	- (=) Markets
+		- Purpose: Advocacy, Partnerships, Compliance, 
+		- Intelligence: Community facilitation
+		- Operations: Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics 
+		- Coordination Task: Communications
+		- Resourcing: Fundraising, Economics, Legal, Administration, 
+	- (+) Applied Science: Place based communities 
+		- Purpose: Empirical understanding, Education
+		- Intelligence: Field learning, Pilot projects, DataScience
+		- Operations: Facilitated Onboarding
+		- Coordination Task: Lab Learning, Design
+		- Resourcing: Rational inferences, Decision Science
+
 
 
 ## Proposed Budget and Compensation Structure
@@ -166,8 +167,6 @@ RND, Inc. can fund this work through a combination of:
 -   $25k USD cash payment
 -   Token delegations
 %%
-
-
 
 ## References / Bibliography
 - [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
@@ -191,5 +190,4 @@ RND, Inc. can fund this work through a combination of:
 - PurplePill.vision
 
 ## Quality Control
-
-
+- Research grant articulation 

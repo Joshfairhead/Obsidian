@@ -103,7 +103,7 @@ In parallel it will be necessary to drive the implementation by championing the 
 This milestone is a commoning phase where stakeholders are convened along with community contributors.  
 
 **Budget:** 
-- $25k Research budget from RND. Inc to LunarPunk_Labs
+- $35k Research budget from Protocol Labs to LunarPunk_Labs
 - Token grant to partners from Regen Foundation
 
 ### M2: Design
@@ -118,11 +118,11 @@ This milestone is a commoning phase where stakeholders are convened along with c
 7. Updates submitted to Commonwealth, Protocol Labs and Regen community
 
 **Budget:** 
-- $35k from Protocol Labs to H3uni
+- $25k Cash grant from RND inc. to H3uni
 - Token delegation from Regen Foundation to partners
 
-# Break and reflection
-## Tentative plan
+### Break and reflection on plan
+
 ### M3: Pilot Project
 **Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
@@ -133,11 +133,11 @@ This milestone is a commoning phase where stakeholders are convened along with c
 - Contributions from Protocol Labs to sustain traction
 
 # Peer Parnterships as Viable System
-- Purpose :: Interface :: WeCo.io
-- Intelligence :: Product :: VISN_Labs
-- Operations :: Community Facillitation, Logistics & Coordination ::  LunarPunk_Labs
-- Coordination Task :: Pilot Project :: Regenerating Sonora credit development
-- Resourcing :: Backend integration :: Sovereign Nature Initiative / Gitcoin Verification Infrastructure Bundle
+- Purpose :: Pilot Project :: Regenerating Sonora 
+- Intelligence :: Interface :: WeCo.io
+- Operations :: Logistics & Coordination ::  LunarPunk_Labs 
+- Coordination Task :: Product :: VIZN_Labs
+- Resourcing :: Engineering :: Sovrign Nature Initiative 
 
 # Traction
 - GR15 Marketing
