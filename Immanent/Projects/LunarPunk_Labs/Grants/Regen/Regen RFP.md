@@ -101,25 +101,69 @@ This particular methodology is currently being demonstrated as both the H3uni co
 ## Roadmap
 
 #### Meta
-1) Lead: LunarPunk_Labs as a implementation DAO
-2) Serve: H3uni.org as an educational consortium of methodology developers 
-3) Support: Giordano.institute and Regen Network as semantic bluefunds
+1. Lead: LunarPunk_Labs as a implementation DAO
+2. Serve: H3uni.org as an educational consortium of methodology developers 
+3. Support: Giordano.institute and Regen Network as semantic bluefunds
 
-### Horizon one
-- Generating stakeholder buy in
-- Research grant application with Protocol Labs
-- Systematic interface plugin for Weco/Obsidian
+### Milestone 1: Functional Specifications
+**Start Date:** 2023-04-06
+**Deliverables:**
+1. Submitting the Research proposal to Protocol Labs in parallel to this RFP-X
+2. Presentation on state of affairs and shared with community partners and date set for sense making
+3. Public sense making session in 'consortium' format
+4. Working with Implementation partners to align on functional specifications
+5. Public presentation of engineering documentation to Regen Community and Network Goods team
+6. Submission is made to the network via an on chain vote with two weeks deliberation time
+7. Proposal passes or fails based on validator determinations
 
-### Horizon two
-- Discussing methodology specifics on Weco.io as a practice based community currency
-- DAO Codification w/Cosmos Groups Module and `authz` function (viable systems model structure)
+**Budget:** 
+- $35k Research budget from Protocol Labs to LunarPunk_Labs
+- Token grant from Regen Foundation to community partners
+
+### Milestone two: DAO Design
+**Start Date:** 2023-07-17
+**Deliverables:**
+1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
+2. Practice the design and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
+3. Presentation of DAO pilot programme provided to community partners 
+4. Working with place based community facilitators to align on practices and methodologies
+5. Onboarding documentation compiled and shared online
+6. Community completes discussion DAO design as engineering on a pilot project begins
+7. Updates submitted to Commonwealth, Protocol Labs and Regen community
+
+**Budget:** 
+- $25k Cash grant from RND inc. to LunarPunk_Labs
+- Token delegation from Regen Foundation to community partners
+
+### Milestone three: Pilot Project(s)
+1. Articulate the precise eco-credit methodology and share in a group context
+2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
+3. Presentation of pretotype results provided to pilot partners 
+4. Working with place based community facilitators to align with and codify their practice
+5. Documentation published on their precise method
+6. Submission of methodology submitted for peer review
+7. Expert review via the Regen Registry team or third party verifier
+
+**Budget:** 
+- 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
+
+### Milestone four: Tokenomics csDAO
+**Budget:** 
+- 500k locked REGEN tokens to initiate the csDAO structure.
+- Contributions from Protocol Labs to sustain traction
+
+### Milestone five: Engineering
+- Interface design for functionally encoding community conversations
 - Describing general systematics as an AD4M Language
 - Integrating Regen's data module as a perspective
 - Integrating Regen's eco-credit module as a perspective
 
-### Horizon three
-- Anchoring Regenerating Sonoras pilot data on chain with the data module
-- Issuing systematics as a semantic credit class and minting pilot eco-credits
+### Milestone six: Perfected Designs
+- Anchoring partner data on chain with the Regen data module
+- Minting eco-credits for pilot project partners
+
+### Milestone seven: Quality Control
+- Issuing general systematics as a semantic credit class 
 
 ---
 
@@ -130,27 +174,25 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - Coordination Task :: Product :: VIZN_Labs
 - Resourcing :: Engineering :: Sovrign Nature Initiative 
 
-## Additional Roles 
-### Horizon one
-- Organisation scaling as a VSM
-	- (-) Technology 
-		- Purpose: Interface, Social Graph, Semantic web, Quality Assurance
-		- Intelligence: Impact evaluators, Active Inference, Attestations
-		- Operations: Devops, Facilitation
-		- Coordination Task: Impact Certificates, Claims
-		- Resourcing: Research and Development, Ledger Security, Credits
-	- (=) Markets
-		- Purpose: Advocacy, Partnerships, Compliance, 
-		- Intelligence: Community facilitation
-		- Operations: Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics 
-		- Coordination Task: Communications
-		- Resourcing: Fundraising, Economics, Legal, Administration, 
-	- (+) Applied Science: Place based communities 
-		- Purpose: Empirical understanding, Education
-		- Intelligence: Field learning, Pilot projects, DataScience
-		- Operations: Facilitated Onboarding
-		- Coordination Task: Lab Learning, Design
-		- Resourcing: Rational inferences, Decision Science
+## Open Roles in DAO / VSM
+- **(+) Applied Science:** Place based communities 
+	- Purpose: Empirical understanding, Education
+	- Intelligence: Field learning, Pilot projects, DataScience
+	- Operations: Facilitated Onboarding
+	- Coordination Task: Lab Learning, Design
+	- Resourcing: Rational inferences, Decision Science
+- **(-) Technology**: Verification Infrastructure 
+	- Purpose: Interface, Social Graph, Semantic web, Quality Assurance
+	- Intelligence: Impact evaluators, Active Inference, Attestations
+	- Operations: Devops, Product
+	- Coordination Task: Impact Certificates, Claims
+	- Resourcing: Research and Development, Ledger Security, Credits
+- **(=) Markets**
+	- Purpose: Advocacy, Partnerships, Compliance, 
+	- Intelligence: Community facilitation
+	- Operations: Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics, Facillitation
+	- Coordination Task: Communications
+	- Resourcing: Fundraising, Economics, Legal, Administration, 
 
 
 

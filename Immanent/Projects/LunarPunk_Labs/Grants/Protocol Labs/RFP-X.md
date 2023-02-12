@@ -104,7 +104,7 @@ This milestone is a commoning phase where stakeholders are convened along with c
 
 **Budget:** 
 - $35k Research budget from Protocol Labs to LunarPunk_Labs
-- Token grant to partners from Regen Foundation
+- Token grant from Regen Foundation to community partners
 
 ### M2: Design
 **Start Date:** 2023-07-17
@@ -119,15 +119,13 @@ This milestone is a commoning phase where stakeholders are convened along with c
 
 **Budget:** 
 - $25k Cash grant from RND inc. to H3uni
-- Token delegation from Regen Foundation to partners
-
-### Break and reflection on plan
+- Token delegation from Regen Foundation to community partners
 
 ### M3: Pilot Project
 **Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
-### M4: Tokenomics DAO
+### M4: Tokenomics csDAO
 **Budget:** 
 - 500k locked REGEN tokens to initiate the csDAO structure.
 - Contributions from Protocol Labs to sustain traction
@@ -137,16 +135,15 @@ This milestone is a commoning phase where stakeholders are convened along with c
 - Intelligence :: Interface :: WeCo.io
 - Operations :: Logistics & Coordination ::  LunarPunk_Labs 
 - Coordination Task :: Product :: VIZN_Labs
-- Resourcing :: Engineering :: Sovrign Nature Initiative 
+- Resourcing :: Engineering :: Sovereign Nature Initiative 
 
 # Traction
 - GR15 Marketing
 - Refi DAO founders circles
 - Future Quest grant top 100 grantee
-- GItcoin Verification Infrastructure bundle 
+- GItcoin Verification Infrastructure bundle
 
 # References
-- 
 - [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
 - 
 
