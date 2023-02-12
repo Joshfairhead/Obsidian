@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "adcfaa859c58b9c4",
+            "id": "300c9449d648f00d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,17 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adcfaa859c58b9c4",
+  "active": "300c9449d648f00d",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Immanent/Projects/LunarPunk_Labs/Marketing.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
     "Immanent/Projects/LunarPunk_Labs/Unenclosable Regenerative Markets.md",
     "Immanent/Projects/H3uni/H3 Questions Portfolio.md",
-    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen RFP Hack Pad.md",
     "Immanent/WorkBench/ACCM1.md",
-    "Immanent/DailyNotes/2023-02-09.md",
-    "Immanent/DailyNotes/2023-02-08.md"
+    "Immanent/DailyNotes/2023-02-09.md"
   ]
 }
