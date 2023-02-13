@@ -12,13 +12,17 @@ Review Rubric:
 
 ### [LunarPunk_Labs](lunapunklabs.org) - [University of the Third Horizon](h3uni.org)
 
-1. **Research question**: How do we increase relevance on internet to aid knowledge and understanding while effectively bridging the gap from research to implementation?  
+1. **Research question**: How do we increase relevance on internet to aid the realisation of knowledge into understanding while effectively bridging the gap from research to implementation?  
 
-2. **Research problem statement**: To keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we must improve the efficiency of our representational capacities, consequentially feeding the capabilities of search and retrieval at the protocol level, thereby increasing relevance. There is a deep need for functional semantic models. 
+2. **Research problem statement**: To keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we'll need to improve deepen our human capacities for representation and interpretation by [augmenting our intellect](https://www.dougengelbart.org/pubs/augment-3906.html). 
 
-3. **Proposed solution**: Drive protocol adoption through semantically composable eco-credits who's parametric groupings are determined through community conversation. To do this we propose looking at interface design and using functional information geometry to systematically construct Friston blankets for active inferencing. These models are epistemologically transparent, so can be made accessible and democratised through the interface layer. They are also composable.
+3. **Proposed solution**: An ecosystem level partnership between Protocol Labs and Regen Ledger to bootstrap Semantic Impact Markets. We propose systematically structured conversation graphs as a means of classifying parametric groupings as friston blankets to enable semantically composable eco-credits or hypercerts. These model metatdata is represented as functional geometric groupings, they are epistemologically transparent; a necessity when considering governance. Interface design becomes a key area of research. 
+
+5. at interface design and using functional information geometry to systematically construct Friston blankets for active inferencing. These models are epistemologically transparent, so can be made accessible and democratised through the interface layer. They are also composable.
     
     By providing algorithmic insights into relevant materials for [venture management and discovery](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/LunarPunk_Labs/Economics.md) we can harness market demand as a whole to drive vertical adoption of the technology stack, while also simultaneously divesting capital upstream to regenerative projects through the propagation of knowledge graphs. We might call this design ‘adaptive capital’ for simplicity.
+
+. machine capacities for representation. We can do this through structured conversations subsequently feeding the capabilities of search and retrieval thereby increasing relevance.
 
 # Related work 
 
@@ -42,7 +46,7 @@ Between interfaces and distributed data storage lie algorithmic programmes; a pr
 
 In regards to classification, a fruitful area of research is John Bennetts [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems). This is an integrative science for qualitative parametric groupings that has been in continuous development since 1955 and lives as an epistemic practice amongst a number of communities worldwide. Relevant collaborators of Bennetts were David Bohm, Buckminster Fuller and Stafford Beer. His tool for classification can be conceived of as a frame for constructing functional ontological groupings in a very elegant manner that seems appropriate for implementation on distributed ledger technology like [AD4M](https://ad4m.dev/). 
 
-In regards to predictive capacities, the nascent field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under this lens is a means of understanding sentience from the perspective of minimizing free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md) through statistical clustering.
+In regards to predictive capacities, the nascent field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under through this lens is a means of understanding sentience from the perspective of minimizing free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md) through statistical clustering.
 
 
 # Relation to PL’s research activities
@@ -57,6 +61,8 @@ Without an implementation plan this research proposal means pretty little, we ne
 At the moment accounting for impact in regenerative capital markets is particularly difficult from a quantitive standpoint as we are essentially trying to measure implicit values. Assuming the implementation plan linked above succeeds, we will actually be able to make such comparisons, which is a notion transformative enough to reshape entire capital markets; particularly to the financial benefits of proletariat stewards practicing Nature Based Solutions. Aside from these more grounded and pressing needs, we might consider the possibilities for society that are available should it transform into a fully fledged semantic web; perhaps a “[sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)” or truly [Open Collective](https://opencollective.com/lunarpunk_labs) will emerge through interaction with our peers at [informal systems](https://informal.systems/)!
 
 In regards to advancing the field, a synthesis between General Systematics and Friston blankets has never been undertaken, though an exhaustive literature review of cognition and wholeness has yet to be undertaken by the author. 
+
+---
 
 # Research strategy
 
@@ -134,6 +140,7 @@ In parallel it will be necessary to drive the implementation by championing the 
 7. Expert review via the Regen Registry team or third party verifier
 
 **Budget:** 
+- Protocol Labs contributions to community partners
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
 ### Milestone Four: Tokenomics csDAO
@@ -143,9 +150,9 @@ In parallel it will be necessary to drive the implementation by championing the 
 
 #### Milestone Five: Engineering
 - Interface design for functionally encoding community conversations
-- Describing general systematics as an AD4M perspective
-- Integrating Regen's data module as an AD4M language
-- Integrating Regen's eco-credit module as an AD4M perspective
+- Describing general systematics as an AD4M 'perspective'
+- Integrating Regen's data module as an AD4M 'language'
+- Integrating Regen's eco-credit module as an AD4M 'perspective'
 
 **Budget**: TBD
 
@@ -158,24 +165,9 @@ In parallel it will be necessary to drive the implementation by championing the 
 #### Milestone Seven: Quality Control
 - Issuing general systematics as a semantic credit class upon Registry Governance sign off.
 
-**Budget**: TBD
-
----
-
-
-
-### Milestone Three: Pilot Project(s)
-1. Articulate the precise eco-credit methodology and share in a group context
-2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
-3. Presentation of pretotype results provided to pilot partners 
-4. Working with place based community facilitators to align with and codify their practice
-5. Documentation published on their precise method
-6. Submission of methodology submitted for peer review
-7. Expert review via the Regen Registry team or third party verifier
-
-**Budget:** 
-- 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
-
+**Business Model**
+- Template instantiation of credit classes for generic methods
+- Bespoke consulting for specific project demands
 
 ---
 # Teams as Viable Systems Architecture
