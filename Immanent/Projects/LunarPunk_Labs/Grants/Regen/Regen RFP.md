@@ -1,15 +1,3 @@
-### Meta Process / Narrative
-- Holonically speaking each step contains a further 7~ steps within it. 
-
-1) Specs
-2) Design
-3) Pilot sample
-4) Product/Market/Management
-5) Perfected designs
-6) Planned product
-7) Quality control
-
----
 # Tokenomics Proposal: "Adaptive Capital "
 
 ## Background
@@ -18,7 +6,8 @@ To briefly preface this proposal submission with some background context; we are
 The proposal below outlines the current state of our implementation plan and we are soliciting discussion and feedback for further advancement. There is plenty of scope for improvement, which we trust will happen as we advance our work. We believe that the proposal submitted to PL can help lay strong research foundations; while Regen is fertile soil for grounded technical implementation.
 
 ---
-## Specifications
+
+# Specifications
 Regen Registry defines Nature Based Solutions in the following manner:
 
 > Actions to protect, regeneratively manage and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits”.
@@ -31,25 +20,24 @@ Markets are seeking pathways for divestment from degenerate commodities to more 
 **Scientific Assumptions**
 When it comes to addressing the markets with integrity, we need to incorporate truth claims and anchor this context. The methods used and the claims made are important; [Popper](https://en.wikipedia.org/wiki/Karl_Popper) believed science was about the raw explanatory power and predictive capacity of a framework, while [Khun](https://en.wikipedia.org/wiki/Thomas_Kuhn) thought of it as a community of practice. 
 
-In our view both authors are correct; reason can thought of as rational proof (deductive knowledge utilising the Baconian methodology) and as empiric verification (inductive wisdom through the Goethian methodology). Consequentially ReSci movement might consider integrating both these fundamental approaches to making truth claims by leveraging abductive reasoning and Bayesian methods. These base predictions on known priors before feeding forward to infer likely outcomes. 
+In our view both authors are correct; reason can thought of as rational proof (deductive knowledge utilising the Baconian methodology) and as empiric verification (inductive wisdom through the Goethian methodology). Consequentially the ReSci movement might consider integrating both these fundamental approaches to making truth claims by leveraging abductive reasoning and Bayesian methods. These base predictions on known priors before feeding forward to infer likely outcomes. 
 
 **Technological Assumptions**
 From a practical standpoint the story of digital communication begins with [Claude Shannons](https://en.wikipedia.org/wiki/Claude_Shannon) information theory; binary 1's and 0's that convey state. Beyond Shannon's fundamental theory of bits and bytes, there are new innovations that abstract his binary domain into a trinary lens of "agents, languages and perspectives" where agents, speaking their language of preference, express perspectives on 'Truth claims'. 
 
-As a technical architecture, such a '[meta ontology](https://ad4m.dev/)' enables us to encode other frameworks as 'perspectives', and in particular we believe that encoding "general systematics" is a particularly powerful framework that can act as a functional backbone for clustering parameter groupings in a transparent way. 
+As a technical architecture, such a '[meta ontology](https://ad4m.dev/)' enables us to encode other frameworks as 'perspectives', and in particular we believe that encoding "general systematics" is a particularly powerful epistemological framework that can act as a functional backbone for articulating parameter groupings in a transparent way. 
 
-Applied at the interface level these functional frameworks can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and far beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility for an apples to oranges comparison; quantitive measures to qualitative values.
+Applied at the interface level these functional frameworks can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and far beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility for an apples to oranges comparison of quantitive measures to qualitative values.
 
 ---
+# Infrastructure Design
 
-## Infrastructure Design
-
-Let's frame some high level abstractions that we can lean on in relation to our ends:
+Let's frame the high level design abstractions we will lean on in relation to our ends:
 - (+) Qualitative values (Impact evaluators)
 - (=) Markov blankets (Hypercerts)
 - (-) Quantitive measures (Impact certificates)
 
-Markov blankets act as a form of general substrate that can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
+Markov blankets act as a form of general substrate that can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the [data module](https://docs.regen.network/modules/data/).
 
 An Impact certificate essentially articulates a given methodology in a machine readable format. These certificates represent a set of means, while evaluation criteria codified in a similar format can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs'; this might be represented in a tetradic geometry with nodes representing:
 - Directive: Source 
@@ -57,31 +45,30 @@ An Impact certificate essentially articulates a given methodology in a machine r
 - Ground: Claim
 - Ideal: Proof. 
 
-Extrapolating such a concept one step further it's easy enough to imagine a form of bespoke consulting where the content of any conversation can be functionally represented as geometries that support the processes of communal understanding. Here's an example in relation to a discussion and programming:
+Extrapolating such a concept one step further it's easy enough to imagine a form of bespoke facilitation where the content of any conversation can be functionally represented as geometries to support the processes of communal understanding. Here's an example in relation to a discussion and programming:
 
 ![](assets/systematicsPlugin.png)
 
 When a conversation reaches consensus on credit class, methodology, DAO design, evaluation criteria etc. we can use the interface to easily store and anchor data on chain. Any subsequent discussion can be self managed by the community, easily updating their credit design parameters through such a simple interface. Supporting data and conversation can be aggregated as a form of adaptive capital and issued as eco-credits, democratising access to technology in a significant way. Such a process can even be [turned into art](https://sovereignnature.com/tracing-the-wild) or gamified to make the process fun and rewarding!
 
-Below the interface level comes the functional specifications for chain integration. Using the [AD4M ontology](https://ad4m.dev/) we can integrate general systematics to describe a set of metadata standards. From there we can describe both the data module and eco-credit modules as 'languages' and 'perspectives' in order to make them interoperable with other architectures. For added precision, we may wish to add other ontologies for translating quantity (data module claims like MRV) to quality (eco-credit attestations like ESGs). 
+Below the interface level comes the functional specifications for chain integration. Using the [AD4M ontology](https://ad4m.dev/) we can integrate general systematics to describe a set of metadata standards. From there we can describe both the data module and eco-credit modules as 'languages' and 'perspectives' in order to make them interoperable with other systems architectures. For added precision, we may wish to add other ontological 'perspectives' for translating quantity (data module claims like MRV) to quality (eco-credit attestations like REA).
 
-One particularly useful ontology to integrate is Resource, Event, Agent accounting, which is an institutionally recognised standard for distributed supply chains. This might then use feeds from  Monitoring, Reporting and Verification technologies as evaluation criteria for impact certificates. The elegance of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
+Resource, Event, Agent accounting is a particularly useful ontology to integrate as its institutionally recognised accounting standard for distributed supply chains. This might then use feeds from  Monitoring, Reporting and Verification technologies as evaluation criteria for impact certificates. The elegance of this blanked design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
 
-For example we can extend the triadic geometry MRV to be a tetradic geometry for more detailed resolution. For example, the following was articulated by the dMeter community:
+For example we can extend the triadic geometry MRV to be a tetradic geometry for a more detailed resolution. The following was articulated by dMeter community members:
 - Directive: Human-sensing (Personal data stores, phone images, self reported data)
 - Instrumental: Remote-sensing (IOT sensors, devices)
 - Ideal: Sky-sensing (satellite, drones, aerial)
-- Ground: Reputation-sensing (identity, community trust) 
+- Ground: Reputation-sensing (identity, community, trust) 
 
-Ultimately whatever indicators are at desirable can be articulated through General Systematics and codified as Markov blankets to unlock the capabilities of semantic composition. These functional models can then be enriched with Active Inferencing to provide a more detailed depth of [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md). 
+Ultimately whatever indicators are at [desirable](purplepill.vision) can be articulated through General Systematics and codified as Markov blankets to unlock the capabilities of semantic composition. These functional models can then be enriched with Active Inferencing to provide a more detailed depth of [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md). 
 
 ---
+# Pilot Tokenomic Mechanism(s): Adaptive Capital
 
-## Pilot Tokenomic Mechanism(s): Adaptive Capital
+The architecture above is designed at the level of general infrastructure and can be used for composing any desirable credit design, which is dependent on the articulation of parametric groupings instantiated around a use case or pilot project. The paramaters and the rules for governing them matter significantly when scaled to the level of community or bioregion. 
 
-The design at the level of general infrastructure for composing any desirable credit design, which is dependent on the parametric groupings instantiated around a use case or pilot project. 
-
-There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on DAO capacity. LunarPunk Labs has a preference is to work closely with our existing partners at Regenerating Sonora in order to build out a low risk pilot project. Conditions around them are exceptionally vital; they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors! 
+There are a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on DAO capacity. LunarPunk Labs as proposal authors have a strong preference towards working closely with our existing partners at the charity Regenerating Sonora in order to build out a low risk pilot project. Conditions around them are exceptionally vital as they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors! 
 
 #### Basic Credits: Regenerating Sonora use case
 - Starting from the LEHR gardens, we assess possibilities. 
@@ -111,18 +98,17 @@ An example methodology our students might use to additionally codify the co-bene
 - Perceiving qualities
 - Mental repatterining
 
-This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards in a sequence). You can keep up with the teams progress [here](https://weco.io/p/3528).
+This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards in a sequence). This can all be anchored on a storage medium of choice using the Regen Data Module. You can keep up with the teams testing [here](https://weco.io/p/3528).
 
 ---
-
-## Teams as Viable Systems DAO
+# Teams as Viable Systems DAO
 - **Purpose** :: Pilot Implementation :: [Regenerating Sonora](https://regeneratingsonora.org/) 
 - **Intelligence** :: Logistics & Coordination ::  [LunarPunk_Labs](Lunarpunklabs.org) 
 - **Operations** :: Development :: [WeCo](WeCo.io)
 - **Coordination Task** :: Design :: VIZN_Labs
 - **Resourcing** :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
 
-## Operational Pathways
+## Pathways
 - **(+) Applied Science:** Place based communities 
 	- **Purpose**: Field learning and environmental stewardship
 	- **Intelligence**: Practice based methodologies
@@ -130,34 +116,32 @@ This particular methodology is currently being demonstrated as both the H3uni co
 	- **Coordination Task**: Methodology Development
 	- **Resourcing**: Lab learning as rational understanding
 
-- **(-) Social Technology**: Verification Infrastructure 
+- **(-) Social Technology**: Systematic verification Infrastructure 
 	- **Purpose**: Impact evaluators as quality assurance from REA value accounting
 	- **Intelligence**: Academic research and conversation graphs as attestations
 	- **Operations**: Hypercerts making use of general systematics and active inference 
-	- **Coordination Task**: Interfaces and conversation graph as a source of claims
+	- **Coordination Task**: Interfaces and conversation graphs as a source of claims
 	- **Resourcing**: Impact certificates as sources of quantitive measurements from MRV
 
-- **(=) Impact Markets**
+- **(=) Impact Markets**: Operations DAO
 	- **Purpose**: Advocacy and narrative as transformative change
 	- **Intelligence**: Legal and regulatory movements
 	- **Operations**: Events, logistics and investments
 	- **Coordination Task**: Marketing and communications
 	- **Resourcing**: Accounts, fundraising and economics
 
-
-
 --- 
 # Roadmap and Budget
 
-#### Meta
-1. Lead: LunarPunk_Labs as an implementation DAO
+## Meta
+1. Lead: LunarPunk_Labs or other brand as an implementation DAO
 2. Serve: H3uni.org as an educational consortium of methodology developers 
-3. Support: Protocol Labs and Regen Network in the development of semantic bluefunds
+3. Support: Protocol Labs and Regen Network in the development of semantic bluefunds and impact market advocacy.
 
-#### Milestone one: Functional Specifications
+### Milestone one: Functional Specifications
 **Start Date:** 2023-04-06
 **Deliverables:**
-1. Submitting the Research proposal to Protocol Labs in parallel to this RFP-X
+1. Submitting a Research proposal to Protocol Labs in parallel to this RFP
 2. Presentation on state of affairs and shared with community partners and date set for sense making
 3. Public sense making session in 'consortium' format
 4. Working with Implementation partners to align on functional specifications
@@ -169,7 +153,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - $35k Research budget from Protocol Labs to LunarPunk_Labs
 - Token grant from Regen Foundation to community partners
 
-#### Milestone Two: DAO Design
+### Milestone Two: DAO Design
 **Start Date:** 2023-07-17
 **Deliverables:**
 1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
@@ -196,7 +180,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 **Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
-#### Milestone Four: Tokenomics csDAO
+### Milestone Four: Tokenomics csDAO
 **Budget:** 
 - 500k locked REGEN tokens to initiate the csDAO structure.
 - Contributions from Protocol Labs to sustain traction
@@ -207,14 +191,20 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - Integrating Regen's data module as an AD4M language
 - Integrating Regen's eco-credit module as an AD4M perspective
 
+**Budget**: TBD
+
 #### Milestone Six: Perfected Designs
 - Anchoring partner data on chain with the Regen data module
 - Minting eco-credits for pilot project partners
 
+**Budget**: TBD
+
 #### Milestone Seven: Quality Control
-- Issuing general systematics as a semantic credit class upon Registry sign off.
+- Issuing general systematics as a semantic credit class upon Registry Governance sign off.
 
+**Budget**: TBD
 
+---
 # References / Bibliography
 - [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
