@@ -29,31 +29,41 @@ Regen Registry defines Nature Based Solutions in the following manner:
 Markets are seeking pathways for divestment from degenerate commodities to more regenerative investment vehicles is getting wider traction. However the divestment is constrained by a lack of said pathways and it's estimated that there are $5T of "stranded assets" trading on Wall St. books. In our  opinion, this represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [Here is a longer primer we wrote analysing the fundamentals around ecosystem economics](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
 
 **Scientific Assumptions**
-When it comes to addressing the markets with integrity, we need to incorporate truth claims and context. There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). The DeSci movement might consider reconciling these approaches to making truth claims through abductive methodologies which base predictions on known priors, then feed forward to inference like Bayesian inference. 
+When it comes to addressing the markets with integrity, we need to incorporate truth claims and anchor this context. The methods used and the claims made are important; [Popper](https://en.wikipedia.org/wiki/Karl_Popper) believed science was about the raw explanatory power and predictive capacity of a framework, while [Khun](https://en.wikipedia.org/wiki/Thomas_Kuhn) thought of it as a community of practice. 
 
-Such truth claims are essentially perspectives, which brings up questions of frame and [representation](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107?gi=8c7bbd1fb970); according to Khun science is a community of practice, while according to Popper it's about the explanatory power of a framework. We consequentially need to represent ontological preferences in a transparent frame or epistemology. For that we rely on the second order science of general systematics.  
+In our view both authors are correct; reason can thought of as rational proof (deductive knowledge utilising the Baconian methodology) and as empiric verification (inductive wisdom through the Goethian methodology). Consequentially ReSci movement might consider integrating both these fundamental approaches to making truth claims by leveraging abductive reasoning and Bayesian methods. These base predictions on known priors before feeding forward to infer likely outcomes. 
 
 **Technological Assumptions**
-From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents, speaking their language of preference, express perspectives on 'Truth claims'. 
+From a practical standpoint the story of digital communication begins with [Claude Shannons](https://en.wikipedia.org/wiki/Claude_Shannon) information theory; binary 1's and 0's that convey state. Beyond Shannon's fundamental theory of bits and bytes, there are new innovations that abstract his binary domain into a trinary lens of "agents, languages and perspectives" where agents, speaking their language of preference, express perspectives on 'Truth claims'. 
 
-As a technical architecture, this foundational 'meta ontology' allows us to encode other frameworks as perspectives; and in particular we believe that encoding "general systematics" is a transparent epistemology that can act as a functional backbone for modelling any scenario. 
+As a technical architecture, such a '[meta ontology](https://ad4m.dev/)' enables us to encode other frameworks as 'perspectives', and in particular we believe that encoding "general systematics" is a particularly powerful framework that can act as a functional backbone for clustering parameter groupings in a transparent way. 
 
-Applied at the interface level these functional frameworks can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and far beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility for apples to oranges comparison; quantitive measures to qualitative values.
+Applied at the interface level these functional frameworks can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and far beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility for an apples to oranges comparison; quantitive measures to qualitative values.
 
 ---
-## General Technical Infrastructure
-Let's frame the high level and consider the abstractions we might lean on in relation to our goals:
+
+## Infrastructure Design
+
+Let's frame some high level abstractions that we can lean on in relation to our ends:
 - (+) Qualitative values (Impact evaluators)
 - (=) Markov blankets (Hypercerts)
 - (-) Quantitive measures (Impact certificates)
 
-Markov blankets act as a form of general substrate and which can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
+Markov blankets act as a form of general substrate that can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
 
-An Impact certificate essentially articulates a given methodology in a machine readable format. These certificates represent a means, while evaluation criteria codified in a similar format of parametric groupings can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs' (represented in a geometry of "source, question, claim, proof"). 
+An Impact certificate essentially articulates a given methodology in a machine readable format. These certificates represent a set of means, while evaluation criteria codified in a similar format can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs'; this might be represented in a tetradic geometry with nodes representing:
+- Directive: Source 
+- Instruental: Question
+- Ground: Claim
+- Ideal: Proof. 
 
-Taking such a concept one step further it's easy enough to imagine a form of bespoke consulting where any conversation is represented as functional geometries that aid the processes of communal understanding. When the discussion reaches consensus (on Credit methodology or class, DAO design, evaluation criteria etc.) we can use the interface to easily anchor data on chain. Any subsequent discussion (with or with out a facilitator) can be updated through such an interface and easily merged. This data can be aggregated as a form of capital and issued as eco-credits, which would help democratise access to technology in a significant way. Such a process can even be gamified to make the process fun and rewarding!
+Extrapolating such a concept one step further it's easy enough to imagine a form of bespoke consulting where the content of any conversation can be functionally represented as geometries that support the processes of communal understanding. Here's an example in relation to a discussion and programming:
 
-From the interface level comes the functional specifications for chain integration. Using the AD4M ontology we can use general systematics to describe a set of metadata standards. We then describe both the data module and eco-credit modules as 'languages' to make them functionally compatible. For added precision, we may wish to add other ontologies for translating quantity (data module claims) to quality (eco-credit attestations). 
+![](assets/systematicsPlugin.png)
+
+When a conversation reaches consensus on credit class, methodology, DAO design, evaluation criteria etc. we can use the interface to easily store and anchor data on chain. Any subsequent discussion can be self managed by the community, easily updating their credit design parameters through such a simple interface. Supporting data and conversation can be aggregated as a form of adaptive capital and issued as eco-credits, democratising access to technology in a significant way. Such a process can even be [turned into art](https://sovereignnature.com/tracing-the-wild) or gamified to make the process fun and rewarding!
+
+Below the interface level comes the functional specifications for chain integration. Using the [AD4M ontology](https://ad4m.dev/) we can integrate general systematics to describe a set of metadata standards. From there we can describe both the data module and eco-credit modules as 'languages' and 'perspectives' in order to make them interoperable with other standards. For added precision, we may wish to add other ontologies for translating quantity (data module claims) to quality (eco-credit attestations). 
 
 Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact evaluation. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for impact certificates. The elegance of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
 
