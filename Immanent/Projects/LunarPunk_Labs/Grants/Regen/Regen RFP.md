@@ -73,18 +73,24 @@ For example we can extend the triadic geometry MRV to be a tetradic geometry for
 - Ideal: Sky-sensing (satellite, drones, aerial)
 - Ground: Reputation-sensing (identity, community trust) 
 
-Ultimately whatever heuristics are at play can be articulated through General Systematics and codified as Markov blankets to unlock the capabilities of semantic composition. The being of these functional models can then be enriched with Active Inferencing to provide more detailed depth of [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md). 
+Ultimately whatever indicators are at desirable can be articulated through General Systematics and codified as Markov blankets to unlock the capabilities of semantic composition. These functional models can then be enriched with Active Inferencing to provide a more detailed depth of [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md). 
 
 ---
-## Specific Tokenomic Mechanism(s)
-The above design is general infrastructure for composing specific credits. The particular credit design is dependent on the parametric groupings instantiated around a use case or pilot project. To bring these technologies to market requires pilot projects. 
 
-There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions around them are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors. 
+## Pilot Tokenomic Mechanism(s)
+
+The design at the level of general infrastructure for composing any desirable credit design, which is dependent on the parametric groupings instantiated around a use case or pilot project. 
+
+There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on DAO capacity. LunarPunk Labs has a preference is to work closely with our existing partners at Regenerating Sonora in order to build out a low risk pilot project. Conditions around them are exceptionally vital; they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors! 
 
 #### Regenerating Sonora Use Case
-Starting from the LEHR gardens, we assess possibilities. It's decided that the key step forward is to automate the gardens water timers. A group of local high schoolers automate the timers using their Arduino kits. Through the Weco interface, these data level streams are hooked up to a storage medium of choice like Filecoin Green and anchored with the Regen DataModule. 
-
-As the students add other sensors to augment the timers with feedback loops, these are added to the systematic interface. These feedback loops are assessed using active inferencing; are the gardens growing better with the automation or worse? Student determinations may well be best guesses, rather than institutional best practice, but a credit can be issued none the less using the eco-credit module. 
+- Starting from the LEHR gardens, we assess possibilities. 
+- It's decided that the key step forward is to automate the gardens water timers. 
+- A group of local high school students automate the timers using their Arduino kits. 
+- Using the systematics interface, Arduino data feeds are selected as the input 'perspective'
+- These are then allocated to a 'language' describing the storage mediums (e.g. Filecoin Green).
+- As the students add other sensors to augment the garden timers new feedback loops arise. 
+- These changes to the model are assessed using active inferencing; do the feedback loops suggest the gardens are growing better or worse with the new automation?
 
 At some point in the future a soil scientist recommends measuring Brix values instead of the students best guess, and someone smart also suggests tracking pollinators. The students put in new sensors and update their eco-credits underlying methodology using the geometric interface. Active inference engines suggest that these changes are beneficial to the gardens in reference to a stipulated outcome of vegetation growth, which is then automatically published on chain as supporting data. Consequentially the credit gains value in the market and efforts are rewarded.
 
@@ -235,6 +241,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - [Manifest UI](https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit "https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit")
 - [Weco Explainer](https://www.youtube.com/watch?v=I6S61HejjzA "https://www.youtube.com/watch?v=I6S61HejjzA")
 - [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
+- [BLUR](https://gm.xyz/c/CryptoNews/ae2c438e-0ee8-4f76-a434-c07466f2ac93)
 
 ## Quality Control
 - Research grant articulation 
