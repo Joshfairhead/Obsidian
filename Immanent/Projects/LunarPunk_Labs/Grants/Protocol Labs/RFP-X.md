@@ -33,6 +33,7 @@ Over the years there has been a plethora of research on the semantic web and rel
 #### **Interface Design**
 Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of representation and interaction design. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast, yet the field still has plenty of scope for development.
 
+%% Laurence says not justified%%
 #### **Data Security and Network Integrity**
 When considering a vision of a free and open internet that serves humanity, the most fundamental first principle to consider is the software security model. This model dictates a set of design affordances through the principle of inheritance. With the growing shift in preferences from centralized to decentralized computing, we have inadvertently started to re-adopt a [“capabilities”](https://www.youtube.com/watch?v=qZ2LltOmD5A&t) oriented security model at the network level. This architecture can be seen manifesting in the form of cryptographic tokens that are stored on distributed ledgers and controlled through wallet addresses - but it’s potential is mostly nascent and unrealised. 
 
@@ -92,15 +93,15 @@ In parallel it will be necessary to drive the implementation by championing the 
 6. Planned product
 7. Quality control
 
-### Milestone one: Functional Specifications
+### Milestone one: Specifications and reading
 **Start Date:** 2023-04-06
 **Deliverables:**
-1. Submitting a Research proposal to Protocol Labs in parallel to this RFP
-2. Presentation on state of affairs and shared with community partners and date set for sense making
+1. Submitting a Research proposal to Regen in parallel to this RFP-X while reading
+2. Research on state of affairs and shared with community partners and date set for sense making
 3. Presentation on the state of affairs and Public sense making session in 'consortium' format
-4. Working with Implementation partners to align on functional specifications
+4. Working with implementation partners to align on functional specifications
 5. Public presentation of engineering documentation to Regen Community and Network Goods team
-6. Submission is made to the network via an on chain vote with two weeks deliberation time
+6. Signalling proposal is made to the network via an on chain mechanisms
 7. Proposal passes or fails based on validator determinations
 
 **Budget:** 
@@ -112,32 +113,26 @@ In parallel it will be necessary to drive the implementation by championing the 
 **Deliverables:**
 1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
 2. Practice the design and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
-3. Presentation of DAO pilot programme provided to community partners 
+3. Presentation of suggested DAO pilot programme provided to community partners 
 4. Working with place based community facilitators to align on practices and methodologies
 5. Onboarding documentation compiled and shared online
-6. Community completes discussion DAO design as engineering on a pilot project begins
+6. Community completes discussion on DAO design as engineering on a pilot project begins
 7. Updates submitted to Commonwealth, Protocol Labs and Regen community
 
 **Budget:** 
 - $25k Cash grant from RND inc. to LunarPunk_Labs
 - Token delegation from Regen Foundation to community partners
 
-### M2: Design
-**Start Date:** 2023-07-17
+### Milestone Three: Pilot Project(s)
 **Deliverables:**
-1. Articulate the precise eco-credit methodology and share in a group context
-2. Practice the methodology technique and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
-3. Research presentation of methodology results provided to pilot partners 
-4. Working with place based community facilitators to align on methodology practice
-5. Methodology documentation published
-6. Engineering on pilot project begins as community discuss documentation
-7. Updates submitted to Commonwealth, Protocol Labs and Regen community
+1. Articulate the precise eco-credit methodology and share in a 'consortium' context
+2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
+3. Presentation of pretotype results provided to pilot partners 
+4. Working with place based community facilitators to align with and codify their practice
+5. Documentation published on their precise method
+6. Submission of methodology submitted for peer review
+7. Expert review via the Regen Registry team or third party verifier
 
-**Budget:** 
-- $25k Cash grant from RND inc. to H3uni
-- Token delegation from Regen Foundation to community partners
-
-### M3: Pilot Project
 **Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 

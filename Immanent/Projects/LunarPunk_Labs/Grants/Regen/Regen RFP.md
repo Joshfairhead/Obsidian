@@ -34,14 +34,14 @@ Applied at the interface level these functional frameworks can be used to genera
 
 Let's frame the high level design abstractions we will lean on in relation to our ends:
 - (+) Qualitative values (Impact evaluators)
-- (=) Markov blankets (Hypercerts)
+- (=) Systematised Markov blankets (Hypercerts)
 - (-) Quantitive measures (Impact certificates)
 
 Markov blankets act as a form of general substrate that can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the [data module](https://docs.regen.network/modules/data/).
 
 An Impact certificate essentially articulates a given methodology in a machine readable format. These certificates represent a set of means, while evaluation criteria codified in a similar format can express values as ends. For example, when it comes to open science, there is a movement towards making papers more accessible by encoding them as 'conversation graphs'; this might be represented in a tetradic geometry with nodes representing:
 - Directive: Source 
-- Instruental: Question
+- Instrumental: Question
 - Ground: Claim
 - Ideal: Proof. 
 
@@ -149,7 +149,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 **Start Date:** 2023-04-06
 **Deliverables:**
 1. Submitting a Research proposal to Protocol Labs in parallel to this RFP
-2. Presentation on state of affairs and shared with community partners and date set for sense making
+2. Presentation on state of affairs shared with community partners and date set for sense making
 3. Public sense making session in 'consortium' format
 4. Working with Implementation partners to align on functional specifications
 5. Public presentation of engineering documentation to Regen Community and Network Goods team
