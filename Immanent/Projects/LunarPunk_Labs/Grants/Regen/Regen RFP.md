@@ -113,6 +113,39 @@ An example methodology our students might use to additionally codify the co-bene
 
 This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards in a sequence). You can keep up with the teams progress [here](https://weco.io/p/3528).
 
+---
+
+## Teams as Viable Systems DAO
+- **Purpose** :: Pilot Implementation :: [Regenerating Sonora](https://regeneratingsonora.org/) 
+- **Intelligence** :: Logistics & Coordination ::  [LunarPunk_Labs](Lunarpunklabs.org) 
+- **Operations** :: Development :: [WeCo](WeCo.io)
+- **Coordination Task** :: Design :: VIZN_Labs
+- **Resourcing** :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
+
+## Operational Pathways
+- **(+) Applied Science:** Place based communities 
+	- **Purpose**: Field learning and environmental stewardship
+	- **Intelligence**: Practice based methodologies
+	- **Operations**: Onboarding pilot projects and facilitation
+	- **Coordination Task**: Methodology Development
+	- **Resourcing**: Lab learning as rational understanding
+
+- **(-) Social Technology**: Verification Infrastructure 
+	- **Purpose**: Impact evaluators as quality assurance from REA value accounting
+	- **Intelligence**: Academic research and conversation graphs as attestations
+	- **Operations**: Hypercerts making use of general systematics and active inference 
+	- **Coordination Task**: Interfaces and conversation graph as a source of claims
+	- **Resourcing**: Impact certificates as sources of quantitive measurements from MRV
+
+- **(=) Impact Markets**
+	- **Purpose**: Advocacy and narrative as transformative change
+	- **Intelligence**: Legal and regulatory movements
+	- **Operations**: Events, logistics and investments
+	- **Coordination Task**: Marketing and communications
+	- **Resourcing**: Accounts, fundraising and economics
+
+
+
 --- 
 # Roadmap and Budget
 
@@ -181,44 +214,8 @@ This particular methodology is currently being demonstrated as both the H3uni co
 #### Milestone Seven: Quality Control
 - Issuing general systematics as a semantic credit class upon Registry sign off.
 
-# Teams as Viable System DAO
-- Purpose :: Pilot Implementation :: [Regenerating Sonora](https://regeneratingsonora.org/) 
-- Intelligence :: Logistics & Coordination ::  [LunarPunk_Labs](Lunarpunklabs.org) 
-- Operations :: Development :: [WeCo](WeCo.io)
-- Coordination Task :: Design :: VIZN_Labs
-- Resourcing :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
 
-## Operational Pathways and DAO touchpoints
-- **(+) Applied Science:** Place based communities 
-	- **Purpose**: Field learning and environmental stewardship
-	- **Intelligence**: Practice based methodologies
-	- **Operations**: Onboarding pilot projects and facilitation
-	- **Coordination Task**: Methodology Development
-	- **Resourcing**: Lab learning as rational understanding
-
-- **(-) Social Technology**: Verification Infrastructure 
-	- **Purpose**: Impact evaluators as quality assurance 
-	- **Intelligence**: Academic research and convers conversational attestations in a conversation graph
-	- **Operations**: Hypercerts making use of general systematics and active inference 
-	- **Coordination Task**: Interfaces and social graph as a source of claims
-	- **Resourcing**: Impact certificates as sources of quantitive measurements
-
-- **(=) Impact Markets**
-	- **Purpose**: Advocacy and narrative as transformative change
-	- **Intelligence**: Legal and regulatory movements
-	- **Operations**: Events, logistics and investments
-	- **Coordination Task**: Marketing and communications
-	- **Resourcing**: Accounts, fundraising and economics
-
-Cut: 
-- Product, Devops, Interface data science
--  Partnerships, Compliance
-- Product, Community facilitation
-- Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics, Facilitation
-- Administration 
-
-
-# Quality: References / Bibliography
+# References / Bibliography
 - [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
@@ -247,9 +244,22 @@ Cut:
 - [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
 - [BLUR](https://gm.xyz/c/CryptoNews/ae2c438e-0ee8-4f76-a434-c07466f2ac93)
 
+
+
+---
+# Hack Pad  
 ---
 LunarPunk_Labs have previously [won the digital identity track](https://www.youtube.com/watch?v=vHhzJpDTEMs) at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
 
 Weco has been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. The interface is designed as a social network with a modular plugin architecture. Their work to date has previously been funded by Eric Harris Brown of CEPTR notoriety. 
+
+Cut: 
+- Product, Devops, Interface data science
+-  Partnerships, Compliance
+- Product, Community facilitation
+- Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics, Facilitation
+- Administration 
+
+
 
 Research Grant application
