@@ -10,41 +10,42 @@
 7) Quality control
 
 ---
-# Proposal: "REGEN 2.0: Adaptive Capital "
-https://odyssey.org/past-editions/odyssey-2020/self-sovereign-identity-in-action/
+# Tokenomics Proposal: "Adaptive Capital "
 
 ## Background
-To briefly preface this proposal submission with some context, the team at LunarPunk_Labs are focused on bridging research and implementation are essentially proposing and ecosystem partnership between Regen Network and Protocol Labs.  As a distributed team we have previously [won the digital identity track](https://www.youtube.com/watch?v=vHhzJpDTEMs) at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
+To briefly preface this proposal submission with some background context; we are essentially proposing an ecosystem level partnership between Regen Network and Protocol Labs. This comes from our teams desire to the gap between research and implementation. 
 
-Weco has been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. The interface is designed as a social network with a modular plugin architecture. Their work to date has previously been funded by Eric Harris Brown of CEPTR notoriety. 
+The proposal below outlines the current state of our implementation plan and we are soliciting discussion and feedback for further advancement. There is plenty of scope for improvement, which we trust will happen as we advance our work. We believe that the proposal submitted to PL can help lay strong research foundations; while Regen is fertile soil for grounded technical implementation.
 
 ---
-## Specifications as constraints
-Nature Based Solutions are defined by the Regen Registry in the following way:
+## Specifications
+Regen Registry defines Nature Based Solutions in the following manner:
 
 > Actions to protect, regeneratively manage and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits”.
 
-Consequentially, "Adaptive Capital" is a proposition for valuing living ecosystems through  amulti-perspective architecture and the free energy principal; this is a means of integrating quantitive measures with qualitative values and outcomes. For such a project to find traction need to consider the existential domains of markets, science and technology; while holding in mind the essential values of people, planet and protocols. Let's explore:
+"Adaptive Capital" is subsequently a proposition for valuing living ecosystems through multi-perspective architecture and the free energy principal; a means of evaluating quantitive measures with qualitative outcomes. For such a project to find traction, we need to consider the existential domains of markets, science and technology; while holding in mind the essential values of people, planet and protocols. Let's explore our assumptions about these domains:
 
 **Market Assumptions**
-Markets are seeking pathways for divestment from degenerate commodities to more regenerative investment vehicles is getting wider traction. However the divesment is constrained by a lack of said pathways and itst's estimated that there are $5T of "stranded assets" trading on Wall St. books. In our  opinion, this represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [Here is a primer we wrote on ecosystem economics](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
+Markets are seeking pathways for divestment from degenerate commodities to more regenerative investment vehicles is getting wider traction. However the divestment is constrained by a lack of said pathways and it's estimated that there are $5T of "stranded assets" trading on Wall St. books. In our  opinion, this represents a transformation opportunity thats global in scale - provided we can address their pain points with integrity. [Here is a longer primer we wrote analysing the fundamentals around ecosystem economics](https://commonwealth.im/regen/discussion/9918-ecosystem-function-economics). 
 
 **Scientific Assumptions**
-When it comes to addressing the markets with integrity, we need to incorporate truth claims. There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). Regenerative science should in principal integrate both approaches to making Truth claims through abductive reasoning based on known priors (Bayesian inference). Such truth claims are essentially perspectives, which brings up questions of frame and [representation](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107?gi=8c7bbd1fb970); according to Khun science is a community of practice, while according to Popper it's about the explanatory power of a framework. We consequentially need to represent ontological preferences in a transparent frame or epistemology. For that we rely on the second order science of general systematics.  
+When it comes to addressing the markets with integrity, we need to incorporate truth claims and context. There are two primordial forms of scientific reasoning; rational proof (deductive knowledge/Baconian method) and empiric verification (inductive wisdom/Goethian method). The DeSci movement might consider reconciling these approaches to making truth claims through abductive methodologies which base predictions on known priors, then feed forward to inference like Bayesian inference. 
+
+Such truth claims are essentially perspectives, which brings up questions of frame and [representation](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107?gi=8c7bbd1fb970); according to Khun science is a community of practice, while according to Popper it's about the explanatory power of a framework. We consequentially need to represent ontological preferences in a transparent frame or epistemology. For that we rely on the second order science of general systematics.  
 
 **Technological Assumptions**
-From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents, speaking their language of preference, express perspectives on 'Truth'. 
+From a practical standpoint, the story of computers starts with Claude Shannons binary information theory of 1's and 0's, but beyond this there are new innovations which abstract the domain of information to a triple of "agents, languages and perspectives" where agents, speaking their language of preference, express perspectives on 'Truth claims'. 
 
 As a technical architecture, this foundational 'meta ontology' allows us to encode other frameworks as perspectives; and in particular we believe that encoding "general systematics" is a transparent epistemology that can act as a functional backbone for modelling any scenario. 
 
-Applied at the interface level these frames can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility.
+Applied at the interface level these functional frameworks can be used to generate a consistent set of active inference models that enable the encoding of practice based methodologies, eco-credits, accounting methodologies, evaluation criteria, sensor networks APIs, DAOs and far beyond. Such architecture is particularly elegant as it enables semantic translation and ad hoc composibility for apples to oranges comparison; quantitive measures to qualitative values.
 
 ---
 ## General Technical Infrastructure
-As far as necessary infrastructure design goes, there are three technical mechanisms that we can lean on in relation to our goal of integrating quantity with quality:
-- Impact evaluators (+)
-- Markov blankets (=)
-- Impact certificates (-)
+Let's frame the high level and consider the abstractions we might lean on in relation to our goals:
+- (+) Qualitative values (Impact evaluators)
+- (=) Markov blankets (Hypercerts)
+- (-) Quantitive measures (Impact certificates)
 
 Markov blankets act as a form of general substrate and which can then be further systematised with **metadata** to enable semantic interoperability - this is a highly general medium that is analogus to merkle trees and hash graphs. In Regens case this technical infrastructure is represented by the data module.
 
@@ -217,6 +218,20 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
 - [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
 - PurplePill.vision
+- [$1T stranded assets number](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
+- [Leading researchers on stranded assets](https://www.smithschool.ox.ac.uk/)
+- [Manifest Collage](https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p "https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p")
+- [Manifest creative brief](https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320 "https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320")
+- [Manifest UI](https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit "https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit")
+- [Weco Explainer](https://www.youtube.com/watch?v=I6S61HejjzA "https://www.youtube.com/watch?v=I6S61HejjzA")
+- [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
 
 ## Quality Control
 - Research grant articulation 
+
+
+
+---
+LunarPunk_Labs have previously [won the digital identity track](https://www.youtube.com/watch?v=vHhzJpDTEMs) at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
+
+Weco has been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. The interface is designed as a social network with a modular plugin architecture. Their work to date has previously been funded by Eric Harris Brown of CEPTR notoriety. 

@@ -149,8 +149,6 @@ This milestone is a commoning phase where stakeholders are convened along with c
 - [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
 - [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
 
-- [$1T stranded assets number](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
-- [Leading research on stranded assets](https://www.smithschool.ox.ac.uk/)
 - [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
 
 
