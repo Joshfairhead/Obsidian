@@ -34,19 +34,19 @@
             }
           },
           {
-            "id": "300c9449d648f00d",
+            "id": "4498d9434a235a21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,14 +174,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16850a5149a8ac04",
+  "active": "4498d9434a235a21",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2023/2023-02-13.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
+    "Immanent/DailyNotes/2023/2023-02-13.md",
     "Immanent/Projects/R3solution/R3solution.md",
     "Immanent/Projects/R3solution/R3solution Hacking.md",
     "Omnicient/Computer Sci/DID Resolution.md",
-    "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/WorkBench/().md",
     "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
     "Omnicient/Artefacts (entropy)/Odyssey Momentum.md",

@@ -78,6 +78,8 @@ In parallel it will be necessary to drive the implementation by championing the 
 4.  LunarPunk Labs community activation
 5.  Active Inference Institute / Complexity Weekend calls
 
+---
+
 # Milestones
 ### M0: Meta
 **Start Date:** NOW!
@@ -90,23 +92,35 @@ In parallel it will be necessary to drive the implementation by championing the 
 6. Planned product
 7. Quality control
 
-### M1: Functional Specifications
+### Milestone one: Functional Specifications
 **Start Date:** 2023-04-06
 **Deliverables:**
-1. Submitting the Implementation proposal to Commonwealth.im in parallel to this RFP-X
-2. A date and location for public sense making is shared with partners and community
-3. Presentation on the state of affairs and public sense making session in consortium format
+1. Submitting a Research proposal to Protocol Labs in parallel to this RFP
+2. Presentation on state of affairs and shared with community partners and date set for sense making
+3. Presentation on the state of affairs and Public sense making session in 'consortium' format
 4. Working with Implementation partners to align on functional specifications
 5. Public presentation of engineering documentation to Regen Community and Network Goods team
-6. Submission is made to the network via an on chain vote (two weeks deliberation time)
+6. Submission is made to the network via an on chain vote with two weeks deliberation time
 7. Proposal passes or fails based on validator determinations
-
-**Statement:** 
-This milestone is a commoning phase where stakeholders are convened along with community contributors.  
 
 **Budget:** 
 - $35k Research budget from Protocol Labs to LunarPunk_Labs
 - Token grant from Regen Foundation to community partners
+
+### Milestone Two: DAO Design
+**Start Date:** 2023-07-17
+**Deliverables:**
+1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
+2. Practice the design and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
+3. Presentation of DAO pilot programme provided to community partners 
+4. Working with place based community facilitators to align on practices and methodologies
+5. Onboarding documentation compiled and shared online
+6. Community completes discussion DAO design as engineering on a pilot project begins
+7. Updates submitted to Commonwealth, Protocol Labs and Regen community
+
+**Budget:** 
+- $25k Cash grant from RND inc. to LunarPunk_Labs
+- Token delegation from Regen Foundation to community partners
 
 ### M2: Design
 **Start Date:** 2023-07-17
@@ -127,17 +141,54 @@ This milestone is a commoning phase where stakeholders are convened along with c
 **Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
-### M4: Tokenomics csDAO
+### Milestone Four: Tokenomics csDAO
 **Budget:** 
 - 500k locked REGEN tokens to initiate the csDAO structure.
 - Contributions from Protocol Labs to sustain traction
 
-# Peer Parnterships as Viable System
-- Purpose :: Pilot Project :: Regenerating Sonora 
-- Intelligence :: Interface :: WeCo.io
-- Operations :: Logistics & Coordination ::  LunarPunk_Labs 
-- Coordination Task :: Product :: VIZN_Labs
-- Resourcing :: Engineering :: Sovereign Nature Initiative 
+#### Milestone Five: Engineering
+- Interface design for functionally encoding community conversations
+- Describing general systematics as an AD4M perspective
+- Integrating Regen's data module as an AD4M language
+- Integrating Regen's eco-credit module as an AD4M perspective
+
+**Budget**: TBD
+
+#### Milestone Six: Perfected Designs
+- Anchoring partner data on chain with the Regen data module
+- Minting eco-credits for pilot project partners
+
+**Budget**: TBD
+
+#### Milestone Seven: Quality Control
+- Issuing general systematics as a semantic credit class upon Registry Governance sign off.
+
+**Budget**: TBD
+
+---
+
+
+
+### Milestone Three: Pilot Project(s)
+1. Articulate the precise eco-credit methodology and share in a group context
+2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
+3. Presentation of pretotype results provided to pilot partners 
+4. Working with place based community facilitators to align with and codify their practice
+5. Documentation published on their precise method
+6. Submission of methodology submitted for peer review
+7. Expert review via the Regen Registry team or third party verifier
+
+**Budget:** 
+- 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
+
+
+---
+# Teams as Viable Systems Architecture
+- **Purpose** :: Pilot Implementation :: [Regenerating Sonora](https://regeneratingsonora.org/) 
+- **Intelligence** :: Logistics & Coordination ::  [LunarPunk_Labs](Lunarpunklabs.org) 
+- **Operations** :: Development :: [WeCo](WeCo.io)
+- **Coordination Task** :: Design :: VIZN_Labs
+- **Resourcing** :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
 
 # Traction
 - GR15 Marketing
@@ -148,11 +199,7 @@ This milestone is a commoning phase where stakeholders are convened along with c
 # References
 - [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
 - [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
-
 - [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
-
-
-**Links from H3uni:**
 - [Panarchy: Theory and Application](https://link.springer.com/article/10.1007/s10021-013-9744-2)  
 - [Robert Knowles, The Leadership Dance](https://www.google.com/search?q=the+leadership+dance+enneagram&client=firefox-b-d&sxsrf=AJOqlzXh833qcoeOFlFluNnHn560XoQ1IA:1675883705422&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjet8in0Yb9AhUGU6QEHSIgDi0Q_AUoAnoECAEQBA&biw=1440&bih=709&dpr=1#imgrc=XG24T0-zMmWY9M)
 - [Deep Time Walk](https://www.deeptimewalk.org/)  
@@ -161,3 +208,30 @@ This milestone is a commoning phase where stakeholders are convened along with c
 - [Futures Journal](https://www.sciencedirect.com/journal/futures)
 - [Beyond postnormal times: The future of creativity and the creativity of the future](https://www.sciencedirect.com/science/article/abs/pii/S0016328710002405)
 - [Second Order Science; logic, strategies, methods](https://www.researchgate.net/publication/279324039_Second-order_Science_Logic_Strategies_Methods)
+- [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
+- [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
+- [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
+- [Gaia BioHabitat Commons](https://docs.google.com/presentation/d/13xWKMRdfa1vJauJCn8SQq9fQqP9EEVJOowg78PU9hwM/edit#slide=id.g14d6de67000_0_617)
+- [Blockscience propaganda](https://docs.google.com/presentation/d/1xvr_47iPlf1FTx7O2irqBGMCo-Z_7qdU/edit#slide=id.g89d5288067a441a_10)
+- [Facets Journal](https://www.facetsjournal.com/doi/10.1139/facets-2020-0114)
+- [Social–ecological hotspots mapping: A spatial approach for identifying coupled social–ecological space](https://www.sciencedirect.com/science/article/abs/pii/S0169204607002216)
+- [Defining and measuring the social-ecological quality of urban greenspace: a semi-systematic review](https://link.springer.com/article/10.1007/s11252-015-0456-6)
+- [Enhancing the Ostrom social-ecological system framework through formalization](https://www.ecologyandsociety.org/vol19/iss3/art51/)
+- [Integrating sense of place into ecosystem restoration: a novel approach to achieve synergistic social-ecological impact](https://www.ecologyandsociety.org/vol23/iss4/art25/)
+- [Weco: An ontological design framework](https://docs.google.com/document/d/1ZvIr9r9hl4E1RU4t885TyuXW0gCpt2Ad4ieYOT--a90/edit)
+- [The healing-growth future of humanity: regenerative politics and crealectic care](http://uu.diva-portal.org/smash/get/diva2:1620901/FULLTEXT02.pdf)
+- [Castela: The Citedel of Truth](https://docs.google.com/document/d/16FZnGeNaxPD32S_vvw5idHM0ULka_ObUpo1-c_x-LJU/edit) - generating conversation graphs
+- [Holonic Medium](https://docs.google.com/document/d/1hc7UMHlvaFpwaDPzcseTycUlHRIy1NlJpHfGQgB_c-I/edit#heading=h.nhvltdokqxbd)
+- [Towards Ecological Economics](https://medium.com/regen-network/towards-ecological-economics-de0c035e622e)
+- [The emporers new markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
+- [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
+- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
+- PurplePill.vision
+- [$1T stranded assets number](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
+- [Leading researchers on stranded assets](https://www.smithschool.ox.ac.uk/)
+- [Manifest Collage](https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p "https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p")
+- [Manifest creative brief](https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320 "https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320")
+- [Manifest UI](https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit "https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit")
+- [Weco Explainer](https://www.youtube.com/watch?v=I6S61HejjzA "https://www.youtube.com/watch?v=I6S61HejjzA")
+- [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
+- [BLUR](https://gm.xyz/c/CryptoNews/ae2c438e-0ee8-4f76-a434-c07466f2ac93)

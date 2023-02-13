@@ -68,16 +68,17 @@ Ultimately whatever indicators are at [desirable](purplepill.vision) can be arti
 
 The architecture above is designed at the level of general infrastructure and can be used for composing any desirable credit design, which is dependent on the articulation of parametric groupings instantiated around a use case or pilot project. The paramaters and the rules for governing them matter significantly when scaled to the level of community or bioregion. 
 
-There are a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on DAO capacity. LunarPunk Labs as proposal authors have a strong preference towards working closely with our existing partners at the charity Regenerating Sonora in order to build out a low risk pilot project. Conditions around them are exceptionally vital as they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors! 
+There are a number of great projects in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on DAO capacity. LunarPunk Labs as proposal authors have a strong preference towards working closely with our existing partners at the charity Regenerating Sonora in order to build out a low risk pilot project. Conditions around them are exceptionally vital as they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors! 
 
 #### Basic Credits: Regenerating Sonora use case
-- Starting from the LEHR gardens, we assess possibilities. 
+- Starting from the LEHR gardens, possibilities are assessed by a student group. 
 - It's decided that the key step forward is to automate the gardens water timers. 
 - A group of local high school students automate the timers using their Arduino kits. 
-- Using the systematics interface, Arduino data feeds are selected as the input 'perspective'
+- Using the systematics interface Arduino data feeds are mapped as a 'perspective'.
 - These are then allocated to a 'language' describing the storage mediums (e.g. Filecoin Green).
 - As the students add other sensors to augment the garden timers new feedback loops arise. 
-- These changes to the model are assessed using active inferencing; do the feedback loops suggest the gardens are growing better or worse with the new automation? as processes improve the credit gains value in the market.
+- These changes to the model are assessed using active inferencing; do the feedback loops suggest the gardens are growing better or worse with the new automation? 
+- Documented processes reporting improvements drives up the credit value. Assuming the local school holds a portion of tokens they stand to benefit from any speculative activity on their work.
 
 #### Community Capital: H3 University use case
 An example methodology our students might use to additionally codify the co-benefits produced by the communities vibrant social capital is the H3uni framework deployed on the current course "[The art of creative collaboration](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987)". This particular practice based methodology groups eight sets of parameters under four framing conditions. 
@@ -98,7 +99,7 @@ An example methodology our students might use to additionally codify the co-bene
 - Perceiving qualities
 - Mental repatterining
 
-This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards in a sequence). This can all be anchored on a storage medium of choice using the Regen Data Module. You can keep up with the teams testing [here](https://weco.io/p/3528).
+This particular methodology is currently being demonstrated as both the H3uni course with video documentary evidence AND is being discussed amongst our teams on WeCo.io as a weave (chains of 1min audio recordings / 140 character cards in a sequence as a conversation graph). This can all be anchored on a storage medium of choice using the Regen Data Module. You can keep up with the teams testing [here](https://weco.io/p/3528).
 
 ---
 # Teams as Viable Systems DAO
@@ -107,6 +108,12 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - **Operations** :: Development :: [WeCo](WeCo.io)
 - **Coordination Task** :: Design :: VIZN_Labs
 - **Resourcing** :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
+
+## Traction
+- GR15 Marketing
+- Refi DAO founders circles
+- Future Quest grant top 100 grantee
+- GItcoin Verification Infrastructure bundle
 
 ## Pathways
 - **(+) Applied Science:** Place based communities 
@@ -123,7 +130,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 	- **Coordination Task**: Interfaces and conversation graphs as a source of claims
 	- **Resourcing**: Impact certificates as sources of quantitive measurements from MRV
 
-- **(=) Impact Markets**: Operations DAO
+- **(=) Impact Markets**: Operationalised DAO
 	- **Purpose**: Advocacy and narrative as transformative change
 	- **Intelligence**: Legal and regulatory movements
 	- **Operations**: Events, logistics and investments
@@ -206,6 +213,17 @@ This particular methodology is currently being demonstrated as both the H3uni co
 
 ---
 # References / Bibliography
+- [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
+- [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
+- [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
+- [Panarchy: Theory and Application](https://link.springer.com/article/10.1007/s10021-013-9744-2)  
+- [Robert Knowles, The Leadership Dance](https://www.google.com/search?q=the+leadership+dance+enneagram&client=firefox-b-d&sxsrf=AJOqlzXh833qcoeOFlFluNnHn560XoQ1IA:1675883705422&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjet8in0Yb9AhUGU6QEHSIgDi0Q_AUoAnoECAEQBA&biw=1440&bih=709&dpr=1#imgrc=XG24T0-zMmWY9M)
+- [Deep Time Walk](https://www.deeptimewalk.org/)  
+- [Charles Langmuir](https://www.youtube.com/watch?v=1srN5_IEXK8) 
+- [Charles Langmuir 2](https://youtu.be/EtSdJjbtqNw)
+- [Futures Journal](https://www.sciencedirect.com/journal/futures)
+- [Beyond postnormal times: The future of creativity and the creativity of the future](https://www.sciencedirect.com/science/article/abs/pii/S0016328710002405)
+- [Second Order Science; logic, strategies, methods](https://www.researchgate.net/publication/279324039_Second-order_Science_Logic_Strategies_Methods)
 - [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
