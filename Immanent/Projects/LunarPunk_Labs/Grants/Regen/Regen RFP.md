@@ -63,21 +63,21 @@ Extrapolating such a concept one step further it's easy enough to imagine a form
 
 When a conversation reaches consensus on credit class, methodology, DAO design, evaluation criteria etc. we can use the interface to easily store and anchor data on chain. Any subsequent discussion can be self managed by the community, easily updating their credit design parameters through such a simple interface. Supporting data and conversation can be aggregated as a form of adaptive capital and issued as eco-credits, democratising access to technology in a significant way. Such a process can even be [turned into art](https://sovereignnature.com/tracing-the-wild) or gamified to make the process fun and rewarding!
 
-Below the interface level comes the functional specifications for chain integration. Using the [AD4M ontology](https://ad4m.dev/) we can integrate general systematics to describe a set of metadata standards. From there we can describe both the data module and eco-credit modules as 'languages' and 'perspectives' in order to make them interoperable with other standards. For added precision, we may wish to add other ontologies for translating quantity (data module claims) to quality (eco-credit attestations). 
+Below the interface level comes the functional specifications for chain integration. Using the [AD4M ontology](https://ad4m.dev/) we can integrate general systematics to describe a set of metadata standards. From there we can describe both the data module and eco-credit modules as 'languages' and 'perspectives' in order to make them interoperable with other architectures. For added precision, we may wish to add other ontologies for translating quantity (data module claims like MRV) to quality (eco-credit attestations like ESGs). 
 
-Resource, Event, Agent is an accredited accounting ontology designed for on the ground distributed supply chains; impact evaluation. At the opposite end of the spectrum we can leverage Monitoring, Reporting and Verification as evaluation criteria for impact certificates. The elegance of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
+One particularly useful ontology to integrate is Resource, Event, Agent accounting, which is an institutionally recognised standard for distributed supply chains. This might then use feeds from  Monitoring, Reporting and Verification technologies as evaluation criteria for impact certificates. The elegance of this design is that if these standards are changed or extended, they can be easily assimilated, updated or recomposed. 
 
 For example we can extend the triadic geometry MRV to be a tetradic geometry for more detailed resolution. For example, the following was articulated by the dMeter community:
 - Directive: Human-sensing (Personal data stores, phone images, self reported data)
 - Instrumental: Remote-sensing (IOT sensors, devices)
 - Ideal: Sky-sensing (satellite, drones, aerial)
-- Ground: Reputation-sensing (identity, community trust)
+- Ground: Reputation-sensing (identity, community trust) 
 
-Such an extension has many overlaps with REA accounting and the above frame can be superimposed to increase the resolution of evaluation criteria. 
+Ultimately whatever heuristics are at play can be articulated through General Systematics and codified as Markov blankets to unlock the capabilities of semantic composition. The being of these functional models can then be enriched with Active Inferencing to provide more detailed depth of [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md). 
 
 ---
 ## Specific Tokenomic Mechanism(s)
-The above is general infrastructure for composing specific credits. The particular credit design is dependent on the parametric groupings instantiated around a use case or pilot project. To bring these technologies to market requires pilot projects. 
+The above design is general infrastructure for composing specific credits. The particular credit design is dependent on the parametric groupings instantiated around a use case or pilot project. To bring these technologies to market requires pilot projects. 
 
 There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on capacity. Our preference is to work closely with our existing partners at Regenerating Sonora to build out a simple proof of concept as the conditions around them are pretty fertile; they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors. 
 
