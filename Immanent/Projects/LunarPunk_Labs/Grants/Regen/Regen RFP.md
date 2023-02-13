@@ -77,29 +77,23 @@ Ultimately whatever indicators are at desirable can be articulated through Gener
 
 ---
 
-## Pilot Tokenomic Mechanism(s)
+## Pilot Tokenomic Mechanism(s): Adaptive Capital
 
 The design at the level of general infrastructure for composing any desirable credit design, which is dependent on the parametric groupings instantiated around a use case or pilot project. 
 
 There are obviously a number of [great projects](http://purplepill.vision/) in the [Regen ecosystem](https://regennetwork.notion.site/Built-On-Regen-Network-c6266114116842e389258747454f9f07) that would stand to benefit from such composable designs and we're keen to partner based on DAO capacity. LunarPunk Labs has a preference is to work closely with our existing partners at Regenerating Sonora in order to build out a low risk pilot project. Conditions around them are exceptionally vital; they have LEHR gardens, a community centre with a blockchain learning desk and high school tech club working with Arudino sensors! 
 
-#### Regenerating Sonora Use Case
+#### Basic Credits: Regenerating Sonora use case
 - Starting from the LEHR gardens, we assess possibilities. 
 - It's decided that the key step forward is to automate the gardens water timers. 
 - A group of local high school students automate the timers using their Arduino kits. 
 - Using the systematics interface, Arduino data feeds are selected as the input 'perspective'
 - These are then allocated to a 'language' describing the storage mediums (e.g. Filecoin Green).
 - As the students add other sensors to augment the garden timers new feedback loops arise. 
-- These changes to the model are assessed using active inferencing; do the feedback loops suggest the gardens are growing better or worse with the new automation?
+- These changes to the model are assessed using active inferencing; do the feedback loops suggest the gardens are growing better or worse with the new automation? as processes improve the credit gains value in the market.
 
-At some point in the future a soil scientist recommends measuring Brix values instead of the students best guess, and someone smart also suggests tracking pollinators. The students put in new sensors and update their eco-credits underlying methodology using the geometric interface. Active inference engines suggest that these changes are beneficial to the gardens in reference to a stipulated outcome of vegetation growth, which is then automatically published on chain as supporting data. Consequentially the credit gains value in the market and efforts are rewarded.
-
-As the student group develops a reputation for making strong decisions around the growing LEHR gardens, it becomes apparent that this is an investment opportunity to market participants. The students reserve pool grows in value thanks to this speculative activity, and consequentially so have the funds to scale operations into new locations. Both investors and the wider Regenerative movement benefit!
-
-But that's not all, the students realise that the LEHR gardens have been an anchor point around which the community practices have grown which has brought wellbeing and vibrancy to their community. They use the interface to codify their activities as a state model, which they use to augment their commodity model as co-benefits. This reveals the more implicit aspects of their work, which is typically invisible to the bottom line of profits. These indicators help guide ethical investors and corporate responsibility funds to their project. 
-
-### Community Capital
-An example methodology our students might use for codifying their co-benefits is the H3uni framework deployed on the current course "The art of creative collaboration". This particular practice based methodology groups eight sets of parameters under four framing conditions. 
+#### Community Capital: H3 University use case
+An example methodology our students might use to additionally codify the co-benefits produced by the communities vibrant social capital is the H3uni framework deployed on the current course "[The art of creative collaboration](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987)". This particular practice based methodology groups eight sets of parameters under four framing conditions. 
 
 **Framing conditions:**
 - Directive: Process
@@ -123,11 +117,11 @@ This particular methodology is currently being demonstrated as both the H3uni co
 # Roadmap and Budget
 
 #### Meta
-1. Lead: LunarPunk_Labs as a implementation DAO
+1. Lead: LunarPunk_Labs as an implementation DAO
 2. Serve: H3uni.org as an educational consortium of methodology developers 
-3. Support: Protocol Labs and Regen Network as semantic bluefunds
+3. Support: Protocol Labs and Regen Network in the development of semantic bluefunds
 
-### Milestone 1: Functional Specifications
+#### Milestone one: Functional Specifications
 **Start Date:** 2023-04-06
 **Deliverables:**
 1. Submitting the Research proposal to Protocol Labs in parallel to this RFP-X
@@ -142,7 +136,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - $35k Research budget from Protocol Labs to LunarPunk_Labs
 - Token grant from Regen Foundation to community partners
 
-### Milestone two: DAO Design
+#### Milestone Two: DAO Design
 **Start Date:** 2023-07-17
 **Deliverables:**
 1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
@@ -157,7 +151,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - $25k Cash grant from RND inc. to LunarPunk_Labs
 - Token delegation from Regen Foundation to community partners
 
-### Milestone three: Pilot Project(s)
+### Milestone Three: Pilot Project(s)
 1. Articulate the precise eco-credit methodology and share in a group context
 2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
 3. Presentation of pretotype results provided to pilot partners 
@@ -169,52 +163,62 @@ This particular methodology is currently being demonstrated as both the H3uni co
 **Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
-### Milestone four: Tokenomics csDAO
+#### Milestone Four: Tokenomics csDAO
 **Budget:** 
 - 500k locked REGEN tokens to initiate the csDAO structure.
 - Contributions from Protocol Labs to sustain traction
 
-### Milestone five: Engineering
+#### Milestone Five: Engineering
 - Interface design for functionally encoding community conversations
 - Describing general systematics as an AD4M perspective
 - Integrating Regen's data module as an AD4M language
 - Integrating Regen's eco-credit module as an AD4M perspective
 
-### Milestone six: Perfected Designs
+#### Milestone Six: Perfected Designs
 - Anchoring partner data on chain with the Regen data module
 - Minting eco-credits for pilot project partners
 
-### Milestone seven: Quality Control
+#### Milestone Seven: Quality Control
 - Issuing general systematics as a semantic credit class upon Registry sign off.
 
-## DAO teams as Viable System
-- Purpose :: Pilot Project :: Regenerating Sonora 
-- Intelligence :: Interface :: WeCo.io
-- Operations :: Logistics & Coordination ::  LunarPunk_Labs 
-- Coordination Task :: Product :: VIZN_Labs
-- Resourcing :: Engineering :: Sovrign Nature Initiative 
+# Teams as Viable System DAO
+- Purpose :: Pilot Implementation :: [Regenerating Sonora](https://regeneratingsonora.org/) 
+- Intelligence :: Logistics & Coordination ::  [LunarPunk_Labs](Lunarpunklabs.org) 
+- Operations :: Development :: [WeCo](WeCo.io)
+- Coordination Task :: Design :: VIZN_Labs
+- Resourcing :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
 
-## Open Roles in DAO / VSM
+## Operational Pathways and DAO touchpoints
 - **(+) Applied Science:** Place based communities 
-	- Purpose: Empirical understanding, Education
-	- Intelligence: Field learning, Pilot projects, DataScience
-	- Operations: Facilitated Onboarding
-	- Coordination Task: Lab Learning, Design
-	- Resourcing: Rational inferences, Decision Science
-- **(-) Technology**: Verification Infrastructure 
-	- Purpose: Interface, Social Graph, Semantic web, Quality Assurance
-	- Intelligence: Impact evaluators, Active Inference, Attestations
-	- Operations: Devops, Product
-	- Coordination Task: Impact Certificates, Claims
-	- Resourcing: Research and Development, Ledger Security, Credits
-- **(=) Markets**
-	- Purpose: Advocacy, Partnerships, Compliance, 
-	- Intelligence: Community facilitation
-	- Operations: Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics, Facillitation
-	- Coordination Task: Communications
-	- Resourcing: Fundraising, Economics, Legal, Administration, 
+	- **Purpose**: Field learning and environmental stewardship
+	- **Intelligence**: Practice based methodologies
+	- **Operations**: Onboarding pilot projects and facilitation
+	- **Coordination Task**: Methodology Development
+	- **Resourcing**: Lab learning as rational understanding
 
-## References / Bibliography
+- **(-) Social Technology**: Verification Infrastructure 
+	- **Purpose**: Impact evaluators as quality assurance 
+	- **Intelligence**: Academic research and convers conversational attestations in a conversation graph
+	- **Operations**: Hypercerts making use of general systematics and active inference 
+	- **Coordination Task**: Interfaces and social graph as a source of claims
+	- **Resourcing**: Impact certificates as sources of quantitive measurements
+
+- **(=) Impact Markets**
+	- **Purpose**: Advocacy and narrative as transformative change
+	- **Intelligence**: Legal and regulatory movements
+	- **Operations**: Events, logistics and investments
+	- **Coordination Task**: Marketing and communications
+	- **Resourcing**: Accounts, fundraising and economics
+
+Cut: 
+- Product, Devops, Interface data science
+-  Partnerships, Compliance
+- Product, Community facilitation
+- Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics, Facilitation
+- Administration 
+
+
+# Quality: References / Bibliography
 - [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
 - [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
@@ -243,12 +247,9 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
 - [BLUR](https://gm.xyz/c/CryptoNews/ae2c438e-0ee8-4f76-a434-c07466f2ac93)
 
-## Quality Control
-- Research grant articulation 
-
-
-
 ---
 LunarPunk_Labs have previously [won the digital identity track](https://www.youtube.com/watch?v=vHhzJpDTEMs) at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
 
 Weco has been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. The interface is designed as a social network with a modular plugin architecture. Their work to date has previously been funded by Eric Harris Brown of CEPTR notoriety. 
+
+Research Grant application
