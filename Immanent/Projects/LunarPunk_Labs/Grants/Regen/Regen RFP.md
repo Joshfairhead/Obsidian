@@ -1,9 +1,9 @@
 # Tokenomics Proposal: "Adaptive Capital "
 
 ## Background
-To briefly preface this proposal submission with some background context; we are essentially proposing an ecosystem level partnership between Regen Network and Protocol Labs. This comes from our teams desire to the gap between research and implementation. 
+We are essentially proposing an ecosystem level partnership between Regen Network and Protocol Labs through the mutual funding of a Tokenomics DAO. This comes from our teams desire to bridge the gap between research and implementation. 
 
-The proposal below outlines the current state of our implementation plan and we are soliciting discussion and feedback for further advancement. There is plenty of scope for improvement, which we trust will happen as we advance our work. We believe that the proposal submitted to PL can help lay strong research foundations; while Regen is fertile soil for grounded technical implementation.
+The proposal below outlines the current state of our implementation plan and we are soliciting discussion and feedback for further advancement. There is plenty of scope for improvement, which we trust will happen as we advance our work. We believe that the proposal submitted to PL can help lay strong research foundations; while Regen is fertile soil for technical implementation that contributes to grounded impact in real communities. 
 
 ---
 
@@ -143,7 +143,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 ## Meta
 1. Lead: LunarPunk_Labs or other brand as an implementation DAO
 2. Serve: H3uni.org as an educational consortium of methodology developers 
-3. Support: Protocol Labs and Regen Network in the development of semantic bluefunds and impact market advocacy.
+3. Support: Protocol Labs and Regen Network in the development of semantic bluefunds through applied research on evolving practical language models through second order methodologies, interfaces and semantic protocols.
 
 ### Milestone one: Functional Specifications
 **Start Date:** 2023-04-06
@@ -160,7 +160,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 - $35k Research budget from Protocol Labs to LunarPunk_Labs
 - Token grant from Regen Foundation to community partners
 
-### Milestone Two: DAO Design
+### Milestone Two: Tokenomics DAO Design
 **Start Date:** 2023-07-17
 **Deliverables:**
 1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
@@ -257,7 +257,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 ---
 # Hack Pad  
 ---
-LunarPunk_Labs have previously [won the digital identity track](https://www.youtube.com/watch?v=vHhzJpDTEMs) at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
+LunarPunk_Labs have previously won the digital identity track at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
 
 Weco has been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. The interface is designed as a social network with a modular plugin architecture. Their work to date has previously been funded by Eric Harris Brown of CEPTR notoriety. 
 
