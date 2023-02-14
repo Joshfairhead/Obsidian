@@ -1,13 +1,3 @@
-Review Rubric:
-
-1. A well-formed statement of the research problem and the proposed solution
-2. Evidence that the applicant understands the current state of the art relevant to the research question. This may take the form of an annotated bibliography or a brief literature review. 
-3. A clear explanation of how the proposed research program relates to Protocol Labs' current research activities, and a description of the foreseen impact of the work.
-4. An outline of the research strategy to be employed in the project, including significant methods and tools, a timeline of key milestones with budgets and deliverables, and a statement of the expected objectives.
-5. You may additionally wish to identify any of your current research collaborations that are particularly relevant to the proposed project.
-
----
-
 # Semantic Networks for Practical Language Evolution
 
 ### [LunarPunk_Labs](lunapunklabs.org) - [University of the Third Horizon](h3uni.org)
@@ -16,7 +6,7 @@ Review Rubric:
 
 2. **Research problem statement**: To keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we'll need to improve deepen our human capacities for representation and interpretation by [augmenting our intellect](https://www.dougengelbart.org/pubs/augment-3906.html). 
 
-3. **Proposed solution**: An ecosystem level partnership between Protocol Labs and Regen Ledger to bootstrap Semantic Impact Markets with 'adaptive capital'. We propose systematically structured conversation graphs as a means of classifying parametric groupings into Friston blankets to enable semantically composable eco-credits as 'hypercerts'. Framing model metatdata as functional  geometries to group such paramaters provides epistemological transparency; a necessity for both governance and scientific research. We propose further transdiciplinary research and applied practice into the nuances of implementing such a task.
+3. **Proposed solution**: An ecosystem level partnership between Protocol Labs and Regen Ledger to bootstrap Semantic Impact Markets with 'adaptive capital' via a Tokenomics DAO. We propose systematically structured conversation graphs as a means of classifying parametric groupings into Friston blankets to enable semantically composable eco-credits as 'hypercerts'. Framing model metadata as functional information geometries that group such parameters provides epistemological transparency; a necessity for both governance and scientific research. We propose further transdiciplinary research and applied practice into the nuances of implementing the technology necessary for semantically composable impact markets.
 
 
 # Related work 
@@ -39,7 +29,7 @@ Both investor profiles are consequentially searching for new stores of value; a 
 Regardless of the specific values, it's apparent that both of our investor profiles are caught in a dilemma of reconciling qualitative values with quantitive measures. Market participants have plenty of motivation to divest their capital but they lack profitable investment vehicles that can account for a given set of values in a quantifiable manner that meets the market. 
 
 #### Economic Pathways (How)
-Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrepreneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a $5T market opportunity for blue funds / impact capable of facilitating such a transformation; the question is what kind of products would such a marketplace either need or want? 
+Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrepreneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a [two trillion dollar market opportunity](two trillion dollars of stranded assets](https://carbontracker.org/reports/stranded-assets-danger-zone/) for blue funds / impact capable of facilitating such a transformation; the question is what kind of products would such a marketplace either need or want? 
 
 Examining economics in terms of nouns and verbs helps us to distinguish **capital** from **currencies**. Currencies (current-sees) are measures of value flow across time, whereas capital arises from integrating these flows. In that regard we see two forms of measure; the qualitative and quantitive.
 
@@ -82,7 +72,8 @@ Beyond market conditions the semantic web is a particularly hard problem because
 Over the years there has been a plethora of research on the semantic web and related topics but from the perspective of this author centres around is Doug Englebarts “[Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138/)” and his many other innovations at Xerox Parc. Thankfully these ideas are once again gaining the attention they dearly deserve; with a fresh and funky twist even!
 
 #### **Interface Design**
-Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of interaction design and representation. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast, 
+Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of interaction design and representation. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast.
+![](assets/HypercertsInterface.png)
 
 #### **Data Security and Network Integrity**
 When considering a vision of a free and open internet that serves humanity, the most fundamental first principle to consider is the software security model. This model dictates a set of design affordances through the principle of inheritance. With the growing shift in preferences from centralized to decentralized computing, we have inadvertently started to re-adopt a [“capabilities”](https://www.youtube.com/watch?v=qZ2LltOmD5A&t) oriented security model at the network level. This architecture can be seen manifesting in the form of cryptographic tokens that are stored on [distributed ledgers](https://www.regen.network/) and controlled through [wallet](https://www.pillar.fi/) addresses. The progress has been rapid from our shallow time frame but the field still has plenty of [scope for development](https://subconscious.network/) resting upon [dormant potentials](http://ceptr.org/). 
@@ -92,7 +83,7 @@ Between interfaces and distributed data storage lie algorithmic programmes; a pr
 
 In regards to classification and [representational models](https://healinggeneration.com/) a fruitful area of research is John Bennetts [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems). This is an integrative science for qualitative parametric groupings that has been in continuous development since 1955 and lives as an epistemic practice amongst a number of communities worldwide. Relevant collaborators of Bennetts were David Bohm, Buckminster Fuller and Stafford Beer. His tool for the 'classification of wholes' can be conceived of as a frame for constructing functional ontological groupings in a very elegant manner that seems appropriate for implementation on distributed ledger technology like [AD4M](https://ad4m.dev/).  
 
-In regards to predictive capacities, the field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under through this lens is a means of understanding sentience from the perspective of minimizing free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s resolution through statistical clustering.
+In regards to predictive capacities, the field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under through this lens is a means of understanding sentience from the perspective of minimising free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s resolution through statistical clustering.
 
 # Relation to PL’s research activities
 
@@ -101,7 +92,7 @@ This applied research proposal is based around realisation of the semantic web f
 # Impact
 > You can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both. - Bill McKibben
 
-Without an implementation plan this research proposal means little other than adding to a deaying body of cumulative research, traction requires implementation and a sustaining community. To those ends we believe that coordinating development around the Regen Ledgers data-module and eco-credit modules are a pragmatic pathway and have submitted a complimentary governance proposal to the networks forum on commonwealth. We are essentially proposing an ecosystems level partnership between the Regen Network and Protocol Labs. 
+Without an implementation plan this research proposal means little other than adding to a decaying body of cumulative research; traction requires implementation, a viable system with requisite variety and a sustaining community. To those ends we believe that coordinating development around the Regen Ledgers data-module and eco-credit modules are a pragmatic pathway and have submitted a complimentary governance proposal to the networks forum on commonwealth. We are essentially proposing an ecosystems level partnership between the Regen Network and Protocol Labs. 
 
 At our present moment in history, accounting for impact in regenerative capital markets is particularly difficult because we are essentially trying to measure implicit values. Assuming the implementation plan linked above passes at the vote and is realised, we will actually be able to make such comparisons. Such technology is transformative enough to reshape entire capital markets in the long term by divesting capital towards proletariat stewards in need of resourcing working on Nature Based Solutions. We might look beyond that again to consider the possibilities for society that are available should such technology transform into a fully fledged semantic web; perhaps a [machine to machine economy](https://www.giordano.institute/the-machine-economy) may give rise to a “[sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)”?
 
@@ -139,7 +130,7 @@ Science can be classified both necessarily and sufficiently as three fundamental
 **Deliverables:**
 1. Submitting a Research proposal to Regen in parallel to this RFP-X while reading
 2. Research on state of affairs and shared with community partners and date set for sense making
-3. Presentation on the state of affairs and Public sense making session in '[consortium](odyssey.org/)' format
+3. Presentation on the state of affairs and Public sense making session in '[consortium](https://momentum.odyssey.org/login)' format
 4. Working with implementation partners to align on functional specifications
 5. Public presentation of engineering documentation to Regen Community and Network Goods team
 6. Signalling proposal is made to the network via an on chain mechanisms
@@ -213,59 +204,71 @@ Science can be classified both necessarily and sufficiently as three fundamental
 - **Resourcing** :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
 
 # Prior Traction
+- Odyssey 2020 SSI track winners
 - GR15 Marketing
 - Refi DAO founders circles
 - Future Quest grant top 100 grantee
 - GItcoin Verification Infrastructure bundle
-- Odyssey 2020 SSI track winners
 
 # References
-- [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
-- [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
-- [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
-- [Panarchy: Theory and Application](https://link.springer.com/article/10.1007/s10021-013-9744-2)  
-- [Robert Knowles, The Leadership Dance](https://www.google.com/search?q=the+leadership+dance+enneagram&client=firefox-b-d&sxsrf=AJOqlzXh833qcoeOFlFluNnHn560XoQ1IA:1675883705422&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjet8in0Yb9AhUGU6QEHSIgDi0Q_AUoAnoECAEQBA&biw=1440&bih=709&dpr=1#imgrc=XG24T0-zMmWY9M)
-- [Deep Time Walk](https://www.deeptimewalk.org/)  
-- [Charles Langmuir](https://www.youtube.com/watch?v=1srN5_IEXK8) 
-- [Charles Langmuir 2](https://youtu.be/EtSdJjbtqNw)
-- [Futures Journal](https://www.sciencedirect.com/journal/futures)
-- [Beyond postnormal times: The future of creativity and the creativity of the future](https://www.sciencedirect.com/science/article/abs/pii/S0016328710002405)
-- [Second Order Science; logic, strategies, methods](https://www.researchgate.net/publication/279324039_Second-order_Science_Logic_Strategies_Methods)
-- [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
-- [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
+- [Complexity rising](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) 
+- [Augmenting human intellect](https://www.dougengelbart.org/pubs/augment-3906.html)
+- [Carbon tracker: two trillion dollars of stranded assets](https://carbontracker.org/reports/stranded-assets-danger-zone/)
+- [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
+- [Object Capabilities 101](https://www.youtube.com/watch?v=qZ2LltOmD5A&t)
+- [Regen Ledger](https://www.regen.network/) 
+- [Pillar Wallet](https://www.pillar.fi/)
+- [Subconscious Network](https://subconscious.network/)
+- [CEPTR](http://ceptr.org/). 
+- [Nooscope: AI as Instrument of Knowledge Extractivism](https://nooscope.ai/)
+- [Healing Generation](healinggeneration)
+- [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems)
+- [AD4M](https://ad4m.dev/) / [P3rspectivism](https://www.perspect3vism.org/)
+- [Active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/)
+- [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)
+- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/)
+- [Network Goods](https://research.protocol.ai/groups/network-goods/)
+- [Hypercerts community](https://hypercerts.xyz/) 
+- [Machine to machine economy](https://www.giordano.institute/the-machine-economy)
+- [sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)
+- [Active Inference Ontology](https://zenodo.org/record/6320575#.Y-rclhPP2Ev) 
+- [Second order science](http://www.secondorderscience.org/)
+- [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper)
+- [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn).
+- [Art of creative collaboration](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987)
+- [WeCo](Weco.io)
+- [Odyssey Momentum Platform](https://momentum.odyssey.org/login)
+- [Methodology Testing](https://weco.io/s/lunarpunklabs/posts)
+- [Regenerating Sonora](https://regeneratingsonora.org/) 
+- [LunarPunk_Labs](Lunarpunklabs.org) 
+- [WeCo](WeCo.io)
+- [Sovereign Nature Initiative](https://sovereignnature.com/) 
+
+
+# Extended Resources
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
-- [Gaia BioHabitat Commons](https://docs.google.com/presentation/d/13xWKMRdfa1vJauJCn8SQq9fQqP9EEVJOowg78PU9hwM/edit#slide=id.g14d6de67000_0_617)
-- [Blockscience propaganda](https://docs.google.com/presentation/d/1xvr_47iPlf1FTx7O2irqBGMCo-Z_7qdU/edit#slide=id.g89d5288067a441a_10)
-- [Facets Journal](https://www.facetsjournal.com/doi/10.1139/facets-2020-0114)
+- [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
+- [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
+- [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
+- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
+- [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
+- [Second Order Science; logic, strategies, methods](https://www.researchgate.net/publication/279324039_Second-order_Science_Logic_Strategies_Methods)
+- [Beyond postnormal times: The future of creativity and the creativity of the future](https://www.sciencedirect.com/science/article/abs/pii/S0016328710002405)
+- [Panarchy: Theory and Application](https://link.springer.com/article/10.1007/s10021-013-9744-2)  
 - [Social–ecological hotspots mapping: A spatial approach for identifying coupled social–ecological space](https://www.sciencedirect.com/science/article/abs/pii/S0169204607002216)
 - [Defining and measuring the social-ecological quality of urban greenspace: a semi-systematic review](https://link.springer.com/article/10.1007/s11252-015-0456-6)
 - [Enhancing the Ostrom social-ecological system framework through formalization](https://www.ecologyandsociety.org/vol19/iss3/art51/)
 - [Integrating sense of place into ecosystem restoration: a novel approach to achieve synergistic social-ecological impact](https://www.ecologyandsociety.org/vol23/iss4/art25/)
-- [Weco: An ontological design framework](https://docs.google.com/document/d/1ZvIr9r9hl4E1RU4t885TyuXW0gCpt2Ad4ieYOT--a90/edit)
 - [The healing-growth future of humanity: regenerative politics and crealectic care](http://uu.diva-portal.org/smash/get/diva2:1620901/FULLTEXT02.pdf)
-- [Castela: The Citedel of Truth](https://docs.google.com/document/d/16FZnGeNaxPD32S_vvw5idHM0ULka_ObUpo1-c_x-LJU/edit) - generating conversation graphs
-- [Holonic Medium](https://docs.google.com/document/d/1hc7UMHlvaFpwaDPzcseTycUlHRIy1NlJpHfGQgB_c-I/edit#heading=h.nhvltdokqxbd)
 - [Towards Ecological Economics](https://medium.com/regen-network/towards-ecological-economics-de0c035e622e)
-- [The emporers new markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
-- [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
-- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
-- PurplePill.vision
-- [$1T stranded assets number](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
+- [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
 - [Leading researchers on stranded assets](https://www.smithschool.ox.ac.uk/)
+- [Holonic Medium](https://docs.google.com/document/d/1hc7UMHlvaFpwaDPzcseTycUlHRIy1NlJpHfGQgB_c-I/edit#heading=h.nhvltdokqxbd)
+- [Weco: An ontological design framework](https://docs.google.com/document/d/1ZvIr9r9hl4E1RU4t885TyuXW0gCpt2Ad4ieYOT--a90/edit)
+- [Castela: The Citedel of Truth](https://docs.google.com/document/d/16FZnGeNaxPD32S_vvw5idHM0ULka_ObUpo1-c_x-LJU/edit)
+- [Weco Explainer](https://www.youtube.com/watch?v=I6S61HejjzA "https://www.youtube.com/watch?v=I6S61HejjzA")
+- [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
+- [Purple Pill](purplepill.vision)
 - [Manifest Collage](https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p "https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p")
 - [Manifest creative brief](https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320 "https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320")
 - [Manifest UI](https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit "https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit")
-- [Weco Explainer](https://www.youtube.com/watch?v=I6S61HejjzA "https://www.youtube.com/watch?v=I6S61HejjzA")
-- [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
-- [BLUR](https://gm.xyz/c/CryptoNews/ae2c438e-0ee8-4f76-a434-c07466f2ac93)
-
-
-
-or "[Open Collective](https://opencollective.com/lunarpunk_labs)" will emerge through interaction with our peers at [informal systems](https://informal.systems/) 
-
-In parallel it will be necessary to drive the implementation by championing the proposal and generating stakeholder buy in:
-1.  Regen community calls
-2.  Hypercerts community calls
-3.  Network Goods community calls
-4.  LunarPunk Labs community activation
-5.  Active Inference Institute / Complexity Weekend calls

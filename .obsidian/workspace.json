@@ -6,6 +6,7 @@
       {
         "id": "bec29c30e545792e",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "a1568595e0520180",
@@ -179,13 +180,13 @@
   "lastOpenFiles": [
     "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+    "odyssey.org.md",
+    "Immanent/WorkBench/References List.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
     "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
     "Immanent/DailyNotes/2023-02-08.md",
     "Immanent/DailyNotes/2023/2023-02-13.md",
     "Immanent/Projects/R3solution/R3solution.md",
-    "Immanent/Projects/R3solution/R3solution Hacking.md",
-    "Omnicient/Computer Sci/DID Resolution.md",
-    "Immanent/WorkBench/().md"
+    "Immanent/Projects/R3solution/R3solution Hacking.md"
   ]
 }

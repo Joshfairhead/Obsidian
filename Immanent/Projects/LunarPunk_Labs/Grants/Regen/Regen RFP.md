@@ -51,7 +51,7 @@ Extrapolating such a concept one step further it's easy enough to imagine a form
 
 When a discussion reaches consensus on credit class, methodology, DAO design, evaluation criteria etc. we can use the interface to easily store and anchor data on chain. Any subsequent dialogue can be self-managed by the community, easily updating their credit design parameters through their governance process through a simple interface. Supporting conversation and data can be aggregated as a form of composable capital to be issued as eco-credits which would democratise access to technology in a significant way. Such a process can even be [turned into art](https://sovereignnature.com/tracing-the-wild) or gamified to make the process fun and rewarding!
 
-Below the interface level comes the functional specifications for chain integration. Using the [AD4M ontology](https://ad4m.dev/) we can integrate general systematics to describe a set of metadata standards. From there we can describe both the data module and eco-credit modules as 'languages' and 'perspectives' in order to make them interoperable with other systems architectures. For added precision, we may wish to add other ontological 'perspectives' for translating quantity (data module claims like MRV) to quality (eco-credit attestations like REA).
+Below the interface level comes the functional specifications for on chain integration. Using the [AD4M ontology](https://ad4m.dev/) we can integrate general systematics to describe a set of metadata standards. From there we can describe both the data module and eco-credit modules as 'languages' and 'perspectives' in order to make them interoperable with other systems architectures. For added precision, we may wish to add other ontological 'perspectives' for translating quantity (data module claims like MRV) to quality (eco-credit attestations like REA).
 
 In the case of the latter Resource, Event, Agent accounting is a particularly useful ontology to integrate as its institutionally recognised accounting standard for distributed supply chains. This might then use feeds from  Monitoring, Reporting and Verification technologies as evaluation criteria for impact certificates. The elegance of this design is that if these standards are changed or extended, they can be easily recomposed or updated. 
 
@@ -215,62 +215,64 @@ This particular methodology is currently being demonstrated as both the H3uni co
 **Budget**: TBD
 
 ---
-# References / Bibliography
-- [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
-- [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
-- [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
-- [Panarchy: Theory and Application](https://link.springer.com/article/10.1007/s10021-013-9744-2)  
-- [Robert Knowles, The Leadership Dance](https://www.google.com/search?q=the+leadership+dance+enneagram&client=firefox-b-d&sxsrf=AJOqlzXh833qcoeOFlFluNnHn560XoQ1IA:1675883705422&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjet8in0Yb9AhUGU6QEHSIgDi0Q_AUoAnoECAEQBA&biw=1440&bih=709&dpr=1#imgrc=XG24T0-zMmWY9M)
-- [Deep Time Walk](https://www.deeptimewalk.org/)  
-- [Charles Langmuir](https://www.youtube.com/watch?v=1srN5_IEXK8) 
-- [Charles Langmuir 2](https://youtu.be/EtSdJjbtqNw)
-- [Futures Journal](https://www.sciencedirect.com/journal/futures)
-- [Beyond postnormal times: The future of creativity and the creativity of the future](https://www.sciencedirect.com/science/article/abs/pii/S0016328710002405)
-- [Second Order Science; logic, strategies, methods](https://www.researchgate.net/publication/279324039_Second-order_Science_Logic_Strategies_Methods)
-- [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
-- [LunarPunk Weco channel](https://weco.io/s/lunarpunklabs/posts)
+# References List
+- [Complexity rising](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) 
+- [Augmenting human intellect](https://www.dougengelbart.org/pubs/augment-3906.html)
+- [Carbon tracker: two trillion dollars of stranded assets](https://carbontracker.org/reports/stranded-assets-danger-zone/)
+- [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
+- [Object Capabilities 101](https://www.youtube.com/watch?v=qZ2LltOmD5A&t)
+- [Regen Ledger](https://www.regen.network/) 
+- [Pillar Wallet](https://www.pillar.fi/)
+- [Subconscious Network](https://subconscious.network/)
+- [CEPTR](http://ceptr.org/). 
+- [Nooscope: AI as Instrument of Knowledge Extractivism](https://nooscope.ai/)
+- [Healing Generation](healinggeneration)
+- [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems)
+- [AD4M](https://ad4m.dev/) / [P3rspectivism](https://www.perspect3vism.org/)
+- [Active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/)
+- [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)
+- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/)
+- [Network Goods](https://research.protocol.ai/groups/network-goods/)
+- [Hypercerts community](https://hypercerts.xyz/) 
+- [Machine to machine economy](https://www.giordano.institute/the-machine-economy)
+- [sentient commons](https://gitlab.com/the-sentient-commons/sentient-commons-outline)
+- [Active Inference Ontology](https://zenodo.org/record/6320575#.Y-rclhPP2Ev) 
+- [Second order science](http://www.secondorderscience.org/)
+- [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper)
+- [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn).
+- [Art of creative collaboration](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987)
+- [WeCo](Weco.io)
+- [Odyssey Momentum Platform](https://momentum.odyssey.org/login)
+- [Methodology Testing](https://weco.io/s/lunarpunklabs/posts)
+- [Regenerating Sonora](https://regeneratingsonora.org/) 
+- [LunarPunk_Labs](Lunarpunklabs.org) 
+- [WeCo](WeCo.io)
+- [Sovereign Nature Initiative](https://sovereignnature.com/) 
+
+## Extended resources
 - [Regen Request For Proposals](https://commonwealth.im/regen/discussion/7802-request-for-proposals-regen-tokenomics-upgrade)
-- [Gaia BioHabitat Commons](https://docs.google.com/presentation/d/13xWKMRdfa1vJauJCn8SQq9fQqP9EEVJOowg78PU9hwM/edit#slide=id.g14d6de67000_0_617)
-- [Blockscience propaganda](https://docs.google.com/presentation/d/1xvr_47iPlf1FTx7O2irqBGMCo-Z_7qdU/edit#slide=id.g89d5288067a441a_10)
-- [Facets Journal](https://www.facetsjournal.com/doi/10.1139/facets-2020-0114)
+- [Regen Registry Guide](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/structure)
+- [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
+- [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
+- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
+- [Scientific Realism about Friston Blankets without literalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/scientific-realism-about-friston-blankets-without-literalism/E9DCE9EEA26AF82CE4977311B4973561)
+- [Second Order Science; logic, strategies, methods](https://www.researchgate.net/publication/279324039_Second-order_Science_Logic_Strategies_Methods)
+- [Beyond postnormal times: The future of creativity and the creativity of the future](https://www.sciencedirect.com/science/article/abs/pii/S0016328710002405)
+- [Panarchy: Theory and Application](https://link.springer.com/article/10.1007/s10021-013-9744-2)  
 - [Social–ecological hotspots mapping: A spatial approach for identifying coupled social–ecological space](https://www.sciencedirect.com/science/article/abs/pii/S0169204607002216)
 - [Defining and measuring the social-ecological quality of urban greenspace: a semi-systematic review](https://link.springer.com/article/10.1007/s11252-015-0456-6)
 - [Enhancing the Ostrom social-ecological system framework through formalization](https://www.ecologyandsociety.org/vol19/iss3/art51/)
 - [Integrating sense of place into ecosystem restoration: a novel approach to achieve synergistic social-ecological impact](https://www.ecologyandsociety.org/vol23/iss4/art25/)
-- [Weco: An ontological design framework](https://docs.google.com/document/d/1ZvIr9r9hl4E1RU4t885TyuXW0gCpt2Ad4ieYOT--a90/edit)
 - [The healing-growth future of humanity: regenerative politics and crealectic care](http://uu.diva-portal.org/smash/get/diva2:1620901/FULLTEXT02.pdf)
-- [Castela: The Citedel of Truth](https://docs.google.com/document/d/16FZnGeNaxPD32S_vvw5idHM0ULka_ObUpo1-c_x-LJU/edit) - generating conversation graphs
-- [Holonic Medium](https://docs.google.com/document/d/1hc7UMHlvaFpwaDPzcseTycUlHRIy1NlJpHfGQgB_c-I/edit#heading=h.nhvltdokqxbd)
 - [Towards Ecological Economics](https://medium.com/regen-network/towards-ecological-economics-de0c035e622e)
-- [The emporers new markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
-- [Active Inferrence ontology](https://zenodo.org/record/6320575#.Y-FQ0xPP2Ev)
-- [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf)
-- PurplePill.vision
-- [$1T stranded assets number](https://carbontracker.org/climate-week-nyc-stranded-assets-and-stranded-liabilities-the-fossil-fuel-industry-is-failing-to-save-for-retirement/)
+- [Information technology is a mess](https://www.theregister.com/2023/01/30/hospital_legacy_systems_recovery/)
 - [Leading researchers on stranded assets](https://www.smithschool.ox.ac.uk/)
+- [Holonic Medium](https://docs.google.com/document/d/1hc7UMHlvaFpwaDPzcseTycUlHRIy1NlJpHfGQgB_c-I/edit#heading=h.nhvltdokqxbd)
+- [Weco: An ontological design framework](https://docs.google.com/document/d/1ZvIr9r9hl4E1RU4t885TyuXW0gCpt2Ad4ieYOT--a90/edit)
+- [Castela: The Citedel of Truth](https://docs.google.com/document/d/16FZnGeNaxPD32S_vvw5idHM0ULka_ObUpo1-c_x-LJU/edit)
+- [Weco Explainer](https://www.youtube.com/watch?v=I6S61HejjzA "https://www.youtube.com/watch?v=I6S61HejjzA")
+- [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
+- [Purple Pill](purplepill.vision)
 - [Manifest Collage](https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p "https://docs.google.com/presentation/d/1JOvhanx1Iy4z6bu0noRRpDxi0rZ4h3mVAoZNtDJi_Uk/edit#slide=id.p")
 - [Manifest creative brief](https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320 "https://docs.google.com/presentation/d/1rBIwGO5mdqyNMtRM9PqhKCho-fm101Af4aQwbC2pfWs/edit#slide=id.g54e6c0941f_0_1320")
 - [Manifest UI](https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit "https://docs.google.com/document/d/1JzESJ_2j7peR4cwzGeGZQoSjJjc2n7vX5AvK2SMUuvw/edit")
-- [Weco Explainer](https://www.youtube.com/watch?v=I6S61HejjzA "https://www.youtube.com/watch?v=I6S61HejjzA")
-- [Weco Explainer](https://www.youtube.com/watch?v=zsOakAxOeb4 "https://www.youtube.com/watch?v=zsOakAxOeb4")
-- [BLUR](https://gm.xyz/c/CryptoNews/ae2c438e-0ee8-4f76-a434-c07466f2ac93)
-
-
-
----
-# Hack Pad  
----
-LunarPunk_Labs have previously won the digital identity track at the worlds largest ai & blockchain hackathon and specialise in systematic frameworks (aka functional ontologies). Since then our team has been focusing on the realisation of the semantic web.
-
-Weco has been building an open social graph for several years and have developed "The Glass Bead Game" as an interface for a wisdom commons. The interface is designed as a social network with a modular plugin architecture. Their work to date has previously been funded by Eric Harris Brown of CEPTR notoriety. 
-
-Cut: 
-- Product, Devops, Interface data science
--  Partnerships, Compliance
-- Product, Community facilitation
-- Sales, Marketing, PR, Logistics, Events, Asset Management, Investment, Strategy, Aquisition, Analytics, Facilitation
-- Administration 
-
-
-
-Research Grant application
