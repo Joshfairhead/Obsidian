@@ -203,7 +203,7 @@ Budget:
 - [Healing Generation](https://healinggeneration.com/)
 - [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems)
 - [AD4M](https://ad4m.dev/) / [P3rspectivism](https://www.perspect3vism.org/)
--  [Active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/)
+- [Active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/)
 - [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)
 - [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/)
 - [Network Goods](https://research.protocol.ai/groups/network-goods/)
