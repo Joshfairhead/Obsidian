@@ -1,12 +1,12 @@
-# Semantic Networks for Practical Language Evolution
+# Semantic Impact Markets for Practical Language Evolution
 
 ### [LunarPunk_Labs](lunapunklabs.org) - [University of the Third Horizon](h3uni.org)
 
 1. **Research question**: How do we increase relevance on internet to aid the realisation of knowledge into understanding while effectively bridging the gap from research to implementation?  
 
-2. **Research problem statement**: To keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we'll need to improve deepen our human capacities for representation and interpretation by [augmenting our intellect](https://www.dougengelbart.org/pubs/augment-3906.html). 
+2. **Research problem statement**: To keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we'll need to improve deepen our human capacities for representation and interpretation to drive humanity forward by [augmenting our intellect](https://www.dougengelbart.org/pubs/augment-3906.html) through breakthroughs in computing.
 
-3. **Proposed solution**: An ecosystem level partnership between Protocol Labs and Regen Ledger to bootstrap Semantic Impact Markets with 'adaptive capital' via a Tokenomics DAO. We propose systematically structured conversation graphs as a means of classifying parametric groupings into Friston blankets to enable semantically composable eco-credits as 'hypercerts'. Framing model metadata as functional information geometries that group such parameters provides epistemological transparency; a necessity for both governance and scientific research. We propose further transdiciplinary research and applied practice into the nuances of implementing the technology necessary for semantically composable impact markets.
+3. **Proposed solution**: An ecosystem level partnership between Protocol Labs and Regen Ledger to bootstrap Semantic Impact Markets with 'Adaptive capital' via a Tokenomics DAO. We propose systematically structured conversation graphs as a means of classifying parametric groupings into Friston blankets to enable semantically composable eco-credits as 'hypercerts'. Framing model metadata as functional information geometries that group such parameters provides epistemological transparency; a necessity for both governance and scientific research. We propose further transdiciplinary research and applied practice into the nuances of implementing the technology necessary for semantically composable impact markets.
 
 
 # Related work 
@@ -29,15 +29,15 @@ Both investor profiles are consequentially searching for new stores of value; a 
 Regardless of the specific values, it's apparent that both of our investor profiles are caught in a dilemma of reconciling qualitative values with quantitive measures. Market participants have plenty of motivation to divest their capital but they lack profitable investment vehicles that can account for a given set of values in a quantifiable manner that meets the market. 
 
 #### Economic Pathways (How)
-Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrepreneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a [two trillion dollar market opportunity](two trillion dollars of stranded assets](https://carbontracker.org/reports/stranded-assets-danger-zone/) for blue funds / impact capable of facilitating such a transformation; the question is what kind of products would such a marketplace either need or want? 
+Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrepreneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a [two trillion dollar market opportunity](https://carbontracker.org/reports/stranded-assets-danger-zone/) for blue funds / impact capable of facilitating such a transformation; the question is what kind of products would such a marketplace either need or want? 
 
-Examining economics in terms of nouns and verbs helps us to distinguish **capital** from **currencies**. Currencies (current-sees) are measures of value flow across time, whereas capital arises from integrating these flows. In that regard we see two forms of measure; the qualitative and quantitive.
+Examining economics in terms of nouns and verbs helps us to distinguish **capital** from **currencies**. Currencies (current-sees) are measures of value flowing across time, whereas capital arises from integrating these flows. In that regard we see two forms of measure; the qualitative and quantitive.
 
 From the quantitive perspective input measurements with the potential for aggregation might include GIS data, bio-acoustics, nutrient density or Brix values ect. These measures are useful at the data level but aggregating them becomes difficult due to a lack of interoperable and composable standards, which is also an issue for the qualitative accounting of heuristics like ESGs. The representation, organisation and translation of such values is a scientific and technical challenge that is only just becoming solvable. 
 
-When it comes to these scientific and technological realms, Markov / Friston blankets can help in this matter by providing a means to bound unwieldy complexity into something more manageable. These serve as a base medium from which higher order systems can be assembled. Essentially, this means that we can now compose data streams into information classes to further build more structured and systematic relationships.
+When it comes to these scientific and technological realms, Markov / Friston blankets can help in this matter by providing a means to bound unwieldy complexity into something more manageable. These serve as a base medium from which higher order systems can be assembled. Essentially, this means that we can now compose data streams into information classes who's relationships can be systematically composed over time.
 
-This probably satisfies our alpha investors who are seeking volatility and consequentially look towards more complex speculative instruments in the pursuit of their asymmetric returns. This is where the notion of 'adaptive capital' starts to become an interesting pathway. 
+This composability likely satisfies our alpha investors who are seeking volatility and look towards more complex speculative instruments in the pursuit of asymmetric upside returns. This is where the memeplex of 'adaptive capital' starts to become an interesting pathway. 
 
 #### Adaptive capital (What)
 Paradigms like natural capital accounting and payments for ecosystem services have tended towards controversy because much of life's intrinsic value is implicit in experience. The complex adaptive behaviour of natural systems is extremely hard to package into a product so we might more easily bootstrap new markets from legacy paradigms running on new infrastructure. From carbon, to co-benefits... to adaptive living capital. 
@@ -51,21 +51,21 @@ For example, if the ESG heuristics (or SDGs ect) are considered to be our market
 - Instrumental: Blockchain accounting (Resource, Event, Agent) 
 - Directive: Community culture (Agents, Languages, Perspectives)
 
-To represent these standards in a composible way themselves, we can look back to markov blankets as a form of binding agent that allows for nesting at various levels of scale. The above represents a core feature set we might consider 'good' but not definite. Significantly, these blankets can give rise to a number of conceptual primitives around impact markets; namely conversation graphs which represent certifications or evaluation criterea, while they are also relevant as an API layer for loading arbitrary input schemas (from sensors or other interfaces).
+To represent these standards in a composible way themselves, we can look back to markov blankets as a form of binding agent that allows for nesting at various levels of scale. The above list represents a core feature set that we might consider useful but indefinite. Significantly, these blankets can give rise to a number of conceptual primitives around impact markets; namely conversation graphs which represent certifications or evaluation criterea, while they are also relevant as an API layer for loading arbitrary input schemas (from sensors or other interfaces).
 
-- Purpose: Ledger Based Accounting
+- Purpose: Ledger based accounting
 - Values: Impact evaluators
 - Significance: Systematised Markov Blankets for Active Inferencing
 - Facts: Impact certificates
-- Resource: Sensing / sensors
+- Resource: Content delivery networks
 
-This kind of architecture is general enough to be instantiated for any given application; be it simple commodities or a chain of complex systems. In this manner we can consider markov blankets to be a form of interface that enables arbitrary input data to be composed, accounted for, certified and evaluated. 
+This kind of architecture is general enough to be instantiated for most applications; be it simple commodities or a chain of complex systems. In this manner we might consider markov blankets to be a form of interface that enables arbitrary input data to be composed, accounted for, certified and evaluated. 
 
 Looking back to our investor needs, we note that such a system can adapt to requirements across scales without disruption; from local monitoring, reporting and verification data to global market values like ESGs. Because there is an aggregation of live data feeds getting evaluated against an ideal state, there is also an investible delta for market participants to profit from. 
 
 Accounting for a set of articulated values and then evaluating these against the free energy principal also makes the vehicle an unenclosable carrier; that which doesn't trend towards harmony fails as an investment vehicle, while that which does succeeds. Regenerative activity subsequently fits to financial return and speculative market activity consequentially funnels capital upstream to proletariats working on regenerative projects in the long term, while also allowing investors seeking to divest to earn delta in the short term to drive the process of transformation.
 
-Beyond market conditions the semantic web is a particularly hard problem because it requires a confluence of factors to emerge across disciplines in precise synchrony. The key question is what timely innovations are needed to bridge the gap between research and implementation?
+Beyond market conditions the semantic web is a particularly hard problem because it requires a confluence of factors to emerge across disciplines in precise synchrony. The key question is what are the timely innovations needed to bridge the gap between research and implementation?
 
 ## State of art(s)
 
@@ -126,11 +126,11 @@ Science can be classified both necessarily and sufficiently as three fundamental
 7. Proposal passes or fails based on validator determinations
 
 **Budget:** 
-- $80k Sabbatical Research budget from Protocol Labs to LunarPunk_Labs
+- $60k Research Doctoral Fellowship with Protocol Labs
 - Token grant from Regen Foundation to community partners
 
 ### Milestone Two: DAO Design
-**Start Date:** 2023-07-17
+**Start Date:** 2024-04-06
 **Deliverables:**
 1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
 2. Practice the design and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
@@ -141,11 +141,12 @@ Science can be classified both necessarily and sufficiently as three fundamental
 7. Updates submitted to Commonwealth, Protocol Labs and Regen community
 
 **Budget:** 
-- $25k Cash grant from RND inc. to LunarPunk_Labs
+- $100,000 Postdoctoral fellowship with Protocol Labs
+- $25k Cash grant from RND inc. to H3University
 - Token delegation from Regen Foundation to community partners
 
 ### Milestone Three: Pilot Project(s)
-**Start Date**
+**Start Date**: 2025-04-06
 **Deliverables:**
 1. Articulate the precise eco-credit methodology and share in a 'consortium' context
 2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
@@ -156,11 +157,11 @@ Science can be classified both necessarily and sufficiently as three fundamental
 7. Expert review via the Regen Registry team or third party verifier
 
 **Budget:** 
+- $100,000 Postdoctoral fellowship with Protocol Labs
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
-- $150
 
 ### Milestone Four: Tokenomics csDAO
-**Start date**:
+**Start date**: 2026-04-06
 - Interface design for functionally encoding community conversations
 - Describing general systematics as an AD4M 'perspective'
 - Integrating Regen's data module as an AD4M 'language'
@@ -168,7 +169,8 @@ Science can be classified both necessarily and sufficiently as three fundamental
 
 **Budget:** 
 - 500k locked REGEN tokens to initiate the csDAO structure.
-- $150,000 contribution from Protocol labs to DAO.
+- $80,000 Research sabbatical with Protocol labs
+
 
 ---
 # Teams as Viable Systems Architecture
