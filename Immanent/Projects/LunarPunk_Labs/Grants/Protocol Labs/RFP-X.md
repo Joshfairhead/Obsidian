@@ -16,42 +16,89 @@ Review Rubric:
 
 2. **Research problem statement**: To keep up with the [worlds rising complexity](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile) we'll need to improve deepen our human capacities for representation and interpretation by [augmenting our intellect](https://www.dougengelbart.org/pubs/augment-3906.html). 
 
-3. **Proposed solution**: An ecosystem level partnership between Protocol Labs and Regen Ledger to bootstrap Semantic Impact Markets. We propose systematically structured conversation graphs as a means of classifying parametric groupings as friston blankets to enable semantically composable eco-credits or hypercerts. These model metatdata is represented as functional geometric groupings, they are epistemologically transparent; a necessity when considering governance. Interface design becomes a key area of research. 
+3. **Proposed solution**: An ecosystem level partnership between Protocol Labs and Regen Ledger to bootstrap Semantic Impact Markets with 'adaptive capital'. We propose systematically structured conversation graphs as a means of classifying parametric groupings into Friston blankets to enable semantically composable eco-credits as 'hypercerts'. Framing model metatdata as functional  geometries to group such paramaters provides epistemological transparency; a necessity for both governance and scientific research. We propose further transdiciplinary research and applied practice into the nuances of implementing such a task.
 
-5. at interface design and using functional information geometry to systematically construct Friston blankets for active inferencing. These models are epistemologically transparent, so can be made accessible and democratised through the interface layer. They are also composable.
-    
-    By providing algorithmic insights into relevant materials for [venture management and discovery](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/LunarPunk_Labs/Economics.md) we can harness market demand as a whole to drive vertical adoption of the technology stack, while also simultaneously divesting capital upstream to regenerative projects through the propagation of knowledge graphs. We might call this design ‘adaptive capital’ for simplicity.
-
-. machine capacities for representation. We can do this through structured conversations subsequently feeding the capabilities of search and retrieval thereby increasing relevance.
 
 # Related work 
+## Problem Framing as Market Hypothesis
+Before innovating on such financial technology, let's articulate some working assumptions about the market in order to progressively approximate some enabling constraints. Let's start with the major market participants and then examine the forces which move them.
 
-## Problem framing
+#### Participants (Who)
+> - Alpha investors; risk-on. Seeks return on investment. Quantifiers.
+> - Beta investors; risk-off. Seeks wealth preservation. Qualifiers.
 
-The semantic web is a hard problem because it requires a confluence of factors to emerge across disciplines. The key question is what innovations are needed to bridge the gap between research and implementation?
+Our first assumption is that there are two broad sets of market participants that have different risk appetites. The first set of participants are alpha investors and the second set are beta investors. The former have a high risk appetite and the latter a low risk appetite; one set seeks to beat the market and the other desires to 'be' the market. 
+
+Animating these actors, let's characterise our alpha investors as hedge funds and our beta investors as pension funds. Here we notice that the former is incentivised by carrots in the form of returns, while the latter does it's best to avoid the stick of regulation and corporate responsibility. Note that costs / risks / benefits moves both sets of participants at a fundamental level. Blue funds or impact markets mediate this by opening up new markets for both appetites.
+
+#### Institutional Constraints (Why)
+The next assumption about markets is that there are $5T of stranded assets that are traded on Wall St. books. These assets take multiple forms but generally speaking they are below ground commodities like coal, oil and gas, which can't be extracted due to planetary boundary conditions. As these commodities have no intrinsic value their existence essentially depends on an irrational market; when it sobers up these assets will need to be 'struck from the books'.  
+
+Both investor profiles are consequentially searching for new stores of value; a phenomena observable through their embrace of qualitative indicators such as ESGs. As always, there is a deal of controversy about the efficacy of these specific values and though imperfect in themselves ESG's have sufficient traction to suffice as a general set of heuristics that help make intervention points more evident.
+
+Regardless of the specific values, it's apparent that both of our investor profiles are caught in a dilemma of reconciling qualitative values with quantitive measures. Market participants have plenty of motivation to divest their capital but they lack profitable investment vehicles that can account for a given set of values in a quantifiable manner. 
+
+#### Economic Pathways (How)
+Provisioning divestment options consequentially requires the opening of new markets and a set of market makers that hold a completely different mentality from what we know and have seen before. Instead of externalising costs, as entrepreneurs have done in the past, the demands upon the new breed of market makers will be to supply products that instead internalise and account for values. This is essentially a $5T market opportunity for blue funds / impact capable of facilitating such a transformation; the question is what kind of products would such a marketplace either need or want? 
+
+Examining economics in terms of nouns and verbs helps us to distinguish **capital** from **currencies**. Currencies (current-sees) are measures of value flow across time, whereas capital arises from integrating these flows. In that regard we see two forms of measure; the qualitative and quantitive.
+
+From the quantitive perspective, input measurements with the potential for aggregation might include GIS data, bio-acoustics, nutrient density or Brix values ect. These measures are useful at the data level but aggregating them becomes difficult due to a lack of interoperable and composable standards, which is also an issue for the qualitative accounting of heuristics like ESGs. The representation, organisation and translation of such values is a scientific and technical challenge that is only just becoming solvable. 
+
+When it comes to these scientific and technological realms, Markov / Friston blankets help in this matter by providing a means to bound unwieldy complexity into something more manageable. These serve as a base medium from which higher order systems can be assembled. Essentially, this means that we can now compose data streams into information classes to further build more structured and systematic relationships.
+
+This probably satisfies our alpha investors who are seeking volatility and consequentially look towards more complex speculative instruments in the pursuit of their asymmetric returns. This is where the notion of 'adaptive capital' starts to become an interesting pathway. 
+
+#### Adaptive capital (What)
+Paradigms like natural capital accounting and payments for ecosystem services have tended towards controversy because much of life's intrinsic value is implicit in it's experientially healthy functionality. This complex behaviour is extremely hard to package into a product so we might more easily bootstrap new markets from legacy paradigms on new infrastructure. From carbon, to co-benefits... to adaptive living capital. 
+
+As far as instrument design goes, the representation of noun like products such as carbon is relatively easy. Moving beyond such basic designs we can augment these classic commodities with co-benefits, and beyond that again towards the real-time representation of ecological state. Such a future requires dynamic schemas.
+
+For example, if the ESG heuristics (or SDGs ect) are considered to be our markets aspirational values, we still need to measure, account for and evaluate progress towards them. Such functionality is a necessary substrate to enable the representation of complex and adaptive capital. For such vehicles to arise would require the composition of at least several interoperable standards.
+
+- Ground: Sensing Data (Monitoring, Reporting, Verification)
+- Ideal: Evaluation criterea (e.g Environmental, Social, Governance)
+- Instrumental: Blockchain accounting (Resource, Event, Agent) 
+- Directive: Community culture (Agents, Languages, Perspectives)
+
+To represent these standards in a composible way themselves, we can look back to markov blankets as a form of binding agent that allows for nesting at various levels of scale. The above represents a core feature set. Significantly, these blankets can give rise to a number of conceptual primitives around impact markets; namely conversation graphs that can represent certifications or evaluation criterea, while they are also relevant as an API layer for loading arbitrary input schemas (from sensors or other interfaces).
+
+- Purpose: Ledger Based Accounting
+- Values: Impact evaluators
+- Significance: Systematised Markov Blankets for Active Inferencing
+- Facts: Impact certificates
+- Resource: Sensing / sensors
+
+This kind of architecture is general enough to be instantiated for any given application; be it simple commodities or a chain of complex systems. In this manner we can consider markov blankets to be a form of interface that enables arbitrary input data to be composed, accounted for, certified and evaluated. 
+
+Looking back to our investor needs, we note that such a system can adapt to requirements across scales without disruption; from local monitoring, reporting and verification data to global market values like ESGs. Because there is an aggregation of live data feeds getting evaluated against an ideal state, there is also an investible delta for market participants to profit from. 
+
+Accounting for a set of articulated values and then evaluating these against the free energy principal also makes the vehicle an unenclosable carrier; that which doesn't trend towards harmony fails as an investment vehicle, while that which does succeeds. Regenerative activity subsequently fits to financial return and speculative market activity consequentially funnels capital upstream to proletariats working on regenerative projects in the long term, while also allowing investors seeking to divest to earn delta in the short term to drive the process.
+
+Beyond market conditions the semantic web is a hard problem because it requires a confluence of factors to emerge across disciplines. The key question is what innovations are needed to bridge the gap between research and implementation?
 
 ## State of art(s)
 
 Over the years there has been a plethora of research on the semantic web and related topics but from the perspective of this author centres around is Doug Englebarts “[Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138/)” and his many other innovations at Xerox Parc. Thankfully these ideas are once again gaining the attention they dearly deserve; even with a fresh and funky twist!
 
 #### **Interface Design**
-Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of representation and interaction design. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast, yet the field still has plenty of scope for development.
+Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of interaction design and representation. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast, yet the field still has plenty of scope for development that hinge upon nascent potentials. 
 
 %% Laurence says not justified%%
 #### **Data Security and Network Integrity**
-When considering a vision of a free and open internet that serves humanity, the most fundamental first principle to consider is the software security model. This model dictates a set of design affordances through the principle of inheritance. With the growing shift in preferences from centralized to decentralized computing, we have inadvertently started to re-adopt a [“capabilities”](https://www.youtube.com/watch?v=qZ2LltOmD5A&t) oriented security model at the network level. This architecture can be seen manifesting in the form of cryptographic tokens that are stored on distributed ledgers and controlled through wallet addresses - but it’s potential is mostly nascent and unrealised. 
+When considering a vision of a free and open internet that serves humanity, the most fundamental first principle to consider is the software security model. This model dictates a set of design affordances through the principle of inheritance. With the growing shift in preferences from centralized to decentralized computing, we have inadvertently started to re-adopt a [“capabilities”](https://www.youtube.com/watch?v=qZ2LltOmD5A&t) oriented security model at the network level. This architecture can be seen manifesting in the form of cryptographic tokens that are stored on distributed ledgers and controlled through wallet addresses - but it’s potential is mostly [nascent and unrealised](https://www.giordano.institute/the-machine-economy). 
 
-#### **Algorithmic intelligence**
-Between interfaces and distributed data storage lie algorithmic programmes; a primitive form of associative intelligence particularly useful for search and retrieval. There has been plenty of [discussion and dissent](https://nooscope.ai/) regarding “artificial intelligence” and “cybernetics” over the years but regardless of their interdisciplinary politics, both fields have grown considerably and are ripe for a meaningful confluence as the semantic web.  
+#### **Algorithmic 'intelligence'**
+Between interfaces and distributed data storage lie algorithmic programmes; a primitive form of associative intelligence particularly useful for search and retrieval. There has been plenty of [discussion and dissent](https://nooscope.ai/) regarding “artificial intelligence” and “cybernetics” over the years but regardless of interdisciplinary politics, both fields have grown considerably and are ripe for a meaningful confluence as the semantic web.  
 
-In regards to classification, a fruitful area of research is John Bennetts [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems). This is an integrative science for qualitative parametric groupings that has been in continuous development since 1955 and lives as an epistemic practice amongst a number of communities worldwide. Relevant collaborators of Bennetts were David Bohm, Buckminster Fuller and Stafford Beer. His tool for classification can be conceived of as a frame for constructing functional ontological groupings in a very elegant manner that seems appropriate for implementation on distributed ledger technology like [AD4M](https://ad4m.dev/). 
+In regards to classification models a fruitful area of research is John Bennetts [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems). This is an integrative science for qualitative parametric groupings that has been in continuous development since 1955 and lives as an epistemic practice amongst a number of communities worldwide. Relevant collaborators of Bennetts were David Bohm, Buckminster Fuller and Stafford Beer. His tool for the 'classification of wholes' can be conceived of as a frame for constructing functional ontological groupings in a very elegant manner that seems appropriate for implementation on distributed ledger technology like [AD4M](https://ad4m.dev/).  
 
-In regards to predictive capacities, the nascent field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under through this lens is a means of understanding sentience from the perspective of minimizing free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md) through statistical clustering.
+In regards to predictive capacities, the field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under through this lens is a means of understanding sentience from the perspective of minimizing free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md) through statistical clustering.
 
 
 # Relation to PL’s research activities
 
-This research proposal is centred around the semantic web has a clear technical link to the open problem statement of “relaxing the traditional ‘web’ assumptions of a single origin to engage with the possibilities of pre-distributed CDN or content-addressed data.” It especially ties in well with recent work on [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/) published from the [Network Goods](https://research.protocol.ai/groups/network-goods/) research group. The Hypercerts [community](https://hypercerts.xyz/) also seems particularly fertile in regards to discussions around model development and “Digital Twins”.
+This research proposal centred around realisation of the semantic web has a clear technical link to the open problem statement of “relaxing the traditional ‘web’ assumptions of a single origin to engage with the possibilities of pre-distributed CDN or content-addressed data.” It especially ties in well with recent work on [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/) published from the [Network Goods](https://research.protocol.ai/groups/network-goods/) research group. The Hypercerts [community](https://hypercerts.xyz/) also seems particularly fertile in regards to discussions around model development and “Digital Twins”.
 
 # Impact
 > You can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both. - Bill McKibben
