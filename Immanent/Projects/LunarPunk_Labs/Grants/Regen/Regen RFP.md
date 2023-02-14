@@ -150,7 +150,7 @@ This particular methodology is currently being demonstrated as both the H3uni co
 **Deliverables:**
 1. Submitting a Research proposal to Protocol Labs in parallel to this RFP
 2. Presentation on state of affairs shared with community partners and date set for sense making
-3. Public sense making session in 'consortium' format
+3. Public sense making session in '[consortium](https://odyssey.org/past-editions/odyssey-2020/self-sovereign-identity-in-action/)' format
 4. Working with Implementation partners to align on functional specifications
 5. Public presentation of engineering documentation to Regen Community and Network Goods team
 6. Submission is made to the network via an on chain vote with two weeks deliberation time

@@ -44,18 +44,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "985b1ffb683515ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Economics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -191,12 +179,12 @@
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
     "Immanent/Projects/LunarPunk_Labs/Economics.md",
+    "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
+    "Immanent/DailyNotes/2023-02-08.md",
     "Immanent/DailyNotes/2023/2023-02-13.md",
     "Immanent/Projects/R3solution/R3solution.md",
     "Immanent/Projects/R3solution/R3solution Hacking.md",
     "Omnicient/Computer Sci/DID Resolution.md",
-    "Immanent/WorkBench/().md",
-    "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
-    "Omnicient/Artefacts (entropy)/Odyssey Momentum.md"
+    "Immanent/WorkBench/().md"
   ]
 }

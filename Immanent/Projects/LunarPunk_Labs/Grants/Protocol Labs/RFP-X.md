@@ -85,18 +85,18 @@ Over the years there has been a plethora of research on the semantic web and rel
 Assuming the affordances of Englebarts architectures, his associate Ted Nelson conceived of [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) in the 60’s, becoming a pioneer in the fields of interaction design and representation. His body of foundational research around ‘the memeplex’ now seems to be sprouting into a fresh implementation cycle as evident in ‘second brain’ style products like Obsidian. This is fantastic progress in a space that’s once again beginning to move fast, 
 
 #### **Data Security and Network Integrity**
-When considering a vision of a free and open internet that serves humanity, the most fundamental first principle to consider is the software security model. This model dictates a set of design affordances through the principle of inheritance. With the growing shift in preferences from centralized to decentralized computing, we have inadvertently started to re-adopt a [“capabilities”](https://www.youtube.com/watch?v=qZ2LltOmD5A&t) oriented security model at the network level. This architecture can be seen manifesting in the form of cryptographic tokens that are stored on [distributed ledgers](https://www.regen.network/) and controlled through wallet addresses. The progress has been rapid from our shallow time frame but the field still has plenty of [scope for development](https://subconscious.network/) resting upon [dormant potentials](http://ceptr.org/). 
+When considering a vision of a free and open internet that serves humanity, the most fundamental first principle to consider is the software security model. This model dictates a set of design affordances through the principle of inheritance. With the growing shift in preferences from centralized to decentralized computing, we have inadvertently started to re-adopt a [“capabilities”](https://www.youtube.com/watch?v=qZ2LltOmD5A&t) oriented security model at the network level. This architecture can be seen manifesting in the form of cryptographic tokens that are stored on [distributed ledgers](https://www.regen.network/) and controlled through [wallet](https://www.pillar.fi/) addresses. The progress has been rapid from our shallow time frame but the field still has plenty of [scope for development](https://subconscious.network/) resting upon [dormant potentials](http://ceptr.org/). 
 
 #### **Algorithmic 'intelligence'**
-Between interfaces and distributed data storage lie algorithmic programmes; a primitive form of associative intelligence particularly useful for search and retrieval. There has been plenty of [discussion and dissent](https://nooscope.ai/) regarding “artificial intelligence” and “cybernetics” over the years but regardless of interdisciplinary politics, both fields have grown considerably and are pretty ripe for a meaningful confluence manifest as semantic web infrastructure meets the algorithmic economy.  
+Between interfaces and distributed data storage lie algorithmic programmes; a primitive form of associative intelligence particularly useful for search and retrieval. There has been plenty of [discussion and dissent](https://nooscope.ai/) regarding “artificial intelligence” vs “cybernetics” over the years but regardless of interdisciplinary politics, both fields have grown considerably and are pretty ripe for a meaningful confluence manifest as semantic web infrastructure meets the algorithmic economy.  
 
-In regards to classification a fruitful area of research is John Bennetts [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems). This is an integrative science for qualitative parametric groupings that has been in continuous development since 1955 and lives as an epistemic practice amongst a number of communities worldwide. Relevant collaborators of Bennetts were David Bohm, Buckminster Fuller and Stafford Beer. His tool for the 'classification of wholes' can be conceived of as a frame for constructing functional ontological groupings in a very elegant manner that seems appropriate for implementation on distributed ledger technology like [AD4M](https://ad4m.dev/).  
+In regards to classification and [representational models](https://healinggeneration.com/) a fruitful area of research is John Bennetts [General Systematics](https://en.wikipedia.org/wiki/Systematics_%E2%80%93_study_of_multi-term_systems). This is an integrative science for qualitative parametric groupings that has been in continuous development since 1955 and lives as an epistemic practice amongst a number of communities worldwide. Relevant collaborators of Bennetts were David Bohm, Buckminster Fuller and Stafford Beer. His tool for the 'classification of wholes' can be conceived of as a frame for constructing functional ontological groupings in a very elegant manner that seems appropriate for implementation on distributed ledger technology like [AD4M](https://ad4m.dev/).  
 
-In regards to predictive capacities, the field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under through this lens is a means of understanding sentience from the perspective of minimizing free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s [resolution](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/R3solution/R3solution.md) through statistical clustering.
+In regards to predictive capacities, the field of [active inferencing](https://mitpress.mit.edu/9780262045353/active-inference/) pioneered by the famed neuroscientist [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) looks exceptionally promising. AI under through this lens is a means of understanding sentience from the perspective of minimizing free energy or surprise and utilises a form of abductive or Bayseian reasoning. From the perspective of computer science, this can be thought of as a means of algorithmically extending a model’s resolution through statistical clustering.
 
 # Relation to PL’s research activities
 
-This applied research proposal is based around realisation of the semantic web for practical language evolution, which has a clear technical link to the open problem statement of “relaxing the traditional ‘web’ assumptions of a single origin to engage with the possibilities of pre-distributed CDN or content-addressed data.” It especially ties in well with recent work on [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/) published by the [Network Goods](https://research.protocol.ai/groups/network-goods/) research team. The Hypercerts [community](https://hypercerts.xyz/) also seems particularly fertile in regards to discussions around model development and “Digital Twins”.
+This applied research proposal is based around realisation of the semantic web for practical language evolution, which has a clear technical link to the open problem statement of “relaxing the traditional ‘web’ assumptions of a single origin to engage with the possibilities of pre-distributed CDN or content-addressed data.” It especially ties in well with recent work on [Generalised Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/) published by the [Network Goods](https://research.protocol.ai/groups/network-goods/) research team. The Hypercerts [community](https://hypercerts.xyz/) also seems particularly fertile in regards to discussions around model development and 'Digital Twins'. 
 
 # Impact
 > You can have a healthy fossil-fuel balance sheet, or a relatively healthy planet - but now that we know the numbers it looks like you cant have both. - Bill McKibben
@@ -111,26 +111,19 @@ In regards to advancing the field it seems unlikely that a synthesis between Gen
 
 # Research strategy
 
-Science can be categorised both necessarily and sufficiently as three fundamental forms of reasoning; rational proof (deductive logic/Baconian method), empiric verification (inductive wisdom/Goethian method) and abductive insights that synthesise the known priors of means towards an end or outcome like Hume's Guillotine (Bayesian Inference). We seek to employ all three methods in our research. Below is a the application of a proposed methodology from H3uni with [strong explanatory power](https://en.wikipedia.org/wiki/Karl_Popper) and [living community of practice](https://en.wikipedia.org/wiki/Thomas_Kuhn).
+Science can be categorised both necessarily and sufficiently as three fundamental forms of reasoning; rational proof (deductive logic/Baconian method), empiric verification (inductive wisdom/Goethian method) and abductive insights that synthesise the known priors of means towards an end or outcome (Bayesian Inference). We seek to employ all three methods in our research. Below is a the application of a proposed methodology from H3uni with [strong explanatory power](https://en.wikipedia.org/wiki/Karl_Popper) and [living community of practice](https://en.wikipedia.org/wiki/Thomas_Kuhn).
 
-1. **Research Process:** Facilitating discussions with [methodologies derived from general systematics](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987) as applied research into the drivers of practical language evolution. Proof of concept testing as a "weave" on [weco.io](https://weco.io/p/3528).
-2. **Research Methods:** Specific instantiations of systematics like this outline applied as an [active inference ontology](https://zenodo.org/record/6320575#.Y-hMMBPP2Es), data sets to include the Regen Network and Registry. 
-4. **Research Context:** Comparative study of the relevant domains:
+1. **Research Process:** Facilitating discussions with [methodologies derived from general systematics](https://www.eventbrite.co.uk/e/the-art-of-creative-collaboration-tickets-450456656987) as applied research into the drivers of practical language evolution. Proof of concept testing as a "weave" on [weco.io](https://weco.io/p/3528) before moving to visual facilitation once the interface is complete.
+2. **Research Methods:** Specific instantiations of systematics (like this outline) applied as an [active inference ontology](https://zenodo.org/record/6320575#.Y-hMMBPP2Es). Data sets from the Regen Network and Regen Registry. 
+3. **Research Context:** Comparative study of the relevant domains:
 	1.  Exhaustive review of General Systematics and Active Inference literature
 	2.  Deepening research into the domains of Interaction design and representation
-4. **Research Task:** Increasing the semantic efficiency of LLMs by examining the total harmonic distortion of overlapping ontological perspectives assessed through the statistical measurement of linguistic clusters. 
-
-In parallel it will be necessary to drive the implementation by championing the proposal and generating stakeholder buy in:
-1.  Regen community calls
-2.  Hypercerts community calls
-3.  Network Goods community calls
-4.  LunarPunk Labs community activation
-5.  Active Inference Institute / Complexity Weekend calls
+4. **Research Task:** Increasing the efficiency of predictors by comparing the total harmonic distortion of overlapping semantic perspectives assessed through the statistical measurement of linguistic clusters. This can take the form of testing General Systematics as one shot learning models.
 
 ---
 
 # Milestones
-### M0: Meta
+### Milestone zero: Meta
 **Start Date:** NOW!
 **Deliverables:** 
 1. Specs
@@ -146,7 +139,7 @@ In parallel it will be necessary to drive the implementation by championing the 
 **Deliverables:**
 1. Submitting a Research proposal to Regen in parallel to this RFP-X while reading
 2. Research on state of affairs and shared with community partners and date set for sense making
-3. Presentation on the state of affairs and Public sense making session in 'consortium' format
+3. Presentation on the state of affairs and Public sense making session in '[consortium](odyssey.org/)' format
 4. Working with implementation partners to align on functional specifications
 5. Public presentation of engineering documentation to Regen Community and Network Goods team
 6. Signalling proposal is made to the network via an on chain mechanisms
@@ -213,17 +206,18 @@ In parallel it will be necessary to drive the implementation by championing the 
 
 ---
 # Teams as Viable Systems Architecture
-- **Purpose** :: Pilot Implementation :: [Regenerating Sonora](https://regeneratingsonora.org/) 
-- **Intelligence** :: Logistics & Coordination ::  [LunarPunk_Labs](Lunarpunklabs.org) 
+- **Purpose** :: Pilot Implementations :: [Regenerating Sonora](https://regeneratingsonora.org/) 
+- **Intelligence** :: Logistics ::  [LunarPunk_Labs](Lunarpunklabs.org) 
 - **Operations** :: Development :: [WeCo](WeCo.io)
 - **Coordination Task** :: Design :: VIZN_Labs
 - **Resourcing** :: Research :: [Sovereign Nature Initiative](https://sovereignnature.com/) 
 
-# Traction
+# Prior Traction
 - GR15 Marketing
 - Refi DAO founders circles
 - Future Quest grant top 100 grantee
 - GItcoin Verification Infrastructure bundle
+- Odyssey 2020 SSI track winners
 
 # References
 - [Emperors new Markov blanket](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/emperors-new-markov-blankets/715C589A73DDF861DCF8997271DE0B8C)
@@ -268,3 +262,10 @@ In parallel it will be necessary to drive the implementation by championing the 
 
 
 or "[Open Collective](https://opencollective.com/lunarpunk_labs)" will emerge through interaction with our peers at [informal systems](https://informal.systems/) 
+
+In parallel it will be necessary to drive the implementation by championing the proposal and generating stakeholder buy in:
+1.  Regen community calls
+2.  Hypercerts community calls
+3.  Network Goods community calls
+4.  LunarPunk Labs community activation
+5.  Active Inference Institute / Complexity Weekend calls
