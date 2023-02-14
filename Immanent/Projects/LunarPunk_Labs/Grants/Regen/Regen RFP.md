@@ -148,71 +148,64 @@ This particular methodology is currently being demonstrated as both the H3uni co
 2. Serve: H3uni.org as an educational consortium of methodology developers 
 3. Support: Protocol Labs and Regen Network in the development of semantic bluefunds through applied research on evolving practical language models through second order methodologies, interfaces and semantic protocols.
 
-### Milestone one: Functional Specifications
-**Start Date:** 2023-04-06
-**Deliverables:**
-1. Submitting a Research proposal to Protocol Labs in parallel to this RFP
-2. Presentation on state of affairs shared with community partners and date set for sense making
-3. Public sense making session in '[consortium](https://odyssey.org/past-editions/odyssey-2020/self-sovereign-identity-in-action/)' format
-4. Working with Implementation partners to align on functional specifications
-5. Public presentation of engineering documentation to Regen Community and Network Goods team
-6. Submission is made to the network via an on chain vote with two weeks deliberation time
-7. Proposal passes or fails based on validator determinations
+## Milestone one: specifications, reading and research  
+**Start Date**: 2023-04-06  
+**Deliverables**:  
+1. Submitting a Research proposal to Regen in parallel to this RFP-X while reading  
+2. Research on state of affairs and shared with community partners and date set for sense making  
+3. Presentation on the state of affairs and Public sense making session in 'consortium' format  
+4. Working with implementation partners to align on functional specifications  
+5. Public presentation of engineering documentation to Regen Community and Network Goods  
+team  
+6. Signalling proposal is made to the network via an on chain mechanisms  
+7. Proposal passes or fails based on validator determinations  
+**Budget**:  
+- $60k Research Doctoral Fellowship with Protocol Labs  
+-  Token grant from Regen Foundation to community partners  
 
-**Budget:** 
-- $35k Research budget from Protocol Labs to LunarPunk_Labs
-- Token grant from Regen Foundation to community partners
+## Milestone two: DAO design  
+**Start Date**: 2024-04-06  
+**Deliverables**:  
+1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group  
+context  
+2. Practice the design and document the results with digital technology  
+3. Presentation of suggested DAO pilot programme provided to community partners  
+4. Working with place based community facilitators to align on practices and methodologies  
+5. Onboarding documentation compiled and shared online  
+6. Community completes discussion on DAO design as engineering on a pilot project begins  
+7. Updates submitted to Commonwealth, Protocol Labs and Regen community  
 
-### Milestone Two: Tokenomics DAO Design
-**Start Date:** 2023-07-17
-**Deliverables:**
-1. Convene discussions around DAO design and Tokenomic Mechanism and share in a group context
-2. Practice the design and document the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
-3. Presentation of DAO pilot programme provided to community partners 
-4. Working with place based community facilitators to align on practices and methodologies
-5. Onboarding documentation compiled and shared online
-6. Community completes discussion DAO design as engineering on a pilot project begins
-7. Updates submitted to Commonwealth, Protocol Labs and Regen community
+**Budget**:  
+- $100,000 Postdoctoral fellowship with Protocol Labs  
+- $25k Cash grant from RND inc. to H3University  
+- Token delegation from Regen Foundation to community partners  
 
-**Budget:** 
-- $25k Cash grant from RND inc. to LunarPunk_Labs
-- Token delegation from Regen Foundation to community partners
-
-### Milestone Three: Pilot Project(s)
-1. Articulate the precise eco-credit methodology and share in a group context
-2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
-3. Presentation of pretotype results provided to pilot partners 
-4. Working with place based community facilitators to align with and codify their practice
-5. Documentation published on their precise method
-6. Submission of methodology submitted for peer review
+### Milestone three: Pilot Project(s)  
+**Start Date**: 2025-04-06  
+**Deliverables**:  
+1. Articulate the precise eco-credit methodology and share in a 'consortium' context  
+2. Connect with the Regen Registry team while applying the methodology technique, documenting  
+the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)  
+3. Presentation of pretotype results provided to pilot partners  
+4. Working with place based community facilitators to align with and codify their practice  
+5. Documentation published on their precise method  
+6. Submission of methodology submitted for peer review  
 7. Expert review via the Regen Registry team or third party verifier
 
-**Budget:** 
-- 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
+**Budget**:  
+- $100,000 Postdoctoral fellowship with Protocol Labs
+- 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners  
 
-### Milestone Four: Tokenomics csDAO
-**Budget:** 
-- 500k locked REGEN tokens to initiate the csDAO structure.
-- Contributions from Protocol Labs to sustain traction
+### Milestone four: Tokenomics csDAO  
+**Start date**: 2026-04-06  
+1. Interface design for functionally encoding community conversations  
+2. Describing general systematics as an AD4M 'perspective'  
+3. Integrating Regen's data module as an AD4M 'language'  
+4. Integrating Regen's eco-credit module as an AD4M 'perspective'  
 
-#### Milestone Five: Engineering
-- Interface design for functionally encoding community conversations
-- Describing general systematics as an AD4M perspective
-- Integrating Regen's data module as an AD4M language
-- Integrating Regen's eco-credit module as an AD4M perspective
-
-**Budget**: TBD
-
-#### Milestone Six: Perfected Designs
-- Anchoring partner data on chain with the Regen data module
-- Minting eco-credits for pilot project partners
-
-**Budget**: TBD
-
-#### Milestone Seven: Quality Control
-- Issuing general systematics as a semantic credit class upon Registry Governance sign off.
-
-**Budget**: TBD
+**Budget**:  
+- 500k locked REGEN tokens to initiate the csDAO structure.  
+- $80,000 Research sabbatical with Protocol lab
 
 ---
 # References List
