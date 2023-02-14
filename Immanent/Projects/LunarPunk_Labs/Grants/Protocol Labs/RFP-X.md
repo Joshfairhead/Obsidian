@@ -157,6 +157,7 @@ Science can be classified both necessarily and sufficiently as three fundamental
 
 **Budget:** 
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
+- $150
 
 ### Milestone Four: Tokenomics csDAO
 **Start date**:
@@ -167,7 +168,7 @@ Science can be classified both necessarily and sufficiently as three fundamental
 
 **Budget:** 
 - 500k locked REGEN tokens to initiate the csDAO structure.
-
+- $150,000 contribution from Protocol labs to DAO.
 
 ---
 # Teams as Viable Systems Architecture
