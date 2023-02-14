@@ -114,17 +114,6 @@ Science can be classified both necessarily and sufficiently as three fundamental
 ---
 
 # Milestones
-### Milestone zero: Meta
-**Start Date:** NOW!
-**Deliverables:** 
-1. Specs
-2. Design
-3. Pilot project
-4. Tokenomics DAO
-5. Perfected designs
-6. Planned product
-7. Quality control
-
 ### Milestone one: Specifications and reading
 **Start Date:** 2023-04-06
 **Deliverables:**
@@ -137,7 +126,7 @@ Science can be classified both necessarily and sufficiently as three fundamental
 7. Proposal passes or fails based on validator determinations
 
 **Budget:** 
-- $35k Research budget from Protocol Labs to LunarPunk_Labs
+- $80k Sabbatical Research budget from Protocol Labs to LunarPunk_Labs
 - Token grant from Regen Foundation to community partners
 
 ### Milestone Two: DAO Design
@@ -156,6 +145,7 @@ Science can be classified both necessarily and sufficiently as three fundamental
 - Token delegation from Regen Foundation to community partners
 
 ### Milestone Three: Pilot Project(s)
+**Start Date**
 **Deliverables:**
 1. Articulate the precise eco-credit methodology and share in a 'consortium' context
 2. Connect with the Regen Registry team while applying the methodology technique, documenting the results with [digital technology](https://weco.io/s/lunarpunklabs/posts)
@@ -166,34 +156,18 @@ Science can be classified both necessarily and sufficiently as three fundamental
 7. Expert review via the Regen Registry team or third party verifier
 
 **Budget:** 
-- Protocol Labs contributions to community partners
 - 200k REGEN tokens with 1 year lockup from RND inc. to implementation partners
 
 ### Milestone Four: Tokenomics csDAO
-**Budget:** 
-- 500k locked REGEN tokens to initiate the csDAO structure.
-- Contributions from Protocol Labs to sustain traction
-
-#### Milestone Five: Engineering
+**Start date**:
 - Interface design for functionally encoding community conversations
 - Describing general systematics as an AD4M 'perspective'
 - Integrating Regen's data module as an AD4M 'language'
 - Integrating Regen's eco-credit module as an AD4M 'perspective'
 
-**Budget**: TBD
+**Budget:** 
+- 500k locked REGEN tokens to initiate the csDAO structure.
 
-#### Milestone Six: Perfected Designs
-- Anchoring partner data on chain with the Regen data module
-- Minting eco-credits for pilot project partners
-
-**Budget**: TBD
-
-#### Milestone Seven: Quality Control
-- Issuing general systematics as a semantic credit class upon Registry Governance sign off.
-
-**Business Model**
-- Template instantiation of credit classes for generic methods
-- Bespoke consulting for specific project demands
 
 ---
 # Teams as Viable Systems Architecture
