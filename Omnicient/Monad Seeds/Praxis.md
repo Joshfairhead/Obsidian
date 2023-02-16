@@ -12,3 +12,14 @@ https://wenger-trayner.com/ - From [[H3uni]]
 #### Tools
 [[Immanent/Projects/Domains/Projects/Personal Kanban/Kanban Cards/Obsidian]]
 [[Roam]]
+
+## H3 uni chat notes:
+Discipline
+	Preparation 
+	Structure
+	Skill 
+	Attuned/presence 
+	Emergence/allowing
+	Whole body experience 
+	Right brain: holistic, process oriented, in the moment
+	Shared mastery of foundations confers freedom for each person to be creative
