@@ -98,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aebf27ddcde43e9",
+  "active": "6a25edb9f44c356d",
   "lastOpenFiles": [
     "Immanent/DailyNotes/2023-02-08.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Protocol Labs/RFP-X.md",
