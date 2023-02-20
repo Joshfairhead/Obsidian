@@ -18,3 +18,6 @@ The proceedings moved into a candle lit moment of silence, broken softly by John
 
 Catharsis. At last. 
 
+Original link:
+Backup link:
+
