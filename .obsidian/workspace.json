@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/ReFi Spring Report; Return of the Regenerati.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/The Refi Observer.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/ReFi Spring Report; Return of the Regenerati.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/The Refi Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/ReFi Spring Report; Return of the Regenerati.md",
+                "file": "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/The Refi Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,6 +176,7 @@
   },
   "active": "091410b4a469676c",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/ReFi Spring Report; Return of the Regenerati.md",
     "Immanent/Projects/LunarPunk_Labs/Writing/Blog Posts and Letters/The Refi Observer.md",
     "Immanent/Projects/LunarPunk_Labs/Writing/Love through Annealing.md",
     "Immanent/DailyNotes/2023-03-04.md",
@@ -184,7 +185,6 @@
     "Immanent/WorkBench/stranded assets.md",
     "Immanent/WorkBench/Bill McKibben.md",
     "assets/H3uni/ACCM1.md",
-    "Omnicient/Monad Seeds/Praxis.md",
-    "Immanent/DailyNotes/2023-02-16.md"
+    "Omnicient/Monad Seeds/Praxis.md"
   ]
 }

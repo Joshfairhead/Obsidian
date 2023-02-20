@@ -18,6 +18,6 @@ The proceedings moved into a candle lit moment of silence, broken softly by John
 
 Catharsis. At last. 
 
-Original link:
-Backup link:
+- [Original link]()
+- [Backup link](https://github.com/Joshfairhead/Obsidian/blob/main/Immanent/Projects/LunarPunk_Labs/Writing/Blog%20Posts%20and%20Letters/The%20Refi%20Observer.md)
 
