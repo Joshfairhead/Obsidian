@@ -4,9 +4,9 @@ As my neurology changes it seems as though castles melt into the sea. There's a 
 
 I recognise the pain my unavailability must cause but in it realise the potential of regeneration, and how quickly the clock is ticking for us all. My financial situation is pretty terrible, theres hope, but I've not much fuel in the tank... fuck it, jump, optimise for the most imperative. Make light and radiate. Choose love not fear. Jump into the abyss. Protect. 
 
-What to do? how to prioritise? there's only so much gas in the tank but love is imperative. Movements will need to be superfluid and highly optimised. Insights are pouring in. Drawing a circle in the center of my page I circle the term "love through annealing" and with it I scribble a cluster funk of a jazz ensamble onto the page that glows mono neon. How can I honour these humans? The clocks ticking, move. Make a plan. 
+What to do? how to prioritise? there's only so much gas in the tank but love is imperative. Movements will need to be superfluid and highly optimised. Insights are pouring in. Drawing a circle in the center of my page I circle the term "love through annealing" and with it I scribble a cluster funk of a jazz ensamble onto the page that glows mono neon. How can I honour these humans? The clocks ticking, move dynamically. Make a plan and diverge. 
 
-An enneagram emerges on the next page. Spiral colours and personality types around its edges. Yes there is synchronicity here.. I bring the material home to my partner and share the insights. Despite fears over the existential pressures we face, she is receptive of the sentiment and open hearted to the sensitive plan. Shes whelmed and steps outside. 
+An enneagram emerges on the page over. Spiral colours and personality types around its edges. Yes there is synchronicity here.. I bring the material home to my partner and share the insights. Despite fears over the existential pressures we face, she is receptive of the sentiment and open hearted to the sensitive plan. Shes whelmed and steps outside. 
 
 We have dinner and go for a walk beside the river while giving body to the torrential download. Arriving at Belem she softly leads me map my madness on the carved marble cartography. Who, when and where exactly? 
 

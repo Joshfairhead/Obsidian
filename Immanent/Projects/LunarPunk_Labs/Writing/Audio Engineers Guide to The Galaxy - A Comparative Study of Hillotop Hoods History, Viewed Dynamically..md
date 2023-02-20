@@ -1,4 +1,4 @@
-Moved from a long period of reintegrating my felt sense of here, there, now, then, inner and outer worlds; I've been walking, reflecting and annealing. Throughout that process I've been listening to Hilltops Hoods; a set of friends traveling together over the many years. The struggles of their journey seems implicit in lyrical form; an outward expressions of their inner state. 
+Moved from a long period of reintegrating my felt sense of here, there, now, then, inner and outer worlds; I've been walking, reflecting and annealing. Throughout that process I've been listening to Hilltops Hoods; a set of friends traveling together over the many years. The struggles of their journey seems implicit in lyrical form; an outward expressions of their inner state.
 
 Examining the dynamics of their production process through the iris' of general systematics and spiral dynamics seems to bring us to a quite mysterious insight regarding the dynamics of time and space; perhaps even the inner workings of the cosmos or historical 'state of affairs'.
 
