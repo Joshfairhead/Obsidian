@@ -1,8 +1,3 @@
----
-Tags: []
----
-Related: 
-# ReFi Spring Report - Return of the Regenerati
 
 Thursday: a shocking manifestation! Last minuite tickets to ReFi Spring kindly delivered by my good friend Ale at the Sovrign Nature Initiative who had to drop out last minuite. This turned out to be quite the adventure. 
 
