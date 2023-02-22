@@ -1,0 +1,6 @@
+- Digital republics and network states
+- Unenclosable longtail finance to release unrealised potentials
+- Earth stack
+- Optimising the environment (TDF) by optimising neural annealing
+- Futurarchy / Psychohistory
+- Sense of purpose / Rights of nature

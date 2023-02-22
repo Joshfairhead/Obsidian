@@ -40,25 +40,6 @@ The eventual reconciliation at the end of 'the great expanse' however feels far 
 ### Read Bennet on History Immanently. Just in time technology.... GO!
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-From a meta perspective 
-
-
-
-
 # Being: Lyrical Content
 - Inner:
 - Outer:
