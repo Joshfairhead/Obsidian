@@ -11,8 +11,12 @@
             "id": "edf4c07d820853cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Omnicient/Monad Seeds/Carbon.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Omnicient/Monad Seeds/Carbon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Omnicient/Monad Seeds/Carbon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
