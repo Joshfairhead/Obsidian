@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/WorkBench/The Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/WorkBench/The Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
+                "file": "Immanent/WorkBench/The Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,6 +151,7 @@
   },
   "active": "1789736f203a8fda",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Immanent/WorkBench/The Empire.md",
     "Immanent/WorkBench/AI augmentation test.md",
     "Immanent/DailyNotes/2023-03-04.md",
@@ -159,7 +160,6 @@
     "Immanent/Personal/Curation/Books.md",
     "Omnicient/Monad Seeds/Carbon.md",
     "Immanent/Personal/Curation/Material Upgrades.md",
-    "Immanent/DailyNotes/2023-02-08.md",
-    "Immanent/DailyNotes/2023-02-16.md"
+    "Immanent/DailyNotes/2023-02-08.md"
   ]
 }
