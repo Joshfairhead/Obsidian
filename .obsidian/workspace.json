@@ -144,20 +144,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "1789736f203a8fda",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2023-03-04.md",
+    "Immanent/WorkBench/AI augmentation test.md",
     "Immanent/WorkBench/The Empire.md",
+    "Immanent/DailyNotes/2023-03-04.md",
     "Immanent/WorkBench/Steps.md",
     "Immanent/Personal/Curation/Blogroll.md",
     "Immanent/Personal/Curation/Books.md",
     "Omnicient/Monad Seeds/Carbon.md",
     "Immanent/Personal/Curation/Material Upgrades.md",
     "Immanent/DailyNotes/2023-02-08.md",
-    "Immanent/DailyNotes/2023-02-16.md",
-    "Immanent/DailyNotes/2023-02-15.md"
+    "Immanent/DailyNotes/2023-02-16.md"
   ]
 }
