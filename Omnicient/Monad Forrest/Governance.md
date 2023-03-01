@@ -36,51 +36,51 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 	    - [Theory X and Theory Y](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
 	- [[Tools]]
 	    - [Horizon Three University](H3uni.org)
-		 - [Visual facillitation](https://www.h3uni.org/project/learn2-visual-facilitation)
+		- [Visual facillitation](https://www.h3uni.org/project/learn2-visual-facilitation)
 		- [Transdisciplinary World Model](http://www.decisionintegrity.co.uk/DIL%20Transdisciplinary%20World%20Model%20-%20Hodgson.pdf)
-                - [[Requisite Variety]]
-        - [Making the Future Visible](http://static1.squarespace.com/static/570ce46bd51cd428a1ef3190/t/570fe9ac8a65e26c89b61d63/1460660656884/Making+the+Future+Visible.pdf) - super relevant framework for moving forward
-        - [Sociocracy 3.0](https://patterns.sociocracy30.org/) 
-        - [Case Clinic](https://www.presencing.org/files/tools/PI_Tool_CaseClinic.pdf) - Theory U
-        - [Emerging Leader Labs - Game shifting](http://emergingleaderlabs.org/Gameshifting_Overview/)
-    - Handbooks
-        - [Opencraft Handbook](https://handbook.opencraft.com/en/latest/organization/)
-        - [Enspiral Handbook](http://handbook.enspiral.com/) [[Enspiral]]
-        - [Gini Handbook](https://drive.google.com/file/d/0B44XthBdMmN6bGlfdk8zejdSZUU/view)
-        - [Vibes Theory of Organisational Design](https://medium.com/enspiral-tales/the-vibes-theory-of-organisational-design-937a73f791cd)
-            - **Typical format for making up roles and rules**
-                - something harmful or frustrating happens
-                - people in the group talk about it
-                - they grow a shared understanding of the problem
-                - people suggest different possible responses
-                - we evaluate the possibilities, collectively running a complex simulation (__if we agree to this, what might happen next?__)
-                - then finally, we decide on a response
-            - **Problem > Deliberation > Agreement**
-                - Attention drift 
-                - Constitutional accretion 
-                    - Enspiral Agreements 
-                        - Structural (6)
-                            - (Board, Brand, Decisions, Financial, People, Ventures).
-                        - Boundary (3)
-                            - (Diversity, Harassment & Abuse, Personal Conduct)
-                        - Nice idea but (2)
-                            - (Catalyst and Stewardship)
-                        - if you can’t trust __one__ of the agreements, you can’t really trust __any__ of them
-                - Delusional mythology
-            - **Can we do better than written agreements?**
-                - **Continuous participatory change**
-                    - [Community mastery board](https://drive.google.com/file/d/0BxX8hMn15JGNQUVHa2pkeWhvRWM/view)
-                    - [Change up meeting](https://omnicommons.org/wiki/Change_Up_Meeting)
-                    - [Guide board](http://mattischneider.fr/agile/guide-board.pdf)
-                - Teams of teams
-                    - The invitation was “welcome to the community, jump in and contribute, find opportunities, get supported to do meaningful work” and I think it is maturing into “welcome to the community: find a dinner table you like, or start a new one”. The difference is subtle but represents a profound shift in expectations: the network does not provide support, you can only expect support once you’ve found your team.
+		- [[Requisite Variety]]
+		- [Making the Future Visible](http://static1.squarespace.com/static/570ce46bd51cd428a1ef3190/t/570fe9ac8a65e26c89b61d63/1460660656884/Making+the+Future+Visible.pdf) - super relevant framework for moving forward
+		- [Sociocracy 3.0](https://patterns.sociocracy30.org/) 
+		- [Case Clinic](https://www.presencing.org/files/tools/PI_Tool_CaseClinic.pdf) - Theory U
+		- [Emerging Leader Labs - Game shifting](http://emergingleaderlabs.org/Gameshifting_Overview/)
+	- Handbooks
+		- [Opencraft Handbook](https://handbook.opencraft.com/en/latest/organization/)
+		- [Enspiral Handbook](http://handbook.enspiral.com/) [[Enspiral]]
+		- [Gini Handbook](https://drive.google.com/file/d/0B44XthBdMmN6bGlfdk8zejdSZUU/view)
+	- [Vibes Theory of Organisational Design](https://medium.com/enspiral-tales/the-vibes-theory-of-organisational-design-937a73f791cd)
+		- **Typical format for making up roles and rules**
+			- something harmful or frustrating happens
+			- people in the group talk about it
+			- they grow a shared understanding of the problem
+			- people suggest different possible responses
+			- we evaluate the possibilities, collectively running a complex simulation (__if we agree to this, what might happen next?__)
+			- then finally, we decide on a response
+		- **Problem > Deliberation > Agreement**
+			- Attention drift 
+			- Constitutional accretion 
+				- Enspiral Agreements 
+					- Structural (6)
+						- (Board, Brand, Decisions, Financial, People, Ventures).
+					- Boundary (3)
+						- (Diversity, Harassment & Abuse, Personal Conduct)
+					- Nice idea but (2)
+						- (Catalyst and Stewardship)
+					- if you can’t trust __one__ of the agreements, you can’t really trust __any__ of them
+			- Delusional mythology
+		- **Can we do better than written agreements?**
+			- **Continuous participatory change**
+				- [Community mastery board](https://drive.google.com/file/d/0BxX8hMn15JGNQUVHa2pkeWhvRWM/view)
+				- [Change up meeting](https://omnicommons.org/wiki/Change_Up_Meeting)
+				- [Guide board](http://mattischneider.fr/agile/guide-board.pdf)
+			- Teams of teams
+				- The invitation was “welcome to the community, jump in and contribute, find opportunities, get supported to do meaningful work” and I think it is maturing into “welcome to the community: find a dinner table you like, or start a new one”. The difference is subtle but represents a profound shift in expectations: the network does not provide support, you can only expect support once you’ve found your team.
         - [Change handbook methods](https://www.amazon.com/Change-Handbook-Methods-Shaping-Future-ebook/dp/B07NSPCYQ8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1611426128&sr=8-1) - interventions
 - ### Other references
 	- [Liberating structures](https://www.liberatingstructures.com/)
-    - [[Democracy]]
-    - [Deliberative Democracy](https://cdd.stanford.edu/)
-        - https://en.wikipedia.org/wiki/Deliberative_opinion_poll
-    - [Future Governonce](http://futuregovernance.info/) (deliberative democracy)
+	- [[Democracy]]
+	- [Deliberative Democracy](https://cdd.stanford.edu/)
+	    - https://en.wikipedia.org/wiki/Deliberative_opinion_poll
+	- [Future Governonce](http://futuregovernance.info/) (deliberative democracy)
 	    - [Future governance notion](https://www.notion.so/futuregovernance/Future-Governance-Documentation-44044a5dfd234860b61d9164aa9dd252)
     - [[Power]]
 - ### Unread suggestions
