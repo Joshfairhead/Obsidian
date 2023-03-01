@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "4d5ab5c189e3f4eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e7b508e8461bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Omnicient/Monad Forrest/Governance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/WorkBench/The Empire.md",
+                "file": "Omnicient/Monad Forrest/Governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/WorkBench/The Empire.md",
+                "file": "Omnicient/Monad Forrest/Governance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,17 +167,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1789736f203a8fda",
+  "active": "86e7b508e8461bb6",
   "lastOpenFiles": [
+    "Omnicient/Monad Forrest/Tribalism; The Quintessence of Human Beings.md",
+    "Immanent/WorkBench/The Empire.md",
     "Omnicient/Computer Sci/User Interface.md",
     "Omnicient/Computer Sci/Tools.md",
     "Immanent/WorkBench/Untitled.md",
-    "Immanent/WorkBench/The Empire.md",
     "Immanent/Projects/LunarPunk_Labs/Grants/Regen/Regen RFP.md",
     "Immanent/WorkBench/AI augmentation test.md",
     "Immanent/DailyNotes/2023-03-04.md",
     "Immanent/WorkBench/Steps.md",
-    "Immanent/Personal/Curation/Blogroll.md",
-    "Immanent/Personal/Curation/Books.md"
+    "Immanent/Personal/Curation/Blogroll.md"
   ]
 }

@@ -5,38 +5,39 @@ Related: [[Governing the Commons]] [[Social Archetecture]] [[Patterns]]
 
 # Governance
 - ### Read and curated:
+	- [[Tribalism; The Quintessence of Human Beings]]
 	- [Rules for rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - Game theory behind dictators to democracies
 	- [Vitalik on legitimacy](https://vitalik.ca/general/2021/03/23/legitimacy.html)
-    - [[Social Archetecture]] - Really good
-    - [Beyond the rules](https://provocations.darkmatterlabs.org/organising-beyondtherules-at-dark-matter-labs-e59e4f5dd32f?source=collection_home---2------4-----------------------) - Organising at Dark Matter labs
-    - [Manual of We](https://provocations.darkmatterlabs.org/dmls-manual-of-us-d41b1c235869) - Dark Matter labs attempt at collectivly articulating the organisation psyche~ see end questions. 
-    - [How we hold eachother to account in a self organising company](https://medium.com/the-caring-network-company/how-we-hold-each-other-accountable-a2700446113c)
-    - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - domains of decision making
-    - [[Exit to Community]]
-    - [[Micro Solidarity Framework]]
-        - Aristotles 3 types of friendships
-            - transactional 
-            - hedonistic
-            - spiritual
-                - Often society flows transactional> hedonistic> spiritual
-                - Implicitly we've done it in reverse: spiritual> hedonistic> transactional
-    - [Commons Transition](https://primer.commonstransition.org)
-    - [Participatory Orgs Project](https://github.com/ParticipatoryOrgs)
-    - [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE)
-    - [Open Value Networks](https://docs.google.com/document/d/1iwQz5SSw2Bsi_T41018E3TkPD-guRCAhAeP9xMdS2fI/pub) - Sensorica
-    - [Digital Library Of The Commons Repository](http://dlc.dlib.indiana.edu/dlc/)
-    - [DisCO Manifesto](https://www.tni.org/files/profiles-downloads/disco_manifesto_v.1.pdf)
-        - [DisCo Governance Model](https://wiki.guerrillamediacollective.org/index.php/Distributed_Cooperative_Organization_(DisCO)_Governance_Model_V_3.0#Overview)
-    - [Stages of self organisation](https://docs.google.com/document/d/1jwqgxiqddUIBzbcXY-CYNNwGNsEwgvyMEwQbu_uvdl0/edit)
-    - [[Capra Course]] community shares
-    - [[Governing the Commons]]
-    - [[Spiral Dynamics]]
-    - Management
-        - [Theory X and Theory Y](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
-    - [[Tools]]
-        - [Horizon Three University](H3uni.org)
-            - [Visual facillitation](https://www.h3uni.org/project/learn2-visual-facilitation)
-            - [Transdisciplinary World Model](http://www.decisionintegrity.co.uk/DIL%20Transdisciplinary%20World%20Model%20-%20Hodgson.pdf)
+	-  [[Social Archetecture]] - Really good
+	- [Beyond the rules](https://provocations.darkmatterlabs.org/organising-beyondtherules-at-dark-matter-labs-e59e4f5dd32f?source=collection_home---2------4-----------------------) - Organising at Dark Matter labs
+	- [Manual of We](https://provocations.darkmatterlabs.org/dmls-manual-of-us-d41b1c235869) - Dark Matter labs attempt at collectivly articulating the organisation psyche~ see end questions. 
+	- [How we hold eachother to account in a self organising company](https://medium.com/the-caring-network-company/how-we-hold-each-other-accountable-a2700446113c)
+	- [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - domains of decision making
+	- [[Exit to Community]]
+	- [[Micro Solidarity Framework]]
+	    - Aristotles 3 types of friendships
+		- transactional 
+		- hedonistic
+		- spiritual
+			- Often society flows transactional> hedonistic> spiritual
+			- Implicitly we've done it in reverse: spiritual> hedonistic> transactional
+	- [Commons Transition](https://primer.commonstransition.org)
+	- [Participatory Orgs Project](https://github.com/ParticipatoryOrgs)
+	- [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE)
+	-  [Open Value Networks](https://docs.google.com/document/d/1iwQz5SSw2Bsi_T41018E3TkPD-guRCAhAeP9xMdS2fI/pub) - Sensorica
+	- [Digital Library Of The Commons Repository](http://dlc.dlib.indiana.edu/dlc/)
+	- [DisCO Manifesto](https://www.tni.org/files/profiles-downloads/disco_manifesto_v.1.pdf)
+	- [DisCo Governance Model](https://wiki.guerrillamediacollective.org/index.php/Distributed_Cooperative_Organization_(DisCO)_Governance_Model_V_3.0#Overview)
+	- [Stages of self organisation](https://docs.google.com/document/d/1jwqgxiqddUIBzbcXY-CYNNwGNsEwgvyMEwQbu_uvdl0/edit)
+	- [[Capra Course]] community shares
+	- [[Governing the Commons]]
+	- [[Spiral Dynamics]]
+	- Management
+	    - [Theory X and Theory Y](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
+	- [[Tools]]
+	    - [Horizon Three University](H3uni.org)
+		 - [Visual facillitation](https://www.h3uni.org/project/learn2-visual-facilitation)
+		- [Transdisciplinary World Model](http://www.decisionintegrity.co.uk/DIL%20Transdisciplinary%20World%20Model%20-%20Hodgson.pdf)
                 - [[Requisite Variety]]
         - [Making the Future Visible](http://static1.squarespace.com/static/570ce46bd51cd428a1ef3190/t/570fe9ac8a65e26c89b61d63/1460660656884/Making+the+Future+Visible.pdf) - super relevant framework for moving forward
         - [Sociocracy 3.0](https://patterns.sociocracy30.org/) 
