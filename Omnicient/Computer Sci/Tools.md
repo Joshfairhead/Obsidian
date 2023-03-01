@@ -30,3 +30,9 @@ Related: [[Ethereum]]
 
 ### Open Science
 - https://manubot.org/
+
+### Marketing
+- [Viral Loops](https://viral-loops.com/?utm_source=ncWAjLWQAjlhhS1IfT8Hssk8WsM&utm_medium=vl-widget-popup&utm_campaign=vl-widgets)
+
+### AI / ML
+- https://www.magickml.com/
