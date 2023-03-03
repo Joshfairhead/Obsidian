@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnicient/Monad Seeds/Ontology.md",
+                "file": "Immanent/DailyNotes/Index/LunarPunk Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Monad Seeds/Ontology.md",
+                "file": "Immanent/DailyNotes/Index/LunarPunk Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Monad Seeds/Ontology.md",
+                "file": "Immanent/DailyNotes/Index/LunarPunk Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,15 +151,15 @@
   },
   "active": "1789736f203a8fda",
   "lastOpenFiles": [
+    "Immanent/Projects/LunarPunk_Labs/LunarPunkLabs Index.md",
+    "Immanent/DailyNotes/Index/LunarPunk Index.md",
     "Immanent/DailyNotes/2023-03-03.md",
-    "Omnicient/Computer Sci/Tools.md",
-    "Immanent/DailyNotes/2023-03-04.md",
-    "Immanent/DailyNotes/Backlog.md",
     "Immanent/WorkBench/The Empire.md",
-    "Immanent/WorkBench/coinbaso case.md",
-    "Omnicient/Monad Forrest/Governance.md",
-    "Omnicient/Monad Forrest/Tribalism; The Quintessence of Human Beings.md",
-    "Omnicient/Computer Sci/User Interface.md",
-    "Immanent/WorkBench/Untitled.md"
+    "Omnicient/Artefacts (entropy)/Hermitage User Stories.md",
+    "Immanent/DailyNotes/2023-03-28.md",
+    "Immanent/DailyNotes/2023-03-09.md",
+    "Omnicient/Monad Seeds/Ontology.md",
+    "Omnicient/Artefacts (entropy)/NGI - Identity Graph notes.md",
+    "Omnicient/Computer Sci/Tools.md"
   ]
 }
