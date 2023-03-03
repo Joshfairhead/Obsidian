@@ -5,6 +5,7 @@ Related: [[Ethereum]]
 # Tools 
 
 #### Code Documentation
+- [Starmap: a tool for milestones ](https://starmap.site/)
 - [JS to svg flowchart](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html)
 - Diagrams of most varieties: https://kroki.io/
 
