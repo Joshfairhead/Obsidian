@@ -10,6 +10,7 @@ TASK
 FROM "Immanent/DailyNotes"
 SORT file.name ASC
 WHERE !completed AND contains(tags, "Call")
+GROUP BY file.link
 ```
 
 ## Upcoming Events
@@ -18,6 +19,7 @@ TASK
 FROM "Immanent/DailyNotes"
 SORT file.name ASC
 WHERE !completed AND contains(tags, "Event") AND !contains(tags, "Call")
+GROUP BY file.link
 ```
 
 ## Task Backlog
