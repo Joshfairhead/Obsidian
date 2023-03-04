@@ -4,67 +4,68 @@
 	- Consensus
 		- Proof of Work
 		- Proof of Stake
-		- Delegated Proof of Stake 
+		- Delegated Proof of Stake
 		- Proof of Authority
 		- Proof of Access
 		- Proof of Distance
+		- ZkProofs
+		- ZkSnarks
 	- Interoperability
 		- IBC
 		- Bridges 
 		- Sidechains
 		- Roll ups
-	- ZkProofs
-	- ZkSnarks
 2) Tokens
 	- Fungible
-		- Stable coins
 		- Staking tokens
+			- Liquid staking
 		- Commodities / eco-credits
+			- Stable coins
 		- Governance tokens
 			- Voting rights
 			- Securities / equity / bonds
-				- Synthetic derrivitives / baskets
+				- Synthetic derivatives / baskets
 	- Non-fungible
 		- Rights / access
 			- Intellectual property / DRM 
 			- Objects / Physical internet  
 	- Wrappers
-3) Identity / Digital Twins 
-	- Wallets / Smart wallets
-		- Signatures
-			- Transactions
-				- Meta transactions
-	- Claims
-		- Status
-	- Attestations
-		- Reptuation
-4) Governance
-	- DAOs
+3) Agent Wallets 
+	- Identity / Digital Twins / Smart wallets
+		-  Claims
+			- Status
+		- Attestations
+			- Reputation
+	- Signatures / Transactions
+		- Meta transactions
 		- Multisigs
-		- Voting
-			- Quadratic voting
-			- Quadratic funding
-			- Liquid democracy
-			- Futurarchy
-		- Treasury
-			- Bonding curves
-				- AMMs
-					- Liquidity pools
-					- External Gauges
+4) DAOs
+	- Treasury
+	- Bonding curves
+		- Quadratic funding
+		- AMMs
+			- Liquidity pools
+				- External Gauges
 				- [Miner Extractable Value](https://blog.chain.link/what-is-miner-extractable-value-mev/#:~:text=One%20such%20example%20is%20Miner,excluding%20transactions%20within%20a%20block)
 			- Exchanges
 			- Atomic Swaps
 		- Taxes
-			- Harberger takes
+			- Harberger taxes
 			- Tributes / burns
-		- Arbitration 
-			- Third party dispute resolution
-5) Applications
+5) Governance
 	- Curation
 		- Token Curated Registries
 		- Token Gated Communities
 		- Prediction markets 
 		- Meme markets
+	- Voting
+		- Quadratic voting
+		- Liquid democracy
+		- Futurarchy
+	- Arbitration 
+		- Third party dispute resolution
+
+
 
 ---
 ### Unspecified
@@ -78,15 +79,11 @@ Defi primitives
 
 # What is a blockchain? 
 
-## Clocks
+## Distributed Clocks
 
-The most fundamental explanation of a blockchain its a globally synchronised clock.
+The most fundamental explanation of a blockchain is that it's a globally distributed clock that enables the recording of events. The tricky thing about globally distributed clocks is that time is supposed to be relative. Clocks drift from each other depending on their distance and speed of travel so typically standards bodies like UNSO and NIST emit a signal that others syncronise to.
 
-The tricky thing about globally synchronising clocks is that Einstein proved that time is relative. Clocks drift from eachother depending on their distance and speed of travel; so who decides which clock is objectivly correct? Typically centralised standards bodies like UNSO and NIST.
-
-The blockchain provides an alternative to these institutions by inventing it's own standard known as `block time (aka block height);` which is ultimately determined by a distributed network of computers through whats known as a `consensus mechanism.`
-
-As everyones clocks are slightly different; how do you syncronise them? Naturally, you need a universal event to reference. On the blockchain, this event is the creation of a new block.
+Blockchains provide an alternative to centralised temporalities by inventing it's own standard known as `block time (aka block height).` Block time is governed through whats known as a `consensus mechanism`; an algorythmic  govern the creation of new blocks and other network paramaters.
 
 ## Block creation
 
