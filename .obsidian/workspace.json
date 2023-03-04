@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "a148bcab3f213d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c8d0b602caeee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immanent/WorkBench/H3 Correspondence Threads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
+                "file": "Immanent/WorkBench/H3 Correspondence Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
+                "file": "Immanent/WorkBench/H3 Correspondence Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,8 +167,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6a25edb9f44c356d",
+  "active": "32c8d0b602caeee8",
   "lastOpenFiles": [
+    "Omnicient/Computer Sci/Crypto Economic Primitives.md",
     "Immanent/WorkBench/Crypto Primitives.md",
     "Immanent/DailyNotes/2023-03-03.md",
     "Omnicient/Computer Sci/Blockchain.md",
@@ -159,7 +178,6 @@
     "Immanent/Projects/LunarPunk_Labs/Content/Wallet Setup.md",
     "Immanent/Projects/LunarPunk_Labs/Content/Wallet Transactions.md",
     "Immanent/Projects/LunarPunk_Labs/Content/Cosmos Wallet Onboarding.md",
-    "Immanent/Projects/LunarPunk_Labs/Content/Staking Wallet Setup.md",
-    "Immanent/Projects/Archive/Regen Foundation/Archive/Treasury Wallets.md"
+    "Immanent/Projects/LunarPunk_Labs/Content/Staking Wallet Setup.md"
   ]
 }
