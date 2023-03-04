@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-03-03.md",
+                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-03-03.md",
+                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-03-03.md",
+                "file": "Omnicient/Computer Sci/Crypto Economic Primitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,17 +149,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1789736f203a8fda",
+  "active": "6a25edb9f44c356d",
   "lastOpenFiles": [
-    "Immanent/WorkBench/The Empire.md",
+    "Immanent/WorkBench/Crypto Primitives.md",
     "Immanent/DailyNotes/2023-03-03.md",
+    "Omnicient/Computer Sci/Blockchain.md",
+    "Immanent/DailyNotes/Index/LunarPunk Index.md",
+    "Immanent/WorkBench/The Empire.md",
     "Immanent/Projects/LunarPunk_Labs/Content/Wallet Setup.md",
     "Immanent/Projects/LunarPunk_Labs/Content/Wallet Transactions.md",
     "Immanent/Projects/LunarPunk_Labs/Content/Cosmos Wallet Onboarding.md",
     "Immanent/Projects/LunarPunk_Labs/Content/Staking Wallet Setup.md",
-    "Immanent/Projects/Archive/Regen Foundation/Archive/Treasury Wallets.md",
-    "Immanent/Projects/LunarPunk_Labs/Content/Commonwealth Voting.md",
-    "Immanent/Projects/LunarPunk_Labs/Content/Commonwealth Sign up.md",
-    "Immanent/Projects/LunarPunk_Labs/Content/Commonwealth Proposals.md"
+    "Immanent/Projects/Archive/Regen Foundation/Archive/Treasury Wallets.md"
   ]
 }

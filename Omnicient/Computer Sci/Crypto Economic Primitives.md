@@ -9,6 +9,7 @@
 		- Proof of Access
 		- Proof of Distance
 	- Interoperability
+		- IBC
 		- Bridges 
 		- Sidechains
 		- Roll ups
@@ -98,6 +99,7 @@ When this `hash` matches a prescribed answer (aka `nonce`) the successful miner 
 By chaining blocks together in a sequence like this you get a universal measure known as `block time`. This is the most fundemental aspect of a blockchain.
 
 
+---
 
 
 
