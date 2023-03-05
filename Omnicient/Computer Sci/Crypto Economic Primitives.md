@@ -83,17 +83,17 @@ Defi primitives
 
 The most fundamental explanation of a blockchain is that it's a globally distributed clock that enables the recording of events. The tricky thing about globally distributed clocks is that time is supposed to be relative. Clocks drift from each other depending on their distance and speed of travel so typically standards bodies like UNSO and NIST emit a signal that others syncronise to.
 
-Blockchains provide an alternative to centralised temporalities by inventing it's own standard known as `block time (aka block height).` Block time is governed through whats known as a `consensus mechanism`; an algorythmic  govern the creation of new blocks and other network paramaters.
+Blockchains provide an alternative to centralised temporalities by inventing it's own standard known as `block time (aka block height).` Block time is governed through whats known as a `consensus mechanism`; an algorithmic ruleset for determining the most probable singular state of affairs on the ledger within a range of tolerence.
 
 ## Block creation
 
-A block is a container of transactions or information collected from what's known as the `meme pool`). Computers on the network (aka `miners`/`validators`) collect these transactions or pieces of information in whatever order they see fit - often determined by transaction fees - in order to fill up a block.
+A block is a container of `transactions` collected from what's known as the `meme pool`. Computers on the network (aka `miners`/`validators`) collect these transactions in whatever way they see fit (often determined by transaction fees) in order to fill up a block. When a block is `mined` the computer that mines it receives an incentive known as a block reward.
 
 In a `proof-of-work` system, the content of a given block is run through a `hashing algorithm` which combines it with a random variable to produce a random output (`hash`).
 
-When this `hash` matches a prescribed answer (aka `nonce`) the successful miner gets to add their block to the global chain and recieves a reward (`block reward`). If the `hash` doesn't match the `nonce` they try again and again as fast as possible until it does - or until someone else gets there first - at which point the race begins again for the next block.
+When this `hash` matches a prescribed answer (aka `nonce`) the successful miner gets to add their block to the global chain and receives a reward (`block reward`). If the `hash` doesn't match the `nonce` they try again and again as fast as possible until it does - or until someone else gets there first - at which point the race begins once more for the next block. 
 
-By chaining blocks together in a sequence like this you get a universal measure known as `block time`. This is the most fundemental aspect of a blockchain.
+By chaining blocks together in a sequence like this you get a universal measure known as `block time`. This is the most fundemental aspect of a blockchain. 
 
 
 ---
