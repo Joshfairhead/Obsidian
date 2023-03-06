@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/DailyNotes/2023-04-27.md",
+                "file": "Immanent/Projects/Personal Website/Music Curation.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/DailyNotes/2023-04-27.md",
+                "file": "Immanent/Projects/Personal Website/Music Curation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/DailyNotes/2023-04-27.md",
+                "file": "Immanent/Projects/Personal Website/Music Curation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,6 +151,7 @@
   },
   "active": "1789736f203a8fda",
   "lastOpenFiles": [
+    "Immanent/DailyNotes/2023-04-27.md",
     "Immanent/DailyNotes/2023-03-23.md",
     "Immanent/DailyNotes/2023-03-17.md",
     "Immanent/DailyNotes/2023-03-16.md",
@@ -159,7 +160,6 @@
     "assets/H3uni/H3 Correspondence Threads.md",
     "Immanent/WorkBench/Crypto Primitives.md",
     "Immanent/DailyNotes/2023-03-03.md",
-    "Omnicient/Computer Sci/Blockchain.md",
-    "Immanent/DailyNotes/Index/LunarPunk Index.md"
+    "Omnicient/Computer Sci/Blockchain.md"
   ]
 }

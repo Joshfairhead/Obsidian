@@ -5,7 +5,7 @@ Related: [[Personal]]
 # Music Curation
 
 ## Introduction
-This is a curated list of music that to degrees is reflective of my aesthetic and then inludes a few words as to why I like and enjoy the artist. On the surface it's varied but hopefully on a deeper level you will a deeper pattern integrity. Welcome to my soul :p
+This is a curated list of music that to degrees is reflective of my aesthetic and then inludes a few words as to why I like and enjoy the artist. On the surface it's varied but hopefully on a deeper level you will feel a sense of deeper pattern integrity. Welcome to my soul :p
 
 
 ## Bands
