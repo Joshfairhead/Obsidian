@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immanent/Projects/Personal Website/Music Curation.md",
+                "file": "Omnicient/Monad Seeds/Carbon.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "carbon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immanent/Projects/Personal Website/Music Curation.md",
+                "file": "Omnicient/Monad Seeds/Carbon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immanent/Projects/Personal Website/Music Curation.md",
+                "file": "Omnicient/Monad Seeds/Carbon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,15 +152,15 @@
   },
   "active": "1789736f203a8fda",
   "lastOpenFiles": [
-    "Immanent/DailyNotes/2023-04-27.md",
-    "Immanent/DailyNotes/2023-03-23.md",
-    "Immanent/DailyNotes/2023-03-17.md",
-    "Immanent/DailyNotes/2023-03-16.md",
-    "Immanent/DailyNotes/2023-03-09.md",
-    "Omnicient/Computer Sci/Crypto Economic Primitives.md",
-    "assets/H3uni/H3 Correspondence Threads.md",
-    "Immanent/WorkBench/Crypto Primitives.md",
+    "Immanent/DailyNotes/_Archive/2019/2019-12-09.md",
+    "Immanent/DailyNotes/_Archive/2019/2019-12-10.md",
+    "Omnicient/Monad Seeds/Carbon.md",
+    "Immanent/DailyNotes/2023-03-06.md",
+    "Immanent/DailyNotes/2023-05-28.md",
+    "Immanent/DailyNotes/2023-03-07.md",
+    "Immanent/DailyNotes/2023-03-04.md",
     "Immanent/DailyNotes/2023-03-03.md",
-    "Omnicient/Computer Sci/Blockchain.md"
+    "Immanent/Projects/Personal Website/Music Curation.md",
+    "Immanent/DailyNotes/2023-03-17.md"
   ]
 }
